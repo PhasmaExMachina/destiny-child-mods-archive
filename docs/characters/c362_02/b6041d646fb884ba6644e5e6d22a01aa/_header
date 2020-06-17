@@ -1,0 +1,15 @@
+{
+    "c362_02_attack.mtn": "ea0f002a0892ff48",
+    "c362_02_event_c362_1.mtn": "30120030377e39ed",
+    "c362_02_hit.mtn": "c70e002722f79268",
+    "c362_02_idle.mtn": "280f0028b06e4f5a",
+    "character.dat": "050e0025843fc88e",
+    "model.json": "660e002698f65f80",
+    "confused.exp.json": "890f0029829227f9",
+    "fury.exp.json": "050e00257536b501",
+    "idle.exp.json": "050e00258b53361a",
+    "sad.exp.json": "a40d00249449ba03",
+    "smile.exp.json": "660e0026be762d4f",
+    "texture_00.png": "660e0026f003faf2",
+    "texture_01.png": "660e002691d7ae29"
+}
