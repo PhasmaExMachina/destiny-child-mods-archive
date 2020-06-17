@@ -1,0 +1,18 @@
+{
+    "c003_11_attack.mtn": "ea0f002af4ccbe17",
+    "c003_11_hit.mtn": "c70e0027ce3afb54",
+    "c003_11_idle.mtn": "280f002814b172c1",
+    "c003_11_idle_ls.mtn": "4b10002bd3ce8d10",
+    "character.dat": "050e0025042dbaa2",
+    "model.json": "660e0026188b264a",
+    "cry.exp.json": "a40d0024c85d4dd8",
+    "fury.exp.json": "050e0025f523a715",
+    "idle.exp.json": "050e00250b41282e",
+    "joy.exp.json": "a40d0024e2f4b6fb",
+    "sigh.exp.json": "050e00258686f3a4",
+    "smile.exp.json": "660e00263e0bf418",
+    "sulky.exp.json": "660e0026fab6676c",
+    "texture_00.png": "660e00267098c0bc",
+    "texture_01.png": "660e0026116c75f3",
+    "victory.exp.json": "280f0028dea8f47b"
+}

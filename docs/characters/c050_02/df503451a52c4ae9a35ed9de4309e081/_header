@@ -1,0 +1,13 @@
+{
+    "c050_02_attack.mtn": "ea0f002a441a1083",
+    "c050_02_event.mtn": "890f002933518828",
+    "c050_02_hit.mtn": "c70e0027e6c4529d",
+    "c050_02_idle.mtn": "280f00289ccecde2",
+    "c050_02_idle_blood.mtn": "6e11002e5b33fc0c",
+    "character.dat": "050e0025e8307a59",
+    "model.json": "660e002618b0c1f0",
+    "confused.exp.json": "890f0029d67f6df3",
+    "idle.exp.json": "050e002517edce60",
+    "texture_00.png": "660e002670bd5b63",
+    "texture_01.png": "660e00261191109a"
+}
