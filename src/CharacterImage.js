@@ -7,7 +7,7 @@ function CharacterImage({character: {variants, code}, variant}) {
   }, false)
 
   return (variant && variants[variant] && (
-    <img src={BASE_URL + 'characters/' + code + '_' + variant + '/' + variants[variant].mods[0] + '/preview-cropped-thumb.png'} style={{maxWidth: '300px', maxHeight: '300px'}} />
+    <img src={BASE_URL + 'characters/' + code + '_' + variant + '/' + variants[variant].mods[0] + '/preview-cropped-thumb.png'} style={{maxWidth: '300px', maxHeight: '300px', height: '300px'}} />
   )) || null
 }
 
