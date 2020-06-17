@@ -1,13 +1,33 @@
 const fs = require('fs'),
       path = require('path'),
-      characters = require('../src/data/characters.json')
+      md5File = require('md5-file').sync,
+      characters = require('../src/data/characters.json'),
+      modHashes = require('../data/mod-hashes.json')
 
 Object.keys(characters).forEach(code => {
   characters[code] = characters[code] || {}
   characters[code].code = characters[code].code || code
   characters[code].variants = characters[code].variants || {}
-  characters[code].variants[variant] = characters[code].variants[variant] || {}
-  characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
+  // characters[code].variants[variant] = characters[code].variants[variant] || {}
+  // characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
 })
 
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
+
+// update mod hashes seen
+const charactersPath = path.join(__dirname, '../docs/characters')
+fs.readdirSync(charactersPath).forEach(charDir => {
+  const charPath = path.join(charactersPath, charDir)
+  fs.readdirSync(charPath).forEach(modHash => {
+    modHashes.pck[modHash] = true
+    const modPath = path.join(charPath, modHash)
+    const textureHash = fs.readdirSync(modPath).reduce((acc, file) => {
+      if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
+      return acc
+    }, '')
+    console.log(textureHash)
+    modHashes.texture[textureHash] = true
+  })
+})
+
+fs.writeFileSync(path.join(__dirname, '../data/mod-hashes.json'), JSON.stringify(modHashes, null, 2))

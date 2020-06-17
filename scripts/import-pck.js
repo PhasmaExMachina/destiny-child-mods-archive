@@ -4,7 +4,8 @@ const fs = require('fs'),
       path = require('path'),
       {execSync} = require('child_process'),
       md5File = require('md5-file').sync,
-      characters = require('../src/data/characters.json')
+      characters = require('../src/data/characters.json'),
+      modHashes = require('../data/mod-hashes.json')
 
 const importPckPath = path.resolve(__dirname, '../import-pck'),
       toolsPath = path.resolve(__dirname, '../tools/Destiny Child PCK Manager v1_0_1')
@@ -23,8 +24,9 @@ fs.readdirSync(importPckPath).forEach(file => {
           outputPath = path.join(__dirname, `../docs/characters/${characterId}_${variant}/${fileHash}`),
           tmpFilePath = path.join(tmpPath, pckBase + '.pck'),
           live2dPath = tmpFilePath.replace(/\.pck$/, '')
-    if(!fs.existsSync(outputPath)) {
+    if(!fs.existsSync(outputPath) && !modHashes.pck[fileHash]) {
       console.log('-------processing', file, md5File(inputFilePath))
+      modHashes.pck[fileHash] = true // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist
       fs.renameSync(inputFilePath, tmpFilePath) // rename input file to plain pck base and move to temp
       let isGlobal = false
@@ -36,29 +38,40 @@ fs.readdirSync(importPckPath).forEach(file => {
         fs.rmdirSync(live2dPath, {recursive: true})
         run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u -m ${tmpFilePath}`, true) // create universal version
       }
-      fs.mkdirSync(outputPath, {recursive: true})
-      fs.readdirSync(live2dPath).forEach(fileToMove => {
-        fs.renameSync(path.join(live2dPath, fileToMove), path.join(outputPath, fileToMove))
-      })
-      console.log('Live2D extracted. Encryption was', isGlobal ? 'GLOBAL' : 'KR')
 
-      // clean up temp folder
-      fs.rmdirSync(live2dPath, {recursive: true})
+      // check for mod dupe
+      const textureHash = fs.readdirSync(live2dPath).reduce((acc, file) => {
+        if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
+        return acc
+      }, '')
+      if(!modHashes.texture[textureHash]) {
+        modHashes.pck[fileHash] = true
+        fs.mkdirSync(outputPath, {recursive: true})
+        fs.readdirSync(live2dPath).forEach(fileToMove => {
+          fs.renameSync(path.join(live2dPath, fileToMove), path.join(outputPath, fileToMove))
+        })
+        console.log('Live2D extracted. Encryption was', isGlobal ? 'GLOBAL' : 'KR')
 
-      // create universal pck
-      console.log('\nRepacking ', file, 'as universal...\n')
-      run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u ${tmpFilePath}`, isGlobal) // create universal version
-      run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -p ${live2dPath}/_header`) // create universal version
-      fs.renameSync(path.join(live2dPath, pckBase + '.pck'), path.join(outputPath, pckBase + '.pck'))
+        // clean up temp folder
+        fs.rmdirSync(live2dPath, {recursive: true})
 
-      characters[characterId] = characters[characterId] || {}
-      characters[characterId].variants = characters[characterId].variants || {}
-      characters[characterId].variants[variant] = characters[characterId].variants[variant] || {}
-      characters[characterId].variants[variant].mods = characters[characterId].variants[variant].mods || []
-      characters[characterId].variants[variant].mods.push(fileHash)
-      characters[characterId].numMods = characters[characterId].numMods || 0
-      characters[characterId].numMods++
-      fs.unlinkSync(tmpFilePath)
+        // create universal pck
+        console.log('\nRepacking ', file, 'as universal...\n')
+        run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u ${tmpFilePath}`, isGlobal) // create universal version
+        run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -p ${live2dPath}/_header`) // create universal version
+        fs.renameSync(path.join(live2dPath, pckBase + '.pck'), path.join(outputPath, pckBase + '.pck'))
+
+        characters[characterId] = characters[characterId] || {}
+        characters[characterId].variants = characters[characterId].variants || {}
+        characters[characterId].variants[variant] = characters[characterId].variants[variant] || {}
+        characters[characterId].variants[variant].mods = characters[characterId].variants[variant].mods || []
+        characters[characterId].variants[variant].mods.push(fileHash)
+        characters[characterId].numMods = characters[characterId].numMods || 0
+        characters[characterId].numMods++
+        fs.unlinkSync(tmpFilePath)
+      }
+
+
     }
     else fs.unlinkSync(inputFilePath)
   }
@@ -66,3 +79,4 @@ fs.readdirSync(importPckPath).forEach(file => {
 })
 
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
+fs.writeFileSync(path.join(__dirname, '../data/mod-hashes.json'), JSON.stringify(modHashes, null, 2))
