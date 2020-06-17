@@ -62,6 +62,7 @@ fs.readdirSync(importPckPath).forEach(file => {
         fs.renameSync(path.join(live2dPath, pckBase + '.pck'), path.join(outputPath, pckBase + '.pck'))
 
         characters[characterId] = characters[characterId] || {}
+        characters[characterId].code = characters[characterId].code || characterId
         characters[characterId].variants = characters[characterId].variants || {}
         characters[characterId].variants[variant] = characters[characterId].variants[variant] || {}
         characters[characterId].variants[variant].mods = characters[characterId].variants[variant].mods || []
