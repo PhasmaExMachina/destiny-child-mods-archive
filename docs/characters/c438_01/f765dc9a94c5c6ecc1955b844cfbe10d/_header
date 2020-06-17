@@ -1,0 +1,15 @@
+{
+    "affair.exp.json": "c70e0027e7a7dcfe",
+    "c438_01_attack.mtn": "ea0f002ad40786ac",
+    "c438_01_banner.mtn": "ea0f002a0275b5c6",
+    "c438_01_hit.mtn": "c70e0027e67f19b4",
+    "c438_01_idle.mtn": "280f00286485c624",
+    "character.dat": "050e0025d1f0c673",
+    "model.json": "660e0026830695a5",
+    "confused.exp.json": "890f002983bf6fc6",
+    "idle.exp.json": "050e0025caad96b7",
+    "joy.exp.json": "a40d00244142eb68",
+    "smile.exp.json": "660e002661fa202f",
+    "texture_00.png": "660e0026cb1e7113",
+    "texture_01.png": "660e00262a4abcdc"
+}

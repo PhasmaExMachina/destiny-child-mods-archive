@@ -1,0 +1,12 @@
+{
+    "c413_00_attack.mtn": "ea0f002a10846eca",
+    "c413_00_hit.mtn": "c70e0027ea1a9ee4",
+    "c413_00_idle.mtn": "280f002898ff0a2a",
+    "character.dat": "050e0025abc717ce",
+    "model.json": "660e002621632dfc",
+    "confused.exp.json": "890f0029558b8b7d",
+    "haah.exp.json": "050e0025109b7bbd",
+    "idle.exp.json": "050e0025408f291c",
+    "serious.exp.json": "280f00289b761565",
+    "texture_00.png": "660e00269985b3b6"
+}

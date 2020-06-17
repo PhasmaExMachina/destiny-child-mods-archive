@@ -1,0 +1,13 @@
+{
+    "c437_02_attack.mtn": "ea0f002ab08ddbcb",
+    "c437_02_banner.mtn": "ea0f002ac64b8f72",
+    "c437_02_hit.mtn": "c70e00277224106b",
+    "c437_02_idle.mtn": "280f002830a65f3e",
+    "character.dat": "050e002593944713",
+    "model.json": "660e0026b9675260",
+    "idle.exp.json": "050e0025483c1a5c",
+    "sad.exp.json": "a40d0024f124aeea",
+    "serious.exp.json": "280f00281ba4be6b",
+    "smile.exp.json": "660e00261713b855",
+    "texture_00.png": "660e0026e1bcb7f7"
+}
