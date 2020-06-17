@@ -16,14 +16,14 @@ function CharacterPreview({character}) {
       textDecoration: 'none'
     }} href={'/characters/' + code}>
       <div style={{marginBottom: '1em'}}>{code} - {name} ({Object.keys(variants).length} variants, {numMods} mods)</div>
-      <CharacterImage character={character} />
-      {/* {Object.keys(characters[code].variants).sort().map(vId => (
+      {/* <CharacterImage character={character} /> */}
+      {Object.keys(character.variants).sort().map(vId => (
         <div key={`${code}_${vId}`} style={{marginLeft: '1em', display: 'inline-block'}}>
-          {code}_{vId} {characters[code].variants[vId].title} {characters[code].name}
-          {characters[code].variants[vId].mods && characters[code].variants[vId].mods.map(hash => (
+          {code}_{vId} {character.variants[vId].title} {character.name}
+          {character.variants[vId].mods && character.variants[vId].mods.map(hash => (
             <div key={hash} style={{marginLeft: '2em', textAlign: 'center'}}>
               <a href={BASE_URL + `live2d-viewer.html?model=${code}_${vId}&modHash=${hash}`}>
-                <CharacterImage character={characters[code]} variant={vId} />
+                <CharacterImage character={character} variant={vId} />
               </a>
               <br />
               <a href={`/characters/${code}_${vId}/${hash}/${code}_${vId}.pck`}>
@@ -32,7 +32,7 @@ function CharacterPreview({character}) {
             </div>
           ))}
         </div>
-      ))} */}
+      ))}
     </a>
   )
 }

@@ -17,8 +17,12 @@ Object.keys(characters).forEach(model => {
         missing[model].variants[variantId].mods.push(modHash)
       }
       else {
-        fs.unlinkSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview-cropped.png'))
-        fs.unlinkSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png'))
+        try {
+          fs.unlinkSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview-cropped.png'))
+        } catch(e) {}
+        try {
+          fs.unlinkSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png'))
+        } catch(e) {}
       }
     })
   })

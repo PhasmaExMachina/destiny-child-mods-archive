@@ -41,7 +41,7 @@ fs.readdirSync(importPckPath).forEach(file => {
 
       // check for mod dupe
       const textureHash = fs.readdirSync(live2dPath).reduce((acc, file) => {
-        if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
+        if(file.match(/^texture.+\.png/)) acc += md5File(path.join(live2dPath, file))
         return acc
       }, '')
       if(!modHashes.texture[textureHash]) {

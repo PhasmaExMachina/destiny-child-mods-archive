@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "import-pck": "node ./scripts/import-pck.js",
+    "import-pck": "node ./scripts/import-pck.js && node ./scripts/fix-character-data.js",
     "missing-previews": "node ./scripts/find-missing-previews.js",
     "gen-previews": "cypress run --spec=cypress/integration/live2d-previews.js",
     "previews": "yarn missing-previews && yarn gen-previews && yarn crop-previews",
