@@ -1,0 +1,11 @@
+{
+    "character.dat": "050e00257f20de64",
+    "model.json": "660e0026f998a65f",
+    "m243_01_attack.mtn": "ea0f002a4cf7a8fd",
+    "m243_01_end.mtn": "c70e002726229c4d",
+    "m243_01_hit.mtn": "c70e002776f6785f",
+    "m243_01_idle.mtn": "280f0028acdc8d22",
+    "m243_01_start.mtn": "890f002967a0d088",
+    "texture_00.png": "660e002621f98bbb",
+    "texture_01.png": "660e00268024d784"
+}
