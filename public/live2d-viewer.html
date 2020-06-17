@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="css/normalize.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
+  <script type="text/javascript"><!--
+    // These variables are used by the web2py_ajax_init function in web2py_ajax.js (which is loaded below).
+    var w2p_ajax_confirm_message = "Are you sure you want to delete this object?";
+    var w2p_ajax_disable_with_message = "Working...";
+    var w2p_ajax_date_format = "%Y-%m-%d";
+    var w2p_ajax_datetime_format = "%Y-%m-%d %H:%M:%S";
+    var ajax_error_500 = "An error occured, please <a href=\"/apk/display_pck/1172\">reload</a> the page";
+
+  //--></script>
+</head>
+
+<body>
+
+  <canvas id="canvas" class="maxwidth" width="4000" height="4000" onclick="totsugeki()" style="display: block; margin: auto;"></canvas>
+  <select id="modelMotions" class="select-motions" style="display: none;"></select>
+  <script src="/static/js/gif.js"></script>
+  <script src="/static/js/gif.worker.js"></script>
+  <script src="/static/js/live2dsdk/live2d.min.js"></script>
+  <script src="/static/js/live2dsdk/Live2DFramework.js"></script>
+  <script src="/static/js/live2dsdk/L2DPckModel.js"></script>
+  <script src="/static/js/live2dsdk/PlatformManager.js"></script>
+  <script src="/static/js/live2dsdk/ModelSettingJson.js"></script>
+  <script src="/static/js/live2dsdk/destinychild.2d.js"></script>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const modelId = "1172";
+        modelName = urlParams.get('model');
+        modHash = urlParams.get('modHash');
+        previewMade = true;
+    </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script>
+    initModel()
+    let canvas = document.getElementById("canvas");
+    $(canvas).dblclick(function(e) {
+        if(pckModel) {
+            pckModel.drag = !pckModel.drag;
+        }
+    });
+
+    let mgif = null;
+    // $(canvas).contextmenu(function(e) {
+    //   console.log(e)
+    //     if(!mgif) {
+    //         mgif = new GIF({
+    //             workers: 4,
+    //             quality: 1,
+    //             workerScript: '/static/js/gif.worker.js'
+    //         });
+    //         mgif.on('progress', function(p) {
+    //             // $(canvas).css('background-image', 'linear-gradient(to right, lime '+p*100+'%, white 0%)');
+    //         });
+    //         mgif.on('finished', function(blob) {
+    //             console.log('gif finished');
+    //             let a = document.createElement('a');
+    //             a.href = URL.createObjectURL(blob);
+    //             a.target = '_blank';
+
+    //             $('#modelInfoContainer').append(a);
+    //             a.click();
+    //         });
+    //     }
+
+    //     let recordingStart = performance.now();
+    //     pckModel.getImage(function(gl, finished) {
+    //         console.log("frame added: "+mgif.frames.length);
+    //         if(finished || mgif.frames.length >= 400) {
+    //             pckModel.getImage(null);
+    //             let recordingEnd = performance.now();
+    //             for(let i = 0; i < mgif.frames.length; i++) {
+    //                 mgif.frames[i].delay = (recordingEnd - recordingStart)/mgif.frames.length;
+    //             }
+    //             mgif.render();
+    //         }else {
+    //             mgif.addFrame(gl.canvas, {delay: 30, copy: true});
+    //         }
+    //     });
+    // });
+
+    $(window).on("resize", function(event) {
+        const maxwidth = $(document.body).width(),
+              maxHeight = $(window).height();
+        $(".maxwidth").each((index, element) => {
+            $(element).css("max-width", maxwidth);
+            $(element).css("max-height", maxHeight - 10);
+        });
+    });
+    $(window).resize();
+
+    // let sliderScale = document.getElementById("modelScale");
+    // let sliderX = document.getElementById("modelX");
+    // let sliderY = document.getElementById("modelY");
+
+    // let lableScale = document.getElementById("modelScaleLabel");
+    // let lableX = document.getElementById("modelXLabel");
+    // let lableY = document.getElementById("modelYLabel");
+
+    // let selectBackground = document.getElementById("selectBackground");
+    // let inputBackground = document.getElementById("modelBackground");
+
+    // sliderScale.oninput = function() {
+    //     modelScale = this.value/100;
+    //     lableScale.innerText = "Scale: "+modelScale;
+    // };
+    // sliderX.oninput = function() {
+    //     modelX = (this.value-100)/100;
+    //     lableX.innerText = "Offset X: "+modelX;
+    // };
+    // sliderY.oninput = function() {
+    //     modelY = (this.value-100)/100;
+    //     lableY.innerText = "Offset Y: "+modelY;
+    // };
+
+    // sliderScale.oninput(sliderScale.value);
+    // sliderX.oninput(sliderX.value);
+    // sliderY.oninput(sliderY.value);
+
+    // selectBackground.onchange = function(e) {
+    //     if(selectBackground.value === -1) {
+    //         inputBackground.style="";
+    //         $(canvas).css('background', inputBackground.value);
+    //     }else {
+    //         inputBackground.style="display: none;";
+    //         $(canvas).css('background', selectBackground.value);
+    //     }
+    // };
+    // selectBackground.onchange(null);
+
+    // inputBackground.onchange = function(e) {
+    //     if(inputBackground.value.startsWith('http'))
+    //         inputBackground.value = 'url('+inputBackground.value+')';
+    //     $(canvas).css('background', inputBackground.value);
+    // };
+    // inputBackground.value = "";
+    // inputBackground.onchange(null);
+    </script>
+</body>
+</html>
+

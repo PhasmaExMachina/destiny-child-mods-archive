@@ -1,0 +1,51 @@
+{
+  "name": "destiny-child-database-and-mods",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "serve": "^11.3.2"
+  },
+  "scripts": {
+    "start": "concurrently \"npx serve docs\" \"yarn dev\"",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "import-pck": "node ./scripts/import-pck.js",
+    "missing-previews": "node ./scripts/find-missing-previews.js",
+    "gen-previews": "cypress run --spec=cypress/integration/live2d-previews.js",
+    "previews": "yarn missing-previews && yarn gen-previews && yarn crop-previews",
+    "crop-previews": "node ./scripts/crop-previews.js",
+    "release": "yarn import-pck && yarn previews"
+  },
+  "proxy": "http://localhost:5000",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "cypress": "^4.8.0",
+    "gm": "^1.23.1",
+    "image-data-uri": "^2.0.1",
+    "md5-file": "^5.0.0",
+    "nodemon": "^2.0.4"
+  }
+}

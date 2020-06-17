@@ -1,0 +1,1084 @@
+{
+    "soul_cartas": [
+        {
+            "id": 1,
+            "carta": "https://i.imgur.com/Jnm1cYv.png",
+            "icon": "https://i.imgur.com/65luKO5.png",
+            "name": "With a Certain Priestess",
+            "skill": "Increases Max HP by +%s",
+            "element": "",
+            "type": "",
+            "condition": "pvp",
+            "description": "God spake saying: Awaken. Those who believe shall be saved.",
+            "comment": null,
+            "standard": {
+                "value": 2500.0,
+                "health": 3500,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2700.0,
+                "health": 3668,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 3,
+            "carta": "https://i.imgur.com/NPCrdmf.png",
+            "icon": "https://i.imgur.com/H9jtZO8.png",
+            "name": "The Girl of Blue",
+            "skill": "Increases Slide Skill DMG by +%s",
+            "element": "water",
+            "type": "",
+            "condition": "pvp",
+            "description": "A Girl of Blue that wanders the world\\nwithout any promises to speak of...",
+            "comment": null,
+            "standard": {
+                "value": 2200.0,
+                "health": 0,
+                "attack": 3062,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2400.0,
+                "health": 0,
+                "attack": 3188,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 4,
+            "carta": "https://i.imgur.com/h17obAd.png",
+            "icon": "https://i.imgur.com/oQ2GhuU.png",
+            "name": "Pride That Pierces the Heavens",
+            "skill": "Increases Tap Skill DMG by +%s",
+            "element": "light",
+            "type": "attacker",
+            "condition": "",
+            "description": "Shine, honorable lance that protects the Master!\\nThe Archfiend Contest is Charlotte's holy war.",
+            "comment": null,
+            "standard": {
+                "value": 450.0,
+                "health": 0,
+                "attack": 2625,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 500.0,
+                "health": 0,
+                "attack": 2709,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 5,
+            "carta": "https://i.imgur.com/GKNb8nf.png",
+            "icon": "https://i.imgur.com/l61obON.png",
+            "name": "A Promise Under Wisteria",
+            "skill": "Increases Slide Skill DMG by %s",
+            "element": "forest",
+            "type": "",
+            "condition": "",
+            "description": "A gentle breeze and silent eyes.\\nThat determined gaze is surely...",
+            "comment": null,
+            "standard": {
+                "value": 2000.0,
+                "health": 0,
+                "attack": 2887,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2200.0,
+                "health": 0,
+                "attack": 2997,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 6,
+            "carta": "https://i.imgur.com/uTo5o3y.png",
+            "icon": "https://i.imgur.com/3DnQnod.png",
+            "name": "Special Task Force",
+            "skill": "Increases Slide Skill DMG by %s",
+            "element": "light",
+            "type": "",
+            "condition": "",
+            "description": "Don't move! Put your hands up!\\nSpecial Anti-Demon Corps Member Mafdet advancing!",
+            "comment": null,
+            "standard": {
+                "value": 2000.0,
+                "health": 0,
+                "attack": 2625,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2200.0,
+                "health": 0,
+                "attack": 2709,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 7,
+            "carta": "https://i.imgur.com/zDGGUUB.png",
+            "icon": "https://i.imgur.com/HfKI5nE.png",
+            "name": "Tea Time with You",
+            "skill": "Increases Slide Skill DMG by %s",
+            "element": "dark",
+            "type": "",
+            "condition": "",
+            "description": "I'm ashamed. Huh? clairvoyance? no… It's visible.",
+            "comment": null,
+            "standard": {
+                "value": 2300.0,
+                "health": 0,
+                "attack": 3115,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2500.0,
+                "health": 0,
+                "attack": 3246,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 8,
+            "carta": "https://i.imgur.com/25WpUVP.png",
+            "icon": "https://i.imgur.com/sdw0cKh.png",
+            "name": "Spring Date",
+            "skill": "Increases Slide Skill DMG by %s",
+            "element": "fire",
+            "type": "",
+            "condition": "",
+            "description": "Hello, cute gentleman ♪ Under warm spring light, at this place, only the two of us...",
+            "comment": null,
+            "standard": {
+                "value": 2300.0,
+                "health": 0,
+                "attack": 3115,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2500.0,
+                "health": 0,
+                "attack": 3246,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 9,
+            "carta": "https://i.imgur.com/l5kHVpB.png",
+            "icon": "https://i.imgur.com/5X9WLaB.png",
+            "name": "A Scoop",
+            "skill": "Increases Slide Skill DMG by %s",
+            "element": "",
+            "type": "attacker",
+            "condition": "",
+            "description": "Night's Date In the deep hot spring town, A Secret Date with the Fabulous Plus!",
+            "comment": null,
+            "standard": {
+                "value": 2300.0,
+                "health": 3395,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2500.0,
+                "health": 3552,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 10,
+            "carta": "https://i.imgur.com/N1oqyCX.png",
+            "icon": "https://i.imgur.com/KC1Ebmn.png",
+            "name": "Time for Adonis",
+            "skill": "Restore HP by %s when dealing damage",
+            "element": "",
+            "type": "attacker",
+            "condition": "",
+            "description": "어제는 공주를 구출했슴다.\\n내일은 인류를 위해 싸울 것임다. \\n…바쁘니까 이만 가보겠심.",
+            "comment": "",
+            "standard": {
+                "value": 600.0,
+                "health": 3587,
+                "attack": 0,
+                "defense": 2765,
+                "agility": 0,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 650.0,
+                "health": 3764,
+                "attack": 0,
+                "defense": 2863,
+                "agility": 0,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 11,
+            "carta": "https://i.imgur.com/YXvbAJ3.png",
+            "icon": "https://i.imgur.com/Hkiu4YE.png",
+            "name": "Oath of eternal love ",
+            "skill": "Bleed accuracy +30%%, Bleed value +%s",
+            "element": "fire",
+            "type": "",
+            "condition": "",
+            "description": "Even if death is about to separate us, it will not separate this hands forever.",
+            "comment": "",
+            "standard": {
+                "value": 280.0,
+                "health": 2362,
+                "attack": 3097,
+                "defense": 0,
+                "agility": 0,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 300.0,
+                "health": 2422,
+                "attack": 3227,
+                "defense": 0,
+                "agility": 0,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 12,
+            "carta": "https://i.imgur.com/felXUFS.png",
+            "icon": "https://i.imgur.com/jNYJWph.png",
+            "name": "Welcome to America",
+            "skill": "Attack Hit Rate +%s%%",
+            "element": "fire",
+            "type": "attacker",
+            "condition": "",
+            "description": "Just trust your sister and follow her anywhere. Yeah, everywhere.",
+            "comment": "",
+            "standard": {
+                "value": 28.0,
+                "health": 0,
+                "attack": 3097,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 30.0,
+                "health": 0,
+                "attack": 3227,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 13,
+            "carta": "https://i.imgur.com/umssKo3.png",
+            "icon": "https://i.imgur.com/VtxwyFd.png",
+            "name": "Rendezvous in Deep Sea ",
+            "skill": "Increases Slide Skill Ignore Defence by %s",
+            "element": "dark",
+            "type": "attacker",
+            "condition": "",
+            "description": "You're a nice gentleman in a gold coat. It is an honor to be with you at your ball...",
+            "comment": "",
+            "standard": {
+                "value": 2000.0,
+                "health": 0,
+                "attack": 2712,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2200.0,
+                "health": 0,
+                "attack": 2803,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 14,
+            "carta": "https://i.imgur.com/40wU2jL.png",
+            "icon": "https://i.imgur.com/OzMS0lm.png",
+            "name": "Ayane",
+            "skill": "Increases Slide Skill Ignore Defence by %s",
+            "element": "",
+            "type": "attacker",
+            "condition": "",
+            "description": "It is a genius ninja who follows the stepsister Kasumi who became a ninjia as well, even vacation is business.",
+            "comment": "",
+            "standard": {
+                "value": 2000.0,
+                "health": 3325,
+                "attack": 0,
+                "defense": 2625,
+                "agility": 0,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2200.0,
+                "health": 3477,
+                "attack": 0,
+                "defense": 2709,
+                "agility": 0,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 15,
+            "carta": "https://i.imgur.com/gTtugec.png",
+            "icon": "https://i.imgur.com/WaEx7kf.png",
+            "name": "A Fantasy Garden",
+            "skill": "Increases Slide Skill Ignore Defence by %s",
+            "element": "light",
+            "type": "attacker",
+            "condition": "",
+            "description": "This Garden is full of happiness, Invite me to this secret garden!",
+            "comment": "",
+            "standard": {
+                "value": 2000.0,
+                "health": 2412,
+                "attack": 0,
+                "defense": 2362,
+                "agility": 0,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2200.0,
+                "health": 3571,
+                "attack": 0,
+                "defense": 2420,
+                "agility": 0,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 16,
+            "carta": "https://i.imgur.com/5G3Iwt2.png",
+            "icon": "https://imgur.com/NEJ3a7k.png",
+            "name": "Secret Carol",
+            "skill": "Increases Freezing Chance by +%s%%",
+            "element": "water",
+            "type": "",
+            "condition": "",
+            "description": "Did you see my Rudolph? Wait a minute, you're quite a cute kid!",
+            "comment": "",
+            "standard": {
+                "value": 65.0,
+                "health": 0,
+                "attack": 2625,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 70.0,
+                "health": 0,
+                "attack": 2709,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 17,
+            "carta": "https://i.imgur.com/1u3x6bh.png",
+            "icon": "https://i.imgur.com/xN5hgG6.png",
+            "name": "Sweet Loyalty Chocolate ",
+            "skill": "Increases Sleep Resistance by +%s%%",
+            "element": "",
+            "type": "tank",
+            "condition": "",
+            "description": "I finally made it. Can we be friends with this? ",
+            "comment": "",
+            "standard": {
+                "value": 45.0,
+                "health": 3500,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 47.0,
+                "health": 3571,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 18,
+            "carta": "https://i.imgur.com/0jlKzzM.png",
+            "icon": "https://i.imgur.com/1hhRb00.png",
+            "name": "An Extreme Disquise",
+            "skill": "Increases Confusion Resistance by +%s%%",
+            "element": "",
+            "type": "attacker",
+            "condition": "",
+            "description": "A blind-spot relationship in which an indecisive single-minded person falls",
+            "comment": "",
+            "standard": {
+                "value": 37.5,
+                "health": 3681,
+                "attack": 0,
+                "defense": 2415,
+                "agility": 0,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 40.0,
+                "health": 3522,
+                "attack": 0,
+                "defense": 2478,
+                "agility": 0,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 19,
+            "carta": "https://i.imgur.com/M9oUHmB.png",
+            "icon": "https://i.imgur.com/ZyPKLKR.png",
+            "name": "Bless The Lamb",
+            "skill": "Increases Confusion Resistance by +%s%%",
+            "element": "",
+            "type": "tank",
+            "condition": "",
+            "description": "To escape from the never-ending nightmare,\\nis it to save the lamb that keeps going up the endless stairs?",
+            "comment": "",
+            "standard": {
+                "value": 37.5,
+                "health": 2712,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 40.0,
+                "health": 2803,
+                "attack": 0,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 20,
+            "carta": "https://i.imgur.com/38uUo8j.png",
+            "icon": "https://i.imgur.com/iwxRxsd.png",
+            "name": "Battle Mood",
+            "skill": "Increases Final Attack by %s",
+            "element": "fire",
+            "type": "",
+            "condition": "big",
+            "description": "At any moment, I do not neglect my training.\\nEven if you are an undefeated prince ... ",
+            "comment": "",
+            "standard": {
+                "value": 2000.0,
+                "health": 3377,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2200.0,
+                "health": 3533,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 21,
+            "carta": "https://i.imgur.com/tSZ2J5X.png",
+            "icon": "https://imgur.com/wSUFEJe.png",
+            "name": "Midnight Partner",
+            "skill": "Increases Reflect Damage by +%s%%",
+            "element": "",
+            "type": "tank",
+            "condition": "",
+            "description": "A collaboration made in hell!\\nThere are two midnight partners?",
+            "comment": "",
+            "standard": {
+                "value": 11.5,
+                "health": 3325,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 13.0,
+                "health": 3477,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 22,
+            "carta": "https://i.imgur.com/0ihROhk.png",
+            "icon": "https://i.imgur.com/CdlGcYt.png",
+            "name": "A Sweet Target",
+            "skill": "Increases Max HP by +%s",
+            "element": "",
+            "type": "",
+            "condition": "pve",
+            "description": "Hi, Darling. I'm here to talk to you critically sweet.",
+            "comment": "",
+            "standard": {
+                "value": 2700.0,
+                "health": 3675,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 2900.0,
+                "health": 3860,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 23,
+            "carta": "https://i.imgur.com/04ygmK7.png",
+            "icon": "https://i.imgur.com/aZoCj5Z.png",
+            "name": "A Sun-lit Spa",
+            "skill": "Increases Final Attack by %s",
+            "element": "",
+            "type": "",
+            "condition": "",
+            "description": "The secret hot springs of animals that glow through the leaves.\\nWho will come to the bathroom today?? ",
+            "comment": "",
+            "standard": {
+                "value": 1000.0,
+                "health": 3377,
+                "attack": 0,
+                "defense": 2380,
+                "agility": 0,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 1100.0,
+                "health": 3533,
+                "attack": 0,
+                "defense": 2441,
+                "agility": 0,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 24,
+            "carta": "https://i.imgur.com/TnFq9qn.png",
+            "icon": "https://i.imgur.com/i2rtHni.png",
+            "name": "Onstage",
+            "skill": "Increases Final Defense by %s",
+            "element": "",
+            "type": "",
+            "condition": "",
+            "description": "In the glitzy spotlight, people's cheers...\\nToday's live show is a huge success! ",
+            "comment": "",
+            "standard": {
+                "value": 1000.0,
+                "health": 0,
+                "attack": 2187,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 1100.0,
+                "health": 0,
+                "attack": 3034,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 25,
+            "carta": "https://i.imgur.com/WW4apCW.png",
+            "icon": "https://i.imgur.com/Gc8POs6.png",
+            "name": "Vampire Lady",
+            "skill": "Increases Final Defense by %s",
+            "element": "",
+            "type": "attacker",
+            "condition": "pvp",
+            "description": "Somewhere in the world, there is a rumor that some demon in a lonely ancient castle lives forever drinking the girl's blood.",
+            "comment": "",
+            "standard": {
+                "value": 1500.0,
+                "health": 2712,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 1600.0,
+                "health": 2803,
+                "attack": 0,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 26,
+            "carta": "https://i.imgur.com/cULXMLj.png",
+            "icon": "https://i.imgur.com/5iJdhYz.png",
+            "name": "Beach Traps & Prisoners",
+            "skill": "Increases Regen by %s",
+            "element": "",
+            "type": "",
+            "condition": "",
+            "description": "Hot summer beach, trapped...? ",
+            "comment": "",
+            "standard": {
+                "value": 275.0,
+                "health": 0,
+                "attack": 2745,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 300.0,
+                "health": 0,
+                "attack": 2745,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 27,
+            "carta": "https://i.imgur.com/mvoCtvy.png",
+            "icon": "https://i.imgur.com/pOTqML2.png",
+            "name": "Trap of Deep Valleys ",
+            "skill": "Increases Instant Heal by %s",
+            "element": "",
+            "type": "",
+            "condition": "",
+            "description": "Deep in the valley, a nasty trap ... ?! ",
+            "comment": "",
+            "standard": {
+                "value": 1400.0,
+                "health": 0,
+                "attack": 2745,
+                "defense": 0,
+                "agility": 2187,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 1500.0,
+                "health": 0,
+                "attack": 2745,
+                "defense": 0,
+                "agility": 2229,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 28,
+            "carta": "https://i.imgur.com/tgkbkfh.png",
+            "icon": "https://i.imgur.com/DZf6eD6.png",
+            "name": "Tamaki",
+            "skill": "Ignores %s DEF with Tap Attacks",
+            "element": "",
+            "type": "attacker",
+            "condition": "",
+            "description": "An ex-model turned fashion designer who came to the island in search of beauty.\\nHer innate audacity and cunningness prove to be a constant thorn in the island owner's side.",
+            "comment": "",
+            "standard": {
+                "value": 450.0,
+                "health": 0,
+                "attack": 2537,
+                "defense": 2450,
+                "agility": 0,
+                "critical": 0,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 500.0,
+                "health": 0,
+                "attack": 2612,
+                "defense": 2516,
+                "agility": 0,
+                "critical": 0,
+                "prisma": true
+            }
+        },
+        {
+            "id": 29,
+            "carta": "https://i.imgur.com/HXKgHfx.png",
+            "icon": "https://i.imgur.com/SDUI2XL.png",
+            "name": "Demon-Hunter Demon",
+            "skill": "Increases Tap Skill DMG by %s",
+            "element": "dark",
+            "type": "attacker",
+            "condition": "",
+            "description": "Have you heard the rumors?\\nA demon who killed his own teacher is now hunting other demons. ",
+            "comment": "",
+            "standard": {
+                "value": 450.0,
+                "health": 0,
+                "attack": 2625,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 500.0,
+                "health": 0,
+                "attack": 2709,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 30,
+            "carta": "https://i.imgur.com/KcuNjCK.png",
+            "icon": "https://i.imgur.com/1I3JD0V.png",
+            "name": "The Power Of A Smile",
+            "skill": "Increases Tap Skill DMG by %s",
+            "element": "forest",
+            "type": "attacker",
+            "condition": "",
+            "description": "I'll always be on your side!\\nI melt even the thickest ice with my warm smiles!",
+            "comment": "",
+            "standard": {
+                "value": 450.0,
+                "health": 0,
+                "attack": 2625,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 500.0,
+                "health": 0,
+                "attack": 2709,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 31,
+            "carta": "https://i.imgur.com/Ix7Zeey.png",
+            "icon": "https://i.imgur.com/tivK5RE.png",
+            "name": "Devil's Enemy!",
+            "skill": "Increases Tap Skill DMG by %s",
+            "element": "fire",
+            "type": "attacker",
+            "condition": "",
+            "description": "Don't go around making fun of yourself.\\nHey, you listening?.\\nYou stupid demon.\\nHa! You're so sick! Take me with you!",
+            "comment": "",
+            "standard": {
+                "value": 450.0,
+                "health": 0,
+                "attack": 2625,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 500.0,
+                "health": 0,
+                "attack": 2709,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 32,
+            "carta": "https://i.imgur.com/yGLWhrQ.png",
+            "icon": "https://i.imgur.com/o8trAot.png",
+            "name": "Under the Sea",
+            "skill": "Increases Tap Skill DMG by %s",
+            "element": "water",
+            "type": "attacker",
+            "condition": "",
+            "description": "You're mine, playboy!\\nHuh? Wait, is that you, Demon?",
+            "comment": "",
+            "standard": {
+                "value": 450.0,
+                "health": 0,
+                "attack": 2625,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 500.0,
+                "health": 0,
+                "attack": 2709,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 33,
+            "carta": "https://i.imgur.com/3dwBVAq.png",
+            "icon": "https://i.imgur.com/2xraWmy.png",
+            "name": "Ice Americano",
+            "skill": "Increases Slide Critical Damage by %s",
+            "element": "fire",
+            "type": "attacker",
+            "condition": "",
+            "description": "A refreshing Diablo drink that awakens a half-sleeping soul.\\nCaution and caffeine!",
+            "comment": "",
+            "standard": {
+                "value": 4500.0,
+                "health": 0,
+                "attack": 3097,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 5000.0,
+                "health": 0,
+                "attack": 3227,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 34,
+            "carta": "https://i.imgur.com/xNrBjfg.png",
+            "icon": "https://i.imgur.com/xgCUmH5.png",
+            "name": "Nap Time",
+            "skill": "Increases Slide Critical Damage by %s",
+            "element": "light",
+            "type": "attacker",
+            "condition": "",
+            "description": "The charisma succubus reader, the charismatic succubus reader fan club member, and the charisma succubus leader's right arm are asleep.",
+            "comment": "",
+            "standard": {
+                "value": 4500.0,
+                "health": 0,
+                "attack": 3097,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 5000.0,
+                "health": 0,
+                "attack": 3227,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 35,
+            "carta": "https://i.imgur.com/mnhUVJn.png",
+            "icon": "https://i.imgur.com/PozqJiA.png",
+            "name": "Wandering Seonbi",
+            "skill": "Increases Slide Critical Damage by %s",
+            "element": "forest",
+            "type": "attacker",
+            "condition": "",
+            "description": "There is now a quiet devil who is said to be walking in the clouds in the wind, keeping a precious secret that he only remembers to himself.",
+            "comment": "",
+            "standard": {
+                "value": 4500.0,
+                "health": 0,
+                "attack": 3097,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 5000.0,
+                "health": 0,
+                "attack": 3227,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 36,
+            "carta": "https://i.imgur.com/dLRJxxF.png",
+            "icon": "https://i.imgur.com/GGHURcX.png",
+            "name": "A Night Out",
+            "skill": "Increases Slide Critical Damage by %s",
+            "element": "dark",
+            "type": "attacker",
+            "condition": "",
+            "description": "Only your ivory is here,\\nWhere the fragrance of flowers is so deep,\\nOn the night of the full moon.",
+            "comment": "",
+            "standard": {
+                "value": 4500.0,
+                "health": 0,
+                "attack": 3097,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 5000.0,
+                "health": 0,
+                "attack": 3227,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        },
+        {
+            "id": 37,
+            "carta": "https://i.imgur.com/XD2CGRE.png",
+            "icon": "https://i.imgur.com/lAuE3Gf.png",
+            "name": "Tardy, Tardy!",
+            "skill": "Increases Slide Critical Damage by %s",
+            "element": "water",
+            "type": "attacker",
+            "condition": "",
+            "description": "Best transfer student, tardiness crisis from the first day of transfer!\\nWho's your fate waiting in the corner?",
+            "comment": "",
+            "standard": {
+                "value": 4500.0,
+                "health": 0,
+                "attack": 3097,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2187,
+                "prisma": false
+            },
+            "prisma": {
+                "value": 5000.0,
+                "health": 0,
+                "attack": 3227,
+                "defense": 0,
+                "agility": 0,
+                "critical": 2229,
+                "prisma": true
+            }
+        }
+    ]
+}

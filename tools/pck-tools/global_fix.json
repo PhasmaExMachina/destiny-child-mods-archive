@@ -1,0 +1,22 @@
+{
+  "70080014295fd28d": {
+    "ACCESSORY": {
+      "action": 0
+    },
+    "ARENA_MY_WINNING_RATE": {
+      "action": 1,
+      "hash": "70080014295fd28d",
+      "key": "RATE_MY_WINNING_ARENA" 
+    },
+    "c188_boss_long": {
+      "action": 1,
+      "hash": "08100026a8230677",
+      "key": "c188_boss"
+    }
+  },
+  "08100026a8230677": {
+    "c188_death_1": {
+	  "action": 0
+	}
+  }
+}

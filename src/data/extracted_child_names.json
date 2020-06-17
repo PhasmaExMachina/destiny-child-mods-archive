@@ -1,0 +1,7834 @@
+{
+    "c000": {
+        "name": "Master",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "10": {
+                "title": "Mysterious"
+            },
+            "11": {
+                "title": "Girl's School"
+            },
+            "12": {
+                "title": "Swimsuit"
+            },
+            "13": {
+                "title": ""
+            },
+            "14": {
+                "title": "Dress"
+            }
+        }
+    },
+    "c001": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Battlesuit"
+            },
+            "12": {
+                "title": "Seaside"
+            },
+            "14": {
+                "title": "Teacher"
+            },
+            "16": {
+                "title": "Swimsuit"
+            },
+            "17": {
+                "title": "Petit"
+            }
+        }
+    },
+    "c002": {
+        "name": "Lisa",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Battlesuit"
+            },
+            "10": {
+                "title": "Seaside"
+            },
+            "11": {
+                "title": "Student"
+            },
+            "12": {
+                "title": "Summer Camp"
+            }
+        }
+    },
+    "c003": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Battlesuit"
+            },
+            "10": {
+                "title": "Seaside"
+            },
+            "11": {
+                "title": "Student"
+            },
+            "13": {
+                "title": "Summer Dream"
+            },
+            "14": {
+                "title": "Lucifer"
+            },
+            "15": {
+                "title": "Satan"
+            },
+            "16": {
+                "title": "Crimson"
+            },
+            "17": {
+                "title": "Mini"
+            },
+            "18": {
+                "title": "Cheerleader"
+            },
+            "89": {
+                "title": "Lucifer"
+            }
+        }
+    },
+    "c004": {
+        "name": "Jennifer",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Neighborly"
+            },
+            "02": {
+                "title": "Warmharted"
+            }
+        }
+    },
+    "c005": {
+        "name": "Sawaki",
+        "variants": {
+            "00": {
+                "title": "Natsume"
+            },
+            "01": {
+                "title": "Zooming"
+            },
+            "02": {
+                "title": "Rampaging"
+            }
+        }
+    },
+    "c007": {
+        "name": "Kaga",
+        "variants": {
+            "00": {
+                "title": "Kyosuke"
+            },
+            "01": {
+                "title": "Hot"
+            },
+            "02": {
+                "title": "Fiery"
+            }
+        }
+    },
+    "c008": {
+        "name": "Wakatsuki",
+        "variants": {
+            "00": {
+                "title": "Kyoko"
+            },
+            "01": {
+                "title": "Warrior"
+            },
+            "02": {
+                "title": "Militant"
+            }
+        }
+    },
+    "c009": {
+        "name": "Uto",
+        "variants": {
+            "00": {
+                "title": "Jin"
+            },
+            "01": {
+                "title": "Mercenary"
+            },
+            "02": {
+                "title": "Fixer"
+            }
+        }
+    },
+    "c010": {
+        "name": "Takanashi",
+        "variants": {
+            "00": {
+                "title": "Marika"
+            },
+            "01": {
+                "title": "Bluffing"
+            },
+            "02": {
+                "title": "Vain"
+            }
+        }
+    },
+    "c011": {
+        "name": "Haito",
+        "variants": {
+            "00": {
+                "title": "Fusako"
+            },
+            "01": {
+                "title": "Volunteer"
+            },
+            "02": {
+                "title": "Devoted"
+            }
+        }
+    },
+    "c012": {
+        "name": "Muto",
+        "variants": {
+            "00": {
+                "title": "Ryuzo"
+            },
+            "01": {
+                "title": "Hotblooded"
+            },
+            "02": {
+                "title": "Final"
+            }
+        }
+    },
+    "c013": {
+        "name": "Sakuragawa",
+        "variants": {
+            "00": {
+                "title": "Kasumi"
+            },
+            "01": {
+                "title": "Moonless"
+            },
+            "02": {
+                "title": "Lunar"
+            }
+        }
+    },
+    "c014": {
+        "name": "Tohdoh",
+        "variants": {
+            "00": {
+                "title": "Katsumi"
+            },
+            "01": {
+                "title": "Starry"
+            },
+            "02": {
+                "title": "Galaxy"
+            }
+        }
+    },
+    "c015": {
+        "name": "Helena",
+        "variants": {
+            "01": {
+                "title": "Seasonal"
+            }
+        }
+    },
+    "c017": {
+        "name": "Komugi",
+        "variants": {
+            "00": {
+                "title": "Mad Dog"
+            },
+            "01": {
+                "title": "Guard Dog"
+            },
+            "02": {
+                "title": "Defender"
+            }
+        }
+    },
+    "c018": {
+        "name": "Yagami",
+        "variants": {
+            "00": {
+                "title": "Yayoi"
+            },
+            "01": {
+                "title": "Little"
+            },
+            "02": {
+                "title": "Immature"
+            }
+        }
+    },
+    "c019": {
+        "name": "Urushibara",
+        "variants": {
+            "00": {
+                "title": "Shizune"
+            },
+            "01": {
+                "title": "Frenzied"
+            },
+            "02": {
+                "title": "Raging"
+            }
+        }
+    },
+    "c020": {
+        "name": "Yukawa",
+        "variants": {
+            "00": {
+                "title": "Aisa"
+            },
+            "01": {
+                "title": "Dangerous"
+            },
+            "02": {
+                "title": "Gambling"
+            }
+        }
+    },
+    "c022": {
+        "name": "Sakamaki",
+        "variants": {
+            "00": {
+                "title": "Yutaka"
+            },
+            "01": {
+                "title": "Lazy"
+            },
+            "02": {
+                "title": "Woeful"
+            }
+        }
+    },
+    "c024": {
+        "name": "Rufus",
+        "variants": {
+            "00": {
+                "title": "Neighbor"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Archduke"
+            }
+        }
+    },
+    "c026": {
+        "name": "Kagamino",
+        "variants": {
+            "00": {
+                "title": "Arisa"
+            },
+            "01": {
+                "title": "Delightful"
+            },
+            "02": {
+                "title": "Delirious"
+            }
+        }
+    },
+    "c027": {
+        "name": "Kurokasa",
+        "variants": {
+            "00": {
+                "title": "Kageko"
+            },
+            "01": {
+                "title": "Awakened"
+            },
+            "02": {
+                "title": "Genuine"
+            }
+        }
+    },
+    "c028": {
+        "name": "Kenmochi",
+        "variants": {
+            "00": {
+                "title": "Mikoto"
+            },
+            "01": {
+                "title": "Successful"
+            },
+            "02": {
+                "title": "Shining"
+            },
+            "10": {
+                "title": "Day Dream"
+            }
+        }
+    },
+    "c029": {
+        "name": "Asahina",
+        "variants": {
+            "00": {
+                "title": "Harue"
+            },
+            "01": {
+                "title": "Night"
+            },
+            "02": {
+                "title": "Lunar"
+            }
+        }
+    },
+    "c030": {
+        "name": "J.",
+        "variants": {
+            "00": {
+                "title": "Sarah"
+            },
+            "01": {
+                "title": "Roaming"
+            },
+            "02": {
+                "title": "Tom-Boy"
+            }
+        }
+    },
+    "c031": {
+        "name": "Runt",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Innocent"
+            },
+            "02": {
+                "title": "Pure"
+            }
+        }
+    },
+    "c032": {
+        "name": "Tanikawa",
+        "variants": {
+            "00": {
+                "title": "Sana"
+            },
+            "01": {
+                "title": "Lively"
+            },
+            "02": {
+                "title": "Non-Stop"
+            }
+        }
+    },
+    "c033": {
+        "name": "Momoki",
+        "variants": {
+            "00": {
+                "title": "Sae"
+            },
+            "01": {
+                "title": "Tranquil"
+            },
+            "02": {
+                "title": "Reclusive"
+            }
+        }
+    },
+    "c034": {
+        "name": "Okawachi",
+        "variants": {
+            "00": {
+                "title": "Tomomi"
+            },
+            "01": {
+                "title": "Lazy"
+            },
+            "02": {
+                "title": "Haughty"
+            }
+        }
+    },
+    "c035": {
+        "name": "Kirishima",
+        "variants": {
+            "00": {
+                "title": "Kanna"
+            },
+            "01": {
+                "title": "Dawn"
+            },
+            "02": {
+                "title": "Bound"
+            }
+        }
+    },
+    "c036": {
+        "name": "Hermes",
+        "variants": {
+            "01": {
+                "title": "Squandering"
+            },
+            "02": {
+                "title": "Buyer"
+            },
+            "10": {
+                "title": "Collector"
+            }
+        }
+    },
+    "c037": {
+        "name": "Judas",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Dark Lord"
+            }
+        }
+    },
+    "c038": {
+        "name": "Bradley",
+        "variants": {
+            "00": {
+                "title": "Alicia"
+            },
+            "01": {
+                "title": "Spiteful"
+            },
+            "02": {
+                "title": "Charming"
+            }
+        }
+    },
+    "c039": {
+        "name": "Morita",
+        "variants": {
+            "00": {
+                "title": "Yuri"
+            },
+            "01": {
+                "title": "Furious"
+            },
+            "02": {
+                "title": "Devout"
+            }
+        }
+    },
+    "c040": {
+        "name": "Shamash",
+        "variants": {
+            "01": {
+                "title": "Lawful"
+            },
+            "02": {
+                "title": "Law-Abiding"
+            }
+        }
+    },
+    "c041": {
+        "name": "Mattie",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Night"
+            },
+            "02": {
+                "title": "Abyssal"
+            }
+        }
+    },
+    "c043": {
+        "name": "Hera",
+        "variants": {
+            "01": {
+                "title": "Conceited"
+            },
+            "02": {
+                "title": "Egotistical"
+            }
+        }
+    },
+    "c044": {
+        "name": "Nishiyama",
+        "variants": {
+            "00": {
+                "title": "Hiroyuki"
+            },
+            "01": {
+                "title": "Aimless"
+            },
+            "02": {
+                "title": "Vagabond"
+            }
+        }
+    },
+    "c045": {
+        "name": "Hino",
+        "variants": {
+            "00": {
+                "title": "Arisa"
+            },
+            "01": {
+                "title": "Singing"
+            },
+            "02": {
+                "title": "Delightful"
+            },
+            "10": {
+                "title": "Christmas"
+            },
+            "11": {
+                "title": "Highlight"
+            },
+            "12": {
+                "title": "Breaktime"
+            },
+            "13": {
+                "title": "Lovely Star"
+            },
+            "89": {
+                "title": "Highlight"
+            }
+        }
+    },
+    "c047": {
+        "name": "Kagami",
+        "variants": {
+            "00": {
+                "title": "Ran"
+            },
+            "01": {
+                "title": "Smoldering"
+            },
+            "02": {
+                "title": "White Flame"
+            }
+        }
+    },
+    "c048": {
+        "name": "Urae",
+        "variants": {
+            "00": {
+                "title": "Mei"
+            },
+            "01": {
+                "title": "Melancholy"
+            },
+            "02": {
+                "title": "Love-Hate"
+            }
+        }
+    },
+    "c049": {
+        "name": "Rosseta",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Lost"
+            },
+            "02": {
+                "title": "Blind Faith"
+            },
+            "10": {
+                "title": "Abyssal"
+            }
+        }
+    },
+    "c050": {
+        "name": "Od",
+        "variants": {
+            "02": {
+                "title": "Tyrannical"
+            }
+        }
+    },
+    "c051": {
+        "name": "Frej",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Bad Boy"
+            },
+            "21": {
+                "title": "Cursed Doll"
+            }
+        }
+    },
+    "c052": {
+        "name": "Harashinai",
+        "variants": {
+            "00": {
+                "title": "Mikio"
+            },
+            "01": {
+                "title": "Dramatic"
+            },
+            "02": {
+                "title": "Deceptive"
+            }
+        }
+    },
+    "c053": {
+        "name": "Amamiya",
+        "variants": {
+            "00": {
+                "title": "Chie"
+            },
+            "01": {
+                "title": "Hesitant"
+            },
+            "02": {
+                "title": "Clairvoyant"
+            }
+        }
+    },
+    "c054": {
+        "name": "Ichitaka",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Guardian"
+            },
+            "02": {
+                "title": "Heroic"
+            }
+        }
+    },
+    "c056": {
+        "name": "Saotome",
+        "variants": {
+            "00": {
+                "title": "Mia"
+            },
+            "01": {
+                "title": "Martyr"
+            },
+            "02": {
+                "title": "Sacrificial"
+            }
+        }
+    },
+    "c057": {
+        "name": "Lan Fei",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Blackstar"
+            }
+        }
+    },
+    "c058": {
+        "name": "Nirrti",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Exorcist"
+            },
+            "02": {
+                "title": "Rakshasa"
+            }
+        }
+    },
+    "c060": {
+        "name": "Sakakibara",
+        "variants": {
+            "00": {
+                "title": "Rurimi"
+            },
+            "01": {
+                "title": "Counterattack"
+            },
+            "02": {
+                "title": "Avenger"
+            }
+        }
+    },
+    "c061": {
+        "name": "Fujiwara",
+        "variants": {
+            "00": {
+                "title": "Shion"
+            },
+            "01": {
+                "title": "Underground"
+            },
+            "02": {
+                "title": "Midnight"
+            }
+        }
+    },
+    "c062": {
+        "name": "Sashikawa",
+        "variants": {
+            "00": {
+                "title": "Atsuko"
+            },
+            "01": {
+                "title": "Fragrant"
+            },
+            "02": {
+                "title": "Alluring"
+            }
+        }
+    },
+    "c063": {
+        "name": "Inokuchi",
+        "variants": {
+            "00": {
+                "title": "Akimi"
+            },
+            "01": {
+                "title": "Timid"
+            },
+            "02": {
+                "title": "Speculative"
+            }
+        }
+    },
+    "c065": {
+        "name": "Amamiya",
+        "variants": {
+            "00": {
+                "title": "Amu"
+            },
+            "01": {
+                "title": "Blooming"
+            },
+            "02": {
+                "title": "Profuse"
+            }
+        }
+    },
+    "c066": {
+        "name": "Yohei Kurozaki",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Self-Righteous"
+            },
+            "02": {
+                "title": "Machiavellian"
+            }
+        }
+    },
+    "c067": {
+        "name": "Kusano",
+        "variants": {
+            "00": {
+                "title": "Sakuji"
+            },
+            "01": {
+                "title": "Unknown"
+            },
+            "02": {
+                "title": "Trancendent"
+            }
+        }
+    },
+    "c068": {
+        "name": "Sato",
+        "variants": {
+            "00": {
+                "title": "Shiori"
+            },
+            "01": {
+                "title": "Challenger"
+            },
+            "02": {
+                "title": "Gourmet"
+            }
+        }
+    },
+    "c069": {
+        "name": "Kirihara",
+        "variants": {
+            "00": {
+                "title": "Ryohei"
+            },
+            "01": {
+                "title": "Restorative"
+            },
+            "02": {
+                "title": "Tuning"
+            }
+        }
+    },
+    "c072": {
+        "name": "Nakayamamoto",
+        "variants": {
+            "00": {
+                "title": "Hirotsugu"
+            },
+            "01": {
+                "title": "Explorer"
+            },
+            "02": {
+                "title": "Shadow"
+            }
+        }
+    },
+    "c074": {
+        "name": "Yoshida",
+        "variants": {
+            "00": {
+                "title": "Yoshiko"
+            },
+            "01": {
+                "title": "Cheerful"
+            },
+            "02": {
+                "title": "Passionate"
+            }
+        }
+    },
+    "c075": {
+        "name": "Taha",
+        "variants": {
+            "01": {
+                "title": "Odorous"
+            }
+        }
+    },
+    "c082": {
+        "name": "Kano",
+        "variants": {
+            "00": {
+                "title": "Yu"
+            },
+            "01": {
+                "title": "Artisanal"
+            },
+            "02": {
+                "title": "Prophetic"
+            }
+        }
+    },
+    "c083": {
+        "name": "Kamisaka",
+        "variants": {
+            "00": {
+                "title": "Rei"
+            },
+            "01": {
+                "title": "Battlefield"
+            },
+            "02": {
+                "title": "Tactician"
+            }
+        }
+    },
+    "c086": {
+        "name": "Harada",
+        "variants": {
+            "00": {
+                "title": "Kyoko"
+            },
+            "01": {
+                "title": "Seasoned"
+            },
+            "02": {
+                "title": "Flavored"
+            }
+        }
+    },
+    "c087": {
+        "name": "Ninurta",
+        "variants": {
+            "01": {
+                "title": "Pure-White"
+            }
+        }
+    },
+    "c090": {
+        "name": "Rindo",
+        "variants": {
+            "00": {
+                "title": "Keito"
+            },
+            "01": {
+                "title": "Resurgent"
+            },
+            "02": {
+                "title": "Reviving"
+            }
+        }
+    },
+    "c091": {
+        "name": "Miyamori",
+        "variants": {
+            "00": {
+                "title": "Yuriko"
+            },
+            "01": {
+                "title": "Guardian"
+            }
+        }
+    },
+    "c092": {
+        "name": "Eames",
+        "variants": {
+            "01": {
+                "title": "Hygienic"
+            }
+        }
+    },
+    "c095": {
+        "name": "Kudo",
+        "variants": {
+            "00": {
+                "title": "Kumiko"
+            },
+            "01": {
+                "title": "Hotblooded"
+            },
+            "02": {
+                "title": "Passionate"
+            }
+        }
+    },
+    "c099": {
+        "name": "Okazawa",
+        "variants": {
+            "00": {
+                "title": "Marin"
+            },
+            "01": {
+                "title": "Bored"
+            },
+            "02": {
+                "title": "Roaring"
+            }
+        }
+    },
+    "c101": {
+        "name": "Kasugai",
+        "variants": {
+            "00": {
+                "title": "Nanami"
+            },
+            "01": {
+                "title": "Naive"
+            },
+            "02": {
+                "title": "Praising"
+            }
+        }
+    },
+    "c106": {
+        "name": "Medeia",
+        "variants": {
+            "01": {
+                "title": "Vengeful"
+            },
+            "02": {
+                "title": "Plotting"
+            }
+        }
+    },
+    "c107": {
+        "name": "Teshigawara",
+        "variants": {
+            "00": {
+                "title": "Masato"
+            },
+            "01": {
+                "title": "Glittering"
+            },
+            "02": {
+                "title": "Admirable"
+            }
+        }
+    },
+    "c112": {
+        "name": "Kurusu",
+        "variants": {
+            "00": {
+                "title": "Seiichiro"
+            },
+            "01": {
+                "title": "Truth-Seeker"
+            },
+            "02": {
+                "title": "Sage"
+            }
+        }
+    },
+    "c113": {
+        "name": "Mido",
+        "variants": {
+            "00": {
+                "title": "Kayano"
+            }
+        }
+    },
+    "c115": {
+        "name": "Tsurumaki",
+        "variants": {
+            "00": {
+                "title": "Shino"
+            },
+            "01": {
+                "title": "Sorrowful"
+            },
+            "02": {
+                "title": "Reconciliatory"
+            }
+        }
+    },
+    "c116": {
+        "name": "Pluto",
+        "variants": {
+            "01": {
+                "title": "Perceptive"
+            }
+        }
+    },
+    "c117": {
+        "name": "Kiba",
+        "variants": {
+            "00": {
+                "title": "Himiko"
+            },
+            "01": {
+                "title": "Loyal"
+            },
+            "02": {
+                "title": "Pious"
+            }
+        }
+    },
+    "c120": {
+        "name": "Kisaragi",
+        "variants": {
+            "00": {
+                "title": "Tsubomi"
+            },
+            "01": {
+                "title": "Meadow"
+            },
+            "02": {
+                "title": "Free"
+            }
+        }
+    },
+    "c121": {
+        "name": "Nonomura",
+        "variants": {
+            "00": {
+                "title": "Norio"
+            },
+            "01": {
+                "title": "Night"
+            },
+            "02": {
+                "title": "Thundering"
+            }
+        }
+    },
+    "c123": {
+        "name": "Kaneda",
+        "variants": {
+            "00": {
+                "title": "Kaneko"
+            },
+            "01": {
+                "title": "Creative"
+            },
+            "02": {
+                "title": "Cheering"
+            }
+        }
+    },
+    "c124": {
+        "name": "Eve",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Forbidden"
+            },
+            "02": {
+                "title": "Original Sin"
+            },
+            "10": {
+                "title": "Cyan Rose"
+            }
+        }
+    },
+    "c125": {
+        "name": "Sengoku",
+        "variants": {
+            "00": {
+                "title": "Seiji"
+            },
+            "01": {
+                "title": "Terrestrial"
+            }
+        }
+    },
+    "c126": {
+        "name": "Salmacis",
+        "variants": {
+            "01": {
+                "title": "Your"
+            },
+            "02": {
+                "title": "Your Exclusive"
+            }
+        }
+    },
+    "c127": {
+        "name": "Oguri",
+        "variants": {
+            "00": {
+                "title": "Natsuki"
+            },
+            "01": {
+                "title": "Wild"
+            },
+            "02": {
+                "title": "Phantom Night"
+            },
+            "10": {
+                "title": "Second Coming"
+            }
+        }
+    },
+    "c129": {
+        "name": "Nike",
+        "variants": {
+            "01": {
+                "title": "Honorable"
+            }
+        }
+    },
+    "c130": {
+        "name": "Maganuma",
+        "variants": {
+            "00": {
+                "title": "Kagura"
+            },
+            "01": {
+                "title": "Strategic"
+            },
+            "02": {
+                "title": "Master"
+            }
+        }
+    },
+    "c131": {
+        "name": "Oda",
+        "variants": {
+            "00": {
+                "title": "Akihiko"
+            },
+            "01": {
+                "title": "Returned"
+            }
+        }
+    },
+    "c132": {
+        "name": "Oda",
+        "variants": {
+            "00": {
+                "title": "Akihiro"
+            },
+            "01": {
+                "title": "Composed"
+            },
+            "02": {
+                "title": "Aesthetic"
+            }
+        }
+    },
+    "c133": {
+        "name": "Titania",
+        "variants": {
+            "01": {
+                "title": "Armageddon"
+            },
+            "02": {
+                "title": "Showdown"
+            }
+        }
+    },
+    "c135": {
+        "name": "Valkyrie",
+        "variants": {
+            "01": {
+                "title": "Warrior"
+            },
+            "02": {
+                "title": "Loner"
+            }
+        }
+    },
+    "c139": {
+        "name": "Shinohara",
+        "variants": {
+            "00": {
+                "title": "Shiho"
+            },
+            "01": {
+                "title": "Floral"
+            },
+            "02": {
+                "title": "Hidden"
+            }
+        }
+    },
+    "c140": {
+        "name": "Nodens",
+        "variants": {
+            "01": {
+                "title": "Guarding"
+            }
+        }
+    },
+    "c141": {
+        "name": "Iteya",
+        "variants": {
+            "00": {
+                "title": "Yumi"
+            },
+            "01": {
+                "title": "Monolouging"
+            },
+            "02": {
+                "title": "One Sided"
+            }
+        }
+    },
+    "c142": {
+        "name": "Hypnos",
+        "variants": {
+            "01": {
+                "title": "Night Maiden"
+            },
+            "02": {
+                "title": "Dreamer"
+            }
+        }
+    },
+    "c144": {
+        "name": "Medea",
+        "variants": {
+            "01": {
+                "title": "Night Festival"
+            }
+        }
+    },
+    "c147": {
+        "name": "Gonda",
+        "variants": {
+            "00": {
+                "title": "Toji"
+            },
+            "01": {
+                "title": "Frenzied"
+            },
+            "02": {
+                "title": "Bloody"
+            }
+        }
+    },
+    "c148": {
+        "name": "Kitazume",
+        "variants": {
+            "00": {
+                "title": "Juria"
+            },
+            "01": {
+                "title": "Harlequin"
+            },
+            "02": {
+                "title": "Tyrannical"
+            }
+        }
+    },
+    "c149": {
+        "name": "Ebina",
+        "variants": {
+            "00": {
+                "title": "Hideka"
+            },
+            "01": {
+                "title": "Indecisive"
+            },
+            "02": {
+                "title": "Confessing"
+            }
+        }
+    },
+    "c152": {
+        "name": "Hebe",
+        "variants": {
+            "00": {
+                "title": ""
+            }
+        }
+    },
+    "c153": {
+        "name": "Shiozuka",
+        "variants": {
+            "00": {
+                "title": "Shiho"
+            },
+            "01": {
+                "title": "Adventurer"
+            },
+            "02": {
+                "title": "Wandering"
+            }
+        }
+    },
+    "c154": {
+        "name": "Taichi",
+        "variants": {
+            "00": {
+                "title": "Takashi"
+            },
+            "01": {
+                "title": "Stern"
+            },
+            "02": {
+                "title": "Severe"
+            }
+        }
+    },
+    "c156": {
+        "name": "Kikyoutani",
+        "variants": {
+            "00": {
+                "title": "Kiriko"
+            },
+            "01": {
+                "title": "Autocratic"
+            },
+            "02": {
+                "title": "Empress"
+            }
+        }
+    },
+    "c158": {
+        "name": "Kameuchi",
+        "variants": {
+            "00": {
+                "title": "Mikako"
+            },
+            "01": {
+                "title": "Dreaming"
+            },
+            "02": {
+                "title": "Märchen"
+            },
+            "10": {
+                "title": "Marine Flower"
+            }
+        }
+    },
+    "c161": {
+        "name": "Justitia",
+        "variants": {
+            "01": {
+                "title": "Judging"
+            }
+        }
+    },
+    "c164": {
+        "name": "Shinonome",
+        "variants": {
+            "00": {
+                "title": "Nao"
+            },
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Liberated"
+            }
+        }
+    },
+    "c167": {
+        "name": "Mei",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Sunny"
+            },
+            "02": {
+                "title": "Incarnated"
+            }
+        }
+    },
+    "c169": {
+        "name": "Kagamino",
+        "variants": {
+            "00": {
+                "title": "Asuna"
+            },
+            "01": {
+                "title": "Happy"
+            },
+            "02": {
+                "title": "Glorious"
+            }
+        }
+    },
+    "c172": {
+        "name": "Karakasa",
+        "variants": {
+            "00": {
+                "title": "Kasane"
+            },
+            "01": {
+                "title": "Shining"
+            },
+            "02": {
+                "title": "Glittering"
+            }
+        }
+    },
+    "c173": {
+        "name": "Reika Takagi",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Kid Sister"
+            },
+            "10": {
+                "title": "Dangerous"
+            }
+        }
+    },
+    "c174": {
+        "name": "A.I",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Limited"
+            },
+            "11": {
+                "title": "Summer Vacation"
+            }
+        }
+    },
+    "c175": {
+        "name": "Ikariyama",
+        "variants": {
+            "00": {
+                "title": "Yoshihiko"
+            },
+            "01": {
+                "title": "Guardian"
+            },
+            "02": {
+                "title": "Sentinel"
+            }
+        }
+    },
+    "c176": {
+        "name": "Eshu",
+        "variants": {
+            "01": {
+                "title": "Eye Catching"
+            },
+            "02": {
+                "title": "Dealer"
+            }
+        }
+    },
+    "c178": {
+        "name": "Yukawa",
+        "variants": {
+            "00": {
+                "title": "Reiko"
+            },
+            "01": {
+                "title": "Mirage"
+            },
+            "02": {
+                "title": "Fantasy"
+            }
+        }
+    },
+    "c180": {
+        "name": "Hozan",
+        "variants": {
+            "00": {
+                "title": "Takao"
+            },
+            "01": {
+                "title": "Ambitious"
+            },
+            "02": {
+                "title": "Greedy"
+            }
+        }
+    },
+    "c183": {
+        "name": "Tamogami",
+        "variants": {
+            "00": {
+                "title": "Tatsuko"
+            },
+            "01": {
+                "title": "Preacher"
+            },
+            "02": {
+                "title": "Declarative"
+            }
+        }
+    },
+    "c184": {
+        "name": "Tatsunami",
+        "variants": {
+            "00": {
+                "title": "Tamae"
+            },
+            "01": {
+                "title": "Wandering"
+            },
+            "02": {
+                "title": "Paradise"
+            }
+        }
+    },
+    "c185": {
+        "name": "Hermod",
+        "variants": {
+            "01": {
+                "title": "Foolhardy"
+            }
+        }
+    },
+    "c187": {
+        "name": "Mizutani",
+        "variants": {
+            "00": {
+                "title": "Sayori"
+            },
+            "01": {
+                "title": "Grieving"
+            },
+            "02": {
+                "title": "Sorrowful"
+            },
+            "89": {
+                "title": "Sorrowful"
+            }
+        }
+    },
+    "c188": {
+        "name": "Tsuchida",
+        "variants": {
+            "00": {
+                "title": "Sachika"
+            },
+            "01": {
+                "title": "Charging"
+            },
+            "02": {
+                "title": "Renowned Assistant"
+            }
+        }
+    },
+    "c189": {
+        "name": "Kratos",
+        "variants": {
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Liberated"
+            }
+        }
+    },
+    "c190": {
+        "name": "Yuki",
+        "variants": {
+            "00": {
+                "title": "Hiromi"
+            },
+            "01": {
+                "title": "Mimic"
+            },
+            "02": {
+                "title": "Actress"
+            }
+        }
+    },
+    "c191": {
+        "name": "Kubodzuka",
+        "variants": {
+            "00": {
+                "title": "Reina"
+            },
+            "01": {
+                "title": "Destructive"
+            },
+            "02": {
+                "title": "Furious"
+            }
+        }
+    },
+    "c193": {
+        "name": "Virupa",
+        "variants": {
+            "00": {
+                "title": "Exorcist-in-Training"
+            }
+        }
+    },
+    "c194": {
+        "name": "Kuroki",
+        "variants": {
+            "00": {
+                "title": "Reika"
+            },
+            "01": {
+                "title": "White"
+            },
+            "02": {
+                "title": "Pure White"
+            }
+        }
+    },
+    "c195": {
+        "name": "Shishihara",
+        "variants": {
+            "00": {
+                "title": "Claire"
+            },
+            "01": {
+                "title": "Little Princess"
+            },
+            "02": {
+                "title": "Dark Princess"
+            },
+            "20": {
+                "title": "Claire"
+            }
+        }
+    },
+    "c196": {
+        "name": "Shiratori",
+        "variants": {
+            "00": {
+                "title": "Yukimi"
+            },
+            "01": {
+                "title": "Floral"
+            },
+            "02": {
+                "title": "Alluring"
+            }
+        }
+    },
+    "c198": {
+        "name": "Nara",
+        "variants": {
+            "00": {
+                "title": "Nao"
+            },
+            "01": {
+                "title": "Silent"
+            },
+            "02": {
+                "title": "Turncoat"
+            }
+        }
+    },
+    "c199": {
+        "name": "Nijihara",
+        "variants": {
+            "00": {
+                "title": "Hikaru"
+            },
+            "01": {
+                "title": "Western"
+            },
+            "02": {
+                "title": "Benevolent"
+            }
+        }
+    },
+    "c200": {
+        "name": "Kajihara",
+        "variants": {
+            "00": {
+                "title": "Masami"
+            },
+            "01": {
+                "title": "Running"
+            },
+            "02": {
+                "title": "Fixer"
+            }
+        }
+    },
+    "c202": {
+        "name": "Shoji",
+        "variants": {
+            "00": {
+                "title": "Shoko"
+            },
+            "01": {
+                "title": "Mirror"
+            },
+            "02": {
+                "title": "Green"
+            }
+        }
+    },
+    "c205": {
+        "name": "Yuki",
+        "variants": {
+            "00": {
+                "title": "Yu"
+            },
+            "01": {
+                "title": "Otherworldly"
+            },
+            "02": {
+                "title": "Visitor"
+            }
+        }
+    },
+    "c208": {
+        "name": "Kaga",
+        "variants": {
+            "00": {
+                "title": "Kyosuke"
+            },
+            "01": {
+                "title": "Hot"
+            },
+            "02": {
+                "title": "Fiery"
+            }
+        }
+    },
+    "c209": {
+        "name": "Fuwa",
+        "variants": {
+            "00": {
+                "title": "Fumika"
+            },
+            "01": {
+                "title": "Dreaming"
+            },
+            "02": {
+                "title": "Delusional"
+            }
+        }
+    },
+    "c210": {
+        "name": "Koh",
+        "variants": {
+            "00": {
+                "title": "Sumire"
+            },
+            "01": {
+                "title": "Abyssal"
+            },
+            "02": {
+                "title": "Emperor"
+            }
+        }
+    },
+    "c214": {
+        "name": "Hoshizaki",
+        "variants": {
+            "00": {
+                "title": "Masajuro"
+            },
+            "01": {
+                "title": "Experimental"
+            },
+            "02": {
+                "title": "Dominating"
+            },
+            "10": {
+                "title": "Gambler"
+            }
+        }
+    },
+    "c215": {
+        "name": "Surtr",
+        "variants": {
+            "00": {
+                "title": "Immature"
+            }
+        }
+    },
+    "c216": {
+        "name": "Ogata",
+        "variants": {
+            "00": {
+                "title": "Mayo"
+            },
+            "01": {
+                "title": "Moonlight"
+            },
+            "02": {
+                "title": "Samhain"
+            }
+        }
+    },
+    "c220": {
+        "name": "Mugikura",
+        "variants": {
+            "00": {
+                "title": "Mutsumi"
+            },
+            "01": {
+                "title": "Zooming"
+            },
+            "02": {
+                "title": "Charging"
+            }
+        }
+    },
+    "c221": {
+        "name": "Yanagawa",
+        "variants": {
+            "00": {
+                "title": "Kii"
+            },
+            "01": {
+                "title": "Full Moon"
+            },
+            "02": {
+                "title": "Full Bloom"
+            }
+        }
+    },
+    "c222": {
+        "name": "Kanebuchi",
+        "variants": {
+            "00": {
+                "title": "Kaya"
+            },
+            "01": {
+                "title": "Hypnotic"
+            },
+            "02": {
+                "title": "Golden"
+            }
+        }
+    },
+    "c224": {
+        "name": "Loki",
+        "variants": {
+            "01": {
+                "title": "Dark Prince"
+            }
+        }
+    },
+    "c225": {
+        "name": "Rudolph",
+        "variants": {
+            "00": {
+                "title": "Part-Timer"
+            },
+            "01": {
+                "title": "Uninvited"
+            },
+            "02": {
+                "title": "Night Thief"
+            }
+        }
+    },
+    "c226": {
+        "name": "Ragnar",
+        "variants": {
+            "01": {
+                "title": "Plundering"
+            }
+        }
+    },
+    "c227": {
+        "name": "Domeki",
+        "variants": {
+            "00": {
+                "title": "Mai"
+            },
+            "01": {
+                "title": "Righteous"
+            },
+            "02": {
+                "title": "Dogmatic"
+            }
+        }
+    },
+    "c229": {
+        "name": "Barry",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Info Broker"
+            },
+            "02": {
+                "title": "Delivery Girl"
+            }
+        }
+    },
+    "c230": {
+        "name": "Utsugi",
+        "variants": {
+            "00": {
+                "title": "Eiko"
+            },
+            "01": {
+                "title": "Cursed"
+            },
+            "02": {
+                "title": "Extinct"
+            }
+        }
+    },
+    "c232": {
+        "name": "Kameike",
+        "variants": {
+            "00": {
+                "title": "Kanon"
+            },
+            "01": {
+                "title": "Fantasy"
+            },
+            "02": {
+                "title": "Utopian"
+            }
+        }
+    },
+    "c233": {
+        "name": "Aoi",
+        "variants": {
+            "00": {
+                "title": "Azusa"
+            },
+            "01": {
+                "title": "Lightning"
+            },
+            "02": {
+                "title": "Corona"
+            }
+        }
+    },
+    "c234": {
+        "name": "Godai",
+        "variants": {
+            "00": {
+                "title": "Goro"
+            },
+            "01": {
+                "title": "Militant"
+            },
+            "02": {
+                "title": "Triumphant"
+            }
+        }
+    },
+    "c235": {
+        "name": "Togashi",
+        "variants": {
+            "00": {
+                "title": "Tomoka"
+            },
+            "01": {
+                "title": "Explosive"
+            },
+            "02": {
+                "title": "Antihero"
+            }
+        }
+    },
+    "c237": {
+        "name": "Typhon",
+        "variants": {
+            "00": {
+                "title": "Mortal Realm"
+            },
+            "01": {
+                "title": "Night Festival"
+            },
+            "02": {
+                "title": "Samhain"
+            }
+        }
+    },
+    "c238": {
+        "name": "Medb",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Harmony"
+            },
+            "02": {
+                "title": "Prima"
+            },
+            "10": {
+                "title": "Samhain"
+            }
+        }
+    },
+    "c242": {
+        "name": "Ailill",
+        "variants": {
+            "00": {
+                "title": "Mortal Realm"
+            },
+            "01": {
+                "title": "Magician"
+            },
+            "02": {
+                "title": "Parade"
+            }
+        }
+    },
+    "c246": {
+        "name": "Christmas Fairy",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Deceptive"
+            },
+            "02": {
+                "title": "False"
+            },
+            "10": {
+                "title": "Nightmare"
+            },
+            "11": {
+                "title": "Naughty"
+            },
+            "88": {
+                "title": "Nightmare"
+            },
+            "89": {
+                "title": "Naughty"
+            }
+        }
+    },
+    "c247": {
+        "name": "Misaki",
+        "variants": {
+            "00": {
+                "title": "Miriya"
+            },
+            "01": {
+                "title": "Glorious"
+            },
+            "02": {
+                "title": "Autocratic"
+            }
+        }
+    },
+    "c251": {
+        "name": "Ganymede",
+        "variants": {
+            "01": {
+                "title": "Hermit"
+            }
+        }
+    },
+    "c253": {
+        "name": "Nicole",
+        "variants": {
+            "01": {
+                "title": "Holy"
+            },
+            "02": {
+                "title": "Saint"
+            },
+            "10": {
+                "title": "Christmas Eve"
+            }
+        }
+    },
+    "c254": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "c255": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Prologue"
+            }
+        }
+    },
+    "c256": {
+        "name": "Lisa",
+        "variants": {
+            "01": {
+                "title": ""
+            }
+        }
+    },
+    "c257": {
+        "name": "Carlos",
+        "variants": {
+            "01": {
+                "title": "Colony Leader"
+            },
+            "02": {
+                "title": "Colony Leader"
+            }
+        }
+    },
+    "c258": {
+        "name": "Pixie",
+        "variants": {
+            "01": {
+                "title": "Imaginative"
+            },
+            "02": {
+                "title": "Ideal"
+            }
+        }
+    },
+    "c262": {
+        "name": "Midori",
+        "variants": {
+            "00": {
+                "title": "Kitagawa"
+            },
+            "01": {
+                "title": "Knight"
+            },
+            "02": {
+                "title": "Brave"
+            },
+            "88": {
+                "title": "Brave"
+            }
+        }
+    },
+    "c266": {
+        "name": "Horus",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Desert"
+            },
+            "02": {
+                "title": "Ra"
+            }
+        }
+    },
+    "c267": {
+        "name": "Cleopatra",
+        "variants": {
+            "00": {
+                "title": "Queen of the Nile"
+            },
+            "01": {
+                "title": "Transmigration"
+            },
+            "02": {
+                "title": "Pharaoh"
+            },
+            "10": {
+                "title": "Sun"
+            },
+            "89": {
+                "title": "Sun"
+            }
+        }
+    },
+    "c269": {
+        "name": "Pixie",
+        "variants": {
+            "01": {
+                "title": "Chaotic"
+            },
+            "02": {
+                "title": "Cosmos"
+            }
+        }
+    },
+    "c270": {
+        "name": "Pixie",
+        "variants": {
+            "01": {
+                "title": "Light"
+            },
+            "02": {
+                "title": "Platinum"
+            }
+        }
+    },
+    "c271": {
+        "name": "Pixie",
+        "variants": {
+            "01": {
+                "title": "Silent"
+            },
+            "02": {
+                "title": "Sapphire"
+            }
+        }
+    },
+    "c272": {
+        "name": "Pixie",
+        "variants": {
+            "01": {
+                "title": "Sprout"
+            },
+            "02": {
+                "title": "Verdure"
+            }
+        }
+    },
+    "c274": {
+        "name": "Bast",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Singing"
+            },
+            "02": {
+                "title": "Howling"
+            }
+        }
+    },
+    "c277": {
+        "name": "Leuce",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Lowly Nymph"
+            },
+            "02": {
+                "title": "Partner"
+            }
+        }
+    },
+    "c280": {
+        "name": "Tyche",
+        "variants": {
+            "01": {
+                "title": "Innocent"
+            },
+            "02": {
+                "title": "Dreaming"
+            }
+        }
+    },
+    "c283": {
+        "name": "Nagihara",
+        "variants": {
+            "00": {
+                "title": "Chikako"
+            },
+            "01": {
+                "title": "Maid"
+            },
+            "02": {
+                "title": "Servant"
+            },
+            "10": {
+                "title": "Loyal Keeper"
+            },
+            "12": {
+                "title": "Classic Servant"
+            },
+            "89": {
+                "title": "Loyal Keeper"
+            }
+        }
+    },
+    "c285": {
+        "name": "Natalis",
+        "variants": {
+            "02": {
+                "title": "Battlefield Goddess"
+            }
+        }
+    },
+    "c286": {
+        "name": "Verdelet",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Waiting"
+            },
+            "02": {
+                "title": "Butler"
+            }
+        }
+    },
+    "c289": {
+        "name": "Durandal",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Illusory"
+            },
+            "02": {
+                "title": "Nightmare"
+            }
+        }
+    },
+    "c290": {
+        "name": "Brigid",
+        "variants": {
+            "00": {
+                "title": "Mortal Realm"
+            },
+            "01": {
+                "title": "Glamorous"
+            },
+            "02": {
+                "title": "Scarlet"
+            }
+        }
+    },
+    "c292": {
+        "name": "Luin",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Blind Faith"
+            },
+            "02": {
+                "title": "Spear of Vengeance"
+            }
+        }
+    },
+    "c294": {
+        "name": "Sayoko",
+        "variants": {
+            "00": {
+                "title": "Hanazono"
+            },
+            "01": {
+                "title": "Lady"
+            },
+            "02": {
+                "title": "Bloody"
+            }
+        }
+    },
+    "c295": {
+        "name": "Theresa",
+        "variants": {
+            "00": {
+                "title": "Asagiri"
+            },
+            "01": {
+                "title": "Dreaming"
+            },
+            "02": {
+                "title": "Silent"
+            }
+        }
+    },
+    "c296": {
+        "name": "Kurashiki",
+        "variants": {
+            "00": {
+                "title": "Rei"
+            },
+            "01": {
+                "title": "Gunslinger"
+            },
+            "02": {
+                "title": "Sniper"
+            }
+        }
+    },
+    "c299": {
+        "name": "Santa Claus",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Memorable"
+            },
+            "02": {
+                "title": "Satan"
+            }
+        }
+    },
+    "c300": {
+        "name": "Pietas",
+        "variants": {
+            "01": {
+                "title": "Beloved"
+            },
+            "02": {
+                "title": "Devoted"
+            }
+        }
+    },
+    "c301": {
+        "name": "Jacheongbi",
+        "variants": {
+            "01": {
+                "title": "Indomitable"
+            },
+            "02": {
+                "title": "Revolutionary"
+            }
+        }
+    },
+    "c305": {
+        "name": "Rita",
+        "variants": {
+            "01": {
+                "title": "Guiding"
+            },
+            "02": {
+                "title": "Dark Saint"
+            },
+            "10": {
+                "title": "Paradise Exiled"
+            },
+            "89": {
+                "title": "Paradise Exiled"
+            }
+        }
+    },
+    "c308": {
+        "name": "Kubaba",
+        "variants": {
+            "00": {
+                "title": "Mortal Realm"
+            },
+            "01": {
+                "title": "Rider"
+            },
+            "02": {
+                "title": "Revenge"
+            },
+            "10": {
+                "title": "High Speed"
+            }
+        }
+    },
+    "c310": {
+        "name": "Kana",
+        "variants": {
+            "00": {
+                "title": "Takanashi"
+            },
+            "01": {
+                "title": "Spring"
+            },
+            "02": {
+                "title": "Blossom"
+            }
+        }
+    },
+    "c311": {
+        "name": "Khepri",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Dark Luster"
+            },
+            "02": {
+                "title": "Vicious"
+            },
+            "89": {
+                "title": "Vicious"
+            }
+        }
+    },
+    "c312": {
+        "name": "Ihara",
+        "variants": {
+            "00": {
+                "title": "Ichigo"
+            },
+            "01": {
+                "title": "Cynical"
+            },
+            "02": {
+                "title": "Cursed Sword"
+            }
+        }
+    },
+    "c314": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Debut"
+            }
+        }
+    },
+    "c315": {
+        "name": "Methuselah",
+        "variants": {
+            "01": {
+                "title": "Alchemist"
+            },
+            "02": {
+                "title": "Seeker"
+            }
+        }
+    },
+    "c316": {
+        "name": "Wodan",
+        "variants": {
+            "00": {
+                "title": "Mortal Realm"
+            },
+            "01": {
+                "title": "Alchemist"
+            },
+            "02": {
+                "title": "Seeker"
+            }
+        }
+    },
+    "c317": {
+        "name": "Babila",
+        "variants": {
+            "00": {
+                "title": "Father"
+            },
+            "01": {
+                "title": "Hypocrite"
+            },
+            "02": {
+                "title": "False Prophet"
+            }
+        }
+    },
+    "c318": {
+        "name": "Bari",
+        "variants": {
+            "01": {
+                "title": "Praying"
+            },
+            "02": {
+                "title": "Prayer"
+            },
+            "10": {
+                "title": "Equinoctial"
+            },
+            "11": {
+                "title": "Banshee"
+            },
+            "89": {
+                "title": "Equinoctial"
+            }
+        }
+    },
+    "c319": {
+        "name": "Willow Doryeong",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Reincarnated"
+            },
+            "02": {
+                "title": "Guardian"
+            }
+        }
+    },
+    "c324": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Newbie"
+            },
+            "02": {
+                "title": "Rookie"
+            },
+            "21": {
+                "title": "Hurt"
+            }
+        }
+    },
+    "c332": {
+        "name": "Ganesha",
+        "variants": {
+            "01": {
+                "title": "Maverick"
+            },
+            "02": {
+                "title": "Nandikesvara"
+            }
+        }
+    },
+    "c336": {
+        "name": "Pan",
+        "variants": {
+            "01": {
+                "title": "Field"
+            },
+            "02": {
+                "title": "Farm Sheep"
+            },
+            "89": {
+                "title": "Field"
+            }
+        }
+    },
+    "c338": {
+        "name": "Pomona",
+        "variants": {
+            "01": {
+                "title": "Pure White"
+            },
+            "02": {
+                "title": "Pure Bride"
+            }
+        }
+    },
+    "c344": {
+        "name": "Isolde",
+        "variants": {
+            "01": {
+                "title": "White Hands"
+            },
+            "02": {
+                "title": "Nova"
+            },
+            "10": {
+                "title": "Summer Spike"
+            },
+            "89": {
+                "title": "Summer Spike"
+            }
+        }
+    },
+    "c345": {
+        "name": "Anemone",
+        "variants": {
+            "01": {
+                "title": "Midsummer"
+            },
+            "02": {
+                "title": "Gambler"
+            },
+            "10": {
+                "title": "Sunrise"
+            }
+        }
+    },
+    "c346": {
+        "name": "Tristan",
+        "variants": {
+            "01": {
+                "title": "Blocking"
+            },
+            "02": {
+                "title": "Solitary"
+            }
+        }
+    },
+    "c347": {
+        "name": "Dana",
+        "variants": {
+            "01": {
+                "title": "Prophet"
+            },
+            "02": {
+                "title": "Second Advent"
+            }
+        }
+    },
+    "c348": {
+        "name": "Mars♥",
+        "variants": {
+            "00": {
+                "title": "Trainee"
+            },
+            "01": {
+                "title": "Pretty"
+            },
+            "02": {
+                "title": "Sweet Devi"
+            },
+            "10": {
+                "title": "Sweet Love"
+            }
+        }
+    },
+    "c349": {
+        "name": "Saturn♥",
+        "variants": {
+            "00": {
+                "title": "Trainee"
+            },
+            "01": {
+                "title": "Mysterious"
+            },
+            "02": {
+                "title": "Starlight"
+            }
+        }
+    },
+    "c350": {
+        "name": "Neptune♥",
+        "variants": {
+            "00": {
+                "title": "Trainee"
+            },
+            "01": {
+                "title": "Hard Worker"
+            },
+            "02": {
+                "title": "Pure Smile"
+            }
+        }
+    },
+    "c351": {
+        "name": "Venus♥",
+        "variants": {
+            "00": {
+                "title": "Trainee"
+            },
+            "01": {
+                "title": "Naive"
+            },
+            "02": {
+                "title": "Heavenly Flower"
+            }
+        }
+    },
+    "c352": {
+        "name": "Maestro",
+        "variants": {
+            "00": {
+                "title": "Producer"
+            }
+        }
+    },
+    "c353": {
+        "name": "Tsukasa",
+        "variants": {
+            "00": {
+                "title": "Yoko"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Glorious"
+            }
+        }
+    },
+    "c354": {
+        "name": "Demeter",
+        "variants": {
+            "01": {
+                "title": "Needfire"
+            },
+            "02": {
+                "title": "Crimson"
+            },
+            "10": {
+                "title": "Mad Nurse"
+            },
+            "89": {
+                "title": "Crimson"
+            }
+        }
+    },
+    "c355": {
+        "name": "Chang'e",
+        "variants": {
+            "01": {
+                "title": "Guardian"
+            },
+            "02": {
+                "title": "Inugami"
+            }
+        }
+    },
+    "c358": {
+        "name": "HATSUNE MIKU",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Diva"
+            }
+        }
+    },
+    "c359": {
+        "name": "SNOW MIKU",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Snow Priestess"
+            }
+        }
+    },
+    "c360": {
+        "name": "Maat",
+        "variants": {
+            "01": {
+                "title": "Liberated"
+            },
+            "02": {
+                "title": "Descended"
+            },
+            "10": {
+                "title": "Chasm"
+            }
+        }
+    },
+    "c364": {
+        "name": "Sytry",
+        "variants": {
+            "01": {
+                "title": "Sweet"
+            },
+            "02": {
+                "title": "Lovey-Dovey"
+            }
+        }
+    },
+    "c365": {
+        "name": "Lisa",
+        "variants": {
+            "01": {
+                "title": "Dark Buster"
+            },
+            "02": {
+                "title": "Devil Buster"
+            }
+        }
+    },
+    "c366": {
+        "name": "Deino",
+        "variants": {
+            "01": {
+                "title": "Hard Worker"
+            },
+            "02": {
+                "title": "Hopeful"
+            }
+        }
+    },
+    "c367": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Archfiend"
+            },
+            "02": {
+                "title": "True Archfiend"
+            },
+            "88": {
+                "title": "True Archfiend"
+            },
+            "89": {
+                "title": "Archfiend"
+            }
+        }
+    },
+    "c369": {
+        "name": "Old Lady",
+        "variants": {
+            "00": {
+                "title": ""
+            }
+        }
+    },
+    "c370": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Sunbeach"
+            },
+            "02": {
+                "title": "Diver"
+            },
+            "10": {
+                "title": "Hot Pink"
+            },
+            "89": {
+                "title": "Sunbeach"
+            }
+        }
+    },
+    "c371": {
+        "name": "Lisa",
+        "variants": {
+            "01": {
+                "title": "Bikini"
+            },
+            "02": {
+                "title": "Vacation"
+            },
+            "10": {
+                "title": "Wetsuit"
+            }
+        }
+    },
+    "c372": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "School Swimsuit"
+            },
+            "02": {
+                "title": "Summer"
+            },
+            "10": {
+                "title": "Sports Bikini"
+            }
+        }
+    },
+    "c373": {
+        "name": "Midas",
+        "variants": {
+            "01": {
+                "title": "Ruffian"
+            },
+            "02": {
+                "title": "Black-Winged Messenger"
+            }
+        }
+    },
+    "c374": {
+        "name": "Hildr",
+        "variants": {
+            "01": {
+                "title": "Bridal"
+            },
+            "02": {
+                "title": "Pure Bride"
+            }
+        }
+    },
+    "c377": {
+        "name": "Iphis",
+        "variants": {
+            "00": {
+                "title": "Mortal Realm"
+            },
+            "01": {
+                "title": "Romantic"
+            },
+            "02": {
+                "title": "Scarlet"
+            },
+            "10": {
+                "title": "Bridal"
+            },
+            "11": {
+                "title": "Shadow"
+            },
+            "89": {
+                "title": "Bridal"
+            }
+        }
+    },
+    "c378": {
+        "name": "Touka",
+        "variants": {
+            "00": {
+                "title": "Katsuragi"
+            },
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Darkness Clad"
+            }
+        }
+    },
+    "c379": {
+        "name": "Athena",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Benign Devotion"
+            }
+        }
+    },
+    "c382": {
+        "name": "Neamhain",
+        "variants": {
+            "01": {
+                "title": "Catgirl"
+            },
+            "02": {
+                "title": "Battle Kitty"
+            }
+        }
+    },
+    "c383": {
+        "name": "Frej",
+        "variants": {
+            "01": {
+                "title": "Resurrected"
+            },
+            "02": {
+                "title": "Unleashed"
+            },
+            "11": {
+                "title": "Cursed Doll"
+            }
+        }
+    },
+    "c385": {
+        "name": "Marie Rose",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Battlesuit"
+            },
+            "10": {
+                "title": "Swimsuit"
+            },
+            "11": {
+                "title": "Russian Blue"
+            },
+            "12": {
+                "title": "Minuet"
+            }
+        }
+    },
+    "c386": {
+        "name": "Kasumi",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Immaculate White"
+            },
+            "10": {
+                "title": "Geranium"
+            },
+            "11": {
+                "title": "Nemophila"
+            },
+            "12": {
+                "title": "Margarita"
+            }
+        }
+    },
+    "c387": {
+        "name": "Honoka",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Casual"
+            },
+            "10": {
+                "title": "Moo-Moo Denim"
+            },
+            "11": {
+                "title": "Delphinium"
+            }
+        }
+    },
+    "c390": {
+        "name": "Eochaid",
+        "variants": {
+            "01": {
+                "title": "Witch"
+            },
+            "02": {
+                "title": "Death March"
+            },
+            "88": {
+                "title": "Death March"
+            }
+        }
+    },
+    "c391": {
+        "name": "Medb",
+        "variants": {
+            "01": {
+                "title": "Party Star"
+            },
+            "02": {
+                "title": "Party Night"
+            }
+        }
+    },
+    "c394": {
+        "name": "Bathory",
+        "variants": {
+            "01": {
+                "title": "Courtesan"
+            },
+            "02": {
+                "title": "Supreme Courtesan"
+            }
+        }
+    },
+    "c395": {
+        "name": "Eve",
+        "variants": {
+            "01": {
+                "title": "Mysterious Student"
+            },
+            "02": {
+                "title": "Pink Blazer"
+            }
+        }
+    },
+    "c396": {
+        "name": "Werewolf",
+        "variants": {
+            "01": {
+                "title": "Dancing Maiden"
+            },
+            "02": {
+                "title": "Oracle"
+            }
+        }
+    },
+    "c397": {
+        "name": "Leda",
+        "variants": {
+            "01": {
+                "title": "Christmas"
+            },
+            "02": {
+                "title": "Sexy Santa"
+            }
+        }
+    },
+    "c401": {
+        "name": "SNOW MIKU",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "PRINCESS"
+            }
+        }
+    },
+    "c402": {
+        "name": "Noel",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Fourth Squadron"
+            },
+            "10": {
+                "title": ""
+            }
+        }
+    },
+    "c403": {
+        "name": "Makoto",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "NOL Intel Dept"
+            }
+        }
+    },
+    "c404": {
+        "name": "Nine",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Six Heroes"
+            }
+        }
+    },
+    "c406": {
+        "name": "Serval",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Savanna"
+            }
+        }
+    },
+    "c407": {
+        "name": "Raccoon",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Arboreal"
+            }
+        }
+    },
+    "c408": {
+        "name": "Fennec",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Desert"
+            }
+        }
+    },
+    "c419": {
+        "name": "Catherine",
+        "variants": {
+            "01": {
+                "title": "Cheating"
+            },
+            "02": {
+                "title": "Inverted & Devilish"
+            }
+        }
+    },
+    "c420": {
+        "name": "Katherine",
+        "variants": {
+            "01": {
+                "title": "Girlfriend"
+            },
+            "02": {
+                "title": "Pure Bride"
+            },
+            "10": {
+                "title": "Wild Crimson"
+            },
+            "89": {
+                "title": "Wild Crimson"
+            }
+        }
+    },
+    "c421": {
+        "name": "Rin",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Pure"
+            }
+        }
+    },
+    "m001": {
+        "name": "Fire Bat",
+        "variants": {
+            "01": {
+                "title": "Obese"
+            },
+            "02": {
+                "title": "Giant"
+            }
+        }
+    },
+    "m002": {
+        "name": "Ice Bat",
+        "variants": {
+            "01": {
+                "title": "Obese"
+            },
+            "02": {
+                "title": "Giant"
+            }
+        }
+    },
+    "m003": {
+        "name": "Fire Dragon",
+        "variants": {
+            "01": {
+                "title": "Furious"
+            },
+            "02": {
+                "title": "Enraged"
+            }
+        }
+    },
+    "m004": {
+        "name": "Ice Dragon",
+        "variants": {
+            "01": {
+                "title": "Cold-Blooded"
+            },
+            "02": {
+                "title": "Subzero"
+            }
+        }
+    },
+    "m005": {
+        "name": "YumNyam",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "m006": {
+        "name": "Long-Ears",
+        "variants": {
+            "01": {
+                "title": "Noisy"
+            },
+            "02": {
+                "title": "Mad"
+            }
+        }
+    },
+    "m007": {
+        "name": "Teddy",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Tattered"
+            },
+            "02": {
+                "title": "Chaotic"
+            }
+        }
+    },
+    "m008": {
+        "name": "Gelatin",
+        "variants": {
+            "01": {
+                "title": "Strawberry"
+            },
+            "02": {
+                "title": "Strawberry"
+            }
+        }
+    },
+    "m009": {
+        "name": "Gelatin",
+        "variants": {
+            "01": {
+                "title": "Soda Pop"
+            },
+            "02": {
+                "title": "Soda Pop"
+            }
+        }
+    },
+    "m010": {
+        "name": "Pudding",
+        "variants": {
+            "01": {
+                "title": "Soda Pop"
+            },
+            "02": {
+                "title": "Soda Pop"
+            }
+        }
+    },
+    "m011": {
+        "name": "Pudding",
+        "variants": {
+            "01": {
+                "title": "Strawberry"
+            },
+            "02": {
+                "title": "Strawberry"
+            }
+        }
+    },
+    "m012": {
+        "name": "Dondon",
+        "variants": {
+            "01": {
+                "title": "One-Year"
+            },
+            "02": {
+                "title": "Multi-Year"
+            }
+        }
+    },
+    "m013": {
+        "name": "Ragdoll",
+        "variants": {
+            "01": {
+                "title": "Carrot"
+            },
+            "02": {
+                "title": "Famished"
+            }
+        }
+    },
+    "m015": {
+        "name": "Sandfox",
+        "variants": {
+            "01": {
+                "title": "Solar"
+            },
+            "02": {
+                "title": "Fairy"
+            }
+        }
+    },
+    "m017": {
+        "name": "Root",
+        "variants": {
+            "01": {
+                "title": "Justice"
+            },
+            "02": {
+                "title": "Airtight"
+            }
+        }
+    },
+    "m018": {
+        "name": "Pom",
+        "variants": {
+            "01": {
+                "title": "Fate"
+            },
+            "02": {
+                "title": "Destiny"
+            }
+        }
+    },
+    "m021": {
+        "name": "Donkey",
+        "variants": {
+            "01": {
+                "title": "Idle"
+            },
+            "02": {
+                "title": "Pleasure-Seeking"
+            }
+        }
+    },
+    "m022": {
+        "name": "Puppy",
+        "variants": {
+            "01": {
+                "title": "Free"
+            },
+            "02": {
+                "title": "Obedient"
+            }
+        }
+    },
+    "m023": {
+        "name": "Lizard",
+        "variants": {
+            "01": {
+                "title": "Crescent"
+            },
+            "02": {
+                "title": "Stone Crescent"
+            }
+        }
+    },
+    "m025": {
+        "name": "Berry",
+        "variants": {
+            "01": {
+                "title": "Warrior"
+            },
+            "02": {
+                "title": "Berserker"
+            }
+        }
+    },
+    "m026": {
+        "name": "Chick",
+        "variants": {
+            "01": {
+                "title": "Lazy"
+            },
+            "02": {
+                "title": "Lazy"
+            }
+        }
+    },
+    "m027": {
+        "name": "Mandrake Seeds",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": ""
+            }
+        }
+    },
+    "m028": {
+        "name": "Squirrel",
+        "variants": {
+            "01": {
+                "title": "Ouro"
+            },
+            "02": {
+                "title": "Ouro"
+            }
+        }
+    },
+    "m029": {
+        "name": "Tooth",
+        "variants": {
+            "01": {
+                "title": "Glowing"
+            },
+            "02": {
+                "title": "Flaming"
+            }
+        }
+    },
+    "m030": {
+        "name": "Ball",
+        "variants": {
+            "01": {
+                "title": "Green"
+            },
+            "02": {
+                "title": "E-Green"
+            }
+        }
+    },
+    "m031": {
+        "name": "Tree",
+        "variants": {
+            "01": {
+                "title": "Dreary"
+            },
+            "02": {
+                "title": "Old"
+            }
+        }
+    },
+    "m035": {
+        "name": "Gremlin",
+        "variants": {
+            "01": {
+                "title": "Barbaric"
+            },
+            "02": {
+                "title": "Chief"
+            }
+        }
+    },
+    "m036": {
+        "name": "Messenger",
+        "variants": {
+            "01": {
+                "title": "Voice"
+            },
+            "02": {
+                "title": "Deadly Voice"
+            }
+        }
+    },
+    "m037": {
+        "name": "Chaser",
+        "variants": {
+            "01": {
+                "title": "Dark Night"
+            },
+            "02": {
+                "title": "Nightmare"
+            }
+        }
+    },
+    "m038": {
+        "name": "Diablo",
+        "variants": {
+            "01": {
+                "title": "White Winged"
+            },
+            "02": {
+                "title": "Black Winged"
+            },
+            "10": {
+                "title": "Evil Flower"
+            }
+        }
+    },
+    "m039": {
+        "name": "Kali Yuga",
+        "variants": {
+            "01": {
+                "title": "Destructive"
+            },
+            "02": {
+                "title": "Extinct"
+            }
+        }
+    },
+    "m040": {
+        "name": "Chain Killer",
+        "variants": {
+            "01": {
+                "title": "Standard"
+            },
+            "02": {
+                "title": "Custom"
+            }
+        }
+    },
+    "m045": {
+        "name": "Takeuchi",
+        "variants": {
+            "00": {
+                "title": "Junko"
+            },
+            "01": {
+                "title": "Lonely"
+            },
+            "02": {
+                "title": "Obsessed"
+            }
+        }
+    },
+    "m047": {
+        "name": "Egg",
+        "variants": {
+            "01": {
+                "title": "Mysterious"
+            },
+            "02": {
+                "title": "Columbus"
+            }
+        }
+    },
+    "m048": {
+        "name": "Bunny",
+        "variants": {
+            "01": {
+                "title": "Back"
+            },
+            "02": {
+                "title": "Front"
+            }
+        }
+    },
+    "m049": {
+        "name": "Akiyama",
+        "variants": {
+            "00": {
+                "title": "Tetsuji"
+            },
+            "01": {
+                "title": "Old"
+            },
+            "02": {
+                "title": "Fresh"
+            }
+        }
+    },
+    "m050": {
+        "name": "Yamaguchi",
+        "variants": {
+            "00": {
+                "title": "Akio"
+            },
+            "01": {
+                "title": "Dawn"
+            },
+            "02": {
+                "title": "Midday"
+            }
+        }
+    },
+    "m051": {
+        "name": "Kyogoku",
+        "variants": {
+            "00": {
+                "title": "Wakako"
+            },
+            "01": {
+                "title": "Seething"
+            },
+            "02": {
+                "title": "Purgatory"
+            },
+            "10": {
+                "title": "Dead End"
+            }
+        }
+    },
+    "m052": {
+        "name": "Basilisk",
+        "variants": {
+            "01": {
+                "title": "Desert"
+            },
+            "02": {
+                "title": "Plains"
+            }
+        }
+    },
+    "m053": {
+        "name": "Mizukami",
+        "variants": {
+            "00": {
+                "title": "Enka"
+            },
+            "01": {
+                "title": "Chaotic"
+            },
+            "02": {
+                "title": "Greedy"
+            }
+        }
+    },
+    "m054": {
+        "name": "Mariko",
+        "variants": {
+            "00": {
+                "title": "Morishige"
+            },
+            "01": {
+                "title": "Judge"
+            },
+            "02": {
+                "title": "Extinct"
+            }
+        }
+    },
+    "m056": {
+        "name": "Manyuda",
+        "variants": {
+            "00": {
+                "title": "Makiko"
+            },
+            "01": {
+                "title": "Villainous"
+            },
+            "02": {
+                "title": "Heavy Fire"
+            }
+        }
+    },
+    "m057": {
+        "name": "Kurotatsu",
+        "variants": {
+            "00": {
+                "title": "Kotaro"
+            },
+            "01": {
+                "title": "Blue Shadow"
+            },
+            "02": {
+                "title": "Black Shadow"
+            },
+            "10": {
+                "title": "Azure Night"
+            }
+        }
+    },
+    "m059": {
+        "name": "Screw Needle",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Green Helmet"
+            },
+            "02": {
+                "title": "Red Helmet"
+            }
+        }
+    },
+    "m061": {
+        "name": "Syringe",
+        "variants": {
+            "01": {
+                "title": "Strawberry"
+            },
+            "02": {
+                "title": "Strawberry"
+            }
+        }
+    },
+    "m062": {
+        "name": "Syringe",
+        "variants": {
+            "01": {
+                "title": "Grape"
+            },
+            "02": {
+                "title": "Grape"
+            }
+        }
+    },
+    "m063": {
+        "name": "Syringe",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Poison"
+            },
+            "02": {
+                "title": "New Poison"
+            }
+        }
+    },
+    "m064": {
+        "name": "Pukli",
+        "variants": {
+            "01": {
+                "title": "Piglet"
+            },
+            "02": {
+                "title": "Piglet"
+            }
+        }
+    },
+    "m065": {
+        "name": "Kokuri",
+        "variants": {
+            "01": {
+                "title": "Piglet"
+            },
+            "02": {
+                "title": "Piglet"
+            }
+        }
+    },
+    "m066": {
+        "name": "Kukuri",
+        "variants": {
+            "01": {
+                "title": "Piglet"
+            },
+            "02": {
+                "title": "Piglet"
+            }
+        }
+    },
+    "m067": {
+        "name": "Food",
+        "variants": {
+            "01": {
+                "title": "Aqua"
+            },
+            "02": {
+                "title": "B. Aqua"
+            }
+        }
+    },
+    "m068": {
+        "name": "Food",
+        "variants": {
+            "01": {
+                "title": "Dark"
+            },
+            "02": {
+                "title": "B. Dark"
+            }
+        }
+    },
+    "m069": {
+        "name": "Food",
+        "variants": {
+            "01": {
+                "title": "Light"
+            },
+            "02": {
+                "title": "B. Light"
+            }
+        }
+    },
+    "m070": {
+        "name": "Red Chain",
+        "variants": {
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Liberated"
+            }
+        }
+    },
+    "m071": {
+        "name": "Green Chain",
+        "variants": {
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Liberated"
+            }
+        }
+    },
+    "m072": {
+        "name": "Blue Chain",
+        "variants": {
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Liberated"
+            }
+        }
+    },
+    "m073": {
+        "name": "Cube",
+        "variants": {
+            "01": {
+                "title": "Cure"
+            },
+            "02": {
+                "title": "Cure"
+            }
+        }
+    },
+    "m074": {
+        "name": "Cube",
+        "variants": {
+            "01": {
+                "title": "Poison"
+            },
+            "02": {
+                "title": "Poison"
+            }
+        }
+    },
+    "m075": {
+        "name": "Cube",
+        "variants": {
+            "01": {
+                "title": "Evil"
+            },
+            "02": {
+                "title": "Evil"
+            }
+        }
+    },
+    "m076": {
+        "name": "Cube",
+        "variants": {
+            "01": {
+                "title": "Honey"
+            },
+            "02": {
+                "title": "Honey"
+            }
+        }
+    },
+    "m077": {
+        "name": "Moa",
+        "variants": {
+            "01": {
+                "title": "Cube"
+            },
+            "02": {
+                "title": "Big Cube"
+            },
+            "10": {
+                "title": "Gloomy"
+            }
+        }
+    },
+    "m078": {
+        "name": "Cocoon",
+        "variants": {
+            "01": {
+                "title": "Emerald"
+            },
+            "02": {
+                "title": "Emerald"
+            }
+        }
+    },
+    "m080": {
+        "name": "Cocoon",
+        "variants": {
+            "01": {
+                "title": "Ruby"
+            },
+            "02": {
+                "title": "Ruby"
+            }
+        }
+    },
+    "m081": {
+        "name": "Cocoon",
+        "variants": {
+            "01": {
+                "title": "Citrine"
+            },
+            "02": {
+                "title": "Citrine"
+            }
+        }
+    },
+    "m082": {
+        "name": "Cocoon",
+        "variants": {
+            "01": {
+                "title": "Sapphire"
+            },
+            "02": {
+                "title": "Sapphire"
+            }
+        }
+    },
+    "m083": {
+        "name": "Cocoon",
+        "variants": {
+            "01": {
+                "title": "Amethyst"
+            },
+            "02": {
+                "title": "Amethyst"
+            }
+        }
+    },
+    "m084": {
+        "name": "Cube",
+        "variants": {
+            "01": {
+                "title": "Pie"
+            },
+            "02": {
+                "title": "Pie"
+            }
+        }
+    },
+    "m086": {
+        "name": "Light Chain",
+        "variants": {
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Liberated"
+            }
+        }
+    },
+    "m087": {
+        "name": "Dark Chain",
+        "variants": {
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Liberated"
+            }
+        }
+    },
+    "m089": {
+        "name": "Mukuri",
+        "variants": {
+            "01": {
+                "title": "Piglet"
+            },
+            "02": {
+                "title": "Piglet"
+            }
+        }
+    },
+    "m090": {
+        "name": "Fukli",
+        "variants": {
+            "01": {
+                "title": "Piglet"
+            },
+            "02": {
+                "title": "Piglet"
+            }
+        }
+    },
+    "m092": {
+        "name": "Syringe",
+        "variants": {
+            "01": {
+                "title": "Mint"
+            },
+            "02": {
+                "title": "Mint"
+            }
+        }
+    },
+    "m093": {
+        "name": "Syringe",
+        "variants": {
+            "01": {
+                "title": "Apple"
+            },
+            "02": {
+                "title": "Apple"
+            }
+        }
+    },
+    "m095": {
+        "name": "Syringe",
+        "variants": {
+            "01": {
+                "title": "Soda Pop"
+            },
+            "02": {
+                "title": "Soda Pop"
+            }
+        }
+    },
+    "m096": {
+        "name": "Ball",
+        "variants": {
+            "01": {
+                "title": "Light"
+            },
+            "02": {
+                "title": "E. Light"
+            }
+        }
+    },
+    "m097": {
+        "name": "Ball",
+        "variants": {
+            "01": {
+                "title": "Blue"
+            },
+            "02": {
+                "title": "E. Blue"
+            }
+        }
+    },
+    "m098": {
+        "name": "Ball",
+        "variants": {
+            "01": {
+                "title": "Purple"
+            },
+            "02": {
+                "title": "E. Purple"
+            }
+        }
+    },
+    "m100": {
+        "name": "Ball",
+        "variants": {
+            "01": {
+                "title": "Red"
+            },
+            "02": {
+                "title": "E. Red"
+            }
+        }
+    },
+    "m101": {
+        "name": "Red Bloop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m102": {
+        "name": "Blue Bloop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m103": {
+        "name": "Yellow Bloop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m104": {
+        "name": "Purple Bloop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m105": {
+        "name": "Green Bloop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m107": {
+        "name": "Food",
+        "variants": {
+            "01": {
+                "title": "Green"
+            },
+            "02": {
+                "title": "B. Green"
+            }
+        }
+    },
+    "m109": {
+        "name": "Food",
+        "variants": {
+            "01": {
+                "title": "Fire"
+            },
+            "02": {
+                "title": "B. Fire"
+            }
+        }
+    },
+    "m110": {
+        "name": "Gron",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Gron"
+            }
+        }
+    },
+    "m111": {
+        "name": "Firon",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Firon"
+            }
+        }
+    },
+    "m112": {
+        "name": "Bluron",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Bluron"
+            }
+        }
+    },
+    "m113": {
+        "name": "Daron",
+        "variants": {
+            "02": {
+                "title": "Daron"
+            }
+        }
+    },
+    "m114": {
+        "name": "Liron",
+        "variants": {
+            "01": {
+                "title": ""
+            },
+            "02": {
+                "title": "Liron"
+            }
+        }
+    },
+    "m116": {
+        "name": "Bow-Wow",
+        "variants": {
+            "01": {
+                "title": "Dispenser"
+            },
+            "02": {
+                "title": "Champion"
+            }
+        }
+    },
+    "m117": {
+        "name": "Dummy",
+        "variants": {
+            "01": {
+                "title": "G. Cat"
+            },
+            "02": {
+                "title": "G. Cat"
+            }
+        }
+    },
+    "m118": {
+        "name": "Slasher",
+        "variants": {
+            "01": {
+                "title": "Katana"
+            },
+            "02": {
+                "title": "Stubborn"
+            }
+        }
+    },
+    "m119": {
+        "name": "Ninja",
+        "variants": {
+            "01": {
+                "title": "Katana"
+            },
+            "02": {
+                "title": "Stubborn"
+            }
+        }
+    },
+    "m120": {
+        "name": "Assassin",
+        "variants": {
+            "01": {
+                "title": "Katana"
+            },
+            "02": {
+                "title": "Stubborn"
+            }
+        }
+    },
+    "m121": {
+        "name": "Warrior",
+        "variants": {
+            "01": {
+                "title": "Katana"
+            },
+            "02": {
+                "title": "Stubborn"
+            }
+        }
+    },
+    "m123": {
+        "name": "Shadow",
+        "variants": {
+            "01": {
+                "title": "Katana"
+            },
+            "02": {
+                "title": "Stubborn"
+            }
+        }
+    },
+    "m124": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Red"
+            },
+            "02": {
+                "title": "Hellfire"
+            }
+        }
+    },
+    "m125": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Blue"
+            },
+            "02": {
+                "title": "Freezing"
+            }
+        }
+    },
+    "m126": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Darkness"
+            },
+            "02": {
+                "title": "Darkest"
+            }
+        }
+    },
+    "m127": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Green"
+            },
+            "02": {
+                "title": "Dark Green"
+            }
+        }
+    },
+    "m128": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Light"
+            },
+            "02": {
+                "title": "Sun"
+            }
+        }
+    },
+    "m130": {
+        "name": "Popper",
+        "variants": {
+            "01": {
+                "title": "Red"
+            },
+            "02": {
+                "title": "Fire"
+            }
+        }
+    },
+    "m131": {
+        "name": "Popper",
+        "variants": {
+            "01": {
+                "title": "Blue"
+            },
+            "02": {
+                "title": "Aqua"
+            }
+        }
+    },
+    "m132": {
+        "name": "Popper",
+        "variants": {
+            "01": {
+                "title": "Green"
+            },
+            "02": {
+                "title": "Grass"
+            }
+        }
+    },
+    "m133": {
+        "name": "Popper",
+        "variants": {
+            "01": {
+                "title": "Yellow"
+            },
+            "02": {
+                "title": "Light"
+            }
+        }
+    },
+    "m134": {
+        "name": "Popper",
+        "variants": {
+            "01": {
+                "title": "Black"
+            },
+            "02": {
+                "title": "Dark"
+            }
+        }
+    },
+    "m136": {
+        "name": "Kagiwada",
+        "variants": {
+            "00": {
+                "title": "Katsuko"
+            },
+            "01": {
+                "title": "Bound"
+            },
+            "02": {
+                "title": "Mad"
+            }
+        }
+    },
+    "m137": {
+        "name": "Bellboy",
+        "variants": {
+            "01": {
+                "title": "Bowtie"
+            },
+            "02": {
+                "title": "Mad"
+            },
+            "10": {
+                "title": "Gravekeeper"
+            }
+        }
+    },
+    "m139": {
+        "name": "Aurora Bloop",
+        "variants": {
+            "01": {
+                "title": "Flashy"
+            }
+        }
+    },
+    "m141": {
+        "name": "Mushikabe",
+        "variants": {
+            "00": {
+                "title": "Munetaka"
+            },
+            "01": {
+                "title": "Dream"
+            },
+            "02": {
+                "title": "Nightmare"
+            }
+        }
+    },
+    "m142": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Red"
+            },
+            "02": {
+                "title": "Flame"
+            }
+        }
+    },
+    "m143": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Blue"
+            },
+            "02": {
+                "title": "Flood"
+            }
+        }
+    },
+    "m144": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Green"
+            },
+            "02": {
+                "title": "Bloom"
+            }
+        }
+    },
+    "m145": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Light"
+            },
+            "02": {
+                "title": "Flash"
+            }
+        }
+    },
+    "m146": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Purple"
+            },
+            "02": {
+                "title": "Darkness"
+            }
+        }
+    },
+    "m148": {
+        "name": "Won",
+        "variants": {
+            "01": {
+                "title": "Noise"
+            },
+            "02": {
+                "title": "Noise"
+            }
+        }
+    },
+    "m149": {
+        "name": "Hertz",
+        "variants": {
+            "01": {
+                "title": "DJ"
+            },
+            "02": {
+                "title": "Revolution"
+            }
+        }
+    },
+    "m150": {
+        "name": "Hat-Trick",
+        "variants": {
+            "01": {
+                "title": "Fake"
+            },
+            "02": {
+                "title": "Checkmate"
+            }
+        }
+    },
+    "m151": {
+        "name": "Arms",
+        "variants": {
+            "01": {
+                "title": "Mad Bunny"
+            },
+            "02": {
+                "title": "Mad Bunny"
+            }
+        }
+    },
+    "m152": {
+        "name": "Fighter",
+        "variants": {
+            "01": {
+                "title": "Sneaker"
+            },
+            "02": {
+                "title": "Sneaker"
+            },
+            "10": {
+                "title": "Midnight"
+            }
+        }
+    },
+    "m153": {
+        "name": "Manti",
+        "variants": {
+            "01": {
+                "title": "Bad Dream"
+            },
+            "02": {
+                "title": "Nightmare"
+            }
+        }
+    },
+    "m154": {
+        "name": "Mayomi",
+        "variants": {
+            "00": {
+                "title": "Yano"
+            },
+            "01": {
+                "title": "Dark"
+            },
+            "02": {
+                "title": "Red"
+            }
+        }
+    },
+    "m155": {
+        "name": "Red Drop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m156": {
+        "name": "Yellow Drop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m157": {
+        "name": "Green Drop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m158": {
+        "name": "Blue Drop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m159": {
+        "name": "Purple Drop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m160": {
+        "name": "Aurora Drop",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m161": {
+        "name": "Red Blobbie",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m162": {
+        "name": "Yellow Blobbie",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m163": {
+        "name": "Green Blobbie",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m164": {
+        "name": "Blue Blobbie",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m165": {
+        "name": "Purple Blobbie",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m166": {
+        "name": "Aurora Blobbie",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m167": {
+        "name": "Red Heart",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m168": {
+        "name": "Yellow Heart",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m169": {
+        "name": "Green Heart",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m170": {
+        "name": "Blue Heart",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m171": {
+        "name": "Purple Heart",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m172": {
+        "name": "Aurora Heart",
+        "variants": {
+            "01": {
+                "title": "Small"
+            },
+            "02": {
+                "title": "Small"
+            }
+        }
+    },
+    "m173": {
+        "name": "Red Heart",
+        "variants": {
+            "01": {
+                "title": "Big"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m174": {
+        "name": "Yellow Heart",
+        "variants": {
+            "01": {
+                "title": "Big"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m175": {
+        "name": "Green Heart",
+        "variants": {
+            "01": {
+                "title": "Big"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m176": {
+        "name": "Blue Heart",
+        "variants": {
+            "01": {
+                "title": "Big"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m177": {
+        "name": "Purple Heart",
+        "variants": {
+            "01": {
+                "title": "Big"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m178": {
+        "name": "Aurora Heart",
+        "variants": {
+            "01": {
+                "title": "Big"
+            },
+            "02": {
+                "title": "Big"
+            }
+        }
+    },
+    "m185": {
+        "name": "Actyon",
+        "variants": {
+            "01": {
+                "title": "Silent"
+            },
+            "02": {
+                "title": "Reclusive"
+            },
+            "10": {
+                "title": "Dark Night"
+            }
+        }
+    },
+    "m187": {
+        "name": "Dagon",
+        "variants": {
+            "01": {
+                "title": "Drifting"
+            },
+            "02": {
+                "title": "Wandering"
+            }
+        }
+    },
+    "m188": {
+        "name": "Gold Coin",
+        "variants": {
+            "01": {
+                "title": "Ancient"
+            },
+            "02": {
+                "title": "Greedy"
+            }
+        }
+    },
+    "m189": {
+        "name": "Mimic",
+        "variants": {
+            "01": {
+                "title": "Startling"
+            },
+            "02": {
+                "title": "Horror"
+            }
+        }
+    },
+    "m190": {
+        "name": "Boxer",
+        "variants": {
+            "01": {
+                "title": "Hot-Blooded"
+            },
+            "02": {
+                "title": "Fiery"
+            }
+        }
+    },
+    "m191": {
+        "name": "Tombstone",
+        "variants": {
+            "00": {
+                "title": "Chimera's"
+            },
+            "01": {
+                "title": "Silent"
+            },
+            "02": {
+                "title": "Apocalyptic"
+            }
+        }
+    },
+    "m192": {
+        "name": "Blood Dragon",
+        "variants": {
+            "01": {
+                "title": "Flame King"
+            },
+            "02": {
+                "title": "Flame Emperor"
+            }
+        }
+    },
+    "m193": {
+        "name": "Pompoms",
+        "variants": {
+            "01": {
+                "title": "Yackety"
+            },
+            "02": {
+                "title": "Jabbering"
+            }
+        }
+    },
+    "m194": {
+        "name": "Gron",
+        "variants": {
+            "01": {
+                "title": "Green-Feathered"
+            },
+            "02": {
+                "title": "Green Winged"
+            }
+        }
+    },
+    "m195": {
+        "name": "Liron",
+        "variants": {
+            "01": {
+                "title": "Light-Feathered"
+            },
+            "02": {
+                "title": "Light-Winged"
+            }
+        }
+    },
+    "m196": {
+        "name": "Firon",
+        "variants": {
+            "01": {
+                "title": "Red-Feathered"
+            },
+            "02": {
+                "title": "Red-Winged"
+            }
+        }
+    },
+    "m197": {
+        "name": "Charonn",
+        "variants": {
+            "01": {
+                "title": "Water-Feathered"
+            },
+            "02": {
+                "title": "Water-Winged"
+            }
+        }
+    },
+    "m198": {
+        "name": "Daron",
+        "variants": {
+            "01": {
+                "title": "Black-Feathered"
+            },
+            "02": {
+                "title": "Black-Winged"
+            }
+        }
+    },
+    "m199": {
+        "name": "Azure Dragon",
+        "variants": {
+            "01": {
+                "title": "Ice King"
+            },
+            "02": {
+                "title": "Ice Emperor"
+            }
+        }
+    },
+    "m200": {
+        "name": "Ankh",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Guard"
+            },
+            "02": {
+                "title": "Enforcer"
+            }
+        }
+    },
+    "m201": {
+        "name": "Screw",
+        "variants": {
+            "00": {
+                "title": "Mister"
+            },
+            "01": {
+                "title": "Bombing"
+            },
+            "02": {
+                "title": "Blasting"
+            }
+        }
+    },
+    "m202": {
+        "name": "Screw",
+        "variants": {
+            "00": {
+                "title": ""
+            },
+            "01": {
+                "title": "Armed"
+            },
+            "02": {
+                "title": "Teeth Armed"
+            }
+        }
+    },
+    "m203": {
+        "name": "Bremen",
+        "variants": {
+            "01": {
+                "title": "Twirling"
+            },
+            "02": {
+                "title": "Spinning"
+            }
+        }
+    },
+    "m206": {
+        "name": "Boss Pig",
+        "variants": {
+            "01": {
+                "title": "Relentless"
+            },
+            "02": {
+                "title": "Murderous"
+            }
+        }
+    },
+    "m211": {
+        "name": "Angel Lot",
+        "variants": {
+            "01": {
+                "title": "Archer"
+            },
+            "02": {
+                "title": "Sharpshooter"
+            }
+        }
+    },
+    "m212": {
+        "name": "Rune",
+        "variants": {
+            "01": {
+                "title": "Emerald"
+            },
+            "02": {
+                "title": "Pharaoh"
+            }
+        }
+    },
+    "m215": {
+        "name": "Aurora King",
+        "variants": {
+            "01": {
+                "title": "Passionate Ruler"
+            },
+            "02": {
+                "title": "Fervent Ruler"
+            },
+            "88": {
+                "title": "Passionate Ruler"
+            },
+            "89": {
+                "title": "Fervent Ruler"
+            }
+        }
+    },
+    "m216": {
+        "name": "Fairy",
+        "variants": {
+            "01": {
+                "title": "Silent"
+            },
+            "02": {
+                "title": "Holiday"
+            }
+        }
+    },
+    "m217": {
+        "name": "Red Nose",
+        "variants": {
+            "01": {
+                "title": "Silent"
+            },
+            "02": {
+                "title": "Holiday"
+            }
+        }
+    },
+    "m223": {
+        "name": "Gift Bag",
+        "variants": {
+            "01": {
+                "title": "Good Kid's"
+            },
+            "02": {
+                "title": "Bad Kid's"
+            }
+        }
+    },
+    "m225": {
+        "name": "Cosmim",
+        "variants": {
+            "01": {
+                "title": "Hyper"
+            },
+            "02": {
+                "title": "Hyper"
+            }
+        }
+    },
+    "m228": {
+        "name": "Charinn",
+        "variants": {
+            "89": {
+                "title": "Golden"
+            }
+        }
+    },
+    "m229": {
+        "name": "Cosmim",
+        "variants": {
+            "01": {
+                "title": "Super"
+            },
+            "02": {
+                "title": "Super"
+            }
+        }
+    },
+    "m230": {
+        "name": "Cosmim",
+        "variants": {
+            "01": {
+                "title": "Giga"
+            },
+            "02": {
+                "title": "Giga"
+            }
+        }
+    },
+    "m231": {
+        "name": "Cross",
+        "variants": {
+            "01": {
+                "title": "Grave"
+            },
+            "02": {
+                "title": "Deadman's"
+            }
+        }
+    },
+    "m232": {
+        "name": "Charinn",
+        "variants": {
+            "89": {
+                "title": "Golden"
+            }
+        }
+    },
+    "m233": {
+        "name": "Charinn",
+        "variants": {
+            "89": {
+                "title": "Golden"
+            }
+        }
+    },
+    "m234": {
+        "name": "Charinn",
+        "variants": {
+            "89": {
+                "title": "Golden"
+            }
+        }
+    },
+    "m235": {
+        "name": "Charinn",
+        "variants": {
+            "89": {
+                "title": "Golden"
+            }
+        }
+    },
+    "m236": {
+        "name": "Aurora King",
+        "variants": {
+            "89": {
+                "title": "Giant"
+            }
+        }
+    },
+    "m237": {
+        "name": "Aurora King",
+        "variants": {
+            "89": {
+                "title": "Giant"
+            }
+        }
+    },
+    "m238": {
+        "name": "Aurora King",
+        "variants": {
+            "89": {
+                "title": "Giant"
+            }
+        }
+    },
+    "m239": {
+        "name": "Aurora King",
+        "variants": {
+            "89": {
+                "title": "Giant"
+            }
+        }
+    },
+    "m245": {
+        "name": "Creature",
+        "variants": {
+            "01": {
+                "title": "Abandoned"
+            },
+            "02": {
+                "title": "The Creator's"
+            }
+        }
+    },
+    "m253": {
+        "name": "YUKINE",
+        "variants": {
+            "01": {
+                "title": "Rabbit"
+            },
+            "02": {
+                "title": "Rabbit"
+            }
+        }
+    },
+    "m254": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Mini"
+            },
+            "02": {
+                "title": "Mascot"
+            }
+        }
+    },
+    "m255": {
+        "name": "Ampoule",
+        "variants": {
+            "01": {
+                "title": "Toy"
+            },
+            "02": {
+                "title": "Venom"
+            }
+        }
+    },
+    "m256": {
+        "name": "Aurora King",
+        "variants": {
+            "89": {
+                "title": "Giant"
+            }
+        }
+    },
+    "m261": {
+        "name": "Moa",
+        "variants": {
+            "01": {
+                "title": "Two-Sided"
+            },
+            "02": {
+                "title": "Monochrome"
+            },
+            "88": {
+                "title": "Monochrome"
+            }
+        }
+    },
+    "m263": {
+        "name": "YUKINE",
+        "variants": {
+            "01": {
+                "title": "Rabbit"
+            }
+        }
+    },
+    "sc001": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc002": {
+        "name": "Lisa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc003": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc004": {
+        "name": "Cheoyong",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc005": {
+        "name": "Mars",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc007": {
+        "name": "Phoenix",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc008": {
+        "name": "Frigga",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc009": {
+        "name": "Hector",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc010": {
+        "name": "Demeter",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc011": {
+        "name": "Deino",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc012": {
+        "name": "Agamemnon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc013": {
+        "name": "Artemis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc014": {
+        "name": "Astraea",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc017": {
+        "name": "Cu Sith",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc018": {
+        "name": "Korra",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc019": {
+        "name": "Eris",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc020": {
+        "name": "Fortuna",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc022": {
+        "name": "Mayahuel",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc026": {
+        "name": "Eos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc027": {
+        "name": "Cynthia",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc028": {
+        "name": "Leda",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc029": {
+        "name": "Selene",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc030": {
+        "name": "Detective Girl",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc031": {
+        "name": "Freyja",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc032": {
+        "name": "Alecto",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc033": {
+        "name": "Diana",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc034": {
+        "name": "Mnemosyne",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc035": {
+        "name": "Persephone",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc036": {
+        "name": "Hermes",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc037": {
+        "name": "Judas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc038": {
+        "name": "Calypso",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc039": {
+        "name": "Morrigan",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc040": {
+        "name": "Shamash",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc041": {
+        "name": "Tiamat",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc043": {
+        "name": "Hera",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc044": {
+        "name": "Pantheon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc045": {
+        "name": "Aria",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc047": {
+        "name": "Hestia",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc048": {
+        "name": "Neamhain",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc049": {
+        "name": "Maat",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc051": {
+        "name": "Frej",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc052": {
+        "name": "Berit",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc053": {
+        "name": "Metis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc054": {
+        "name": "Legend",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc056": {
+        "name": "Jeanne d'Arc",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc057": {
+        "name": "Lan Fei",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc058": {
+        "name": "Nirrti",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc060": {
+        "name": "Tisiphone",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc061": {
+        "name": "Siren",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc062": {
+        "name": "Europa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc063": {
+        "name": "Freesia",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc065": {
+        "name": "Erato",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc066": {
+        "name": "Aten",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc067": {
+        "name": "Thanatos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc068": {
+        "name": "Ambrosia",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc069": {
+        "name": "Ptah",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc072": {
+        "name": "Fenrir",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc074": {
+        "name": "Quirinus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc082": {
+        "name": "Calchas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc083": {
+        "name": "Neith",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc086": {
+        "name": "Goga",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc090": {
+        "name": "Vulcan",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc095": {
+        "name": "Vesta",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc099": {
+        "name": "Melpomene",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc101": {
+        "name": "Syrinx",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc106": {
+        "name": "Medeia",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc107": {
+        "name": "Apollo",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc112": {
+        "name": "Elias",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc115": {
+        "name": "Sonnet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc117": {
+        "name": "Yaga",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc120": {
+        "name": "Flora",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc121": {
+        "name": "Muse",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc123": {
+        "name": "Baphomet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc124": {
+        "name": "Eve",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc126": {
+        "name": "Salmacis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc127": {
+        "name": "Bastet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc130": {
+        "name": "Genius",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc132": {
+        "name": "Midas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc133": {
+        "name": "Titania",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc135": {
+        "name": "Valkyrie",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc139": {
+        "name": "Pomona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc141": {
+        "name": "Amor",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc142": {
+        "name": "Hypnos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc147": {
+        "name": "Baal",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc148": {
+        "name": "Inanna",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc149": {
+        "name": "Rusalka",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc153": {
+        "name": "Epona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc154": {
+        "name": "Thoth",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc156": {
+        "name": "Elizabeth",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc158": {
+        "name": "Naias",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc164": {
+        "name": "Ishtar",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc167": {
+        "name": "Chang'e",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc169": {
+        "name": "Euros",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc172": {
+        "name": "Yuna",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc173": {
+        "name": "Daoine Sidhe",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc174": {
+        "name": "A.I",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc175": {
+        "name": "Red Cross",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc176": {
+        "name": "Eshu",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc178": {
+        "name": "Morgana",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc180": {
+        "name": "Mammon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc183": {
+        "name": "Dana",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc184": {
+        "name": "Elysion",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc187": {
+        "name": "Thetis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc188": {
+        "name": "Atalanta",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc189": {
+        "name": "Kratos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc190": {
+        "name": "Isis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc191": {
+        "name": "Sekhmet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc194": {
+        "name": "Ashtoreth",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc195": {
+        "name": "Cybele",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc196": {
+        "name": "Idun",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc198": {
+        "name": "Zelos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc199": {
+        "name": "Aurora",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc200": {
+        "name": "Seshat",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc202": {
+        "name": "Victorix",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc205": {
+        "name": "Merlin",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc208": {
+        "name": "Firo",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc209": {
+        "name": "Hecate",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc210": {
+        "name": "Tartarus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc214": {
+        "name": "Jupiter",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc216": {
+        "name": "Werewolf",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc220": {
+        "name": "Atropos",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc221": {
+        "name": "Jana",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc222": {
+        "name": "El Dorado",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc225": {
+        "name": "Rudolph",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc227": {
+        "name": "Mafdet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc229": {
+        "name": "Brownie",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc230": {
+        "name": "Skuld",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc232": {
+        "name": "Daphne",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc233": {
+        "name": "Arges",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc234": {
+        "name": "Hercules",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc235": {
+        "name": "Danu",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc238": {
+        "name": "Medb",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc242": {
+        "name": "Ailill",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc246": {
+        "name": "Krampus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc247": {
+        "name": "Myrina",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc253": {
+        "name": "Nicole",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc262": {
+        "name": "Daphnis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc266": {
+        "name": "Horus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc267": {
+        "name": "Cleopatra",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc274": {
+        "name": "Bast",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc277": {
+        "name": "Leuce",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc280": {
+        "name": "Tyche",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc283": {
+        "name": "Morgan",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc286": {
+        "name": "Verdelet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc289": {
+        "name": "Durandal",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc290": {
+        "name": "Brigid",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc292": {
+        "name": "Luin",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc294": {
+        "name": "Bathory",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc295": {
+        "name": "Unknown",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc296": {
+        "name": "Hildr",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc299": {
+        "name": "Santa Claus",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc300": {
+        "name": "Pietas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc301": {
+        "name": "Jacheongbi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc305": {
+        "name": "Rita",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc308": {
+        "name": "Kubaba",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc310": {
+        "name": "Bes",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc311": {
+        "name": "Khepri",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc312": {
+        "name": "Tyrving",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc316": {
+        "name": "Wodan",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc317": {
+        "name": "Babel",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc318": {
+        "name": "Bari",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc319": {
+        "name": "Willow Doryeong",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc324": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc332": {
+        "name": "Ganesha",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc336": {
+        "name": "Pan",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc338": {
+        "name": "Pomona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc344": {
+        "name": "Isolde",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc345": {
+        "name": "Anemone",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc346": {
+        "name": "Tristan",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc347": {
+        "name": "Dana",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc348": {
+        "name": "Mars♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc349": {
+        "name": "Saturn♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc350": {
+        "name": "Neptune♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc351": {
+        "name": "Venus♥",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc353": {
+        "name": "Charlotte",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc354": {
+        "name": "Demeter",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc355": {
+        "name": "Chang'e",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc360": {
+        "name": "Maat",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc364": {
+        "name": "Sytry",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc365": {
+        "name": "Lisa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc366": {
+        "name": "Deino",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc367": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc370": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc371": {
+        "name": "Lisa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc372": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc373": {
+        "name": "Midas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc374": {
+        "name": "Hildr",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc377": {
+        "name": "Iphis",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc378": {
+        "name": "Pallas",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc379": {
+        "name": "Athena",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc382": {
+        "name": "Neamhain",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc383": {
+        "name": "Frej",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc385": {
+        "name": "Marie Rose",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc386": {
+        "name": "Kasumi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc387": {
+        "name": "Honoka",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc390": {
+        "name": "Eochaid",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc391": {
+        "name": "Medb",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc394": {
+        "name": "Bathory",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc395": {
+        "name": "Eve",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc396": {
+        "name": "Werewolf",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc397": {
+        "name": "Leda",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc402": {
+        "name": "Noel",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc403": {
+        "name": "Makoto",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc404": {
+        "name": "Nine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc406": {
+        "name": "Serval",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc407": {
+        "name": "Raccoon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc408": {
+        "name": "Fennec",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc419": {
+        "name": "Catherine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc420": {
+        "name": "Katherine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc421": {
+        "name": "Rin",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm003": {
+        "name": "Fire Dragon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm004": {
+        "name": "Ice Dragon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm007": {
+        "name": "Teddy",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm036": {
+        "name": "Messenger",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm037": {
+        "name": "Chaser",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm038": {
+        "name": "Diablo",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm039": {
+        "name": "Kali Yuga",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm040": {
+        "name": "Chain Killer",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm045": {
+        "name": "Bouquet",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm049": {
+        "name": "Skull",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm050": {
+        "name": "Guillotine",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm051": {
+        "name": "Hades",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm052": {
+        "name": "Basilisk",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm053": {
+        "name": "Hydra",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm054": {
+        "name": "Gomorrah",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm056": {
+        "name": "Abaddon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm057": {
+        "name": "Olga",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm059": {
+        "name": "Bazooka",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm063": {
+        "name": "Ampoule",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm077": {
+        "name": "Moa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm124": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm125": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm126": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm127": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm128": {
+        "name": "Watcher",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm136": {
+        "name": "Lady",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm137": {
+        "name": "Bellboy",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm141": {
+        "name": "Halloween",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm142": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm143": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm144": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm145": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm146": {
+        "name": "Revenge Girl",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm148": {
+        "name": "Won",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm149": {
+        "name": "Hertz",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm150": {
+        "name": "Hat-Trick",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm151": {
+        "name": "Arms",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm152": {
+        "name": "Fighter",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm153": {
+        "name": "Manti",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm154": {
+        "name": "Gungnir",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm189": {
+        "name": "Mimic",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm190": {
+        "name": "Boxer",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm191": {
+        "name": "Chimera",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm192": {
+        "name": "Blood Dragon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm193": {
+        "name": "Pompoms",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm194": {
+        "name": "Gron",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm195": {
+        "name": "Liron",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm196": {
+        "name": "Firon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm197": {
+        "name": "Charonn",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm198": {
+        "name": "Daron",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm199": {
+        "name": "Azure Dragon",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm200": {
+        "name": "Ankh",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm201": {
+        "name": "Mech Commander",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm202": {
+        "name": "Mech Soldier",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm203": {
+        "name": "Bremen",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm206": {
+        "name": "Boss Pig",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm211": {
+        "name": "Angel Lot",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm212": {
+        "name": "Rune",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm215": {
+        "name": "Aurora King",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm216": {
+        "name": "Fairy",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm217": {
+        "name": "Red Nose",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm223": {
+        "name": "Gift Bag",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm245": {
+        "name": "Creature",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm255": {
+        "name": "Ampoule",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            },
+            "02": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sm261": {
+        "name": "Moa",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    }
+}
