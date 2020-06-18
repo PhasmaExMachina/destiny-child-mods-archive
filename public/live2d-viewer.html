@@ -22,7 +22,14 @@
 </head>
 
 <body>
-
+  <div style="position: absolute; top: 0; right: 0; padding-right: 1em; font-family: Arial, Helvetica, sans-serif; font-size: 1.5em; text-decoration: none;">
+    <a style="text-decoration: none; position: relative; top: 5px;" id="download">
+      <img src="./img/download-icon.png" height="72" />
+    </a>
+    <a style="text-decoration: none" target="_blank" title="Modding instructions and resources" href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding">
+      <img src="./img/info-icon.png" height="60"/>
+    </a>
+  </div>
   <canvas id="canvas" class="maxwidth" width="4000" height="4000" onclick="totsugeki()" style="display: block; margin: auto;"></canvas>
   <select id="modelMotions" class="select-motions" style="display: none;"></select>
   <script src="/static/js/gif.js"></script>
@@ -39,6 +46,8 @@
         modelName = urlParams.get('model');
         modHash = urlParams.get('modHash');
         previewMade = true;
+        document.getElementById('download').title = 'Download universal ' + modelName + '.pck'
+        document.getElementById('download').href = `./characters/${modelName}/${modHash}/${modelName}.pck`
     </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script>
