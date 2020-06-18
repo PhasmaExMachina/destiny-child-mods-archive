@@ -187,7 +187,7 @@ L2DPckModel.prototype.getImage = function(callback) {
 
 function getPath(file) {
     console.log('getting path for ', file)
-	return "/characters/"+modelName+"/"+modHash+"/"+file;
+	return "./characters/"+modelName+"/"+modHash+"/"+file;
 }
 
 function getWebGLContext(canvas) {
