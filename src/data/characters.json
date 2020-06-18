@@ -122,7 +122,8 @@
         "mods": [
           "e5ce3edfd5485d82284a5faf9082a51a",
           "2b848788f5c6cef0c8593e44588895e4",
-          "b6b5e77c2b61fba8e047040845b2656c"
+          "b6b5e77c2b61fba8e047040845b2656c",
+          "94bcc01e32c23c806936a596c934db8f"
         ]
       },
       "02": {
@@ -156,7 +157,7 @@
     "image2": "http://i.imgur.com/F8scK2m.png",
     "image3": "http://i.imgur.com/68iIOB3.png",
     "imageSkin": "http://i.imgur.com/R6UTtqc.png",
-    "numMods": 23
+    "numMods": 24
   },
   "c002": {
     "code": "c002",
