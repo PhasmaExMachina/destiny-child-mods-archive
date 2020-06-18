@@ -104,7 +104,8 @@
         "is_voice": "1",
         "title": "Petit",
         "mods": [
-          "efc1e4d039664d171926dbb9231916fa"
+          "efc1e4d039664d171926dbb9231916fa",
+          "96e69d4fb0f7f300dd8f52475d8f7862"
         ]
       },
       "01": {
@@ -150,7 +151,7 @@
     "image2": "http://i.imgur.com/F8scK2m.png",
     "image3": "http://i.imgur.com/68iIOB3.png",
     "imageSkin": "http://i.imgur.com/R6UTtqc.png",
-    "numMods": 18
+    "numMods": 19
   },
   "c002": {
     "code": "c002",
@@ -354,7 +355,8 @@
         "title": "",
         "mods": [
           "54ab3114cfc17da24aebdd14b8beaa51",
-          "f878fbaca3fefa4bb8d2c0f6c1e20069"
+          "f878fbaca3fefa4bb8d2c0f6c1e20069",
+          "4c19bb8fa7002643947e3558c462218d"
         ]
       },
       "02": {
@@ -388,7 +390,7 @@
     "image2": "http://i.imgur.com/urR0MnE.png",
     "image3": "http://i.imgur.com/5PqDuVh.png",
     "imageSkin": "http://i.imgur.com/laFOqxq.png",
-    "numMods": 22
+    "numMods": 23
   },
   "c005": {
     "code": "c005",
@@ -713,7 +715,8 @@
         "title": "Lunar",
         "mods": [
           "92ab2fb01727488947d3a0798702b641",
-          "5ce47c02cf7515c723cec2a31ae51e5a"
+          "5ce47c02cf7515c723cec2a31ae51e5a",
+          "312c9c6981abb5312341756b5a2e4d8e"
         ]
       },
       "00": {
@@ -747,7 +750,7 @@
     "image2": "http://i.imgur.com/WEGRRNy.png",
     "image3": "http://i.imgur.com/E9x11Kq.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 7
   },
   "c014": {
     "code": "c014",
@@ -2192,7 +2195,8 @@
         "is_voice": "0",
         "title": "Singing",
         "mods": [
-          "e15b40f20f5384729117293f885b3fa3"
+          "e15b40f20f5384729117293f885b3fa3",
+          "748061d66b349c7bd2cc77b26f3fc6c9"
         ]
       },
       "02": {
@@ -2203,7 +2207,8 @@
         "is_voice": "0",
         "title": "Delightful",
         "mods": [
-          "d828db50f808f008d1aacde1469be78e"
+          "d828db50f808f008d1aacde1469be78e",
+          "6785bc9f2fbd685ce1eb68cf9cdbde0e"
         ]
       },
       "00": {
@@ -2237,7 +2242,7 @@
     "image2": "http://i.imgur.com/fIJzBEm.png",
     "image3": "http://i.imgur.com/y3EtHan.png",
     "imageSkin": "http://i.imgur.com/FtWnEtc.png",
-    "numMods": 16
+    "numMods": 18
   },
   "c047": {
     "code": "c047",
@@ -4675,7 +4680,8 @@
         "is_voice": "0",
         "title": "Original Sin",
         "mods": [
-          "5fa5d4ddd237272eced9551c8d2f796e"
+          "5fa5d4ddd237272eced9551c8d2f796e",
+          "2137717e2bbbd7f156f1dcef31cc134e"
         ]
       }
     },
@@ -4698,7 +4704,7 @@
     "image2": "http://i.imgur.com/cVX2Zfj.png",
     "image3": "http://i.imgur.com/smvbYBS.png",
     "imageSkin": "http://i.imgur.com/8OXSO1P.png",
-    "numMods": 12
+    "numMods": 13
   },
   "c126": {
     "code": "c126",
@@ -5442,7 +5448,8 @@
         "is_voice": "0",
         "title": "Dreaming",
         "mods": [
-          "ef6f5f5f301c6abe51b13f4e3e8fcd05"
+          "ef6f5f5f301c6abe51b13f4e3e8fcd05",
+          "92503b7a1ecc63c84296ebf513e4c7e8"
         ]
       },
       "02": {
@@ -5476,7 +5483,7 @@
     "image2": "http://i.imgur.com/zEBzXzZ.png",
     "image3": "http://i.imgur.com/c0KnLuf.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 9
   },
   "c159": {
     "code": "c159",
@@ -8511,7 +8518,9 @@
         "is_voice": "0",
         "title": "Villainous",
         "mods": [
-          "820783fa0f762d82bd4d944227f1e6ba"
+          "820783fa0f762d82bd4d944227f1e6ba",
+          "aea6e610c4653cb6b18a2f48ded30941",
+          "70ab8ab4d9a4f9ea24f1eeed7f947229"
         ]
       },
       "02": {
@@ -8522,7 +8531,8 @@
         "is_voice": "0",
         "title": "Heavy Fire",
         "mods": [
-          "76b30edcf0b30095befec9d8a5be8040"
+          "76b30edcf0b30095befec9d8a5be8040",
+          "0a73387779529145ae27aa7f2d37e3ab"
         ]
       }
     },
@@ -8545,7 +8555,7 @@
     "image2": "http://i.imgur.com/7H4wcn7.png",
     "image3": "http://i.imgur.com/xG2wHxL.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 9
   },
   "m057": {
     "code": "m057",
@@ -11492,7 +11502,8 @@
         "title": "Lightning",
         "mods": [
           "8ba7298235dc8c9e0846b3151e6fbf0d",
-          "0a2c15f69ce472a1f9017d350627a77a"
+          "0a2c15f69ce472a1f9017d350627a77a",
+          "5807fd19e49c1b8420b835a3ba8611b3"
         ]
       },
       "02": {
@@ -11504,7 +11515,8 @@
         "title": "Corona",
         "mods": [
           "718fd7968493dcb77455eaf9792ec2c4",
-          "34867d127714d4697690acd9d4e60ab2"
+          "34867d127714d4697690acd9d4e60ab2",
+          "92f66097bd5d30ce5d3d40f56ae8e89e"
         ]
       }
     },
@@ -11527,7 +11539,7 @@
     "image2": "http://i.imgur.com/p7P7l8v.png",
     "image3": "http://i.imgur.com/bLphiRp.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 8
   },
   "c234": {
     "code": "c234",
@@ -17399,7 +17411,8 @@
         "is_voice": "0",
         "title": "Christmas",
         "mods": [
-          "a8e562d56f81116707fff8700e184b58"
+          "a8e562d56f81116707fff8700e184b58",
+          "d3b406b3bd4e6ecda83c9da28ee29023"
         ]
       },
       "02": {
@@ -17433,7 +17446,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 5
   },
   "c398": {
     "code": "c398",
@@ -17742,7 +17755,8 @@
         "is_voice": "0",
         "title": "",
         "mods": [
-          "a6ce91ba18eeafd4704b3c3fd4a2ee4f"
+          "a6ce91ba18eeafd4704b3c3fd4a2ee4f",
+          "954cd1a0f7db7cc21a63eb44823078e5"
         ]
       },
       "02": {
@@ -17753,7 +17767,8 @@
         "is_voice": "0",
         "title": "Savanna",
         "mods": [
-          "40a614d5a22e5be5d10b1e8ee2387687"
+          "40a614d5a22e5be5d10b1e8ee2387687",
+          "244dac7eeab5f2292f5cf03f531cd3d9"
         ]
       }
     },
@@ -17776,7 +17791,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 6
   },
   "c405": {
     "code": "c405",
@@ -23421,11 +23436,17 @@
     "variants": {
       "01": {
         "mods": [
-          "96dd43502cd2bea073dcc1359f5a5c2f"
+          "96dd43502cd2bea073dcc1359f5a5c2f",
+          "d9ada6a8bae2584348da0260dfd30161"
+        ]
+      },
+      "02": {
+        "mods": [
+          "b2176edf99acc5c721c967b3e19fe11c"
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 4,
     "code": "c092"
   },
   "c122": {
@@ -24150,11 +24171,12 @@
     "variants": {
       "01": {
         "mods": [
-          "cab4dc8737b2aa44fd8d6814b9f19c4c"
+          "cab4dc8737b2aa44fd8d6814b9f19c4c",
+          "6f4b9381bdb738a7c5dd8c2c467c8199"
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 3,
     "code": "sc230"
   },
   "sc234": {

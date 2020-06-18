@@ -32,7 +32,7 @@ Object.keys(characters).sort().forEach(model => {
               if(d.length > 385074 + 1000) {
                 console.log(`retrying ${model}_${variantId} ...`)
                 cy.task('writeFile', {
-                  filename: `public/characters/${model}_${variantId}/${modHash}/preview.png`,
+                  filename: `docs/characters/${model}_${variantId}/${modHash}/preview.png`,
                   data: d.replace(/^data:image\/png;base64,/, ""),
                   encoding: 'base64'
                 }, {timeout: 20000})

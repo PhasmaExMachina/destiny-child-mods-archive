@@ -9,7 +9,9 @@ const missing = {}
 Object.keys(characters).forEach(model => {
   Object.keys(characters[model].variants).forEach(variantId => {
     characters[model].variants[variantId].mods.forEach(modHash => {
-      if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview-cropped-thumb.png'))) {
+      if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview-cropped-thumb.png')) &&
+         fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/model.json'))
+      ) {
         missing[model] = missing[model] || {}
         missing[model].variants = missing[model].variants || {}
         missing[model].variants[variantId] = missing[model].variants[variantId] || {}

@@ -24,7 +24,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           outputPath = path.join(__dirname, `../docs/characters/${characterId}_${variant}/${fileHash}`),
           tmpFilePath = path.join(tmpPath, pckBase + '.pck'),
           live2dPath = tmpFilePath.replace(/\.pck$/, '')
-    if(!fs.existsSync(outputPath) && !modHashes.pck[fileHash]) {
+    if(!modHashes.pck[fileHash]) {
       console.log('-------processing', file, md5File(inputFilePath))
       modHashes.pck[fileHash] = true // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist

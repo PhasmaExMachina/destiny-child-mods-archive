@@ -17,12 +17,13 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "scrape": "node ./scripts/scrape-arsylk.js",
     "import-pck": "node ./scripts/import-pck.js && node ./scripts/fix-character-data.js",
     "missing-previews": "node ./scripts/find-missing-previews.js",
     "gen-previews": "cypress run --spec=cypress/integration/live2d-previews.js",
     "previews": "yarn missing-previews && yarn gen-previews && yarn crop-previews",
     "crop-previews": "node ./scripts/crop-previews.js",
-    "release": "yarn import-pck && yarn previews"
+    "release": "yarn scrape && yarn import-pck && yarn previews"
   },
   "proxy": "http://localhost:5000",
   "eslintConfig": {
@@ -41,11 +42,15 @@
     ]
   },
   "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "concurrently": "^5.2.0",
     "cypress": "^4.8.0",
     "gm": "^1.23.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
     "image-data-uri": "^2.0.1",
     "md5-file": "^5.0.0",
+    "node-fetch": "^2.6.0",
     "nodemon": "^2.0.4"
   }
 }

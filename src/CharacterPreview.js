@@ -23,7 +23,7 @@ function CharacterPreview({character}) {
           {character.variants[vId].mods && character.variants[vId].mods.map(hash => (
             <div key={hash} style={{marginLeft: '2em', textAlign: 'center'}}>
               <a href={BASE_URL + `live2d-viewer.html?model=${code}_${vId}&modHash=${hash}`}>
-                <CharacterImage character={character} variant={vId} />
+                <CharacterImage character={character} variant={vId} hash={hash} />
               </a>
               <br />
               <a href={`/characters/${code}_${vId}/${hash}/${code}_${vId}.pck`}>

@@ -29,11 +29,13 @@ fs.readdirSync(charactersPath).forEach(charDir => {
     }
     modHashes.pck[modHash] = true
     const modPath = path.join(charPath, modHash)
+    if(code.match(/^sc/) && fs.existsSync(path.join(modPath, '00000002'))) {
+      fs.renameSync(path.join(modPath, '00000002'), path.join(modPath, 'physics.json'))
+    }
     const textureHash = fs.readdirSync(modPath).reduce((acc, file) => {
       if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
       return acc
     }, '')
-    console.log(textureHash)
     modHashes.texture[textureHash] = true
   })
 })
