@@ -1,6 +1,5 @@
 import React from 'react'
 import CharacterImage from './CharacterImage'
-import BASE_URL from './lib/base-url'
 
 function CharacterPreview({character}) {
   const {code, name, variants} = character,
@@ -23,7 +22,7 @@ function CharacterPreview({character}) {
             <h2>{code}_{vId} {character.variants[vId].title} {character.name}</h2>
             {character.variants[vId].mods && character.variants[vId].mods.map(hash => (
               <div key={hash} style={{marginLeft: '2em', textAlign: 'center', display: 'inline-block', position: 'relative', padding: '0 1em 0'}}>
-                <a href={BASE_URL + `live2d-viewer.html?model=${code}_${vId}&modHash=${hash}`} target="_blank">
+                <a href={`./live2d-viewer.html?model=${code}_${vId}&modHash=${hash}`} target="_blank">
                   <CharacterImage character={character} variant={vId} hash={hash} />
                 </a>
                 {/* <br />
