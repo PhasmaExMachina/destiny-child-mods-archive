@@ -20,7 +20,8 @@
       },
       "12": {
         "mods": [
-          "a14c67d928e889575bf1394844813de7"
+          "a14c67d928e889575bf1394844813de7",
+          "84fe3b794de5d4acccdcdecce14af07e"
         ]
       },
       "13": {
@@ -59,7 +60,7 @@
     },
     "name": "Master",
     "id": "10100001",
-    "numMods": 25
+    "numMods": 26
   },
   "c001": {
     "code": "c001",
@@ -1748,7 +1749,9 @@
         "is_voice": "1",
         "title": "Tomomi",
         "mods": [
-          "9d9da953ba7587a02c0eef62b99463ea"
+          "9d9da953ba7587a02c0eef62b99463ea",
+          "4b461ab4a5d86ff0faf936bbc92c59bb",
+          "04d2a7166d7c2d47ee36676a52939344"
         ]
       }
     },
@@ -1771,7 +1774,7 @@
     "image2": "http://i.imgur.com/oVFDhcA.png",
     "image3": "http://i.imgur.com/pcengq4.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 8
   },
   "c035": {
     "code": "c035",
@@ -5877,7 +5880,8 @@
           "d8b0a8631f4d81d9d7acf55e089af9a8",
           "a43afca3bab428c6c8b701f6cf682ce9",
           "6ef36ea794123d84f9788b808a6cf4c1",
-          "734c863821a04e9d78b2a8c5046806a2"
+          "734c863821a04e9d78b2a8c5046806a2",
+          "8ec110d9ddd1317abaea8235c96f7a01"
         ]
       },
       "02": {
@@ -5928,7 +5932,7 @@
     "image2": "http://i.imgur.com/lWcA2IL.png",
     "image3": "http://i.imgur.com/UWZvwwG.png",
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 15
   },
   "c168": {
     "code": "c168",
@@ -13284,7 +13288,8 @@
         "is_voice": "0",
         "title": "Innocent",
         "mods": [
-          "dbb9ee82592309772993e4f79c44fde8"
+          "dbb9ee82592309772993e4f79c44fde8",
+          "8a6c3ad85c9fef2a857a250972e2f507"
         ]
       },
       "02": {
@@ -13318,7 +13323,7 @@
     "image2": "http://i.imgur.com/7TDxsIV.png",
     "image3": "http://i.imgur.com/9NSIAiV.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 5
   },
   "c281": {
     "code": "c281",
@@ -14084,7 +14089,8 @@
         "title": "Satan",
         "mods": [
           "85a7fa5cd9cdc41513048c98fe96bf7f",
-          "0657c72a4fe9b88481f4d584d11f09a7"
+          "0657c72a4fe9b88481f4d584d11f09a7",
+          "554fd702854a8b74002dee0de6895ce8"
         ]
       },
       "00": {
@@ -14112,7 +14118,7 @@
     "image2": "http://i.imgur.com/3T8I7CU.png",
     "image3": "http://i.imgur.com/goBETZI.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 7
   },
   "c300": {
     "code": "c300",
@@ -14550,7 +14556,9 @@
         "is_voice": "0",
         "title": "Cynical",
         "mods": [
-          "a44a44cda08a3bdcb60544f73d71850d"
+          "a44a44cda08a3bdcb60544f73d71850d",
+          "c1557c61b48ce451d7740901148820e7",
+          "21f02fbb98c7bc65dfa59ddd0568bb86"
         ]
       },
       "02": {
@@ -14561,7 +14569,9 @@
         "is_voice": "0",
         "title": "Cursed Sword",
         "mods": [
-          "83bf268d6a7c72ca677bd63936162f42"
+          "83bf268d6a7c72ca677bd63936162f42",
+          "79504e3fddbeaaa7bf2e995534ab0724",
+          "e700d493a8cf37aede605eb39f5bb36f"
         ]
       },
       "00": {
@@ -14595,7 +14605,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 10
   },
   "c315": {
     "code": "c315",
@@ -18383,7 +18393,8 @@
         "view_idx": "c409_01",
         "is_voice": "0",
         "mods": [
-          "1e3c70388e5a7c3c1f362f3eb4d9a154"
+          "1e3c70388e5a7c3c1f362f3eb4d9a154",
+          "1329fd8769a499f1e3e9eed8c8b5063d"
         ]
       },
       "02": {
@@ -18416,7 +18427,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 5
   },
   "c343": {
     "code": "c343",
@@ -18855,13 +18866,14 @@
         "is_voice": "0",
         "title": "Inverted & Devilish",
         "mods": [
-          "908a445150fb60e13d73ab2275880056"
+          "908a445150fb60e13d73ab2275880056",
+          "1a20bd1f7e1c18dadee453f6c09777cd"
         ]
       }
     },
     "name": "Catherine",
     "id": "10200254",
-    "numMods": 4
+    "numMods": 5
   },
   "c420": {
     "code": "c420",
@@ -19240,12 +19252,13 @@
         "view_idx": "c433_02",
         "is_voice": "0",
         "mods": [
-          "47f241e166d61bbdae040363a1a7588d"
+          "47f241e166d61bbdae040363a1a7588d",
+          "e918931e0c7f075854834f2e18e5e181"
         ]
       }
     },
     "id": "10200267",
-    "numMods": 4
+    "numMods": 5
   },
   "c434": {
     "code": "c434",
@@ -19258,7 +19271,8 @@
         "is_voice": "0",
         "mods": [
           "8a251cd928fb93970a7c897d526f66f9",
-          "32c28f26fefd3cf4a2b6bde7c33e094a"
+          "32c28f26fefd3cf4a2b6bde7c33e094a",
+          "8743eab88d43b2875bf527f026981438"
         ]
       },
       "02": {
@@ -19273,7 +19287,7 @@
       }
     },
     "id": "10200268",
-    "numMods": 5
+    "numMods": 6
   },
   "c422": {
     "code": "c422",
@@ -19336,7 +19350,8 @@
         "view_idx": "c435_01",
         "is_voice": "0",
         "mods": [
-          "033a7527d7f5bf1855020f1a5be3cc1d"
+          "033a7527d7f5bf1855020f1a5be3cc1d",
+          "6fc5df07ce6bed8a601b24a7ea101801"
         ]
       },
       "02": {
@@ -19351,7 +19366,7 @@
       }
     },
     "id": "10200270",
-    "numMods": 6
+    "numMods": 7
   },
   "c436": {
     "code": "c436",
@@ -22617,7 +22632,8 @@
         "is_voice": "0",
         "title": "Light",
         "mods": [
-          "23b0469a8bc869f456c7ba239696bb0f"
+          "23b0469a8bc869f456c7ba239696bb0f",
+          "6e186fbf120b35feb4a4f4ce94180e81"
         ]
       },
       "02": {
@@ -22634,7 +22650,7 @@
     },
     "name": "Pixie",
     "id": "20100102",
-    "numMods": 4
+    "numMods": 5
   },
   "c269": {
     "code": "c269",
@@ -26642,11 +26658,12 @@
     "variants": {
       "01": {
         "mods": [
-          "74473f95f097cbfb1282f2206fb6dae8"
+          "74473f95f097cbfb1282f2206fb6dae8",
+          "fc09c5fde8450859a215c4a04e34cce5"
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 3,
     "code": "sc202"
   },
   "sc205": {
@@ -27369,11 +27386,12 @@
     "variants": {
       "01": {
         "mods": [
-          "098830caa31dafaaef032da57cd607c3"
+          "098830caa31dafaaef032da57cd607c3",
+          "38d5406328ef877a535c69953f7b9a62"
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 3,
     "code": "sc378"
   },
   "sc381": {
@@ -27677,11 +27695,12 @@
     "variants": {
       "01": {
         "mods": [
-          "96ff81327cd04d2ce70081d0b955905e"
+          "96ff81327cd04d2ce70081d0b955905e",
+          "62da6ad82f228fe8c9c838fb78ae5072"
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 3,
     "code": "sc419"
   },
   "sc420": {
