@@ -1,0 +1,11 @@
+{
+    "c339_01_attack.mtn": "ea0f002a9499f163",
+    "c339_01_event.mtn": "890f0029938167ec",
+    "c339_01_hit.mtn": "c70e0027de6dbd27",
+    "c339_01_idle.mtn": "280f0028a4420af6",
+    "character.dat": "050e002567675e8e",
+    "model.json": "660e00266944d29d",
+    "idle.exp.json": "050e002554011afd",
+    "smile.exp.json": "660e002647d6c7f9",
+    "texture_00.png": "660e002671332627"
+}
