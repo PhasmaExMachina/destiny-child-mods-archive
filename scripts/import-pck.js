@@ -31,47 +31,52 @@ fs.readdirSync(importPckPath).forEach(file => {
       fs.renameSync(inputFilePath, tmpFilePath) // rename input file to plain pck base and move to temp
       let isGlobal = false
 
-      // extract live2d
-      run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u -m ${tmpFilePath}`) // create universal version
-      if(!fs.existsSync(path.join(live2dPath, 'model.json'))) {
-        isGlobal = true
-        fs.rmdirSync(live2dPath, {recursive: true})
-        run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u -m ${tmpFilePath}`, true) // create universal version
+      try {
+
+        // extract live2d
+        run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u -m ${tmpFilePath}`) // create universal version
+        if(!fs.existsSync(path.join(live2dPath, 'model.json'))) {
+          isGlobal = true
+          fs.rmdirSync(live2dPath, {recursive: true})
+          run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u -m ${tmpFilePath}`, true) // create universal version
+        }
+
+        // check for mod dupe
+        const textureHash = fs.readdirSync(live2dPath).reduce((acc, file) => {
+          if(file.match(/^texture.+\.png/)) acc += md5File(path.join(live2dPath, file))
+          return acc
+        }, '')
+        if(!modHashes.texture[textureHash]) {
+          modHashes.pck[fileHash] = true
+          fs.mkdirSync(outputPath, {recursive: true})
+          fs.readdirSync(live2dPath).forEach(fileToMove => {
+            fs.renameSync(path.join(live2dPath, fileToMove), path.join(outputPath, fileToMove))
+          })
+          console.log('Live2D extracted. Encryption was', isGlobal ? 'GLOBAL' : 'KR')
+
+          // clean up temp folder
+          fs.rmdirSync(live2dPath, {recursive: true})
+
+          // create universal pck
+          console.log('\nRepacking ', file, 'as universal...\n')
+          run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u ${tmpFilePath}`, isGlobal) // create universal version
+          run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -p ${live2dPath}/_header`) // create universal version
+          fs.renameSync(path.join(live2dPath, pckBase + '.pck'), path.join(outputPath, pckBase + '.pck'))
+
+          characters[characterId] = characters[characterId] || {}
+          characters[characterId].code = characters[characterId].code || characterId
+          characters[characterId].variants = characters[characterId].variants || {}
+          characters[characterId].variants[variant] = characters[characterId].variants[variant] || {}
+          characters[characterId].variants[variant].mods = characters[characterId].variants[variant].mods || []
+          characters[characterId].variants[variant].mods.push(fileHash)
+          characters[characterId].numMods = characters[characterId].numMods || 0
+          characters[characterId].numMods++
+          fs.unlinkSync(tmpFilePath)
+        }
       }
-
-      // check for mod dupe
-      const textureHash = fs.readdirSync(live2dPath).reduce((acc, file) => {
-        if(file.match(/^texture.+\.png/)) acc += md5File(path.join(live2dPath, file))
-        return acc
-      }, '')
-      if(!modHashes.texture[textureHash]) {
-        modHashes.pck[fileHash] = true
-        fs.mkdirSync(outputPath, {recursive: true})
-        fs.readdirSync(live2dPath).forEach(fileToMove => {
-          fs.renameSync(path.join(live2dPath, fileToMove), path.join(outputPath, fileToMove))
-        })
-        console.log('Live2D extracted. Encryption was', isGlobal ? 'GLOBAL' : 'KR')
-
-        // clean up temp folder
-        fs.rmdirSync(live2dPath, {recursive: true})
-
-        // create universal pck
-        console.log('\nRepacking ', file, 'as universal...\n')
-        run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -u ${tmpFilePath}`, isGlobal) // create universal version
-        run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -p ${live2dPath}/_header`) // create universal version
-        fs.renameSync(path.join(live2dPath, pckBase + '.pck'), path.join(outputPath, pckBase + '.pck'))
-
-        characters[characterId] = characters[characterId] || {}
-        characters[characterId].code = characters[characterId].code || characterId
-        characters[characterId].variants = characters[characterId].variants || {}
-        characters[characterId].variants[variant] = characters[characterId].variants[variant] || {}
-        characters[characterId].variants[variant].mods = characters[characterId].variants[variant].mods || []
-        characters[characterId].variants[variant].mods.push(fileHash)
-        characters[characterId].numMods = characters[characterId].numMods || 0
-        characters[characterId].numMods++
-        fs.unlinkSync(tmpFilePath)
+      catch(e) {
+        console.warn('error parsing', code, variant)
       }
-
 
     }
     else fs.unlinkSync(inputFilePath)

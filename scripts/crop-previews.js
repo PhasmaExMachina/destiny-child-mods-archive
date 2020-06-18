@@ -41,7 +41,8 @@ const processCroppedThumb = i => {
   const previewPath = missingCroppedThumb[i]
   gm(previewPath)
     .trim()
-    .scale(500, 500)
+    .scale(400, 400)
+    .compress('LZW')
     .write(previewPath.replace('preview.png', 'preview-cropped-thumb.png'), e => {
       if(e) { throw e }
       else {

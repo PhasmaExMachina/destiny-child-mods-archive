@@ -6,7 +6,7 @@ var fetch = require('node-fetch'),
     https = require('https'),
     downloaded = require('../data/arsylk-downloaded.json')
 
-fetch('https://arsylk.pythonanywhere.com/apk/view_models?order=models.id')
+fetch('https://arsylk.pythonanywhere.com/apk/view_models')
     .then(res => res.text())
     .then(body => {
       const promises = []
