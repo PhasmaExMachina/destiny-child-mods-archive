@@ -14650,7 +14650,8 @@
         "mods": [
           "9fdac343d8aa3dc019cd164d712bd4ce",
           "4d2c73d03cc06529389c9d05e8c52886",
-          "6ec1a073da610a37df82715c02f5c280"
+          "6ec1a073da610a37df82715c02f5c280",
+          "d1693967376252d0ce5ef517a034aa65"
         ]
       },
       "00": {
@@ -14684,7 +14685,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 10
   },
   "c317": {
     "code": "c317",
@@ -25450,11 +25451,12 @@
     "variants": {
       "01": {
         "mods": [
-          "332ba2a68bc6714faf689b204945379f"
+          "332ba2a68bc6714faf689b204945379f",
+          "58fb1aabdfdae99a77c76333ec7d1d90"
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 3,
     "code": "c376"
   },
   "c399": {
