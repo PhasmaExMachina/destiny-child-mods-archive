@@ -51,6 +51,7 @@
     "https": "^1.0.0",
     "image-data-uri": "^2.0.1",
     "md5-file": "^5.0.0",
+    "merge-dirs": "^0.2.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.4"
   }
