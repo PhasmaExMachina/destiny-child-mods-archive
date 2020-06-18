@@ -1,0 +1,11 @@
+1.0.1	2019-01-23
+	-Removed /F option in favor of 2 new repacking options, /C and /U which force compression and no encryption respectively.
+	-Added a repack option, /R, to immediately repack content using the above repacking options.
+	-Added support to extract every PCK within a folder easily, without writing batch scripts.
+	-PCKs are now always extracted next to their source PCK file, making it easier to identify the source for the extracted contents.
+	-Repacked files now have the "new" (concatenated with other descriptors) appended as their file type.  This ensures there's no confusion as to what the outputed format is, while also making it easy to move/rename repacked PCKs via their shared "file extension".
+	-Live2D should be fully supported for extraction and repacking.  The filename for dragging on to the Live2D Viewer has been changed to make the character ID stand out more.  It also now begins with "MOC", which hopefully will help new people to understand which file to drop onto the viewer.  If anything extracted as Live2D does not repack properly, please let me know.
+	-Fixed bug where during repacking the offset was including the (compressed) filesize.  Now when repacking a PCK, the same offsets should be seen during extraction and repacking (assuming no changes are made).
+
+1.0.0	2018-04-03
+	-Initial release

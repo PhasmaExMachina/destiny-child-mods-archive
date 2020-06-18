@@ -1,0 +1,18 @@
+{
+    "c193_01_attack.mtn": "ea0f002a405bffa7",
+    "c193_01_banner.mtn": "ea0f002a76317941",
+    "c193_01_event_c193_2.mtn": "301200302ebc6235",
+    "c193_01_event_c193_3.mtn": "3012003073246562",
+    "c193_01_event_c193_4.mtn": "3012003090e04233",
+    "c193_01_hit.mtn": "c70e00270a6c5d67",
+    "c193_01_idle.mtn": "280f0028e019b288",
+    "character.dat": "050e0025fd1bbbdd",
+    "model.json": "660e002693edf688",
+    "cry.exp.json": "a40d002453ae93fe",
+    "fury.exp.json": "050e002524868444",
+    "idle.exp.json": "050e00257e20ef16",
+    "joy.exp.json": "a40d0024f131b44a",
+    "sad.exp.json": "a40d0024dbe94f6b",
+    "texture_00.png": "660e0026fb76b2e0",
+    "texture_01.png": "660e00265ae53fb9"
+}

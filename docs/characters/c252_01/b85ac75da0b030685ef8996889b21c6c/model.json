@@ -1,0 +1,56 @@
+{
+    "motions": {
+        "idle": [
+            {
+                "fade_out": 0,
+                "fade_in": 0,
+                "file": "c252_01_idle.mtn"
+            }
+        ],
+        "hit": [
+            {
+                "fade_out": 0,
+                "fade_in": 0,
+                "file": "c252_01_hit.mtn"
+            }
+        ],
+        "attack": [
+            {
+                "fade_out": 0,
+                "fade_in": 0,
+                "file": "c252_01_attack.mtn"
+            }
+        ]
+    },
+    "model": "character.dat",
+    "textures": [
+        "texture_00.png"
+    ],
+    "expressions": [
+        {
+            "file": "angry.exp.json",
+            "name": "angry"
+        },
+        {
+            "file": "fury.exp.json",
+            "name": "fury"
+        },
+        {
+            "file": "idle.exp.json",
+            "name": "idle"
+        },
+        {
+            "file": "sad.exp.json",
+            "name": "sad"
+        },
+        {
+            "file": "serious.exp.json",
+            "name": "serious"
+        },
+        {
+            "file": "smile.exp.json",
+            "name": "smile"
+        }
+    ],
+    "version": "Sample 1.0.0"
+}
