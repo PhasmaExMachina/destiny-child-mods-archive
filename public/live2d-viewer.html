@@ -32,14 +32,14 @@
   </div>
   <canvas id="canvas" class="maxwidth" width="4000" height="4000" onclick="totsugeki()" style="display: block; margin: auto;"></canvas>
   <select id="modelMotions" class="select-motions" style="display: none;"></select>
-  <script src="/static/js/gif.js"></script>
-  <script src="/static/js/gif.worker.js"></script>
-  <script src="/static/js/live2dsdk/live2d.min.js"></script>
-  <script src="/static/js/live2dsdk/Live2DFramework.js"></script>
-  <script src="/static/js/live2dsdk/L2DPckModel.js"></script>
-  <script src="/static/js/live2dsdk/PlatformManager.js"></script>
-  <script src="/static/js/live2dsdk/ModelSettingJson.js"></script>
-  <script src="/static/js/live2dsdk/destinychild.2d.js"></script>
+  <script src="./live2d/js/gif.js"></script>
+  <script src="./live2d/js/gif.worker.js"></script>
+  <script src="./live2d/js/live2dsdk/live2d.min.js"></script>
+  <script src="./live2d/js/live2dsdk/Live2DFramework.js"></script>
+  <script src="./live2d/js/live2dsdk/L2DPckModel.js"></script>
+  <script src="./live2d/js/live2dsdk/PlatformManager.js"></script>
+  <script src="./live2d/js/live2dsdk/ModelSettingJson.js"></script>
+  <script src="./live2d/js/live2dsdk/destinychild.2d.js"></script>
     <script>
         const urlParams = new URLSearchParams(window.location.search);
         const modelId = "1172";
@@ -66,7 +66,7 @@
     //         mgif = new GIF({
     //             workers: 4,
     //             quality: 1,
-    //             workerScript: '/static/js/gif.worker.js'
+    //             workerScript: './live2d/js/gif.worker.js'
     //         });
     //         mgif.on('progress', function(p) {
     //             // $(canvas).css('background-image', 'linear-gradient(to right, lime '+p*100+'%, white 0%)');
