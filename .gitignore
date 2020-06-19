@@ -24,6 +24,6 @@ yarn-error.log*
 
 
 /tmp
-/import-pck/tmp
+/import-pck/*
 /.vscode
 /iport-pck/*

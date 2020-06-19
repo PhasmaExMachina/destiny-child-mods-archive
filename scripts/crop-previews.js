@@ -15,7 +15,7 @@ Object.keys(characters).sort().forEach(model => {
         if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview-cropped.png'))) {
           missingCropped.push(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png'))
         }
-        if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview-cropped-thumb.png'))) {
+        if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/static.png'))) {
           missingCroppedThumb.push(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png'))
         }
       }
@@ -41,9 +41,12 @@ const processCroppedThumb = i => {
   const previewPath = missingCroppedThumb[i]
   gm(previewPath)
     .trim()
+    .filter('Point')
     .scale(400, 400)
-    .compress('LZW')
-    .write(previewPath.replace('preview.png', 'preview-cropped-thumb.png'), e => {
+    .dither(false)
+    .colors(100)
+    .quality(90)
+    .write(previewPath.replace('preview.png', 'static.png'), e => {
       if(e) { throw e }
       else {
         console.log('cropped-thumb', previewPath)
