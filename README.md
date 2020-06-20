@@ -1,3 +1,5 @@
+View the live site at https://phasmaexmachina.github.io/destiny-child-mods-archive/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
