@@ -35,7 +35,7 @@ Object.keys(characters).sort().forEach(model => {
                   filename: `docs/characters/${model}_${variantId}/${modHash}/preview.png`,
                   data: d.replace(/^data:image\/png;base64,/, ""),
                   encoding: 'base64'
-                }, {timeout: 20000})
+                }, {timeout: 30000})
                 // cy.writeFile(`public/characters/${model}_${variantId}/${modHash}/preview.png`, d.replace(/^data:image\/png;base64,/, ""), 'base64')
               }
               else cy.wait(1000).then(saveImage)

@@ -5,44 +5,26 @@ const fs = require('fs'),
 
 fs.mkdirSync(path.join(__dirname, '../tmp'), {recursive: true})
 
-const missingCropped = [],
-      missingCroppedThumb = []
+const missingCroppedThumb = []
 
 Object.keys(characters).sort().forEach(model => {
   Object.keys(characters[model].variants).sort().forEach(variantId => {
     characters[model].variants[variantId].mods.forEach(modHash => {
-      if(fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png'))) {
-        if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview-cropped.png'))) {
-          missingCropped.push(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png'))
-        }
-        if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/static.png'))) {
+      if(fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png')) &&
+        !fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/static.png'))
+      ) {
           missingCroppedThumb.push(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + modHash + '/preview.png'))
-        }
       }
     })
   })
 })
-
-const processCropped = i => {
-  const previewPath = missingCropped[i]
-  gm(previewPath)
-    .trim()
-    .write(previewPath.replace('preview.png', 'preview-cropped.png'), e => {
-      if(e) { throw e }
-      else {
-        console.log('cropped', previewPath)
-        if(i < missingCropped.length - 2) processCropped(i + 1)
-      }
-    })
-}
-if(missingCropped.length) processCropped(0)
 
 const processCroppedThumb = i => {
   const previewPath = missingCroppedThumb[i]
   gm(previewPath)
     .trim()
     .filter('Point')
-    .scale(400, 400)
+    .scale(350, 350)
     .dither(false)
     .colors(100)
     .quality(90)

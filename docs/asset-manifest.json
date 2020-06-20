@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/css/main.599661ed.chunk.css",
-    "main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.fb5a22b6.chunk.js",
-    "main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.fb5a22b6.chunk.js.map",
+    "main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.8f32d268.chunk.js",
+    "main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.8f32d268.chunk.js.map",
     "runtime-main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/runtime-main.57c0ffae.js",
     "runtime-main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/runtime-main.57c0ffae.js.map",
     "static/js/2.6c7c7a2f.chunk.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.6c7c7a2f.chunk.js",
     "static/js/2.6c7c7a2f.chunk.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.6c7c7a2f.chunk.js.map",
     "index.html": "https://phasmaexmachina.github.io/destiny-child-mods-archive/index.html",
-    "precache-manifest.0eafc8c700a27658db850580ff7597b1.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/precache-manifest.0eafc8c700a27658db850580ff7597b1.js",
+    "precache-manifest.0b1c4e8583c7e0247a264d8af340e971.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/precache-manifest.0b1c4e8583c7e0247a264d8af340e971.js",
     "service-worker.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/service-worker.js",
     "static/css/main.599661ed.chunk.css.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/css/main.599661ed.chunk.css.map",
     "static/js/2.6c7c7a2f.chunk.js.LICENSE.txt": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.6c7c7a2f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.57c0ffae.js",
     "static/js/2.6c7c7a2f.chunk.js",
     "static/css/main.599661ed.chunk.css",
-    "static/js/main.fb5a22b6.chunk.js"
+    "static/js/main.8f32d268.chunk.js"
   ]
 }
