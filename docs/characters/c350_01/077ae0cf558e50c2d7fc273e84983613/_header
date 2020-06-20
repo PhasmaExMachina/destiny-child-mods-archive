@@ -1,0 +1,11 @@
+{
+    "c350_01_attack.mtn": "ea0f002a00488fd9",
+    "c350_01_banner.mtn": "ea0f002a3678cf26",
+    "c350_01_event.mtn": "890f00295f1e0f5c",
+    "c350_01_event2.mtn": "ea0f002ac259194d",
+    "c350_01_hit.mtn": "c70e0027ea28b901",
+    "c350_01_idle.mtn": "280f002808bfd015",
+    "character.dat": "050e0025ca64ec14",
+    "model.json": "660e00269626a54d",
+    "texture_00.png": "660e0026d6df8e4c"
+}
