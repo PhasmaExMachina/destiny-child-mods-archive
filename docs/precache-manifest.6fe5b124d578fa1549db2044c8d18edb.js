@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82ed1c9e80c2ef6145735716ac7500e2",
+    "revision": "e8f94610c25027f65122e9ef3da8d7d4",
     "url": "https://phasmaexmachina.github.io/destiny-child-mods-archive/index.html"
   },
   {
