@@ -26,7 +26,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           live2dPath = tmpFilePath.replace(/\.pck$/, '')
     if(!modHashes.pck[fileHash]) {
       console.log('-------processing', file, md5File(inputFilePath))
-      modHashes.pck[fileHash] = true // save that we've seen this mod
+      modHashes.pck[fileHash] = {code, variant, created: Date.now()} // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist
       fs.renameSync(inputFilePath, tmpFilePath) // rename input file to plain pck base and move to temp
       let isGlobal = false
