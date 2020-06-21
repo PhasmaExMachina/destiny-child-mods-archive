@@ -513,7 +513,8 @@
         "title": "Kyoko",
         "mods": [
           "1eda01d7e1dafb150161c3b40be86d3d",
-          "153410aa05d9a0f5f1ea0768fd35b30e"
+          "153410aa05d9a0f5f1ea0768fd35b30e",
+          "96732caa650fc16ef51ec670273fc33f"
         ]
       },
       "01": {
@@ -564,7 +565,7 @@
     "image2": "http://i.imgur.com/AuESHzB.png",
     "image3": "http://i.imgur.com/am3Lp3m.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "c009": {
     "code": "c009",
@@ -1750,7 +1751,8 @@
         "title": "Sae",
         "mods": [
           "1f7554c407c3d43a54ee95a3167eee1e",
-          "26385361527037ef4f3c435972c93dd4"
+          "26385361527037ef4f3c435972c93dd4",
+          "a979bd181ce1b14c57fd5573ba55c0a8"
         ]
       }
     },
@@ -1773,7 +1775,7 @@
     "image2": "http://i.imgur.com/yB8Iqo3.png",
     "image3": "http://i.imgur.com/1rb8qlj.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 9
   },
   "c034": {
     "code": "c034",
@@ -1873,7 +1875,8 @@
         "is_voice": "0",
         "title": "Kanna",
         "mods": [
-          "1ede22da8067738c83cd3ec836ccb2a2"
+          "1ede22da8067738c83cd3ec836ccb2a2",
+          "baa3c698f3469148acd61a0e2b05a812"
         ]
       }
     },
@@ -1896,7 +1899,7 @@
     "image2": "http://i.imgur.com/th0UDgp.png",
     "image3": "http://i.imgur.com/mGu4zEl.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 8
   },
   "c036": {
     "code": "c036",
@@ -1921,7 +1924,8 @@
         "view_idx": "c036_00",
         "is_voice": "0",
         "mods": [
-          "e954d1e09d59be9612f8581e458cfecc"
+          "e954d1e09d59be9612f8581e458cfecc",
+          "eba248b96360e2d41635345c58623a65"
         ]
       },
       "01": {
@@ -1974,7 +1978,7 @@
     "image2": "http://i.imgur.com/30s3cnt.png",
     "image3": "http://i.imgur.com/IiUsHXf.png",
     "imageSkin": "http://i.imgur.com/RvzgHvv.png",
-    "numMods": 15
+    "numMods": 16
   },
   "c038": {
     "code": "c038",
@@ -2033,7 +2037,8 @@
           "5288b0fa040f7de8380dbeeb7e10ae55",
           "c9ab4da012ccd08240a24e4bfe6c61a5",
           "a151969a1cf4398bf0172fa9d3faf3eb",
-          "cb4547ec9dc1329ca23b5fc1d3e5bf56"
+          "cb4547ec9dc1329ca23b5fc1d3e5bf56",
+          "6475d20eb2d4521c006cf2f4f4ccbc4f"
         ]
       }
     },
@@ -2056,7 +2061,7 @@
     "image2": "http://i.imgur.com/5BnBC5o.png",
     "image3": "http://i.imgur.com/HSTnMUk.png",
     "imageSkin": "http://i.imgur.com/cHkAmEA.png",
-    "numMods": 19
+    "numMods": 20
   },
   "c039": {
     "code": "c039",
@@ -2134,7 +2139,8 @@
         "view_idx": "c040_00",
         "is_voice": "0",
         "mods": [
-          "5c0a59bbf77e96812da3caa0847449c2"
+          "5c0a59bbf77e96812da3caa0847449c2",
+          "1f8288f9903a5e4780f23e631924af27"
         ]
       },
       "01": {
@@ -2184,7 +2190,7 @@
     "image2": "http://i.imgur.com/9HomDEy.png",
     "image3": "http://i.imgur.com/2XqlWLU.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 11
   },
   "c043": {
     "code": "c043",
@@ -11077,7 +11083,8 @@
         "mods": [
           "2391aa61b20aacb2724254da3ba9f563",
           "51c0944ad1886c54efb020a287597808",
-          "c62fe73c96feddf726530d3568e33c85"
+          "c62fe73c96feddf726530d3568e33c85",
+          "d373598daec60aaf547f1ca652c2cac0"
         ]
       },
       "02": {
@@ -11125,7 +11132,7 @@
     "image2": "http://i.imgur.com/NACVrBw.png",
     "image3": "http://i.imgur.com/ikKAS0X.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "c200": {
     "code": "c200",
