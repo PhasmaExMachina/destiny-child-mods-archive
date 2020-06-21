@@ -23,6 +23,7 @@ function App() {
   return (
     <div className="App">
       <h1>Destiny Child Mods Archive</h1>
+      <p>All PCK files have been converted to universal and should work in both Global and KR/JP. To download, click on a mod image to launch the Live2d preview, then on the douwnload icon in the top right. Instructions on installing mods can be found <a href="https://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" taget="_blank">here</a> or on <a href="http://letmegooglethat.com/?q=destiny+child+how+to+install+mods" target="_blank">Google</a>. There's also a <a href="https://discord.gg/2vew9te" target="_blank">Discord community</a>.</p>
       <p>
         Filter characters:{' '}
         <input onKeyUp={e => setFilter(e.target.value)} />
