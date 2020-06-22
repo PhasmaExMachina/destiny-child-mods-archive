@@ -59,6 +59,7 @@ function Home() {
       })
       break
     case 'added':
+      filtered.sort((a, b) => a.created > b.created ? -1 : a.created > b.created ? 1 : 0)
       break
   }
   if(order == 'desc') filtered.reverse()
@@ -106,7 +107,7 @@ function Home() {
         {' '}sort by{' '}
         <select onChange={({target: {value}}) => setQueryParam({sort: value == 'code' ? false : value})} defaultValue={sort}>
           <option value="code">Character Code</option>
-          <option value="added">added</option>
+          <option value="added">Recently Added</option>
         </select>
         {' '}
         <select onChange={({target: {value}}) => setQueryParam({order: value == 'asc' ? false : value})} defaultValue={order}>
