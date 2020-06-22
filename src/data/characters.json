@@ -116,8 +116,6 @@
           "f868cf8917a54529e26d7f25848a30a7",
           "b82e3d7e6a3cea001210b8e108e321b6",
           "622a9f481b7fff85c7a7affbfc640ac8",
-          "226f8cf5fe1e9200aa36b0376491087d",
-          "2358221cde4f686881748931b4245aaa",
           "c4e848fdfb0b9fb29022b9d9b5c9714c"
         ]
       },
@@ -149,11 +147,9 @@
           "a1c8e09349589383304ab1ee7764313e",
           "f0d114303309ca241054205d5b2ffe73",
           "523fca4567d824e3d73f01939a53e319",
-          "93b905bed61f1447d5fcdb8637b129a7",
           "d2b783585b5a2537748c13905c2b5480",
           "5613aee3ff295fe9ef5cfcec818f1af2",
           "70e198b7b962ca7e8fea47f35a5e1265",
-          "a67f4a6307df0b64730484fb620b8219",
           "a02d26603dac22d7f1adb5c3d82238ca"
         ]
       },
@@ -266,8 +262,7 @@
         "title": "Battlesuit",
         "mods": [
           "0f950fca05094ef32e50d15726649c81",
-          "3cc2238ff306ed57234eb4badd954392",
-          "43c765bb6d1a10bc85ee4a299f0ed512"
+          "3cc2238ff306ed57234eb4badd954392"
         ]
       }
     },
