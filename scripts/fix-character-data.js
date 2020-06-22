@@ -27,7 +27,7 @@ fs.readdirSync(charactersPath).forEach(charDir => {
     if(characters[code].variants[variant].mods.indexOf(modHash) < 0) {
       characters[code].variants[variant].mods.push(modHash)
     }
-    modHashes.pck[modHash] = modHashes.pck[modHash] || {code, variant}
+    modHashes.pck[modHash] = modHashes.pck[modHash] || {code, variant, created: Date.now()}
     const modPath = path.join(charPath, modHash)
     if(code.match(/^s(c|m)/) && fs.existsSync(path.join(modPath, '00000002'))) {
       fs.renameSync(path.join(modPath, '00000002'), path.join(modPath, 'physics.json'))
