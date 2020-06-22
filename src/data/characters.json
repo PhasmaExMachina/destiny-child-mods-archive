@@ -2183,7 +2183,8 @@
           "e4948972d1609f9e0e01ed7317cccaf6",
           "61fc011afe4cc0402e06b63ba08a1e51",
           "c5e43457bfc577550ed2dac1ceab6a83",
-          "87767d4a466813683cad102a2735e07a"
+          "87767d4a466813683cad102a2735e07a",
+          "b1e4c77e375d724de0fd8191f5e4ba45"
         ]
       }
     },
@@ -2206,7 +2207,7 @@
     "image2": "http://i.imgur.com/9HomDEy.png",
     "image3": "http://i.imgur.com/2XqlWLU.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "c043": {
     "code": "c043",
@@ -10236,7 +10237,8 @@
           "d5bb25f5c708fe23f5ecca450f86b867",
           "503b1eac6dc826510c78c371290f7fea",
           "fe477147cef9b31298179b56b34e13b7",
-          "37cc05650b81dd521c78b8a9688ab5f9"
+          "37cc05650b81dd521c78b8a9688ab5f9",
+          "5c68ba0857a6c28881f4461bc47d1823"
         ]
       },
       "02": {
@@ -10250,7 +10252,8 @@
           "5c45b4dda1878548f37cb0afa70c52ec",
           "550e5cf11d924d694a2fa94ca15ecf90",
           "7ddbdc7b2615574237fd84df230a9090",
-          "6bdcab4caaf49b3aeb26e6e6bd7eedc5"
+          "6bdcab4caaf49b3aeb26e6e6bd7eedc5",
+          "ea263a21221d1f8452a871426e4db304"
         ]
       },
       "00": {
@@ -10261,7 +10264,8 @@
         "is_voice": "0",
         "title": "Akihiro",
         "mods": [
-          "53252b80d7c56c3e46b7dfcc3a83d78a"
+          "53252b80d7c56c3e46b7dfcc3a83d78a",
+          "442c75f1fa8bdbf31c7a8b1361f25d87"
         ]
       }
     },
@@ -10284,7 +10288,7 @@
     "image2": "http://i.imgur.com/X3Opb7t.png",
     "image3": "http://i.imgur.com/x1xRasm.png",
     "imageSkin": null,
-    "numMods": 17
+    "numMods": 20
   },
   "c133": {
     "code": "c133",
@@ -10821,7 +10825,8 @@
         "title": "Renowned Assistant",
         "mods": [
           "46ac06bde402d64d45c66758edd513c7",
-          "c5b0718c73d9be8c69cf9d67e87b4db2"
+          "c5b0718c73d9be8c69cf9d67e87b4db2",
+          "cf0bf5b0b4978abfd8736e60426c6c27"
         ]
       },
       "00": {
@@ -10856,7 +10861,7 @@
     "image2": "http://i.imgur.com/Z90Y9xR.png",
     "image3": "http://i.imgur.com/FIV3WlY.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 10
   },
   "c190": {
     "code": "c190",
@@ -10881,7 +10886,8 @@
         "title": "Mimic",
         "mods": [
           "ce9f2d42ee6f4be789e6cd99163b8812",
-          "d0cd08eb1dd8b57e97ea0503a3dd3e61"
+          "d0cd08eb1dd8b57e97ea0503a3dd3e61",
+          "866a21087be7ee924f17dddc039eeead"
         ]
       },
       "02": {
@@ -10894,7 +10900,8 @@
         "mods": [
           "95ce48c390f305126e5d4eb2f9483adc",
           "3076eab2f02b308ecc3cb91072c67d6a",
-          "79c6acda38773762b907197de0fc449f"
+          "79c6acda38773762b907197de0fc449f",
+          "b39ef4ed53c0885c7e3ca38cc84b005d"
         ]
       }
     },
@@ -10917,7 +10924,7 @@
     "image2": "http://i.imgur.com/o9pdNFx.png",
     "image3": "http://i.imgur.com/0Krikn8.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 11
   },
   "c194": {
     "code": "c194",
@@ -13709,7 +13716,8 @@
           "ed1b0a7ef3f045f184ef0a963b14ab78",
           "4448294a31377243106fa0e89624cf01",
           "dbdb1164082bd52e22982cbfb10a90ec",
-          "8830a20499755177a596385ce0de29b8"
+          "8830a20499755177a596385ce0de29b8",
+          "50fa2f38df7b64d4e8dcd9f1c0d18e99"
         ]
       },
       "02": {
@@ -13747,7 +13755,7 @@
     "image2": "http://i.imgur.com/kRHtrYL.png",
     "image3": "http://i.imgur.com/918qUOe.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 13
   },
   "c278": {
     "code": "c278",
@@ -15867,7 +15875,8 @@
         "title": "Summer Spike",
         "mods": [
           "e24818825c79a665afe1842685c464ca",
-          "15f9df61ece1646daa047ba825bbc55f"
+          "15f9df61ece1646daa047ba825bbc55f",
+          "fb8676922c05ba2787c8fc0ca1e2876b"
         ]
       },
       "01": {
@@ -15918,7 +15927,7 @@
     "image2": "http://i.imgur.com/7weZ0x8.png",
     "image3": "http://i.imgur.com/Kgmji3I.png",
     "imageSkin": "http://i.imgur.com/3PYp4sV.png",
-    "numMods": 20
+    "numMods": 21
   },
   "c345": {
     "code": "c345",
