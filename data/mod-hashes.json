@@ -21430,7 +21430,13 @@
       "variant": "89",
       "created": 1592834958226
     },
-    "fb8676922c05ba2787c8fc0ca1e2876b": true
+    "fb8676922c05ba2787c8fc0ca1e2876b": true,
+    "d03ea9d1a0b49015572479dec3b985b8": {
+      "code": "c216",
+      "variant": "01",
+      "created": 1592835123635
+    },
+    "bc54789ce24e09f82440ad4e20f57e28": true
   },
   "texture": {
     "c000_01-2e9905d5043a58ba42e212d0e5115ec2": true,
@@ -25009,6 +25015,7 @@
     "c190_01-f9be7f511319660409617e9f7b46e85d": true,
     "c190_02-be33990d9f53f24a737ee0e0601df2fe": true,
     "c277_01-c338e1839234b12650ffa13c746d502f": true,
-    "c344_89-3a7898bd05c95752d1a6e20467d03a399de9a11965b954745636b0710afac83f": true
+    "c344_89-3a7898bd05c95752d1a6e20467d03a399de9a11965b954745636b0710afac83f": true,
+    "c216_02-2defb76ceaab515e480a7d3993e3ecc9": true
   }
 }
