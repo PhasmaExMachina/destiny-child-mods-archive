@@ -75,7 +75,7 @@ fs.readdirSync(importPckPath).forEach(file => {
         }
       }
       catch(e) {
-        console.warn('error parsing', code, variant)
+        console.warn('error parsing', characterId, variant, file)
       }
 
     }
