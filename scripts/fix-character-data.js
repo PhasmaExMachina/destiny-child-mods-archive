@@ -24,9 +24,9 @@ fs.readdirSync(charactersPath).forEach(charDir => {
     characters[code].variants = characters[code].variants || {}
     characters[code].variants[variant] = characters[code].variants[variant] || {}
     characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
-    if(characters[code].variants[variant].mods.indexOf(modHash) < 0) {
-      characters[code].variants[variant].mods.push(modHash)
-    }
+    // if(!characters[code].variants[variant].mods.find(({hash}) => hash == modHash)) {
+    //   characters[code].variants[variant].mods.push({hash: modHash})
+    // }
     modHashes.pck[modHash] = modHashes.pck[modHash] || {code, variant, created: Date.now()}
     const modPath = path.join(charPath, modHash)
     if(code.match(/^s(c|m)/) && fs.existsSync(path.join(modPath, '00000002'))) {
@@ -84,5 +84,13 @@ fs.readdirSync(charactersPath).forEach(charDir => {
 //   }
 // })
 
+console.log('updating created times')
+Object.keys(characters).forEach(code => {
+  Object.keys(characters[code].variants).forEach(variant => {
+    characters[code].variants[variant].mods = characters[code].variants[variant].mods
+      .map(hash => typeof hash == 'string' ? {hash} : hash)
+      .map(mod => Object.assign(mod, {created: modHashes.pck[mod.hash] ? modHashes.pck[mod.hash].created : 0}))
+  })
+})
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 fs.writeFileSync(path.join(__dirname, '../data/mod-hashes.json'), JSON.stringify(modHashes, null, 2))

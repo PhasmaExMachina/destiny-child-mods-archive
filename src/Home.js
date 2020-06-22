@@ -23,10 +23,7 @@ function Home() {
   let filtered = view === 'mods'
     ? codes.reduce((acc, code) => {
       acc = acc.concat(Object.keys(characters[code].variants).reduce((acc, variant) => {
-        acc = acc.concat(characters[code].variants[variant].mods.map(hash => Object.assign({
-          hash,
-          variant
-        }, characters[code])))
+        acc = acc.concat(characters[code].variants[variant].mods.map(mod => Object.assign({}, characters[code], mod, {variant})))
         return acc
       }, []))
       return acc
