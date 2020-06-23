@@ -82,14 +82,14 @@ function Home() {
       <p>All PCK files have been converted to universal and should work in both Global and KR/JP. To download, click on a mod image to launch the Live2d preview, then on the download icon in the top right. Instructions on installing mods can be found <a href="https://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" taget="_blank">here</a> or on <a href="http://letmegooglethat.com/?q=destiny+child+how+to+install+mods" target="_blank" rel="noopener noreferrer" >Google</a>. There's also a <a href="https://discord.gg/2vew9te" target="_blank" rel="noopener noreferrer" >Discord community</a>.</p>
       <p>
         {(view !== 'characters')
-          ? <a onClick={() => setQueryParam({view: 'characters', pageNum: 0, perPage: 5, sort: 'code'})}>
+          ? <a onClick={() => setQueryParam({view: 'characters', pageNum: 0, perPage: 5, sort: 'code', order: false})}>
             Mods by Character
           </a>
           : <span style={{fontWeight: 'bold'}}>Mods by Character</span>
         }
         {' | '}
-        {(view !== 'mods' || sort !== 'added')
-          ? <a style={{marginRight: '1em'}} onClick={() => setQueryParam({view: 'mods', pageNum: 0, perPage: 20, sort: 'added'})}>
+        {(view !== 'mods' || sort !== 'added' || order !== 'desc')
+          ? <a style={{marginRight: '1em'}} onClick={() => setQueryParam({view: 'mods', pageNum: 0, perPage: 20, sort: 'added', order: 'desc'})}>
             Latest Mods
           </a>
           : <span style={{fontWeight: 'bold'}}>Latest Mods</span>
@@ -123,7 +123,7 @@ function Home() {
           </select>
         }
         {' '}
-        <select onChange={({target: {value}}) => setQueryParam({order: value === 'asc' ? false : value})} defaultValue={order}>
+        <select onChange={({target: {value}}) => setQueryParam({order: value === 'asc' ? false : value})} value={order}>
           <option value="asc">Ascending</option>
           <option value="desc">Descending</option>
         </select>
@@ -141,7 +141,7 @@ function Home() {
           <option value="5">5 star</option>
         </select>
         {' '}
-        <select onChange={({target: {value}}) => setQueryParam({type: value === 'c' ? false : value})} defaultValue={type}>
+        <select onChange={({target: {value}}) => setQueryParam({type: value === 'c' ? false : value})} value={type}>
           <option value="all">All Types</option>
           <option value="c">Childs</option>
           <option value="m">Monsters</option>
