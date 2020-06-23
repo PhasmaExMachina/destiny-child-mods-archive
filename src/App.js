@@ -16,7 +16,7 @@ function App() {
         top: '-5px',
         right: '-5px'
       }} target="_blank" rel="noopener noreferrer">
-        <img src={basePath + 'img/strip-fork-me-on-github.png'} style={{width: '100px'}}/>
+        <img src={basePath + '/img/strip-fork-me-on-github.png'} style={{width: '100px'}}/>
       </a>
       <Router basename={basePath}>
         <Switch>
