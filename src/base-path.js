@@ -1,1 +1,1 @@
-export default process.env.NODE_ENV == 'development' ? '' : '/destiny-child-mods-archive'
+export default process.env.NODE_ENV === 'development' ? '' : '/destiny-child-mods-archive'

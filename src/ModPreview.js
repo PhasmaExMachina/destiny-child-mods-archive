@@ -12,7 +12,7 @@ function CharacterImage({character: {name, variants, code}, variant, hash}) {
       margin: '2em 3em 2em 1em',
       textAlign: 'center'
     }}>
-      <a href={`${basePath}/live2d-viewer.html?model=${code}_${variant}&modHash=${hash}`} target="_blank">
+      <a href={`${basePath}/live2d-viewer.html?model=${code}_${variant}&modHash=${hash}`} target="_blank" rel="noopener noreferrer" >
         <img alt={code + '_' + variant} src={basePath + '/characters/' + code + '_' + variant + '/' + (hash || variants[variant].mods[0]) + '/static.png'} style={{maxWidth: '300px', maxHeight: '300px', height: '300px'}} />
       </a>
       <div>{variants[variant].title} {name}</div>

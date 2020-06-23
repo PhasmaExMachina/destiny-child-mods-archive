@@ -3,10 +3,10 @@ import CharacterImage from './CharacterImage'
 import basePath from './base-path'
 
 function CharacterPreview({character}) {
-  const {code, name, variants} = character,
-        numMods = Object.keys(variants).reduce((acc, vId) => {
-          return acc + (variants[vId].mods || []).length
-        }, 0)
+  const {code} = character
+        // numMods = Object.keys(variants).reduce((acc, vId) => {
+        //   return acc + (variants[vId].mods || []).length
+        // }, 0)
   return (
     <div key={code} style={{
       marginBottom: '1em',
@@ -23,7 +23,7 @@ function CharacterPreview({character}) {
             <h2>{code}_{vId} {character.variants[vId].title} {character.name}</h2>
             {character.variants[vId].mods && character.variants[vId].mods.map(({hash}) => (
               <div key={hash} style={{marginLeft: '2em', textAlign: 'center', display: 'inline-block', position: 'relative', padding: '0 1em 0'}}>
-                <a href={`${basePath}/live2d-viewer.html?model=${code}_${vId}&modHash=${hash}`} target="_blank">
+                <a href={`${basePath}/live2d-viewer.html?model=${code}_${vId}&modHash=${hash}`} target="_blank" rel="noopener noreferrer" >
                   <CharacterImage character={character} variant={vId} hash={hash} />
                 </a>
                 {/* <br />

@@ -1,6 +1,4 @@
-import React, {useState} from 'react';
-import useQuery from './use-query'
-import characters from './data/characters.json'
+import React from 'react';
 import {
   BrowserRouter as Router,
   Switch,

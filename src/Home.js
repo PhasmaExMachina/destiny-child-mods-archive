@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import CharacterPreview from './CharacterPreview'
 import characters from './data/characters.json'
 import useQuery from './use-query'
-import {useHistory, useLocation} from "react-router-dom"
+import {useHistory, useLocation, Link} from "react-router-dom"
 import queryString from 'query-string'
 import ModPreview from './ModPreview';
 
@@ -16,7 +16,8 @@ function Home() {
           perPage = '10',
           view = 'characters',
           sort = 'code',
-          order = 'asc'
+          order = 'asc',
+          page = '0'
         } = query,
         [filter, setFilter] = useState(''),
         codes = Object.keys(characters).sort()
@@ -38,6 +39,8 @@ function Home() {
       if(!params[param]) delete newParams[param]
     })
     history.push(location.pathname + '?' + queryString.stringify(newParams))
+    document.body.scrollTop = 0; // For Safari
+    document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
   }
   if(filter) {
     filtered = filtered.filter(({code, name, variants, variant}) =>
@@ -45,29 +48,70 @@ function Home() {
     )
   }
   if(stars) {
-    filtered = filtered.filter(({starLevel}) => starLevel == parseInt(stars))
+    filtered = filtered.filter(({starLevel}) => starLevel === parseInt(stars))
   }
-  if(type != 'all') {
+  if(type !== 'all') {
     filtered = filtered.filter(({code}) => code.match(new RegExp('^' + type)))
   }
-  switch(sort) {
-    case 'code':
-      filtered.sort(({code, variant}, charB) => {
-        const a = code + '_' + variant,
-              b = charB.code + '_' + charB.variant
-        return a < b ? -1 : a < b ? 1 : 0
-      })
-      break
-    case 'added':
-      filtered.sort((a, b) => a.created > b.created ? -1 : a.created > b.created ? 1 : 0)
-      break
+  if(view === 'characters' || sort === 'code') {
+    filtered.sort(({code, variant}, charB) => {
+      const a = code + '_' + variant,
+            b = charB.code + '_' + charB.variant
+      return a < b ? -1 : a < b ? 1 : 0
+    })
   }
-  if(order == 'desc') filtered.reverse()
-  const numPerPage = perPage == 'all' ? filtered.length : parseInt(perPage)
+  if(sort === 'added') {
+    filtered.sort((a, b) => a.created > b.created ? -1 : a.created > b.created ? 1 : 0)
+  }
+  if(order === 'desc') filtered.reverse()
+  const numPerPage = perPage === 'all' ? filtered.length : parseInt(perPage),
+        pageNum = page ? parseInt(page) : 0,
+        maxPage = Math.floor(filtered.length / numPerPage),
+        PageSummary = () => (
+          <p style={{maxWidth: '100%'}}>
+            Page {pageNum + 1} of {Math.ceil(filtered.length / numPerPage)}{' - '}
+            {pageNum !== 0 && <a href="#" onClick={() => setQueryParam({page: pageNum - 1})}>Previous</a>}
+            {pageNum === 0 && 'Previous'}
+            {' / '}
+            {pageNum !== maxPage && <a href="#" onClick={() => setQueryParam({page: pageNum + 1})}>Next</a>}
+          </p>
+        )
   return (
     <>
       <h1>Destiny Child Mods Archive</h1>
-      <p>All PCK files have been converted to universal and should work in both Global and KR/JP. To download, click on a mod image to launch the Live2d preview, then on the download icon in the top right. Instructions on installing mods can be found <a href="https://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" taget="_blank">here</a> or on <a href="http://letmegooglethat.com/?q=destiny+child+how+to+install+mods" target="_blank">Google</a>. There's also a <a href="https://discord.gg/2vew9te" target="_blank">Discord community</a>.</p>
+      <p>All PCK files have been converted to universal and should work in both Global and KR/JP. To download, click on a mod image to launch the Live2d preview, then on the download icon in the top right. Instructions on installing mods can be found <a href="https://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" taget="_blank">here</a> or on <a href="http://letmegooglethat.com/?q=destiny+child+how+to+install+mods" target="_blank" rel="noopener noreferrer" >Google</a>. There's also a <a href="https://discord.gg/2vew9te" target="_blank" rel="noopener noreferrer" >Discord community</a>.</p>
+      <p>
+        {(view !== 'characters') && <Link to ="/" style={{marginRight: '1em'}}>Mods by Character</Link>}
+        {(view !== 'mods' || sort !== 'added') && <Link to ="/?order=desc&perPage=20&sort=added&view=mods" style={{marginRight: '1em'}}>Latest Mods</Link>}
+      </p>
+      <p>Show{' '}
+        <select onChange={({target: {value}}) => setQueryParam({page: 0, perPage: value === '10' ? false : value})} defaultValue={perPage}>
+          <option value="10">10</option>
+          <option value="20">20</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="all">all</option>
+        </select>
+        {' '}
+        <select onChange={({target: {value}}) => setQueryParam({view: value === 'characters' ? false : value})} defaultValue={view}>
+          <option value="characters">Characters</option>
+          <option value="mods">Mods</option>
+        </select>
+        {' '}{perPage !== 'all' ? 'per page' : ''}
+        {' '}sorted by{' '}
+        {view === 'characters'
+          ? 'model code'
+          : <select onChange={({target: {value}}) => setQueryParam({sort: value === 'code' ? false : value})} defaultValue={sort}>
+            <option value="code">Model Code</option>
+            <option value="added">Recently Added</option>
+          </select>
+        }
+        {' '}
+        <select onChange={({target: {value}}) => setQueryParam({order: value === 'asc' ? false : value})} defaultValue={order}>
+          <option value="asc">Ascending</option>
+          <option value="desc">Descending</option>
+        </select>
+      </p>
       <p>
         Filter characters:{' '}
         <input onKeyUp={e => setFilter(e.target.value)} />
@@ -81,7 +125,7 @@ function Home() {
           <option value="5">5 star</option>
         </select>
         {' '}
-        <select onChange={({target: {value}}) => setQueryParam({type: value == 'c' ? false : value})} defaultValue={type}>
+        <select onChange={({target: {value}}) => setQueryParam({type: value === 'c' ? false : value})} defaultValue={type}>
           <option value="all">All Types</option>
           <option value="c">Childs</option>
           <option value="m">Monsters</option>
@@ -90,39 +134,24 @@ function Home() {
           <option value="v">Other</option>
         </select>
       </p>
-      <p>Show{' '}
-        <select onChange={({target: {value}}) => setQueryParam({perPage: value == '20' ? false : value})} defaultValue={perPage}>
-          <option value="10">10</option>
-          <option value="20">20</option>
-          <option value="50">50</option>
-          <option value="100">100</option>
-          <option value="all">all</option>
-        </select>
-        {' '}
-        <select onChange={({target: {value}}) => setQueryParam({view: value == 'characters' ? false : value})} defaultValue={view}>
-          <option value="characters">Characters</option>
-          <option value="mods">Mods</option>
-        </select>
-        {' '}{perPage != 'all' ? 'per page' : ''}
-        {' '}sort by{' '}
-        <select onChange={({target: {value}}) => setQueryParam({sort: value == 'code' ? false : value})} defaultValue={sort}>
-          <option value="code">Character Code</option>
-          <option value="added">Recently Added</option>
-        </select>
-        {' '}
-        <select onChange={({target: {value}}) => setQueryParam({order: value == 'asc' ? false : value})} defaultValue={order}>
-          <option value="asc">Ascending</option>
-          <option value="desc">Descending</option>
-        </select>
-      </p>
-      {view == 'characters'
-        ? filtered.slice(0, numPerPage).map(character => (
+      <PageSummary />
+      {view === 'characters'
+        ? filtered.slice(pageNum * numPerPage, pageNum * numPerPage + numPerPage).map(character => (
           <CharacterPreview key={character.code} character={character} />
         ))
-        : filtered.slice(0, numPerPage).map(({code, variant, hash}) =>
+        : filtered.slice(pageNum * numPerPage, pageNum * numPerPage + numPerPage).map(({code, variant, hash}) =>
           <ModPreview {...{character: characters[code], variant, hash, key: hash}} />
         )
       }
+      <PageSummary />
+      <p>
+        <a href="#" onClick={() => setQueryParam({page: 0})}>First</a>{' '}
+        {new Array(maxPage).fill(1).map((_, i) => i == pageNum
+          ? <span style={{marginRight: '.25em'}}>{i + 1}</span>
+          : <><a href="#" onClick={() => setQueryParam({page: i})} style={{marginRight: '.25em'}}>{i + 1}</a>{' '}</>
+        )}{' '}
+        <a href="#" onClick={() => setQueryParam({page: maxPage})}>Last</a>
+      </p>
     </>
   )
 }

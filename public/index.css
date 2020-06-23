@@ -21,4 +21,6 @@ h2 {
 }
 a {
   color: #00ccff;
+  cursor: pointer;
+  text-decoration: none;
 }
