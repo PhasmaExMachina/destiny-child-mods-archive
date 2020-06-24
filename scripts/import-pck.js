@@ -69,10 +69,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           characters[characterId].variants = characters[characterId].variants || {}
           characters[characterId].variants[variant] = characters[characterId].variants[variant] || {}
           characters[characterId].variants[variant].mods = characters[characterId].variants[variant].mods || []
-          characters[characterId].variants[variant].mods.push({
-            hash,
-            created: Date.now()
-          })
+          characters[characterId].variants[variant].mods.push(hash)
           characters[characterId].numMods = characters[characterId].numMods || 0
           characters[characterId].numMods++
           mods[hash] = Object.assign({}, mods[hash], {

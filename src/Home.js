@@ -78,7 +78,9 @@ function Home() {
   return (
     <>
       <h1>
-        <img src={basePath + '/img/icon.png'} style={{height: '1.5em', verticalAlign: 'middle', float: 'left', marginRight: '.5em'}} />
+        <Link to="/">
+          <img src={basePath + '/img/icon.png'} style={{height: '1.5em', verticalAlign: 'middle', float: 'left', marginRight: '10px'}} />
+        </Link>
         Destiny Child Mods Archive
       </h1>
       <p>All PCK files have been converted to universal and should work in both Global and KR/JP. To download, click on a mod image to launch the Live2d preview, then on the download icon in the top right. Instructions on installing mods can be found <a href="https://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" taget="_blank">here</a> or on <a href="http://letmegooglethat.com/?q=destiny+child+how+to+install+mods" target="_blank" rel="noopener noreferrer" >Google</a>. There's also a <a href="https://discord.gg/2vew9te" target="_blank" rel="noopener noreferrer" >Discord community</a>. The <a href="#credits">credits</a> are at the bottom.</p>
@@ -90,7 +92,7 @@ function Home() {
           : <span style={{fontWeight: 'bold'}}>Mods by Character</span>
         }
         {' | '}
-        {(view !== 'mods' || sort !== 'added' || order !== 'desc')
+        {(view !== 'mods' || sort !== 'added' || order !== 'asc')
           ? <a style={{marginRight: '1em'}} onClick={() => setQueryParam({view: 'mods', pageNum: 0, perPage: 20, sort: 'added', order: 'asc'})}>
             Latest Mods
           </a>
@@ -121,7 +123,7 @@ function Home() {
           ? 'model code'
           : <select onChange={({target: {value}}) => setQueryParam({sort: value === 'code' ? false : value})} value={sort}>
             <option value="code">Model Code</option>
-            <option value="added">Recently Added</option>
+            <option value="added">Latest</option>
           </select>
         }
         {' '}
