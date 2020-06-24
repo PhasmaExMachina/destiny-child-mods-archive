@@ -82,6 +82,9 @@ fs.readdirSync(importPckPath).forEach(file => {
           })
           fs.unlinkSync(tmpFilePath)
         }
+        else {
+          console.log('Mod already found for texture hash', textureHash)
+        }
       }
       catch(e) {
         console.warn('error parsing', characterId, variant, file)
