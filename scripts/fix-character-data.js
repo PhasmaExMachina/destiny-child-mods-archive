@@ -88,8 +88,14 @@ console.log('updating created times')
 Object.keys(characters).forEach(code => {
   Object.keys(characters[code].variants).forEach(variant => {
     characters[code].variants[variant].mods = characters[code].variants[variant].mods
-      .map(hash => typeof hash == 'string' ? {hash} : hash)
-      .map(mod => Object.assign(mod, {created: modHashes.pck[mod.hash] ? modHashes.pck[mod.hash].created : 0}))
+      .map(mod => {
+        // try {
+          const stat = fs.statSync(path.join(__dirname, '../docs/characters/' + code + '_' + variant + '/' + mod.hash))
+          const created = new Date(stat.birthtime).getTime()
+        // }
+        // catch(e) {}
+        return Object.assign(mod, {created: mod.created || typeof created !== 'undefined' ? created : 0})
+      })
   })
 })
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
