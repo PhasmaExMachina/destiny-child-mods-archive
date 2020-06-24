@@ -22351,7 +22351,9 @@
     "6761af051a1803f38f66ba8ebcee6fa9": true,
     "417225231045c0a782f9deae6a76a174": true,
     "d561044a2595641e8aee91ed11b087e7": true,
-    "d753efce8d512fc7ef75604b1273fcde": true
+    "d753efce8d512fc7ef75604b1273fcde": true,
+    "873899cdcf3a483e511c5a1769e69674": true,
+    "be49305c064e493e512051bd918c5699": true
   },
   "texture": {
     "c000_01-2e9905d5043a58ba42e212d0e5115ec2": true,
@@ -26171,6 +26173,8 @@
     "c385_01-9f582408f4962845b84785b15e86ed61": true,
     "c386_10-2ba4fa2ce443609710151b7f9f6a0434": true,
     "c386_10-ce7b70c5afedce5b3620d28545cd7dc9": true,
-    "m038_10-4c186cbbcc58b1ca8eed8c799d2444d3": true
+    "m038_10-4c186cbbcc58b1ca8eed8c799d2444d3": true,
+    "c005_01-fe2c66bd67dfe24a240dee4f0e727024": true,
+    "c005_02-fa1b1b08a0a1897afab8e6060dfd1b0a": true
   }
 }
