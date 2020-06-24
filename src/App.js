@@ -41,6 +41,19 @@ function App() {
         <li>Envy</li>
         <li>Eljoseto - Site icon</li>
       </ul>
+      <a href="https://github.com/PhasmaExMachina/destiny-child-mods-archive/issues" target="_blank" rel="noopener noreferrer"
+       style={{
+        position: 'fixed',
+        bottom: 0,
+        right: '4em',
+        background: '#111',
+        color: '#aaa',
+        padding: '.25em 1em',
+        borderRadius: '10px 10px 0 0',
+        fontWeight: 'bold'
+      }}>
+        Feedback
+      </a>
     </div>
   )
 }
