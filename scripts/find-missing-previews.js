@@ -6,17 +6,17 @@ fs.mkdirSync(path.join(__dirname, '../tmp'), {recursive: true})
 
 const missing = {}
 
-Object.keys(characters).forEach(model => {
-  Object.keys(characters[model].variants).forEach(variantId => {
-    characters[model].variants[variantId].mods.forEach(({hash}) => {
-      if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + hash + '/static.png')) &&
-         fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + hash + '/model.json'))
+Object.keys(characters).sort().forEach(code => {
+  Object.keys(characters[code].variants).forEach(variantId => {
+    characters[code].variants[variantId].mods.forEach(({hash}) => {
+      if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + code + '_' + variantId + '/' + hash + '/static.png')) &&
+         fs.existsSync(path.join(__dirname, '../docs/characters/' + code + '_' + variantId + '/' + hash + '/model.json'))
       ) {
-        missing[model] = missing[model] || {}
-        missing[model].variants = missing[model].variants || {}
-        missing[model].variants[variantId] = missing[model].variants[variantId] || {}
-        missing[model].variants[variantId].mods = missing[model].variants[variantId].mods || []
-        missing[model].variants[variantId].mods.push(hash)
+        missing[code] = missing[code] || {}
+        missing[code].variants = missing[code].variants || {}
+        missing[code].variants[variantId] = missing[code].variants[variantId] || {}
+        missing[code].variants[variantId].mods = missing[code].variants[variantId].mods || []
+        missing[code].variants[variantId].mods.push(hash)
       }
       else {
         try {
