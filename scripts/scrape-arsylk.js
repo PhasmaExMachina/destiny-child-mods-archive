@@ -29,3 +29,4 @@ fetch('https://arsylk.pythonanywhere.com/apk/view_models?page=1')
     .then(() => {
       fs.writeFileSync(path.join(__dirname, '../data/arsylk-downloaded.json'), JSON.stringify(downloaded, null, 2))
     })
+// OwO
