@@ -34,11 +34,12 @@ function App() {
       </p>
       <p>This site uses <em>lots</em> of technology from other coders including (but not limited to):</p>
       <ul>
-        <li>Loki</li>
-        <li><a href="https://github.com/Arsylk">Asylk</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Loki">Loki</a></li>
+        <li><a href="https://github.com/Arsylk">Asylk</a> - Live2D viewer implementation, <a href="https://arsylk.pythonanywhere.com/apk/view_models">mods forum</a>, and much more</li>
         <li>TinyBanana</li>
         <li>WhoCares8128</li>
         <li>Envy</li>
+        <li>Eljoseto - Site icon</li>
       </ul>
     </div>
   )
