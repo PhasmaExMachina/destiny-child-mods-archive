@@ -19,14 +19,14 @@ fs.readdirSync(importPckPath).forEach(file => {
   const [_, characterId, variant] = file.match(/^([^_]+)_(\d\d).*\.pck$/) || []
   if(characterId) {
     const inputFilePath = path.join(importPckPath, file),
-          fileHash = md5File(inputFilePath),
+          hash = md5File(inputFilePath),
           pckBase = `${characterId}_${variant}`,
-          outputPath = path.join(__dirname, `../docs/characters/${characterId}_${variant}/${fileHash}`),
+          outputPath = path.join(__dirname, `../docs/characters/${characterId}_${variant}/${hash}`),
           tmpFilePath = path.join(tmpPath, pckBase + '.pck'),
           live2dPath = tmpFilePath.replace(/\.pck$/, '')
-    if(!modHashes.pck[fileHash]) {
+    if(!modHashes.pck[hash]) {
       console.log('-------processing', file, md5File(inputFilePath))
-      modHashes.pck[fileHash] = {code: characterId, variant, created: Date.now()} // save that we've seen this mod
+      modHashes.pck[hash] = {code: characterId, variant, created: Date.now()} // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist
       fs.renameSync(inputFilePath, tmpFilePath) // rename input file to plain pck base and move to temp
       let isGlobal = false
@@ -47,7 +47,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           return acc
         }, '')
         if(!modHashes.texture[textureHash]) {
-          modHashes.pck[fileHash] = true
+          modHashes.pck[hash] = true
           fs.mkdirSync(outputPath, {recursive: true})
           fs.readdirSync(live2dPath).forEach(fileToMove => {
             fs.renameSync(path.join(live2dPath, fileToMove), path.join(outputPath, fileToMove))
@@ -68,7 +68,10 @@ fs.readdirSync(importPckPath).forEach(file => {
           characters[characterId].variants = characters[characterId].variants || {}
           characters[characterId].variants[variant] = characters[characterId].variants[variant] || {}
           characters[characterId].variants[variant].mods = characters[characterId].variants[variant].mods || []
-          characters[characterId].variants[variant].mods.push(fileHash)
+          characters[characterId].variants[variant].mods.push({
+            hash,
+            created: Date.now()
+          })
           characters[characterId].numMods = characters[characterId].numMods || 0
           characters[characterId].numMods++
           fs.unlinkSync(tmpFilePath)
