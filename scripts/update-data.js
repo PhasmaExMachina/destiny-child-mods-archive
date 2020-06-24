@@ -24,7 +24,7 @@ const fs = require('fs'),
 //     characters[code].variants = characters[code].variants || {}
 //     characters[code].variants[variant] = characters[code].variants[variant] || {}
 //     characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
-//     // if(!characters[code].variants[variant].mods.find(({hash}) => hash == modHash)) {
+//     // if(!characters[code].variants[variant].mods.find(hash => hash == modHash)) {
 //     //   characters[code].variants[variant].mods.push({hash: modHash})
 //     // }
 //     modHashes.pck[modHash] = modHashes.pck[modHash] || {code, variant, created: Date.now()}
@@ -84,19 +84,14 @@ const fs = require('fs'),
 //   }
 // })
 
-console.log('updating created times')
-Object.keys(characters).forEach(code => {
-  Object.keys(characters[code].variants).forEach(variant => {
-    characters[code].variants[variant].mods = characters[code].variants[variant].mods
-      .map(mod => {
-        // try {
-          const stat = fs.statSync(path.join(__dirname, '../docs/characters/' + code + '_' + variant + '/' + mod.hash))
-          const created = new Date(stat.birthtime).getTime()
-        // }
-        // catch(e) {}
-        return Object.assign(mod, {created: mod.created || typeof created !== 'undefined' ? created : 0})
-      })
-  })
-})
-fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
-fs.writeFileSync(path.join(__dirname, '../data/mod-hashes.json'), JSON.stringify(modHashes, null, 2))
+// const mods = {}
+
+// Object.keys(characters).forEach(code => {
+//   Object.keys(characters[code].variants).forEach(variant => {
+//     characters[code].variants[variant].mods = characters[code].variants[variant].mods.map(hash => hash)
+//     // characters[code].variants[variant].mods = characters[code].variants[variant].mods
+//   })
+// })
+// fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
+// fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
+// fs.writeFileSync(path.join(__dirname, '../data/mod-hashes.json'), JSON.stringify(modHashes, null, 2))

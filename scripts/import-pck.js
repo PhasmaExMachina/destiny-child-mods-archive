@@ -5,6 +5,7 @@ const fs = require('fs'),
       {execSync} = require('child_process'),
       md5File = require('md5-file').sync,
       characters = require('../src/data/characters.json'),
+      mods = require('../src/data/mods.json'),
       modHashes = require('../data/mod-hashes.json')
 
 const importPckPath = path.resolve(__dirname, '../import-pck'),
@@ -74,6 +75,11 @@ fs.readdirSync(importPckPath).forEach(file => {
           })
           characters[characterId].numMods = characters[characterId].numMods || 0
           characters[characterId].numMods++
+          mods[hash] = Object.assign({}, mods[hash], {
+            code: characterId,
+            variant,
+            created: Date.now()
+          })
           fs.unlinkSync(tmpFilePath)
         }
       }
@@ -87,5 +93,6 @@ fs.readdirSync(importPckPath).forEach(file => {
   fs.rmdirSync(tmpPath, {recursive: true})
 })
 
+fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 fs.writeFileSync(path.join(__dirname, '../data/mod-hashes.json'), JSON.stringify(modHashes, null, 2))

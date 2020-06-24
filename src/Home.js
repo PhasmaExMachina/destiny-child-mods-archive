@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import CharacterPreview from './CharacterPreview'
 import characters from './data/characters.json'
+import mods from './data/mods.json'
 import useQuery from './use-query'
 import {useHistory, useLocation, Link} from "react-router-dom"
 import queryString from 'query-string'
@@ -23,11 +24,8 @@ function Home() {
         [filter, setFilter] = useState(''),
         codes = Object.keys(characters).sort()
   let filtered = view === 'mods'
-    ? codes.reduce((acc, code) => {
-      acc = acc.concat(Object.keys(characters[code].variants).reduce((acc, variant) => {
-        acc = acc.concat(characters[code].variants[variant].mods.map(mod => Object.assign({}, characters[code], mod, {variant})))
-        return acc
-      }, []))
+    ? Object.keys(mods).reduce((acc, hash) => {
+      acc.push(Object.assign({hash}, mods[hash]))
       return acc
     }, [])
     : Object.keys(characters).reduce((acc, code) => {
@@ -44,8 +42,8 @@ function Home() {
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
   }
   if(filter) {
-    filtered = filtered.filter(({code, name, variants, variant}) =>
-      (code + ' ' + (variants[variant] || {}).title + ' ' + name).toLocaleLowerCase().indexOf(filter.toLocaleLowerCase()) > -1
+    filtered = filtered.filter(({code, name, variant}) =>
+      (code + ' ' + characters[code].variants[variant].title + ' ' + name).toLocaleLowerCase().indexOf(filter.toLocaleLowerCase()) > -1
     )
   }
   if(stars) {
