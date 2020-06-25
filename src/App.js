@@ -45,7 +45,7 @@ function App() {
        style={{
         position: 'fixed',
         bottom: 0,
-        right: '4em',
+        right: '3em',
         background: '#111',
         color: '#aaa',
         padding: '.25em 1em',
