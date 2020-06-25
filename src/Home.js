@@ -43,7 +43,7 @@ function Home() {
   }
   if(filter) {
     filtered = filtered.filter(({code, name, variant}) =>
-      (code + ' ' + characters[code].variants[variant].title + ' ' + characters[code].name).toLocaleLowerCase().indexOf(filter.toLocaleLowerCase()) > -1
+      (code + '_' + variant + (variant && characters[code].variants[variant].title) + ' ' + characters[code].name).toLocaleLowerCase().indexOf(filter.toLocaleLowerCase()) > -1
     )
   }
   if(stars) {
