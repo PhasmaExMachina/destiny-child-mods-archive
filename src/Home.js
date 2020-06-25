@@ -93,7 +93,14 @@ function Home() {
         }
         {' | '}
         {(view !== 'mods' || sort !== 'added' || order !== 'asc')
-          ? <a style={{marginRight: '1em'}} onClick={() => setQueryParam({view: 'mods', pageNum: 0, perPage: 20, sort: 'added', order: 'asc'})}>
+          ? <a style={{marginRight: '1em'}} onClick={() => setQueryParam({
+            view: 'mods',
+            pageNum: 0,
+            perPage: 20,
+            sort: 'added',
+            order: 'asc',
+            type: 'all'
+          })}>
             Latest Mods
           </a>
           : <span style={{fontWeight: 'bold'}}>Latest Mods</span>

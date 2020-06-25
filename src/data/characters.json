@@ -487,7 +487,8 @@
           "07ee91974dfd0094c8cfbe54d7dae48e",
           "5ff8cb9bbf920a9b76be2c6883ee8d02",
           "086652031be4cb1896ffdcaa9b17b97a",
-          "873899cdcf3a483e511c5a1769e69674"
+          "873899cdcf3a483e511c5a1769e69674",
+          "e590bda71a3cbda3f6d9e35acd37e725"
         ]
       },
       "02": {
@@ -504,7 +505,8 @@
           "a49e7d42de99aa82541b6d283de993d8",
           "d37045f7ce6f723625f5b9b7d0630372",
           "be49305c064e493e512051bd918c5699",
-          "21f25d32c1ef9b320daf7983b78dadbc"
+          "21f25d32c1ef9b320daf7983b78dadbc",
+          "92f82b299db8b245f4ff7b5ad6f9d536"
         ]
       }
     },
@@ -527,7 +529,7 @@
     "image2": "http://i.imgur.com/vkg9mDG.png",
     "image3": "http://i.imgur.com/j8rP3sU.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 15
   },
   "c008": {
     "code": "c008",
@@ -18123,7 +18125,8 @@
         "view_idx": "c339_02",
         "is_voice": "0",
         "mods": [
-          "71beac5be5c060651c1ca33ffd89770b"
+          "71beac5be5c060651c1ca33ffd89770b",
+          "f6a6d143e491d1c18ed22d72034d74e6"
         ]
       }
     },
@@ -18146,7 +18149,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 5
+    "numMods": 6
   },
   "c392": {
     "code": "c392",
@@ -18158,7 +18161,8 @@
         "view_idx": "c392_10",
         "is_voice": "1",
         "mods": [
-          "38625ba8e1457a6cd19a76e6e3066496"
+          "38625ba8e1457a6cd19a76e6e3066496",
+          "4d3098e87d52c4f8f493998b7fc8b19d"
         ]
       },
       "89": {
@@ -18168,7 +18172,8 @@
         "view_idx": "c392_89",
         "is_voice": "1",
         "mods": [
-          "225ae217f6c0fb2b92cef217ddcc33e3"
+          "225ae217f6c0fb2b92cef217ddcc33e3",
+          "4ee639285e7c472b308fee60bf42edd8"
         ]
       },
       "01": {
@@ -18214,7 +18219,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 13
   },
   "c385": {
     "code": "c385",
@@ -18520,7 +18525,8 @@
         "is_voice": "0",
         "mods": [
           "72be1c64d39d42929d7e2b10cfd8e2dd",
-          "dda8c5ed9ebd04f2cbbc63b0b3c72b2b"
+          "dda8c5ed9ebd04f2cbbc63b0b3c72b2b",
+          "b231139d60874a7f9173afbcdf4f3dce"
         ]
       },
       "02": {
@@ -18530,7 +18536,8 @@
         "view_idx": "c393_02",
         "is_voice": "0",
         "mods": [
-          "def02b8af9a2112f5a580e24aa732add"
+          "def02b8af9a2112f5a580e24aa732add",
+          "75d921f4a338914360e4e78e31d04c5e"
         ]
       }
     },
@@ -18553,7 +18560,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 12
   },
   "c391": {
     "code": "c391",
@@ -29929,6 +29936,17 @@
       "01": {
         "mods": [
           "1ef49488590c78a5ea4a48f1b3bd5bd9"
+        ]
+      }
+    },
+    "numMods": 1
+  },
+  "sc373": {
+    "code": "sc373",
+    "variants": {
+      "01": {
+        "mods": [
+          "407d0ebb9fced845331010fbd29a7cbd"
         ]
       }
     },

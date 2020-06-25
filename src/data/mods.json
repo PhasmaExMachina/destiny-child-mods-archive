@@ -19103,5 +19103,45 @@
     "code": "sc443",
     "variant": "01",
     "created": 1593125183497
+  },
+  "e590bda71a3cbda3f6d9e35acd37e725": {
+    "code": "c005",
+    "variant": "01",
+    "created": 1593129136133
+  },
+  "92f82b299db8b245f4ff7b5ad6f9d536": {
+    "code": "c005",
+    "variant": "02",
+    "created": 1593129136800
+  },
+  "f6a6d143e491d1c18ed22d72034d74e6": {
+    "code": "c339",
+    "variant": "02",
+    "created": 1593129143138
+  },
+  "4d3098e87d52c4f8f493998b7fc8b19d": {
+    "code": "c392",
+    "variant": "10",
+    "created": 1593129146419
+  },
+  "4ee639285e7c472b308fee60bf42edd8": {
+    "code": "c392",
+    "variant": "89",
+    "created": 1593129147557
+  },
+  "b231139d60874a7f9173afbcdf4f3dce": {
+    "code": "c393",
+    "variant": "01",
+    "created": 1593129148671
+  },
+  "75d921f4a338914360e4e78e31d04c5e": {
+    "code": "c393",
+    "variant": "02",
+    "created": 1593129149888
+  },
+  "407d0ebb9fced845331010fbd29a7cbd": {
+    "code": "sc373",
+    "variant": "01",
+    "created": 1593129154907
   }
 }
