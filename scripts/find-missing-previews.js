@@ -8,7 +8,7 @@ const missing = {}
 
 Object.keys(characters).sort().forEach(code => {
   Object.keys(characters[code].variants).forEach(variantId => {
-    characters[code].variants[variantId].mods.forEach(({hash}) => {
+    characters[code].variants[variantId].mods.forEach(hash => {
       if(!fs.existsSync(path.join(__dirname, '../docs/characters/' + code + '_' + variantId + '/' + hash + '/static.png')) &&
          fs.existsSync(path.join(__dirname, '../docs/characters/' + code + '_' + variantId + '/' + hash + '/model.json'))
       ) {
