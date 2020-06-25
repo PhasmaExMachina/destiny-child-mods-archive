@@ -14,33 +14,33 @@ const fs = require('fs'),
 
 
 // update mod hashes seen
-// const charactersPath = path.join(__dirname, '../docs/characters')
-// fs.readdirSync(charactersPath).forEach(charDir => {
-//   const [code, variant] = charDir.split('_'),
-//   charPath = path.join(charactersPath, charDir)
-//   fs.readdirSync(charPath).forEach(modHash => {
-//     characters[code] = characters[code] || {}
-//     characters[code].code = characters[code].code || code
-//     characters[code].variants = characters[code].variants || {}
-//     characters[code].variants[variant] = characters[code].variants[variant] || {}
-//     characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
-//     // if(!characters[code].variants[variant].mods.find(hash => hash == modHash)) {
-//     //   characters[code].variants[variant].mods.push({hash: modHash})
-//     // }
-//     modHashes.pck[modHash] = modHashes.pck[modHash] || {code, variant, created: Date.now()}
-//     const modPath = path.join(charPath, modHash)
-//     if(code.match(/^s(c|m)/) && fs.existsSync(path.join(modPath, '00000002'))) {
-//       fs.renameSync(path.join(modPath, '00000002'), path.join(modPath, 'physics.json'))
-//     }
-//     const textureHash = code + '_' + variant + '-' + fs.readdirSync(modPath).reduce((acc, file) => {
-//       if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
-//       return acc
-//     }, '')
-//     // if(fs.existsSync(path.join(modPath, 'static.png')))
-//     //   fs.unlinkSync(path.join(modPath, 'static.png'))
-//     modHashes.texture[textureHash] = true
-//   })
-// })
+const charactersPath = path.join(__dirname, '../docs/characters')
+fs.readdirSync(charactersPath).forEach(charDir => {
+  const [code, variant] = charDir.split('_'),
+  charPath = path.join(charactersPath, charDir)
+  fs.readdirSync(charPath).forEach(modHash => {
+    // characters[code] = characters[code] || {}
+    // characters[code].code = characters[code].code || code
+    // characters[code].variants = characters[code].variants || {}
+    // characters[code].variants[variant] = characters[code].variants[variant] || {}
+    // characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
+    // if(!characters[code].variants[variant].mods.find(hash => hash == modHash)) {
+    //   characters[code].variants[variant].mods.push({hash: modHash})
+    // }
+    // modHashes.pck[modHash] = modHashes.pck[modHash] || {code, variant, created: Date.now()}
+    const modPath = path.join(charPath, modHash)
+    if(code.match(/^s(c|m)/) && fs.existsSync(path.join(modPath, '00000002'))) {
+      fs.renameSync(path.join(modPath, '00000002'), path.join(modPath, 'physics.json'))
+    }
+    // const textureHash = code + '_' + variant + '-' + fs.readdirSync(modPath).reduce((acc, file) => {
+    //   if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
+    //   return acc
+    // }, '')
+    // if(fs.existsSync(path.join(modPath, 'static.png')))
+    //   fs.unlinkSync(path.join(modPath, 'static.png'))
+    // modHashes.texture[textureHash] = true
+  })
+})
 
 // const findVariant = (hash, character) => {
 //   var variant

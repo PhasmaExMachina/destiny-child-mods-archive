@@ -49,6 +49,7 @@ fs.readdirSync(importPckPath).forEach(file => {
         }, '')
         if(!modHashes.texture[textureHash]) {
           modHashes.pck[hash] = true
+          modHashes.texture[textureHash] = true
           fs.mkdirSync(outputPath, {recursive: true})
           fs.readdirSync(live2dPath).forEach(fileToMove => {
             fs.renameSync(path.join(live2dPath, fileToMove), path.join(outputPath, fileToMove))
