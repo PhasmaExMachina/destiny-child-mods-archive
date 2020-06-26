@@ -1,9 +1,7 @@
 const fs = require('fs'),
       path = require('path'),
       md5File = require('md5-file').sync,
-      characters = require('../src/data/characters.json'),
-      modHashes = require('../data/mod-hashes.json')
-
+      characters = require('../src/data/characters.json')
 // Object.keys(characters).forEach(code => {
 //   characters[code] = characters[code] || {}
 //   characters[code].code = characters[code].code || code
@@ -11,7 +9,6 @@ const fs = require('fs'),
 //   // characters[code].variants[variant] = characters[code].variants[variant] || {}
 //   // characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
 // })
-
 
 // update mod hashes seen
 const charactersPath = path.join(__dirname, '../docs/characters')
@@ -94,4 +91,4 @@ fs.readdirSync(charactersPath).forEach(charDir => {
 // })
 // fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 // fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
-// fs.writeFileSync(path.join(__dirname, '../data/mod-hashes.json'), JSON.stringify(modHashes, null, 2))
+// fs.writeFileSync(path.join(__dirname, '../seen/textures.json'), JSON.stringify(textures, null, 2))
