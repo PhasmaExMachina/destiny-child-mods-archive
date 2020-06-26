@@ -77,12 +77,6 @@ function Home() {
         )
   return (
     <>
-      <h1>
-        <Link to="/">
-          <img src={basePath + '/img/icon.png'} style={{height: '1.5em', verticalAlign: 'middle', float: 'left', marginRight: '10px'}} />
-        </Link>
-        Destiny Child Mods Archive
-      </h1>
       <p>All PCK files have been converted to universal and should work in both Global and KR/JP. To download, click on a mod image to launch the Live2d preview, then on the download icon in the top right. Instructions on installing mods can be found <a href="https://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" taget="_blank">here</a> or on <a href="http://letmegooglethat.com/?q=destiny+child+how+to+install+mods" target="_blank" rel="noopener noreferrer" >Google</a>. There's also a <a href="https://discord.gg/2vew9te" target="_blank" rel="noopener noreferrer" >Discord community</a>. The <a href="#credits">credits</a> are at the bottom.</p>
       <p>
         {(view !== 'characters')

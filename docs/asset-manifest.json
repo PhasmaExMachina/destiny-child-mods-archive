@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.311ce4b7.chunk.js",
-    "main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.311ce4b7.chunk.js.map",
+    "main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.ac8b2b7b.chunk.js",
+    "main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.ac8b2b7b.chunk.js.map",
     "runtime-main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/runtime-main.57c0ffae.js",
     "runtime-main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/runtime-main.57c0ffae.js.map",
-    "static/js/2.ff9333bf.chunk.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.ff9333bf.chunk.js",
-    "static/js/2.ff9333bf.chunk.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.ff9333bf.chunk.js.map",
+    "static/js/2.c9b6aec4.chunk.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.c9b6aec4.chunk.js",
+    "static/js/2.c9b6aec4.chunk.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.c9b6aec4.chunk.js.map",
     "index.html": "https://phasmaexmachina.github.io/destiny-child-mods-archive/index.html",
-    "precache-manifest.b11f885ef09e6dabca5d6a5fc05701b5.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/precache-manifest.b11f885ef09e6dabca5d6a5fc05701b5.js",
+    "precache-manifest.67c62c820ef6482ed885c6754f40c6b5.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/precache-manifest.67c62c820ef6482ed885c6754f40c6b5.js",
     "service-worker.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/service-worker.js",
-    "static/js/2.ff9333bf.chunk.js.LICENSE.txt": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.ff9333bf.chunk.js.LICENSE.txt"
+    "static/js/2.c9b6aec4.chunk.js.LICENSE.txt": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.c9b6aec4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.57c0ffae.js",
-    "static/js/2.ff9333bf.chunk.js",
-    "static/js/main.311ce4b7.chunk.js"
+    "static/js/2.c9b6aec4.chunk.js",
+    "static/js/main.ac8b2b7b.chunk.js"
   ]
 }

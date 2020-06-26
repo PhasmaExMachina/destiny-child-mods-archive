@@ -1,5 +1,6 @@
 import React from 'react'
 import basePath from './base-path'
+import {Link} from 'react-router-dom'
 
 function CharacterImage({character: {name, variants, code}, variant, hash}) {
   variant = variant || ['01', '00'].reduce((acc, vId) => {
@@ -16,7 +17,11 @@ function CharacterImage({character: {name, variants, code}, variant, hash}) {
         <img alt={code + '_' + variant} src={basePath + '/characters/' + code + '_' + variant + '/' + (hash || variants[variant].mods[0]) + '/static.png'} style={{maxWidth: '300px', maxHeight: '300px', height: '300px'}} />
       </a>
       <div>{variants[variant].title} {name}</div>
-      <div>{code}_{variant}</div>
+      <div>
+        <Link to={`/characters/${code}/${variant}/`}>
+          {code}_{variant}
+        </Link>
+      </div>
     </div>
   )) || null
 }

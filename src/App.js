@@ -1,31 +1,37 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
-  Route
+  Route,
+  Link
 } from "react-router-dom"
 import Home from './Home'
 import basePath from './base-path'
+import CharacterVariant from './CharacterVariant'
+import Character from './Character'
 
 
 function App() {
   return (
     <div className="App">
-      <a href="https://github.com/PhasmaExMachina/destiny-child-mods-archive" style={{
-        position: 'absolute',
-        top: '-5px',
-        right: '-5px'
-      }} target="_blank" rel="noopener noreferrer">
-        <img src={basePath + '/img/strip-fork-me-on-github.png'} style={{width: '100px'}}/>
-      </a>
       <Router basename={basePath}>
+        <h1>
+          <Link to="/">
+            <img src={basePath + '/img/icon.png'} style={{height: '1.5em', verticalAlign: 'middle', float: 'left', marginRight: '10px'}} />
+          </Link>
+          Destiny Child Mods Archive
+        </h1>
+        <a href="https://github.com/PhasmaExMachina/destiny-child-mods-archive" style={{
+          position: 'absolute',
+          top: '-5px',
+          right: '-5px'
+        }} target="_blank" rel="noopener noreferrer">
+          <img src={basePath + '/img/strip-fork-me-on-github.png'} style={{width: '100px'}}/>
+        </a>
         <Switch>
-          <Route path="/character/:code">
-            Character
-          </Route>
-          <Route path="/">
-            <Home />
-          </Route>
+          <Route path="/characters/:code/:variant/"><CharacterVariant /></Route>
+          <Route path="/characters/:code/"><Character /></Route>
+          <Route path="/"><Home /></Route>
         </Switch>
       </Router>
       <h3 id="credits">Credits</h3>
