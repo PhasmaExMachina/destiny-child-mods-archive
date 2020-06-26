@@ -14,7 +14,7 @@ const importPckPath = path.resolve(__dirname, '../import-pck'),
       tmpPath = path.join(importPckPath, 'tmp'),
       run = (cmd, global) => execSync(
         cmd,
-        {stdio: 'inherit', st: 'inherit', env: {KEY_REGION: global ? 'global' : 'kr'}}
+        // {stdio: 'inherit', st: 'inherit', env: {KEY_REGION: global ? 'global' : 'kr'}}
       )
 
 fs.readdirSync(importPckPath).forEach(file => {
@@ -26,7 +26,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           outputPath = path.join(__dirname, `../docs/characters/${code}_${variant}/${hash}`),
           tmpFilePath = path.join(tmpPath, pckBase + '.pck'),
           live2dPath = tmpFilePath.replace(/\.pck$/, '')
-    if(!pckSeen[hash]) {
+    if(true || !pckSeen[hash]) {
       console.log('-------processing', file, md5File(inputFilePath))
       pckSeen[hash] = true // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist
@@ -48,8 +48,8 @@ fs.readdirSync(importPckPath).forEach(file => {
           if(file.match(/^texture.+\.png/)) acc += md5File(path.join(live2dPath, file))
           return acc
         }, '')
-        if(!texxturesSeen[textureHash]) {
-          texxturesSeen[textureHash] = true
+        if(true || !texturesSeen[textureHash]) {
+          texturesSeen[textureHash] = true
           fs.mkdirSync(outputPath, {recursive: true})
           fs.readdirSync(live2dPath).forEach(fileToMove => {
             fs.renameSync(path.join(live2dPath, fileToMove), path.join(outputPath, fileToMove))
@@ -85,6 +85,7 @@ fs.readdirSync(importPckPath).forEach(file => {
         }
       }
       catch(e) {
+        console.error(e)
         console.warn('error parsing', code, variant, file)
       }
 

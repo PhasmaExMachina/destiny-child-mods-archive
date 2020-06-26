@@ -4,7 +4,7 @@ var fetch = require('node-fetch'),
     path = require('path'),
     file = fs.createWriteStream("file.jpg"),
     https = require('https'),
-    downloaded = require('../data/arsylk-downloaded.json')
+    downloaded = require('../seen/arsylk.json')
 
 fetch('https://arsylk.pythonanywhere.com/apk/view_models?page=1')
     .then(res => res.text())
@@ -27,5 +27,5 @@ fetch('https://arsylk.pythonanywhere.com/apk/view_models?page=1')
       return Promise.all(promises)
     })
     .then(() => {
-      fs.writeFileSync(path.join(__dirname, '../data/arsylk-downloaded.json'), JSON.stringify(downloaded, null, 2))
+      fs.writeFileSync(path.join(__dirname, '../seen/arsylk.json'), JSON.stringify(downloaded, null, 2))
     })
