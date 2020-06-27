@@ -38,7 +38,7 @@ fs.readdirSync(importPckPath).forEach(file => {
       console.log('-------processing', file, md5File(inputFilePath))
       pckSeen[hash] = true // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist
-      fs.renameSync(inputFilePat h, tmpFilePath) // rename input file to plain pck base and move to temp
+      fs.renameSync(inputFilePath, tmpFilePath) // rename input file to plain pck base and move to temp
       let isGlobal = false
 
       try {
