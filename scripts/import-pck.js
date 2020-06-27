@@ -26,7 +26,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           outputPath = path.join(__dirname, `../docs/characters/${code}_${variant}/${hash}`),
           tmpFilePath = path.join(tmpPath, pckBase + '.pck'),
           live2dPath = tmpFilePath.replace(/\.pck$/, '')
-    if(true || !pckSeen[hash]) {
+    if(pckSeen[hash]) {
       console.log('-------processing', file, md5File(inputFilePath))
       pckSeen[hash] = true // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist
@@ -48,7 +48,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           if(file.match(/^texture.+\.png/)) acc += md5File(path.join(live2dPath, file))
           return acc
         }, '')
-        if(true || !texturesSeen[textureHash]) {
+        if(!texturesSeen[textureHash]) {
           texturesSeen[textureHash] = true
           fs.mkdirSync(outputPath, {recursive: true})
           fs.readdirSync(live2dPath).forEach(fileToMove => {
