@@ -15,7 +15,7 @@
   "scripts": {
     "start": "concurrently \"npx serve docs\" \"yarn dev\"",
     "dev": "react-scripts start",
-    "build": "set \"PUBLIC_URL=https://phasmaexmachina.github.io/destiny-child-mods-archive\" && react-scripts build && node ./scripts/post-build.js ",
+    "build": "set \"PUBLIC_URL=/destiny-child-mods-archive\" && react-scripts build && node ./scripts/post-build.js ",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "scrape": "node ./scripts/scrape-arsylk.js",

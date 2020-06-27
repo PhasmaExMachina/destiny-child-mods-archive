@@ -14,7 +14,7 @@ function CharacterVariant() {
         {' > '}
         {name}
       </p>
-      {Object.keys(variants).map(variant => (
+      {Object.keys(variants).sort().map(variant => (
         <div key={variant}>
           <h3>{variants[variant].name} {name} Mods ({code}_{variant})</h3>
           {variants[variant].mods.map(hash =>
