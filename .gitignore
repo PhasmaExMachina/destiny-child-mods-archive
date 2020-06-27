@@ -28,3 +28,4 @@ yarn-error.log*
 /.vscode
 /iport-pck/*
 **/preview.png
+**/temp/*
