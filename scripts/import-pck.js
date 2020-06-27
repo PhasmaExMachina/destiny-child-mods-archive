@@ -14,23 +14,31 @@ const importPckPath = path.resolve(__dirname, '../import-pck'),
       tmpPath = path.join(importPckPath, 'tmp'),
       run = (cmd, global) => execSync(
         cmd,
-        // {stdio: 'inherit', st: 'inherit', env: {KEY_REGION: global ? 'global' : 'kr'}}
+        {
+          // stdio: 'inherit',
+          env: {KEY_REGION: global ? 'global' : 'kr'}
+        }
       )
 
 fs.readdirSync(importPckPath).forEach(file => {
   const [_, code, variant] = file.match(/^([^_]+)_(\d\d).*\.pck$/) || []
   if(code) {
+    characters[code] = characters[code] || {}
+    characters[code].code = characters[code].code || code
+    characters[code].variants = characters[code].variants || {}
+    characters[code].variants[variant] = characters[code].variants[variant] || {}
+    characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
     const inputFilePath = path.join(importPckPath, file),
           hash = md5File(inputFilePath),
           pckBase = `${code}_${variant}`,
           outputPath = path.join(__dirname, `../docs/characters/${code}_${variant}/${hash}`),
           tmpFilePath = path.join(tmpPath, pckBase + '.pck'),
           live2dPath = tmpFilePath.replace(/\.pck$/, '')
-    if(pckSeen[hash]) {
+    if(!pckSeen[hash] && characters[code].variants[variant].mods.indexOf(hash) < 0) {
       console.log('-------processing', file, md5File(inputFilePath))
       pckSeen[hash] = true // save that we've seen this mod
       fs.mkdirSync(tmpPath, {recursive: true}) // create temp directory if it doesn't exist
-      fs.renameSync(inputFilePath, tmpFilePath) // rename input file to plain pck base and move to temp
+      fs.renameSync(inputFilePat h, tmpFilePath) // rename input file to plain pck base and move to temp
       let isGlobal = false
 
       try {
@@ -65,11 +73,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           run(`python "${path.join(toolsPath, '../pck-tools/pckexe.py')}" -p ${live2dPath}/_header`) // create universal version
           fs.renameSync(path.join(live2dPath, pckBase + '.pck'), path.join(outputPath, pckBase + '.pck'))
 
-          characters[code] = characters[code] || {}
-          characters[code].code = characters[code].code || code
-          characters[code].variants = characters[code].variants || {}
-          characters[code].variants[variant] = characters[code].variants[variant] || {}
-          characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
+
           characters[code].variants[variant].mods.push(hash)
           characters[code].numMods = characters[code].numMods || 0
           characters[code].numMods++
