@@ -18,9 +18,9 @@ function CharacterImage({character: {name, variants, code}, variant, hash}) {
       </a>
       <div>{variants[variant].title} {name}</div>
       <div>
-        <Link to={`/characters/${code}/${variant}/`}>
+        {/* <Link to={`/characters/${code}/${variant}/`}> */}
           {code}_{variant}
-        </Link>
+        {/* </Link> */}
       </div>
     </div>
   )) || null
