@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.59582e6d.chunk.js",
-    "main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.59582e6d.chunk.js.map",
+    "main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.9c0e3716.chunk.js",
+    "main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/main.9c0e3716.chunk.js.map",
     "runtime-main.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/runtime-main.57c0ffae.js",
     "runtime-main.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/runtime-main.57c0ffae.js.map",
     "static/js/2.c9b6aec4.chunk.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.c9b6aec4.chunk.js",
     "static/js/2.c9b6aec4.chunk.js.map": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.c9b6aec4.chunk.js.map",
     "index.html": "https://phasmaexmachina.github.io/destiny-child-mods-archive/index.html",
-    "precache-manifest.1f5a14d09c1625ae1f34ea159b4c3b23.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/precache-manifest.1f5a14d09c1625ae1f34ea159b4c3b23.js",
+    "precache-manifest.a370b9a67b076424311010437bd6576f.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/precache-manifest.a370b9a67b076424311010437bd6576f.js",
     "service-worker.js": "https://phasmaexmachina.github.io/destiny-child-mods-archive/service-worker.js",
     "static/js/2.c9b6aec4.chunk.js.LICENSE.txt": "https://phasmaexmachina.github.io/destiny-child-mods-archive/static/js/2.c9b6aec4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.57c0ffae.js",
     "static/js/2.c9b6aec4.chunk.js",
-    "static/js/main.59582e6d.chunk.js"
+    "static/js/main.9c0e3716.chunk.js"
   ]
 }
