@@ -16,7 +16,7 @@ function CharacterVariant() {
       </p>
       {Object.keys(variants).sort().map(variant => (
         <div key={variant}>
-          <h3>{variants[variant].name} {name} Mods ({code}_{variant})</h3>
+          <h3>{variants[variant].title} {name} Mods ({code}_{variant})</h3>
           {variants[variant].mods.map(hash =>
             <ModPreview {...{character, variant, hash}} />
           )}
