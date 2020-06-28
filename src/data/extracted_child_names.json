@@ -2767,6 +2767,17 @@
             }
         }
     },
+    "c339": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Love & Hate"
+            },
+            "02": {
+                "title": "Ambivalence"
+            }
+        }
+    },
     "c344": {
         "name": "Isolde",
         "variants": {
@@ -3163,6 +3174,17 @@
             }
         }
     },
+    "c384": {
+        "name": "Narvi",
+        "variants": {
+            "01": {
+                "title": "Prototype"
+            },
+            "02": {
+                "title": "Customized"
+            }
+        }
+    },
     "c385": {
         "name": "Marie Rose",
         "variants": {
@@ -3245,6 +3267,37 @@
             }
         }
     },
+    "c392": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Altered"
+            },
+            "02": {
+                "title": "Neo"
+            },
+            "10": {
+                "title": "Dark Tears"
+            },
+            "89": {
+                "title": "Altered"
+            }
+        }
+    },
+    "c393": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Lightbeam"
+            },
+            "02": {
+                "title": "Heavenly Ray"
+            },
+            "10": {
+                "title": "Radiant"
+            }
+        }
+    },
     "c394": {
         "name": "Bathory",
         "variants": {
@@ -3286,6 +3339,14 @@
             },
             "02": {
                 "title": "Sexy Santa"
+            }
+        }
+    },
+    "c400": {
+        "name": "Banshee",
+        "variants": {
+            "01": {
+                "title": "Grieving"
             }
         }
     },
@@ -3366,6 +3427,17 @@
             },
             "02": {
                 "title": "Desert"
+            }
+        }
+    },
+    "c409": {
+        "name": "Limos",
+        "variants": {
+            "01": {
+                "title": "Hungry"
+            },
+            "02": {
+                "title": "Full"
             }
         }
     },
@@ -5557,6 +5629,14 @@
             }
         }
     },
+    "m262": {
+        "name": "Cocoon",
+        "variants": {
+            "89": {
+                "title": "Return"
+            }
+        }
+    },
     "m263": {
         "name": "YUKINE",
         "variants": {
@@ -7050,9 +7130,6 @@
         "variants": {
             "01": {
                 "title": "Hot Spring"
-            },
-            "02": {
-                "title": "Hot Spring"
             }
         }
     },
@@ -7144,6 +7221,22 @@
             }
         }
     },
+    "sc392": {
+        "name": "Davi",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc393": {
+        "name": "Mona",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
     "sc394": {
         "name": "Bathory",
         "variants": {
@@ -7218,6 +7311,14 @@
     },
     "sc408": {
         "name": "Fennec",
+        "variants": {
+            "01": {
+                "title": "Hot Spring"
+            }
+        }
+    },
+    "sc409": {
+        "name": "Limos",
         "variants": {
             "01": {
                 "title": "Hot Spring"
