@@ -102,7 +102,8 @@
         "is_voice": "0",
         "title": "Teacher",
         "mods": [
-          "f6996da8536a2d1df721cc3b5bec0cda"
+          "f6996da8536a2d1df721cc3b5bec0cda",
+          "8336376a4a69e0eaeeb2546818808382"
         ]
       },
       "16": {
@@ -189,7 +190,7 @@
     "image2": "http://i.imgur.com/F8scK2m.png",
     "image3": "http://i.imgur.com/68iIOB3.png",
     "imageSkin": "http://i.imgur.com/R6UTtqc.png",
-    "numMods": 43
+    "numMods": 44
   },
   "c002": {
     "code": "c002",
