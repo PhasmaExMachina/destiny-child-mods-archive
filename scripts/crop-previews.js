@@ -32,7 +32,7 @@ const processCroppedThumb = i => {
       if(e) { throw e }
       else {
         console.log('cropped-thumb', previewPath)
-        if(i < missingCroppedThumb.length - 2) processCroppedThumb(i + 1)
+        if(i < missingCroppedThumb.length - 1) processCroppedThumb(i + 1)
       }
     })
 }
