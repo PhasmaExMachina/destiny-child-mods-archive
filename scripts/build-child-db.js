@@ -1,5 +1,6 @@
 const fs = require('fs'),
-      path = require('path')
+      path = require('path'),
+      characters = require('../src/data/characters.json')
 
 const getVariants = v => {
   return v.reduce
@@ -17,41 +18,43 @@ const getVariants = v => {
 
 const characterSkinData = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../src/data/dump/CHARACTER_SKIN_DATA.json'), 'utf-8')),
       childNames = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../src/data/extracted_child_names.json'), 'utf-8')),
-      childSkills = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../src/data/child_skills.json'), 'utf-8')).child_skills,
-      characterDb = Object.keys(characterSkinData).reduce((db, id) => {
-        db[id] = db[id] || {}
-        db[id].variants = getVariants(characterSkinData[id]).reduce((acc, v) => {
-          const [_, code, variantNum] = v.view_idx.match(/^([^_]+)_(.+)$/)
-          db[id].code = code
-          acc[variantNum] = v
-          return acc
-        }, {})
-        return db
-      }, {})
+      childSkills = JSON.parse(fs.readFileSync(path.resolve(__dirname, '../src/data/child_skills.json'), 'utf-8')).child_skills
+
+Object.keys(characterSkinData).forEach(id => {
+  Object.keys(characterSkinData).forEach(code => {
+    getVariants(characterSkinData[code]).forEach(v => {
+      const [_, code, variantNum] = v.view_idx.match(/^([^_]+)_(.+)$/)
+      characters[code] = characters[code] || {}
+      characters[code].variants = characters[code].variants || {}
+      characters[code].code = code
+      characters[code].variants[variantNum] = Object.assign(characters[code].variants[variantNum], v)
+    }, {})
+  }, {})
+})
 
 console.log('childSkills', childSkills)
 
-Object.keys(characterDb).forEach(id => {
-  const nameData = childNames[characterDb[id].code]
+Object.keys(characters).forEach(id => {
+  const nameData = childNames[characters[id].code]
   if(nameData) {
-    characterDb[id].name = nameData.name
+    characters[id].name = nameData.name
     Object.keys(nameData.variants).forEach(variantNum => {
-      if(characterDb[id].variants[variantNum]) {
-        // characterDb[id].variants[variantNum] = characterDb[id].variants[variantNum] || {}
-        characterDb[id].variants[variantNum].title = nameData.variants[variantNum].title
+      if(characters[id].variants[variantNum]) {
+        // characters[id].variants[variantNum] = characters[id].variants[variantNum] || {}
+        characters[id].variants[variantNum].title = nameData.variants[variantNum].title
       }
     })
   }
 })
 
 
-const characters = Object.keys(characterDb).reduce((acc, id) => {
-  if(characterDb[id].code) {
-    acc[characterDb[id].code] = characterDb[id]
-    acc[characterDb[id].code].id = id
-  }
-  return acc
-}, {})
+// const characters = Object.keys(characters).reduce((acc, id) => {
+//   if(characters[id].code) {
+//     acc[characters[id].code] = characters[id]
+//     acc[characters[id].code].id = id
+//   }
+//   return acc
+// }, {})
 
 childSkills.forEach(s => {
   delete s.id

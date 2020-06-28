@@ -6,7 +6,8 @@
         "mods": [
           "0380cd424a0b46b31e2bae8eb7d27265",
           "4ec3bfbe4393e0da41b23936be5e3729"
-        ]
+        ],
+        "title": "Mysterious"
       },
       "11": {
         "idx": "10100001",
@@ -23,18 +24,21 @@
         "mods": [
           "a14c67d928e889575bf1394844813de7",
           "84fe3b794de5d4acccdcdecce14af07e"
-        ]
+        ],
+        "title": "Swimsuit"
       },
       "13": {
         "mods": [
           "cfb22eefb00bb2cc9e14800626bf93e5"
-        ]
+        ],
+        "title": ""
       },
       "14": {
         "mods": [
           "25c9b94f648e2c516ca17370c8c05204",
           "9083531a939e296475aab8c1c87cdeaa"
-        ]
+        ],
+        "title": "Dress"
       },
       "15": {
         "mods": [
@@ -337,7 +341,8 @@
           "4df04f0a83c22b06539b189f7c33903a",
           "3f1ec82ef0b729be814c7fdb60922d62",
           "e9e70471cf4bfa010565e88b25cf53ed"
-        ]
+        ],
+        "title": "Lucifer"
       },
       "15": {
         "idx": "10100004",
@@ -2422,7 +2427,8 @@
         "mods": [
           "139417e4f1acca99977b239d76bb1215",
           "a02fa432f91695a57a5be0031357d028"
-        ]
+        ],
+        "title": "Breaktime"
       },
       "13": {
         "idx": "10100037",
@@ -6346,7 +6352,7 @@
         ]
       }
     },
-    "name": "Chang'e / Sang Ah",
+    "name": "Sang Ah",
     "id": "10100116",
     "kname": "양지의 상아",
     "model_id": "c167",
@@ -7096,7 +7102,8 @@
         "mods": [
           "810130141508925e3cd33655660fa198",
           "b5951900f6d4ea49b3a21d5ecccf507f"
-        ]
+        ],
+        "title": "Exorcist-in-Training"
       }
     },
     "name": "Virupa",
@@ -9387,7 +9394,7 @@
         ]
       }
     },
-    "name": "Olga / Wola",
+    "name": "Wola",
     "id": "10100184",
     "kname": "검은 월아",
     "model_id": "m057",
@@ -11154,7 +11161,8 @@
       "20": {
         "mods": [
           "9c0eaa9e0f634eb66920a1d86c864e6f"
-        ]
+        ],
+        "title": "Claire"
       },
       "01": {
         "idx": "10200041",
@@ -11883,7 +11891,8 @@
         "mods": [
           "384b96f6596d99b5653542bb266d554a",
           "ff1ac6648e4e4800af65da73434bcd62"
-        ]
+        ],
+        "title": "Part-Timer"
       }
     },
     "name": "Rudolph",
@@ -12663,7 +12672,8 @@
       "00": {
         "mods": [
           "b8b8e985c406abfea301ca5abb74a645"
-        ]
+        ],
+        "title": "Mortal Realm"
       }
     },
     "name": "Typhon",
@@ -12714,7 +12724,8 @@
       "00": {
         "mods": [
           "1937e9c1f3e392a674bb4f68f759d43d"
-        ]
+        ],
+        "title": ""
       }
     },
     "name": "Medb",
@@ -12989,7 +13000,8 @@
       "00": {
         "mods": [
           "1b7958c52a1860dbd5c36ae375bdfbce"
-        ]
+        ],
+        "title": ""
       }
     },
     "name": "Krampus",
@@ -13399,7 +13411,8 @@
           "6b326686ee653f5d8eea1a6c3bd49e75",
           "4decde684c1d7888373b4064129bcdc6",
           "54d703aa5276faae2660f4cc69762ef4"
-        ]
+        ],
+        "title": "Brave"
       },
       "89": {
         "mods": [
@@ -14888,7 +14901,8 @@
       "00": {
         "mods": [
           "f14c2e5a574fedff19905f13a8977292"
-        ]
+        ],
+        "title": ""
       }
     },
     "name": "Santa Claus",
@@ -15990,7 +16004,8 @@
         "mods": [
           "10e9b671406592922c8d46478065ad0b",
           "b9709c7e1f1bfb3401e04cd47d7dc7bd"
-        ]
+        ],
+        "title": "Hurt"
       },
       "01": {
         "idx": "10200167",
@@ -16746,7 +16761,7 @@
         ]
       }
     },
-    "name": "Guardian Chang'e / Deity Kouga",
+    "name": "Guardian Deity Kouga",
     "id": "10200180",
     "kname": "수호신 상아",
     "model_id": "c355",
@@ -17566,7 +17581,8 @@
         "mods": [
           "31135fb2f8deecd172f482553854f4d3",
           "fa3eae0137215c5cd26ba43b320bd4bd"
-        ]
+        ],
+        "title": "Sunbeach"
       },
       "01": {
         "idx": "10200199",
@@ -17923,7 +17939,8 @@
       "00": {
         "mods": [
           "ee9bb321ed6ce9d9d501e04a56020f9a"
-        ]
+        ],
+        "title": "Katsuragi"
       }
     },
     "name": "Touka",
@@ -17975,7 +17992,8 @@
         "mods": [
           "7785703c99fe228e36669c7ac05077be",
           "8b54710a56d263448c2699fc697fb4b9"
-        ]
+        ],
+        "title": "Prototype"
       },
       "02": {
         "idx": "10200209",
@@ -17985,11 +18003,13 @@
         "is_voice": "0",
         "mods": [
           "3a5654058dcd8a2e81e47b05f838abad"
-        ]
+        ],
+        "title": "Customized"
       }
     },
     "id": "10200209",
-    "numMods": 5
+    "numMods": 5,
+    "name": "Narvi"
   },
   "m261": {
     "code": "m261",
@@ -18154,7 +18174,8 @@
         "mods": [
           "8b9b31aad6a8572b1e267f1e51628f46",
           "16a30f39f309eb00f40d18cc8af7eaee"
-        ]
+        ],
+        "title": "Love & Hate"
       },
       "02": {
         "idx": "10200214",
@@ -18165,7 +18186,8 @@
         "mods": [
           "71beac5be5c060651c1ca33ffd89770b",
           "f6a6d143e491d1c18ed22d72034d74e6"
-        ]
+        ],
+        "title": "Ambivalence"
       }
     },
     "id": "10200214",
@@ -18201,7 +18223,8 @@
         "mods": [
           "38625ba8e1457a6cd19a76e6e3066496",
           "4d3098e87d52c4f8f493998b7fc8b19d"
-        ]
+        ],
+        "title": "Dark Tears"
       },
       "89": {
         "idx": "10200215",
@@ -18212,7 +18235,8 @@
         "mods": [
           "225ae217f6c0fb2b92cef217ddcc33e3",
           "4ee639285e7c472b308fee60bf42edd8"
-        ]
+        ],
+        "title": "Altered"
       },
       "01": {
         "idx": "10200215",
@@ -18224,7 +18248,8 @@
           "f66bbeb3613e5fc0689d7363bdc3d935",
           "c75d649f0afff257d12337dd7429062e",
           "f66f08df985b2225bc35f9fc89fa32cb"
-        ]
+        ],
+        "title": "Altered"
       },
       "02": {
         "idx": "10200215",
@@ -18241,7 +18266,8 @@
           "16f6baa20c22c9f0dd8252b86b386055",
           "fa31dacb907b5a3bd6b71ad3227afe59",
           "bb75cbee0630c9f47e74e6b5f9aab7d8"
-        ]
+        ],
+        "title": "Neo"
       }
     },
     "id": "10200215",
@@ -18559,7 +18585,8 @@
           "fe5747188e037e50cb2da3a1f6830ecd",
           "80494ead82bc94c1ba6d33cad8d823a7",
           "9c521890e1be41e8203887d760809281"
-        ]
+        ],
+        "title": "Radiant"
       },
       "01": {
         "idx": "10200219",
@@ -18571,7 +18598,8 @@
           "72be1c64d39d42929d7e2b10cfd8e2dd",
           "dda8c5ed9ebd04f2cbbc63b0b3c72b2b",
           "b231139d60874a7f9173afbcdf4f3dce"
-        ]
+        ],
+        "title": "Lightbeam"
       },
       "02": {
         "idx": "10200219",
@@ -18582,7 +18610,8 @@
         "mods": [
           "def02b8af9a2112f5a580e24aa732add",
           "75d921f4a338914360e4e78e31d04c5e"
-        ]
+        ],
+        "title": "Heavenly Ray"
       }
     },
     "id": "10200219",
@@ -19090,7 +19119,8 @@
         "is_voice": "0",
         "mods": [
           "89f9d0cc2259fb746d284974b9fd8b90"
-        ]
+        ],
+        "title": "Grieving"
       },
       "02": {
         "idx": "10200231",
@@ -19505,7 +19535,8 @@
           "1329fd8769a499f1e3e9eed8c8b5063d",
           "a1d7bf1f22bb78ec7f1e049e8e7923b0",
           "813d96ba98382da83352a2849ada14a1"
-        ]
+        ],
+        "title": "Hungry"
       },
       "02": {
         "idx": "10200239",
@@ -19519,7 +19550,8 @@
           "aa6cb93d6cee8ba904bdb8df881125c8",
           "6e1950c1ab1d5d0755751b32365afba7",
           "72395a132e7021600d2655f4775c08d5"
-        ]
+        ],
+        "title": "Full"
       }
     },
     "id": "10200239",
@@ -25165,11 +25197,13 @@
       "01": {
         "mods": [
           "463f66429e84178b2a8023324e13907c"
-        ]
+        ],
+        "title": "Odorous"
       }
     },
     "numMods": 7,
-    "code": "c075"
+    "code": "c075",
+    "name": "Taha"
   },
   "c087": {
     "variants": {
@@ -25181,7 +25215,8 @@
       "01": {
         "mods": [
           "68d7c17ed47ccf6e4dd8d983584549a5"
-        ]
+        ],
+        "title": "Pure-White"
       },
       "02": {
         "mods": [
@@ -25190,7 +25225,8 @@
       }
     },
     "numMods": 6,
-    "code": "c087"
+    "code": "c087",
+    "name": "Ninurta"
   },
   "c092": {
     "variants": {
@@ -25198,7 +25234,8 @@
         "mods": [
           "96dd43502cd2bea073dcc1359f5a5c2f",
           "d9ada6a8bae2584348da0260dfd30161"
-        ]
+        ],
+        "title": "Hygienic"
       },
       "02": {
         "mods": [
@@ -25207,7 +25244,8 @@
       }
     },
     "numMods": 4,
-    "code": "c092"
+    "code": "c092",
+    "name": "Eames"
   },
   "c122": {
     "variants": {
@@ -25242,13 +25280,15 @@
       "00": {
         "mods": [
           "34664a10dfb4964c8818645ad4197552"
-        ]
+        ],
+        "title": "Seiji"
       },
       "01": {
         "mods": [
           "5cd691f3766c45a3412158fea59f0789",
           "1d128a9f6aea11756f4e7340f3e2c87c"
-        ]
+        ],
+        "title": "Terrestrial"
       },
       "02": {
         "mods": [
@@ -25258,19 +25298,22 @@
       }
     },
     "numMods": 13,
-    "code": "c125"
+    "code": "c125",
+    "name": "Sengoku"
   },
   "c131": {
     "variants": {
       "01": {
         "mods": [
           "de49faa050784a2af9d7db48e513ed44"
-        ]
+        ],
+        "title": "Returned"
       },
       "00": {
         "mods": [
           "6eb901cb28db0f5828f5d7522869a04b"
-        ]
+        ],
+        "title": "Akihiko"
       },
       "02": {
         "mods": [
@@ -25279,7 +25322,8 @@
       }
     },
     "numMods": 6,
-    "code": "c131"
+    "code": "c131",
+    "name": "Oda"
   },
   "c140": {
     "variants": {
@@ -25288,11 +25332,13 @@
           "e3affc412b1682a9b3de37110ff8b97d",
           "7bf1bacc8e046a2526554db94e14ab4c",
           "9e4f5947dbc5b20bed8bedc48638e54b"
-        ]
+        ],
+        "title": "Guarding"
       }
     },
     "numMods": 4,
-    "code": "c140"
+    "code": "c140",
+    "name": "Nodens"
   },
   "c161": {
     "variants": {
@@ -25304,7 +25350,8 @@
       "01": {
         "mods": [
           "4de71f70a8703c8bbe7ff2be74a2d8a6"
-        ]
+        ],
+        "title": "Judging"
       },
       "02": {
         "mods": [
@@ -25313,7 +25360,8 @@
       }
     },
     "numMods": 6,
-    "code": "c161"
+    "code": "c161",
+    "name": "Justitia"
   },
   "c187": {
     "variants": {
@@ -25323,7 +25371,8 @@
           "9193f438e50a73f2fb8b663799217dfa",
           "6b3d6a83b0749c89d90a0c66ccbbc677",
           "9542c7ca3bdcfba878f979f278249d12"
-        ]
+        ],
+        "title": "Sorrowful"
       },
       "01": {
         "mods": [
@@ -25331,23 +25380,27 @@
           "1e9802f82abbb6cf79ee7f255c0d087d",
           "25e64e5127e1137ed9e3e1edfc7b3a8c",
           "1031c2bc399f45e7107c41a10d08052b"
-        ]
+        ],
+        "title": "Grieving"
       },
       "00": {
         "mods": [
           "9257634320469fa133f4231b987ab160"
-        ]
+        ],
+        "title": "Sayori"
       },
       "02": {
         "mods": [
           "0d694b75609357526ab04450321dff12",
           "98cc2a2b510015edddb5b869c87c8c37",
           "5ed819a5f2492cb6b3a339909a4898e1"
-        ]
+        ],
+        "title": "Sorrowful"
       }
     },
     "numMods": 16,
-    "code": "c187"
+    "code": "c187",
+    "name": "Mizutani"
   },
   "c206": {
     "variants": {
@@ -25375,11 +25428,13 @@
       "00": {
         "mods": [
           "df380636c69fe0fbb316ccc9ce82345e"
-        ]
+        ],
+        "title": "Immature"
       }
     },
     "numMods": 2,
-    "code": "c215"
+    "code": "c215",
+    "name": "Surtr"
   },
   "c326": {
     "variants": {
@@ -25420,22 +25475,26 @@
         "mods": [
           "c800032cc368a45af4a03adfb5aa4a1d",
           "20a61faeeb313ccc6eadb105399f4f36"
-        ]
+        ],
+        "title": "Producer"
       }
     },
     "numMods": 2,
-    "code": "c352"
+    "code": "c352",
+    "name": "Maestro"
   },
   "c369": {
     "variants": {
       "00": {
         "mods": [
           "42a079b03028379efa0280bc9f53529e"
-        ]
+        ],
+        "title": ""
       }
     },
     "numMods": 2,
-    "code": "c369"
+    "code": "c369",
+    "name": "Old Lady"
   },
   "c389": {
     "variants": {
@@ -25465,11 +25524,13 @@
         "mods": [
           "145835f755856ea24e8343026da84733",
           "62c7982e814de678ff694aeaf6ace242"
-        ]
+        ],
+        "title": "Giant"
       }
     },
     "numMods": 3,
-    "code": "m239"
+    "code": "m239",
+    "name": "Aurora King"
   },
   "m243": {
     "variants": {
@@ -25487,66 +25548,78 @@
       "89": {
         "mods": [
           "1e2ca5b209aab3f2c2ea5c77ed4f3357"
-        ]
+        ],
+        "title": "Return"
       }
     },
     "numMods": 2,
-    "code": "m262"
+    "code": "m262",
+    "name": "Cocoon"
   },
   "sc005": {
     "variants": {
       "01": {
         "mods": [
           "8406e5f6ba7276a34cb621aa229c9b65"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc005"
+    "code": "sc005",
+    "name": "Mars"
   },
   "sc009": {
     "variants": {
       "01": {
         "mods": [
           "9be989db08c1c7b7315cdecc11e46248"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc009"
+    "code": "sc009",
+    "name": "Hector"
   },
   "sc010": {
     "variants": {
       "01": {
         "mods": [
           "0c0194dac857d2da001242aa7fcf03b4"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc010"
+    "code": "sc010",
+    "name": "Demeter"
   },
   "sc014": {
     "variants": {
       "01": {
         "mods": [
           "f44cbccdcfe74bee7d121f7d31f819a0"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc014"
+    "code": "sc014",
+    "name": "Astraea"
   },
   "sc017": {
     "variants": {
       "01": {
         "mods": [
           "be506b237a130436918c6944e9cdb83f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc017"
+    "code": "sc017",
+    "name": "Cu Sith"
   },
   "sc019": {
     "variants": {
@@ -25555,22 +25628,26 @@
           "6f5236c92de227921b5c56d84fe39905",
           "8f2650f19f54ea35e417df5515552e47",
           "7f510597d9adb0bcfd9dccb351d4af3c"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc019"
+    "code": "sc019",
+    "name": "Eris"
   },
   "sc020": {
     "variants": {
       "01": {
         "mods": [
           "181729de9baf6babafc9eafdc3fa8f04"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc020"
+    "code": "sc020",
+    "name": "Fortuna"
   },
   "sc022": {
     "variants": {
@@ -25578,11 +25655,13 @@
         "mods": [
           "48c3f3fc98dc295276b1b56fc202dc3a",
           "37995ce9d814d2f97a70b06974859424"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc022"
+    "code": "sc022",
+    "name": "Mayahuel"
   },
   "sc029": {
     "variants": {
@@ -25591,22 +25670,26 @@
           "b48ec3e1abe4a7b24314b9bdc9ee0761",
           "4d5b84c085ac1e21c437cdea0c765b1d",
           "57d30dc90ac81c5b1fc6aa4dfefd14cf"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc029"
+    "code": "sc029",
+    "name": "Selene"
   },
   "sc041": {
     "variants": {
       "01": {
         "mods": [
           "8becc09eb50583c67749468feba26a61"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc041"
+    "code": "sc041",
+    "name": "Tiamat"
   },
   "sc043": {
     "variants": {
@@ -25616,33 +25699,39 @@
           "adaec378a8e2ada7fc00dbc4ee287b91",
           "1bd562045ff9f7ec32bc758b2d711c1d",
           "f95aad886a5dfbdec0e0e1369cf8ea81"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc043"
+    "code": "sc043",
+    "name": "Hera"
   },
   "sc044": {
     "variants": {
       "01": {
         "mods": [
           "97a397491251cde2dd01b93c5ae4953a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc044"
+    "code": "sc044",
+    "name": "Pantheon"
   },
   "sc047": {
     "variants": {
       "01": {
         "mods": [
           "33fd2ed7810a7406009fed70142e743f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc047"
+    "code": "sc047",
+    "name": "Hestia"
   },
   "sc048": {
     "variants": {
@@ -25651,33 +25740,39 @@
           "4480738faa38e6050d9f6b196f0320a5",
           "71b92328bced4201453f69f0b3af1ae3",
           "48356291d72ccd58ce89d5e5330b8533"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc048"
+    "code": "sc048",
+    "name": "Neamhain"
   },
   "sc052": {
     "variants": {
       "01": {
         "mods": [
           "230178f5928429c0a7f70501a2564f14"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc052"
+    "code": "sc052",
+    "name": "Berit"
   },
   "sc054": {
     "variants": {
       "01": {
         "mods": [
           "ca02c64fa224de6b2e0cedaddc4195b1"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc054"
+    "code": "sc054",
+    "name": "Legend"
   },
   "sc060": {
     "variants": {
@@ -25686,33 +25781,39 @@
           "ede9f2621bcb4b14d770d04f0416b1ca",
           "8e3831b701de3eec68a4f6405f80c8e2",
           "f6c14bf0e47cea85e9e8f49cfda33b1f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc060"
+    "code": "sc060",
+    "name": "Tisiphone"
   },
   "sc062": {
     "variants": {
       "01": {
         "mods": [
           "fe57206cf5c8445083a01e36e521bd73"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc062"
+    "code": "sc062",
+    "name": "Europa"
   },
   "sc063": {
     "variants": {
       "01": {
         "mods": [
           "aa053c389590875821001754b6acc37e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc063"
+    "code": "sc063",
+    "name": "Freesia"
   },
   "sc064": {
     "variants": {
@@ -25730,22 +25831,26 @@
       "01": {
         "mods": [
           "7e006bbbeeff32af2be178d4f3513606"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc068"
+    "code": "sc068",
+    "name": "Ambrosia"
   },
   "sc069": {
     "variants": {
       "01": {
         "mods": [
           "0706bea741a359495edcc38f2fbc121d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc069"
+    "code": "sc069",
+    "name": "Ptah"
   },
   "sc086": {
     "variants": {
@@ -25754,11 +25859,13 @@
           "4e4f90405e893b08dd68e3a455e8928c",
           "847e2d089e54dda83b664872ea85c84d",
           "4a42f2659c7e57fe7a8cdf38d5e6a9a9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc086"
+    "code": "sc086",
+    "name": "Goga"
   },
   "sc099": {
     "variants": {
@@ -25767,77 +25874,91 @@
           "58e7525155e07b125de622edba6a8afc",
           "138720b051a4b73c4882cc6b1024af05",
           "aff8b914cd06dffa842bbe5d3302444c"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc099"
+    "code": "sc099",
+    "name": "Melpomene"
   },
   "sc112": {
     "variants": {
       "01": {
         "mods": [
           "b6db8ab5c39db0a4c25f1a677ae3bbb7"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc112"
+    "code": "sc112",
+    "name": "Elias"
   },
   "sc120": {
     "variants": {
       "01": {
         "mods": [
           "62a52fe00ae643dea9c1c774369a94b3"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc120"
+    "code": "sc120",
+    "name": "Flora"
   },
   "sc139": {
     "variants": {
       "01": {
         "mods": [
           "2f23f9a9b0aa05960ba4bdf00ac4c23d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc139"
+    "code": "sc139",
+    "name": "Pomona"
   },
   "sc142": {
     "variants": {
       "01": {
         "mods": [
           "402b6f06a7ac46fcd240364fb54d1b85"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc142"
+    "code": "sc142",
+    "name": "Hypnos"
   },
   "sc147": {
     "variants": {
       "01": {
         "mods": [
           "818e1715051ed84b5c17e4c3e94ced26"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc147"
+    "code": "sc147",
+    "name": "Baal"
   },
   "sc154": {
     "variants": {
       "01": {
         "mods": [
           "6b668e74ba2eb399b58dbbc2044cda04"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc154"
+    "code": "sc154",
+    "name": "Thoth"
   },
   "sc156": {
     "variants": {
@@ -25845,11 +25966,13 @@
         "mods": [
           "af2e593db5f665aa849ab30b6a99824e",
           "5cf2b1061db98e76aeb1d2dc916ed96d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc156"
+    "code": "sc156",
+    "name": "Elizabeth"
   },
   "sc158": {
     "variants": {
@@ -25858,22 +25981,26 @@
           "c91b619157af2a5f2b10b69055eab7e8",
           "2fa10a70c09e8a055542ececb0239112",
           "c81ef550dcb2b13d24a5ebe9526ad2db"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc158"
+    "code": "sc158",
+    "name": "Naias"
   },
   "sc164": {
     "variants": {
       "01": {
         "mods": [
           "42d0429a9d09ad442414fa662200d368"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc164"
+    "code": "sc164",
+    "name": "Ishtar"
   },
   "sc174": {
     "variants": {
@@ -25883,66 +26010,78 @@
           "4825c426bdbd65c0ae9d934800cb9bbf",
           "7232c43246724442582bd501cb7a14bf",
           "a989a62c9ef442630bd682a998bc8dbb"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc174"
+    "code": "sc174",
+    "name": "A.I"
   },
   "sc176": {
     "variants": {
       "01": {
         "mods": [
           "ee183ba73c68861d3dc6b9084f0f6771"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc176"
+    "code": "sc176",
+    "name": "Eshu"
   },
   "sc184": {
     "variants": {
       "01": {
         "mods": [
           "0977ba90b96b58d267cd9e09a9f4f51b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc184"
+    "code": "sc184",
+    "name": "Elysion"
   },
   "sc188": {
     "variants": {
       "01": {
         "mods": [
           "587ebb79ca6989e32c94bca31876e9a6"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc188"
+    "code": "sc188",
+    "name": "Atalanta"
   },
   "sc209": {
     "variants": {
       "01": {
         "mods": [
           "37a3da94b42d08e30359397943806e58"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc209"
+    "code": "sc209",
+    "name": "Hecate"
   },
   "sc214": {
     "variants": {
       "01": {
         "mods": [
           "d681a53a18c1bb8c8f55ec4d478bab96"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc214"
+    "code": "sc214",
+    "name": "Jupiter"
   },
   "sc219": {
     "variants": {
@@ -25962,11 +26101,13 @@
           "929cb6cbd577c932bd79ef4536efc018",
           "3947912d8107854b3b180b19a332dab8",
           "0f3bd4decd8bfab1a21b86ef5fddf3f3"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc221"
+    "code": "sc221",
+    "name": "Jana"
   },
   "sc227": {
     "variants": {
@@ -25974,11 +26115,13 @@
         "mods": [
           "d8103be01404afd828d4f79c11f5d370",
           "ad13a313bb250c43be2d3d3e9d371fbc"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc227"
+    "code": "sc227",
+    "name": "Mafdet"
   },
   "sc230": {
     "variants": {
@@ -25987,33 +26130,39 @@
           "cab4dc8737b2aa44fd8d6814b9f19c4c",
           "6f4b9381bdb738a7c5dd8c2c467c8199",
           "fa05de3da6120efb35244b7ee6aa1d44"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc230"
+    "code": "sc230",
+    "name": "Skuld"
   },
   "sc234": {
     "variants": {
       "01": {
         "mods": [
           "417b7186f4b178a117c068394d140722"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc234"
+    "code": "sc234",
+    "name": "Hercules"
   },
   "sc235": {
     "variants": {
       "01": {
         "mods": [
           "382995e555c40895f89616fd11ef984f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc235"
+    "code": "sc235",
+    "name": "Danu"
   },
   "sc242": {
     "variants": {
@@ -26021,11 +26170,13 @@
         "mods": [
           "b5a259a2a5b994df3e7cf2788193ae50",
           "7ef54ae3f1f35059cad8d0c7c2a35025"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc242"
+    "code": "sc242",
+    "name": "Ailill"
   },
   "sc253": {
     "variants": {
@@ -26033,22 +26184,26 @@
         "mods": [
           "3a4fd438b1c300ecdc82ed84e2badcef",
           "a33401564d7e922a651ab1a66dada419"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc253"
+    "code": "sc253",
+    "name": "Nicole"
   },
   "sc289": {
     "variants": {
       "01": {
         "mods": [
           "8fdf00c22e4c90ffde513f9fa4b732c6"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc289"
+    "code": "sc289",
+    "name": "Durandal"
   },
   "sc295": {
     "variants": {
@@ -26057,33 +26212,39 @@
           "6ee0d3c6b2fed54ab26b15506e01222f",
           "26bb5298170b32450d18623aac564d37",
           "b467c95e31cd5339df822012f7697a7e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc295"
+    "code": "sc295",
+    "name": "Unknown"
   },
   "sc318": {
     "variants": {
       "01": {
         "mods": [
           "3551b409f5af8f005ad7b084335771fb"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc318"
+    "code": "sc318",
+    "name": "Bari"
   },
   "sc319": {
     "variants": {
       "01": {
         "mods": [
           "b75370331cad2854d8ba38c5221c45a9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc319"
+    "code": "sc319",
+    "name": "Willow Doryeong"
   },
   "sc320": {
     "variants": {
@@ -26104,22 +26265,26 @@
       "01": {
         "mods": [
           "8b2de4a1824a3a6353225e1eaf2bf883"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc336"
+    "code": "sc336",
+    "name": "Pan"
   },
   "sc338": {
     "variants": {
       "01": {
         "mods": [
           "5f71df105c79e3a249fc754c0fcb268b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc338"
+    "code": "sc338",
+    "name": "Pomona"
   },
   "sc339": {
     "variants": {
@@ -26139,77 +26304,91 @@
           "c2b79a6e04cdbdafb05802dd3c68163a",
           "73551e7ed114d377157a1acf7bbba09d",
           "2e3fc67a5dff131ac7777e8ccbf82eeb"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc354"
+    "code": "sc354",
+    "name": "Demeter"
   },
   "sc374": {
     "variants": {
       "01": {
         "mods": [
           "870d934c553fa1a520b0cd6122569eb0"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc374"
+    "code": "sc374",
+    "name": "Hildr"
   },
   "sc379": {
     "variants": {
       "01": {
         "mods": [
           "93ff99cdfc3abe454b5bf382c9518175"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc379"
+    "code": "sc379",
+    "name": "Athena"
   },
   "sc383": {
     "variants": {
       "01": {
         "mods": [
           "c3e74538bcda4139bb24b2368bd6f1d5"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc383"
+    "code": "sc383",
+    "name": "Frej"
   },
   "sc386": {
     "variants": {
       "01": {
         "mods": [
           "b95bb377e2807ba2cb7f2e2ecd111d57"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc386"
+    "code": "sc386",
+    "name": "Kasumi"
   },
   "sc390": {
     "variants": {
       "01": {
         "mods": [
           "f009bb7b9be7e7180c6f3994a300fa3b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc390"
+    "code": "sc390",
+    "name": "Eochaid"
   },
   "sc392": {
     "variants": {
       "01": {
         "mods": [
           "550dcc191cb2f6ff955c7334154534d9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc392"
+    "code": "sc392",
+    "name": "Davi"
   },
   "sc422": {
     "variants": {
@@ -26282,88 +26461,104 @@
       "01": {
         "mods": [
           "25e3b648d92b7b8f52797bd37594871d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm038"
+    "code": "sm038",
+    "name": "Diablo"
   },
   "sm040": {
     "variants": {
       "01": {
         "mods": [
           "23053cbd2afba93a42b27fcae631f860"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm040"
+    "code": "sm040",
+    "name": "Chain Killer"
   },
   "sm049": {
     "variants": {
       "01": {
         "mods": [
           "bd8c4b19bf822fcd8477b33589546b03"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm049"
+    "code": "sm049",
+    "name": "Skull"
   },
   "sm051": {
     "variants": {
       "01": {
         "mods": [
           "a51a03a5f62d50409a5b516331666416"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm051"
+    "code": "sm051",
+    "name": "Hades"
   },
   "sm059": {
     "variants": {
       "01": {
         "mods": [
           "1299972d11b5da4f8f74b6145a035108"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm059"
+    "code": "sm059",
+    "name": "Bazooka"
   },
   "sm136": {
     "variants": {
       "01": {
         "mods": [
           "b919948af109dab20866955a75884070"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm136"
+    "code": "sm136",
+    "name": "Lady"
   },
   "sm137": {
     "variants": {
       "01": {
         "mods": [
           "e8b76d491cad44766a0f368bfeaea23e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm137"
+    "code": "sm137",
+    "name": "Bellboy"
   },
   "sm146": {
     "variants": {
       "01": {
         "mods": [
           "0d1c8ebbe4aecea015b6b63fa95f62f1"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm146"
+    "code": "sm146",
+    "name": "Revenge Girl"
   },
   "sm149": {
     "variants": {
@@ -26371,44 +26566,52 @@
         "mods": [
           "45b93be259c2290b41a797c8c9cc5319",
           "489487bd353328dbba029c4039c19992"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sm149"
+    "code": "sm149",
+    "name": "Hertz"
   },
   "sm192": {
     "variants": {
       "01": {
         "mods": [
           "4ca6718bc2ff352bdf5c3c9a5eb6fc08"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm192"
+    "code": "sm192",
+    "name": "Blood Dragon"
   },
   "sm193": {
     "variants": {
       "01": {
         "mods": [
           "82a231a9ff035edc635cc2060ee8e530"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm193"
+    "code": "sm193",
+    "name": "Pompoms"
   },
   "sm217": {
     "variants": {
       "01": {
         "mods": [
           "bc1814beec858184f476e9ba7a863bc1"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm217"
+    "code": "sm217",
+    "name": "Red Nose"
   },
   "v005": {
     "variants": {
@@ -26490,33 +26693,39 @@
           "626795a3953020a56b9259fe4ba5e27e",
           "2054e0b420bda4649ff8b2b23f8a4497",
           "8bbf175a877e319de066ccb0c231cff0"
-        ]
+        ],
+        "title": "Seasonal"
       }
     },
     "numMods": 4,
-    "code": "c015"
+    "code": "c015",
+    "name": "Helena"
   },
   "c050": {
     "variants": {
       "02": {
         "mods": [
           "df503451a52c4ae9a35ed9de4309e081"
-        ]
+        ],
+        "title": "Tyrannical"
       }
     },
     "numMods": 2,
-    "code": "c050"
+    "code": "c050",
+    "name": "Od"
   },
   "c113": {
     "variants": {
       "00": {
         "mods": [
           "c88ad15890cfe660d55e2074f6dbff3b"
-        ]
+        ],
+        "title": "Kayano"
       }
     },
     "numMods": 2,
-    "code": "c113"
+    "code": "c113",
+    "name": "Mido"
   },
   "c116": {
     "variants": {
@@ -26528,7 +26737,8 @@
       "01": {
         "mods": [
           "3d32851764692bf12156701545b13e99"
-        ]
+        ],
+        "title": "Perceptive"
       },
       "02": {
         "mods": [
@@ -26537,7 +26747,8 @@
       }
     },
     "numMods": 6,
-    "code": "c116"
+    "code": "c116",
+    "name": "Pluto"
   },
   "c128": {
     "variants": {
@@ -26574,7 +26785,8 @@
         "mods": [
           "fcbd78d7dcbd897999197701d258b75c",
           "d85eb06c219e1f24989fac8a6425822e"
-        ]
+        ],
+        "title": "Honorable"
       },
       "02": {
         "mods": [
@@ -26584,18 +26796,21 @@
       }
     },
     "numMods": 8,
-    "code": "c129"
+    "code": "c129",
+    "name": "Nike"
   },
   "c226": {
     "variants": {
       "01": {
         "mods": [
           "760a63eeae8287eb6e2669a3999eaecf"
-        ]
+        ],
+        "title": "Plundering"
       }
     },
     "numMods": 2,
-    "code": "c226"
+    "code": "c226",
+    "name": "Ragnar"
   },
   "c241": {
     "variants": {
@@ -26618,7 +26833,8 @@
       "01": {
         "mods": [
           "93c7cbb2ccf598e3c57cedc8f365d18c"
-        ]
+        ],
+        "title": "Hermit"
       },
       "02": {
         "mods": [
@@ -26627,7 +26843,8 @@
       }
     },
     "numMods": 6,
-    "code": "c251"
+    "code": "c251",
+    "name": "Ganymede"
   },
   "c254": {
     "variants": {
@@ -26637,16 +26854,19 @@
           "7f7421aafe9d012008c24c7fa2c1ae03",
           "0332f31548e4ef2544848840fa6375c6",
           "0be5f54b01f1e438ad68999ff4840a51"
-        ]
+        ],
+        "title": ""
       },
       "02": {
         "mods": [
           "9fc00375e631748671ebb8db892f912a"
-        ]
+        ],
+        "title": ""
       }
     },
     "numMods": 5,
-    "code": "c254"
+    "code": "c254",
+    "name": "Davi"
   },
   "c255": {
     "variants": {
@@ -26661,22 +26881,26 @@
           "cf4b5a56c7ffd1f612d9285837adc079",
           "14799474ccaf03eb2db5d21a5b599dba",
           "c2e9614f22aa4f0e26181002111f3d04"
-        ]
+        ],
+        "title": "Prologue"
       }
     },
     "numMods": 10,
-    "code": "c255"
+    "code": "c255",
+    "name": "Mona"
   },
   "c256": {
     "variants": {
       "01": {
         "mods": [
           "a0beade1bd4ef8d4f6c1c3e289786127"
-        ]
+        ],
+        "title": ""
       }
     },
     "numMods": 2,
-    "code": "c256"
+    "code": "c256",
+    "name": "Lisa"
   },
   "c302": {
     "variants": {
@@ -26700,11 +26924,13 @@
         "mods": [
           "ef9227320f61ccf0bdc95d09668f214d",
           "ea90fd59c3b62f3a9ce7fd8389d8a356"
-        ]
+        ],
+        "title": "Debut"
       }
     },
     "numMods": 3,
-    "code": "c314"
+    "code": "c314",
+    "name": "Mona"
   },
   "c325": {
     "variants": {
@@ -26851,11 +27077,13 @@
         "mods": [
           "a88dede1968fe77e87acd8c340b4db64",
           "689f8fe86fe348a5fb4250c39fc8e760"
-        ]
+        ],
+        "title": "Golden"
       }
     },
     "numMods": 3,
-    "code": "m228"
+    "code": "m228",
+    "name": "Charinn"
   },
   "m232": {
     "variants": {
@@ -26863,22 +27091,26 @@
         "mods": [
           "10e5ac9981114cc23c7e7da1a7b8ee3f",
           "86cb69e27ee7b4d1f3db5230f5ccca8c"
-        ]
+        ],
+        "title": "Golden"
       }
     },
     "numMods": 3,
-    "code": "m232"
+    "code": "m232",
+    "name": "Charinn"
   },
   "m233": {
     "variants": {
       "89": {
         "mods": [
           "fa1ca912413bd789c742cf0dfd8df8f2"
-        ]
+        ],
+        "title": "Golden"
       }
     },
     "numMods": 2,
-    "code": "m233"
+    "code": "m233",
+    "name": "Charinn"
   },
   "m234": {
     "variants": {
@@ -26886,11 +27118,13 @@
         "mods": [
           "3cc67f653bbbefcc05af226f4304bf77",
           "6b22837950ddcb552b0967d28b37f187"
-        ]
+        ],
+        "title": "Golden"
       }
     },
     "numMods": 3,
-    "code": "m234"
+    "code": "m234",
+    "name": "Charinn"
   },
   "m235": {
     "variants": {
@@ -26898,22 +27132,26 @@
         "mods": [
           "ba0d730ef9f85aef6325d95b589a1729",
           "94c8312e5209acc77ceaaea934ba9408"
-        ]
+        ],
+        "title": "Golden"
       }
     },
     "numMods": 3,
-    "code": "m235"
+    "code": "m235",
+    "name": "Charinn"
   },
   "m236": {
     "variants": {
       "89": {
         "mods": [
           "c4a664c0893b24b3a3254571b8b18443"
-        ]
+        ],
+        "title": "Giant"
       }
     },
     "numMods": 2,
-    "code": "m236"
+    "code": "m236",
+    "name": "Aurora King"
   },
   "m237": {
     "variants": {
@@ -26922,11 +27160,13 @@
           "b8b188edf93722a8f0abcaa431fd2ed3",
           "383b26b2e9041e613ed0c9a4ab7c8515",
           "9055acdf745ad71582eeb9721a422b2e"
-        ]
+        ],
+        "title": "Giant"
       }
     },
     "numMods": 4,
-    "code": "m237"
+    "code": "m237",
+    "name": "Aurora King"
   },
   "m238": {
     "variants": {
@@ -26935,11 +27175,13 @@
           "dc8417d4e2cb410b4b059e5f2320fa70",
           "dc0e8116ec8042f36e8ca8ee4f402883",
           "c53c7dc87b3d763095978b96b7b486c9"
-        ]
+        ],
+        "title": "Giant"
       }
     },
     "numMods": 4,
-    "code": "m238"
+    "code": "m238",
+    "name": "Aurora King"
   },
   "m240": {
     "variants": {
@@ -26990,16 +27232,19 @@
       "01": {
         "mods": [
           "86049cbd9454e790f6a71dc091ac72ac"
-        ]
+        ],
+        "title": "Rabbit"
       },
       "02": {
         "mods": [
           "2af52d5de2aee8431f7070100ca88755"
-        ]
+        ],
+        "title": "Rabbit"
       }
     },
     "numMods": 4,
-    "code": "m253"
+    "code": "m253",
+    "name": "YUKINE"
   },
   "m256": {
     "variants": {
@@ -27008,77 +27253,91 @@
           "41c05380b1e48ed5478772bf223c7fda",
           "85cb772445cd763751ccdf5e96549872",
           "701be0c2fe44848eba6e67797a1cce56"
-        ]
+        ],
+        "title": "Giant"
       }
     },
     "numMods": 4,
-    "code": "m256"
+    "code": "m256",
+    "name": "Aurora King"
   },
   "m263": {
     "variants": {
       "01": {
         "mods": [
           "89ff7b4a8de51a0a0517079047cce5f2"
-        ]
+        ],
+        "title": "Rabbit"
       }
     },
     "numMods": 2,
-    "code": "m263"
+    "code": "m263",
+    "name": "YUKINE"
   },
   "sc001": {
     "variants": {
       "01": {
         "mods": [
           "744f38811ed4b854200017a2fdb129fa"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc001"
+    "code": "sc001",
+    "name": "Mona"
   },
   "sc002": {
     "variants": {
       "01": {
         "mods": [
           "8a0bf1a91dda4ca79122ab806e1f9ffa"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc002"
+    "code": "sc002",
+    "name": "Lisa"
   },
   "sc003": {
     "variants": {
       "01": {
         "mods": [
           "74286492e9688611f9eaaed1edcad80a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc003"
+    "code": "sc003",
+    "name": "Davi"
   },
   "sc004": {
     "variants": {
       "01": {
         "mods": [
           "171519b67916d4017f6ee328fd47284f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc004"
+    "code": "sc004",
+    "name": "Cheoyong"
   },
   "sc007": {
     "variants": {
       "01": {
         "mods": [
           "7a6bb8d009d3b674b00635e40188f607"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc007"
+    "code": "sc007",
+    "name": "Phoenix"
   },
   "sc008": {
     "variants": {
@@ -27088,11 +27347,13 @@
           "d76cee2fa15123bb91e5d54b89ee8ad8",
           "2545ffbd80df28755a70f3c28cfa5541",
           "3436dcda03a517e278530bd48e8ac05a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc008"
+    "code": "sc008",
+    "name": "Frigga"
   },
   "sc011": {
     "variants": {
@@ -27101,44 +27362,52 @@
           "39a413a5c0e192a20c9402a2f237d12b",
           "9597f30396fd8c099515e27b7f3da018",
           "bbc733014f624c059f0bd5294942f93c"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc011"
+    "code": "sc011",
+    "name": "Deino"
   },
   "sc012": {
     "variants": {
       "01": {
         "mods": [
           "7f926dc8a36e66b83dd1c9d26d5ec88d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc012"
+    "code": "sc012",
+    "name": "Agamemnon"
   },
   "sc013": {
     "variants": {
       "01": {
         "mods": [
           "4918016de929a34e932b2828d2ac48db"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc013"
+    "code": "sc013",
+    "name": "Artemis"
   },
   "sc018": {
     "variants": {
       "01": {
         "mods": [
           "315c7d41f200024c9f9fad8e13125687"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc018"
+    "code": "sc018",
+    "name": "Korra"
   },
   "sc026": {
     "variants": {
@@ -27148,22 +27417,26 @@
           "bf2c7a7a8dc5b5931cd5285c53f89bd0",
           "9255b8790e64e34b155cdab28ac623df",
           "2d0963490b0c5289c7e5b7f844414803"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc026"
+    "code": "sc026",
+    "name": "Eos"
   },
   "sc027": {
     "variants": {
       "01": {
         "mods": [
           "daf514fd19df8786167143b172ce1f1f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc027"
+    "code": "sc027",
+    "name": "Cynthia"
   },
   "sc028": {
     "variants": {
@@ -27172,121 +27445,143 @@
           "c16b64cfe5a20b69c817fa4a9fecc78c",
           "9ed1f1b12a0a2a1852f71bf97455ec61",
           "0e04e47a0e2d7cdee61572619e8719ce"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc028"
+    "code": "sc028",
+    "name": "Leda"
   },
   "sc030": {
     "variants": {
       "01": {
         "mods": [
           "097b1592a02d36ee5714236d1806038e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc030"
+    "code": "sc030",
+    "name": "Detective Girl"
   },
   "sc031": {
     "variants": {
       "01": {
         "mods": [
           "6b793968bfe13e2deef5b80829694071"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc031"
+    "code": "sc031",
+    "name": "Freyja"
   },
   "sc032": {
     "variants": {
       "01": {
         "mods": [
           "0ab2b85575200d2e9a113cf2413925d7"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc032"
+    "code": "sc032",
+    "name": "Alecto"
   },
   "sc033": {
     "variants": {
       "01": {
         "mods": [
           "4485c99fd3d72c5adafb8853c60518b2"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc033"
+    "code": "sc033",
+    "name": "Diana"
   },
   "sc034": {
     "variants": {
       "01": {
         "mods": [
           "756664ea0f7e6f8a8c4e776fced188f8"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc034"
+    "code": "sc034",
+    "name": "Mnemosyne"
   },
   "sc035": {
     "variants": {
       "01": {
         "mods": [
           "e998bb6f311f4dbd414cb58db6043879"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc035"
+    "code": "sc035",
+    "name": "Persephone"
   },
   "sc036": {
     "variants": {
       "01": {
         "mods": [
           "ef2978e81b5f3cf4fa10bf8887b4869a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc036"
+    "code": "sc036",
+    "name": "Hermes"
   },
   "sc037": {
     "variants": {
       "01": {
         "mods": [
           "35b03a2d76bed2cd19a72ef6a3be3001"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc037"
+    "code": "sc037",
+    "name": "Judas"
   },
   "sc038": {
     "variants": {
       "01": {
         "mods": [
           "0e092c7f676171b3c5228a9ec050c9a0"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc038"
+    "code": "sc038",
+    "name": "Calypso"
   },
   "sc039": {
     "variants": {
       "01": {
         "mods": [
           "85987f6913dc113cf3167d5002cb4ac9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc039"
+    "code": "sc039",
+    "name": "Morrigan"
   },
   "sc040": {
     "variants": {
@@ -27295,11 +27590,13 @@
           "315dcbe945b22202accbbe80e5544e3c",
           "92e1ea5fa121bfc983bb5d3a6e226533",
           "eb736006f0687dd81a5be50a47a12d96"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc040"
+    "code": "sc040",
+    "name": "Shamash"
   },
   "sc045": {
     "variants": {
@@ -27308,11 +27605,13 @@
           "ed8e9a38effda475a733edde6eb4b740",
           "89c89900e3027a823887a26d80822636",
           "dd5366183efea806062322bfedd6ab13"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc045"
+    "code": "sc045",
+    "name": "Aria"
   },
   "sc049": {
     "variants": {
@@ -27322,33 +27621,39 @@
           "5e51f244fb78d47f7b193a2b893e3019",
           "25536e69f37306bff7a3ace347e71ff0",
           "aeb7959cd8df0707f7f283ab6f35333e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc049"
+    "code": "sc049",
+    "name": "Maat"
   },
   "sc051": {
     "variants": {
       "01": {
         "mods": [
           "06126241d8b03fa3bead630202a0a59a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc051"
+    "code": "sc051",
+    "name": "Frej"
   },
   "sc053": {
     "variants": {
       "01": {
         "mods": [
           "2ea462ab5695f15fe44ba0ed8f1858da"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc053"
+    "code": "sc053",
+    "name": "Metis"
   },
   "sc056": {
     "variants": {
@@ -27356,11 +27661,13 @@
         "mods": [
           "5d66299517b9f5d06ddb923b7827c49a",
           "6867c3f27d88a0acedf27ed05906f65b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc056"
+    "code": "sc056",
+    "name": "Jeanne d'Arc"
   },
   "sc057": {
     "variants": {
@@ -27370,11 +27677,13 @@
           "06f808a92ceff45e7735f69ccde80d7b",
           "685fe26bc7a0747265b7b3cc8c24bbcf",
           "d56aa71594203041cc70ed5bd1a4717b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc057"
+    "code": "sc057",
+    "name": "Lan Fei"
   },
   "sc058": {
     "variants": {
@@ -27385,11 +27694,13 @@
           "ecb1279896e2962aedced61e8bc3e31f",
           "f869199ccf6d6dcc13f2a97da5f7c588",
           "7d3cb35d0fe5cb716947d53f7d9fba72"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 6,
-    "code": "sc058"
+    "code": "sc058",
+    "name": "Nirrti"
   },
   "sc061": {
     "variants": {
@@ -27400,77 +27711,91 @@
           "861682b98f46071648e54527f97a49dc",
           "e175836397631e2ac1af99e9e8be96d7",
           "a2b77dcd308895213ea3b87d01c075b1"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 6,
-    "code": "sc061"
+    "code": "sc061",
+    "name": "Siren"
   },
   "sc065": {
     "variants": {
       "01": {
         "mods": [
           "2d4ec3b128277ff633a36a8274f60866"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc065"
+    "code": "sc065",
+    "name": "Erato"
   },
   "sc066": {
     "variants": {
       "01": {
         "mods": [
           "061b0b4bcad67fb3a6d15025e247d3f6"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc066"
+    "code": "sc066",
+    "name": "Aten"
   },
   "sc067": {
     "variants": {
       "01": {
         "mods": [
           "958992c20fc36bdbfdb9948c72ddc178"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc067"
+    "code": "sc067",
+    "name": "Thanatos"
   },
   "sc072": {
     "variants": {
       "01": {
         "mods": [
           "e42caa05f8e38f5652ae21b98e4ea5c6"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc072"
+    "code": "sc072",
+    "name": "Fenrir"
   },
   "sc074": {
     "variants": {
       "01": {
         "mods": [
           "4738b1dd1c15b69ef681ae8e0ca31757"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc074"
+    "code": "sc074",
+    "name": "Quirinus"
   },
   "sc082": {
     "variants": {
       "01": {
         "mods": [
           "287a82691f1ee2a2d68d5a41fa74139a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc082"
+    "code": "sc082",
+    "name": "Calchas"
   },
   "sc083": {
     "variants": {
@@ -27479,66 +27804,78 @@
           "d3c4dcedd2f210f95584e71a1ca1ceef",
           "3662d23547c631c91c42bd4197533e79",
           "cd4eaf553cb8dcc4118409ba111a5224"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc083"
+    "code": "sc083",
+    "name": "Neith"
   },
   "sc090": {
     "variants": {
       "01": {
         "mods": [
           "7f03db9e62b57c37e48f96858579d208"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc090"
+    "code": "sc090",
+    "name": "Vulcan"
   },
   "sc095": {
     "variants": {
       "01": {
         "mods": [
           "b67adc367cff6b84194c0eaa0564254e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc095"
+    "code": "sc095",
+    "name": "Vesta"
   },
   "sc101": {
     "variants": {
       "01": {
         "mods": [
           "87c391f0faa7acaf748afd10f2c84c10"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc101"
+    "code": "sc101",
+    "name": "Syrinx"
   },
   "sc106": {
     "variants": {
       "01": {
         "mods": [
           "94cba901b9a5e0472ff60b6c90464e33"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc106"
+    "code": "sc106",
+    "name": "Medeia"
   },
   "sc107": {
     "variants": {
       "01": {
         "mods": [
           "1e4cce665c67c7eb7d17d30793363ff2"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc107"
+    "code": "sc107",
+    "name": "Apollo"
   },
   "sc110": {
     "variants": {
@@ -27558,44 +27895,52 @@
           "0cb94bac0ec35a94fa9f11608edb0a83",
           "9181649b3c0349aab8300710e5dab6da",
           "88a1266f1ab7ec92e1e85a6e8b446ebf"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc115"
+    "code": "sc115",
+    "name": "Sonnet"
   },
   "sc117": {
     "variants": {
       "01": {
         "mods": [
           "5c7392ff9bf02937245b802b6da8e1a5"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc117"
+    "code": "sc117",
+    "name": "Yaga"
   },
   "sc121": {
     "variants": {
       "01": {
         "mods": [
           "e1c10799a2151c00a92e86a00babcebb"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc121"
+    "code": "sc121",
+    "name": "Muse"
   },
   "sc123": {
     "variants": {
       "01": {
         "mods": [
           "aa66d7ad151075535dfa8e042692efe4"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc123"
+    "code": "sc123",
+    "name": "Baphomet"
   },
   "sc124": {
     "variants": {
@@ -27603,55 +27948,65 @@
         "mods": [
           "e3efc8b7b14c80fe251e6e311783ca39",
           "5c372ca56ebee00602afc8edff469ef9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc124"
+    "code": "sc124",
+    "name": "Eve"
   },
   "sc126": {
     "variants": {
       "01": {
         "mods": [
           "93210a16e7aca7c015bbb32f1d4c9865"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc126"
+    "code": "sc126",
+    "name": "Salmacis"
   },
   "sc127": {
     "variants": {
       "01": {
         "mods": [
           "e71c0d7fa7154a789afeaaf9276ecaad"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc127"
+    "code": "sc127",
+    "name": "Bastet"
   },
   "sc130": {
     "variants": {
       "01": {
         "mods": [
           "d2818f807dce0bd1bd347af85d54f327"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc130"
+    "code": "sc130",
+    "name": "Genius"
   },
   "sc132": {
     "variants": {
       "01": {
         "mods": [
           "33d731865c0b8db1002c7566353cada6"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc132"
+    "code": "sc132",
+    "name": "Midas"
   },
   "sc133": {
     "variants": {
@@ -27660,33 +28015,39 @@
           "2a853d8315d9c84a517fc57d4c0b2890",
           "2a2e37efca15089d2529352b7c103bdd",
           "bc93cb36b44502aa048bdfed6ad82ff2"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc133"
+    "code": "sc133",
+    "name": "Titania"
   },
   "sc135": {
     "variants": {
       "01": {
         "mods": [
           "886681c3f7e428662d3ad8da88fdaeba"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc135"
+    "code": "sc135",
+    "name": "Valkyrie"
   },
   "sc141": {
     "variants": {
       "01": {
         "mods": [
           "2fe005cedd9f0ac28cf05ead36c54707"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc141"
+    "code": "sc141",
+    "name": "Amor"
   },
   "sc144": {
     "variants": {
@@ -27706,11 +28067,13 @@
           "ea3697cc781587753d434ca7d6e577f6",
           "9b3a13055696bf332a805f630a4dc10b",
           "10c1c3f3a0749c12601265a0980a274a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc148"
+    "code": "sc148",
+    "name": "Inanna"
   },
   "sc149": {
     "variants": {
@@ -27719,11 +28082,13 @@
           "dcd02dcfb5d188263b4f0b78c18da359",
           "0cff8230876de3fb196127a79e8208d7",
           "5a13d6d30a46f8d03cf0d008d8e0929a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc149"
+    "code": "sc149",
+    "name": "Rusalka"
   },
   "sc153": {
     "variants": {
@@ -27731,11 +28096,13 @@
         "mods": [
           "1759738a80397549372c09358280cfe7",
           "747ca99555e00d326550226ad5d1ff4f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc153"
+    "code": "sc153",
+    "name": "Epona"
   },
   "sc159": {
     "variants": {
@@ -27769,77 +28136,91 @@
           "f4e8cdf38e098feeb0a082d073156fb9",
           "6a69f4836fe7ed7d100ce3fffe258065",
           "192746713340d901886d006270f79f29"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 6,
-    "code": "sc167"
+    "code": "sc167",
+    "name": "Chang'e"
   },
   "sc169": {
     "variants": {
       "01": {
         "mods": [
           "35775919189639e8ae643a8bb224dfad"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc169"
+    "code": "sc169",
+    "name": "Euros"
   },
   "sc172": {
     "variants": {
       "01": {
         "mods": [
           "3c3ca54ef4bc24b62ca4b2061b3631e7"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc172"
+    "code": "sc172",
+    "name": "Yuna"
   },
   "sc173": {
     "variants": {
       "01": {
         "mods": [
           "5a02a41c23bfa52698af52e9f193daff"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc173"
+    "code": "sc173",
+    "name": "Daoine Sidhe"
   },
   "sc175": {
     "variants": {
       "01": {
         "mods": [
           "d11b99705ba7fde01312551c76ac5d10"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc175"
+    "code": "sc175",
+    "name": "Red Cross"
   },
   "sc178": {
     "variants": {
       "01": {
         "mods": [
           "6f7481f83a5cb2f6bfb620fb93283c33"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc178"
+    "code": "sc178",
+    "name": "Morgana"
   },
   "sc180": {
     "variants": {
       "01": {
         "mods": [
           "baa8fba7acc69f41eebda54d3f221ce7"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc180"
+    "code": "sc180",
+    "name": "Mammon"
   },
   "sc183": {
     "variants": {
@@ -27848,55 +28229,65 @@
           "b1ceee3d448bd50c7824d5d4b22b6338",
           "bcaff571150b629eeaf659ab12e3d199",
           "bc7095abbf44e911f1e55c6f143d2755"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc183"
+    "code": "sc183",
+    "name": "Dana"
   },
   "sc189": {
     "variants": {
       "01": {
         "mods": [
           "8a86ee43d301f7ccf51a7b549da07cf5"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc189"
+    "code": "sc189",
+    "name": "Kratos"
   },
   "sc190": {
     "variants": {
       "01": {
         "mods": [
           "a8a2c6d51fb093d87047221637cf5634"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc190"
+    "code": "sc190",
+    "name": "Isis"
   },
   "sc191": {
     "variants": {
       "01": {
         "mods": [
           "a6ae9843227b02602a485c3a8236c208"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc191"
+    "code": "sc191",
+    "name": "Sekhmet"
   },
   "sc194": {
     "variants": {
       "01": {
         "mods": [
           "55e4f3d9b11f1dc7c84ff7c07c2b4379"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc194"
+    "code": "sc194",
+    "name": "Ashtoreth"
   },
   "sc195": {
     "variants": {
@@ -27905,11 +28296,13 @@
           "ed642438107daa5fae28d5cce27ecbd0",
           "b59226913ad2b3c7e892545b49639996",
           "be065ec6473f2dcec47a5b80c2667244"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc195"
+    "code": "sc195",
+    "name": "Cybele"
   },
   "sc196": {
     "variants": {
@@ -27919,22 +28312,26 @@
           "b3fc7083627df07914343f5bc5f72127",
           "a5e32bb9bc1acfed98afddc1a2072568",
           "b2e6c7e2d6ade6a44ec99421296fa959"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc196"
+    "code": "sc196",
+    "name": "Idun"
   },
   "sc198": {
     "variants": {
       "01": {
         "mods": [
           "7def5413399cd7311e7b62a9621fc502"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc198"
+    "code": "sc198",
+    "name": "Zelos"
   },
   "sc199": {
     "variants": {
@@ -27943,22 +28340,26 @@
           "7bb4569954055a982cf51f1f13339bc9",
           "6f46cbd3bb0078201817bdb7e95ee1a6",
           "02da2025e08504e8fc0633e9e968e223"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc199"
+    "code": "sc199",
+    "name": "Aurora"
   },
   "sc200": {
     "variants": {
       "01": {
         "mods": [
           "5c60af5fe1df88b80d969d04ee7d10b9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc200"
+    "code": "sc200",
+    "name": "Seshat"
   },
   "sc202": {
     "variants": {
@@ -27966,55 +28367,65 @@
         "mods": [
           "74473f95f097cbfb1282f2206fb6dae8",
           "fc09c5fde8450859a215c4a04e34cce5"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc202"
+    "code": "sc202",
+    "name": "Victorix"
   },
   "sc205": {
     "variants": {
       "01": {
         "mods": [
           "ca96bc002754b69c92ba388998fa16bd"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc205"
+    "code": "sc205",
+    "name": "Merlin"
   },
   "sc208": {
     "variants": {
       "01": {
         "mods": [
           "9848d30f3d5ea6d700d97f77fdd62d72"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc208"
+    "code": "sc208",
+    "name": "Firo"
   },
   "sc210": {
     "variants": {
       "01": {
         "mods": [
           "f938b9ea503c95bacf7007117d985012"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc210"
+    "code": "sc210",
+    "name": "Tartarus"
   },
   "sc216": {
     "variants": {
       "01": {
         "mods": [
           "f9c3b40cb1b2cc7c66d724329bf4907a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc216"
+    "code": "sc216",
+    "name": "Werewolf"
   },
   "sc220": {
     "variants": {
@@ -28023,11 +28434,13 @@
           "2aa9164004603b37e4cc3815ab9af0c2",
           "b0c595b23053b9e63f66d31ed543a04c",
           "e57825623bc17e60bb4f0ca935b0be80"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc220"
+    "code": "sc220",
+    "name": "Atropos"
   },
   "sc222": {
     "variants": {
@@ -28036,11 +28449,13 @@
           "7b72de922d4b8a888e8a75ffb4dc3c12",
           "13a67a9921189bd1de5a29ed285ca5cf",
           "51fd95508bd9092a6c99907cb7cb578c"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc222"
+    "code": "sc222",
+    "name": "El Dorado"
   },
   "sc223": {
     "variants": {
@@ -28061,11 +28476,13 @@
       "01": {
         "mods": [
           "b968cd5a2f459d94dbe18075729f9586"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc225"
+    "code": "sc225",
+    "name": "Rudolph"
   },
   "sc229": {
     "variants": {
@@ -28075,33 +28492,39 @@
           "bc1d344273edcda0c2f2b4b3c3e3e6b7",
           "fe74bcb89df35054578eef4119bf76da",
           "e42757495a25bd5ae5ce1bce492e01c4"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc229"
+    "code": "sc229",
+    "name": "Brownie"
   },
   "sc232": {
     "variants": {
       "01": {
         "mods": [
           "3845e74a4a9c60a9b5bf63fbf87dec3b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc232"
+    "code": "sc232",
+    "name": "Daphne"
   },
   "sc233": {
     "variants": {
       "01": {
         "mods": [
           "c29c01eaee22238b32b2c21b2651c78b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc233"
+    "code": "sc233",
+    "name": "Arges"
   },
   "sc237": {
     "variants": {
@@ -28119,22 +28542,26 @@
       "01": {
         "mods": [
           "be768985a436627e5361e45862b9c679"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc238"
+    "code": "sc238",
+    "name": "Medb"
   },
   "sc246": {
     "variants": {
       "01": {
         "mods": [
           "751240664bae915fc2c1f354054fbaa8"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc246"
+    "code": "sc246",
+    "name": "Krampus"
   },
   "sc247": {
     "variants": {
@@ -28143,33 +28570,39 @@
           "a9e98dbb4faf830a19b64e4eb77d5bf5",
           "48a08e3ae737b2845fc9a954ad3a1cb4",
           "2b5b46e1ae6de9453cceaaafe360b194"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc247"
+    "code": "sc247",
+    "name": "Myrina"
   },
   "sc262": {
     "variants": {
       "01": {
         "mods": [
           "2d46ccb7482988615c66cd42c4d82c26"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc262"
+    "code": "sc262",
+    "name": "Daphnis"
   },
   "sc266": {
     "variants": {
       "01": {
         "mods": [
           "6e20b38c4362f6647cdc1b85d9fe8d82"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc266"
+    "code": "sc266",
+    "name": "Horus"
   },
   "sc267": {
     "variants": {
@@ -28177,66 +28610,78 @@
         "mods": [
           "744e4e43349c21c679d954652c4b8aa8",
           "5970f601c7dd9a415a3e20cf4691326f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc267"
+    "code": "sc267",
+    "name": "Cleopatra"
   },
   "sc274": {
     "variants": {
       "01": {
         "mods": [
           "8f697a20e11a007268fd3cfb8b947f18"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc274"
+    "code": "sc274",
+    "name": "Bast"
   },
   "sc277": {
     "variants": {
       "01": {
         "mods": [
           "946aca91e154eeeaaa8b59b5957676b0"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc277"
+    "code": "sc277",
+    "name": "Leuce"
   },
   "sc280": {
     "variants": {
       "01": {
         "mods": [
           "5a2fe50a83961bc34fcdd55e849e5314"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc280"
+    "code": "sc280",
+    "name": "Tyche"
   },
   "sc283": {
     "variants": {
       "01": {
         "mods": [
           "573b031c2c17c12c08828f69b1cdbcff"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc283"
+    "code": "sc283",
+    "name": "Morgan"
   },
   "sc286": {
     "variants": {
       "01": {
         "mods": [
           "eb62a45340755418b343562f2944ac00"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc286"
+    "code": "sc286",
+    "name": "Verdelet"
   },
   "sc287": {
     "variants": {
@@ -28254,22 +28699,26 @@
       "01": {
         "mods": [
           "61dc9941f377ae8099ce37575278c447"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc290"
+    "code": "sc290",
+    "name": "Brigid"
   },
   "sc292": {
     "variants": {
       "01": {
         "mods": [
           "397af7d6ba299c117593c78b2eec2ac1"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc292"
+    "code": "sc292",
+    "name": "Luin"
   },
   "sc294": {
     "variants": {
@@ -28278,11 +28727,13 @@
           "6c80197615975d16ae95ad81bd8fbe9f",
           "0f56bcb0475afb788cdd415dd90af355",
           "0dd55ab785217084ab2d9023f063bcac"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc294"
+    "code": "sc294",
+    "name": "Bathory"
   },
   "sc296": {
     "variants": {
@@ -28294,11 +28745,13 @@
           "10fe5a72da68daf3f0fb580e3be0fd1a",
           "4c486d8a5749021c76e4605e3a897689",
           "c5da9850c4417c4b034207db87369d4d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 7,
-    "code": "sc296"
+    "code": "sc296",
+    "name": "Hildr"
   },
   "sc297": {
     "variants": {
@@ -28316,33 +28769,39 @@
       "01": {
         "mods": [
           "34a6239098fb0f88a36af7da600113d5"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc299"
+    "code": "sc299",
+    "name": "Santa Claus"
   },
   "sc300": {
     "variants": {
       "01": {
         "mods": [
           "c7a8ed6fa3abe3c8626c1029c899cfec"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc300"
+    "code": "sc300",
+    "name": "Pietas"
   },
   "sc301": {
     "variants": {
       "01": {
         "mods": [
           "d787f2db84ca25bccd8da0bb0cecd271"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc301"
+    "code": "sc301",
+    "name": "Jacheongbi"
   },
   "sc304": {
     "variants": {
@@ -28361,33 +28820,39 @@
         "mods": [
           "da3e678d30e5e00353d6d2910eb10ba5",
           "2c4e30127d0181af64c59d3771bd8bdb"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc305"
+    "code": "sc305",
+    "name": "Rita"
   },
   "sc308": {
     "variants": {
       "01": {
         "mods": [
           "46c60a02af057ac1948df913e169dff6"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc308"
+    "code": "sc308",
+    "name": "Kubaba"
   },
   "sc310": {
     "variants": {
       "01": {
         "mods": [
           "d61b1c5ef95200ea7c8987b409cf8417"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc310"
+    "code": "sc310",
+    "name": "Bes"
   },
   "sc311": {
     "variants": {
@@ -28397,22 +28862,26 @@
           "dbb11c6aad6fbcb1028aa5fbee6c4e6d",
           "498c5a151daa3b062d919cf0a06fa0f5",
           "cb24d8e74b45775daf683d6a10dd9ce4"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 5,
-    "code": "sc311"
+    "code": "sc311",
+    "name": "Khepri"
   },
   "sc312": {
     "variants": {
       "01": {
         "mods": [
           "d57af08a7aafcc349f000cff39f3bf45"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc312"
+    "code": "sc312",
+    "name": "Tyrving"
   },
   "sc315": {
     "variants": {
@@ -28430,22 +28899,26 @@
       "01": {
         "mods": [
           "6e7c10aa8e93fed58059e11bea68d43c"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc316"
+    "code": "sc316",
+    "name": "Wodan"
   },
   "sc317": {
     "variants": {
       "01": {
         "mods": [
           "da11e29fe67325bc961e98367cb52f93"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc317"
+    "code": "sc317",
+    "name": "Babel"
   },
   "sc321": {
     "variants": {
@@ -28465,11 +28938,13 @@
           "802c0e1251a9d2f843eb82ccafe2520f",
           "ab6814cd384dd900e15eaf9ae01d66ce",
           "583d716bd2b4ee95dff857eaea0c9f78"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc324"
+    "code": "sc324",
+    "name": "Mona"
   },
   "sc343": {
     "variants": {
@@ -28487,11 +28962,13 @@
       "01": {
         "mods": [
           "d9b7a055c82a5f173ce9217be7280753"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc344"
+    "code": "sc344",
+    "name": "Isolde"
   },
   "sc345": {
     "variants": {
@@ -28504,55 +28981,65 @@
           "68aca00dd206be8386cc1e1228d1d61f",
           "1596596fa3a3f7a9ff9ec67f1f33b431",
           "062e50bca8af6a955e58f09e0b91e530"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 8,
-    "code": "sc345"
+    "code": "sc345",
+    "name": "Anemone"
   },
   "sc346": {
     "variants": {
       "01": {
         "mods": [
           "723ecaad98a68795b1c6aa765b9f4953"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc346"
+    "code": "sc346",
+    "name": "Tristan"
   },
   "sc347": {
     "variants": {
       "01": {
         "mods": [
           "6feaba7522c11697a33f392c90f550ef"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc347"
+    "code": "sc347",
+    "name": "Dana"
   },
   "sc348": {
     "variants": {
       "01": {
         "mods": [
           "de19df52e4669d6859adc7af81bd6c38"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc348"
+    "code": "sc348",
+    "name": "Mars♥"
   },
   "sc349": {
     "variants": {
       "01": {
         "mods": [
           "49529ef3f28b0f615a22deabc10fa692"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc349"
+    "code": "sc349",
+    "name": "Saturn♥"
   },
   "sc350": {
     "variants": {
@@ -28561,11 +29048,13 @@
           "7e67617edcbee1ac441e5549156a8715",
           "2927c19986bfbe896dfb6f37cc9b3a23",
           "311b6e0b56cd120a2aea6fae0725eb84"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc350"
+    "code": "sc350",
+    "name": "Neptune♥"
   },
   "sc351": {
     "variants": {
@@ -28574,22 +29063,26 @@
           "e1f916e9327ae831c084a15b468947d3",
           "cfa3788561f64285b08b6782a0fb3d82",
           "a67e4295308f05d4115a3d658270664a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc351"
+    "code": "sc351",
+    "name": "Venus♥"
   },
   "sc353": {
     "variants": {
       "01": {
         "mods": [
           "2d3902180a565f23395f64d2ea9c7722"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc353"
+    "code": "sc353",
+    "name": "Charlotte"
   },
   "sc355": {
     "variants": {
@@ -28598,22 +29091,26 @@
           "19c2026178e66029c99d0cb92efe8c9f",
           "c58210b6b1921a843cea91bbbd62639e",
           "abda54eb20309281019dff887bdf02d6"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc355"
+    "code": "sc355",
+    "name": "Chang'e"
   },
   "sc360": {
     "variants": {
       "01": {
         "mods": [
           "93c90000b6a6b403bfd0a62637cf6e1e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc360"
+    "code": "sc360",
+    "name": "Maat"
   },
   "sc362": {
     "variants": {
@@ -28633,55 +29130,65 @@
           "9401d512df12ab49246f1b2b97d1d5b1",
           "755030c06041cc21a3386c08e72e03cb",
           "6b67ba91e78a36c5875514d3381a9895"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 4,
-    "code": "sc364"
+    "code": "sc364",
+    "name": "Sytry"
   },
   "sc365": {
     "variants": {
       "01": {
         "mods": [
           "b974576e1d9326e5ba501cecef0e6bb9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc365"
+    "code": "sc365",
+    "name": "Lisa"
   },
   "sc366": {
     "variants": {
       "01": {
         "mods": [
           "bc0c4fd6591bc2f18c60909703fa1ebe"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc366"
+    "code": "sc366",
+    "name": "Deino"
   },
   "sc370": {
     "variants": {
       "01": {
         "mods": [
           "13d33bd799894a573ccf523dcfababaf"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc370"
+    "code": "sc370",
+    "name": "Mona"
   },
   "sc371": {
     "variants": {
       "01": {
         "mods": [
           "f3e1b98a90e887bde738a0371fdc578e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc371"
+    "code": "sc371",
+    "name": "Lisa"
   },
   "sc372": {
     "variants": {
@@ -28689,22 +29196,26 @@
         "mods": [
           "cb1dd0968d36babe144ed8b40c6c7c43",
           "a4d622769d1f522a914859f5e2306f89"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc372"
+    "code": "sc372",
+    "name": "Davi"
   },
   "sc377": {
     "variants": {
       "01": {
         "mods": [
           "1c0a610a1ae500f93e60b4bf945ee0d1"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc377"
+    "code": "sc377",
+    "name": "Iphis"
   },
   "sc378": {
     "variants": {
@@ -28712,11 +29223,13 @@
         "mods": [
           "098830caa31dafaaef032da57cd607c3",
           "38d5406328ef877a535c69953f7b9a62"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc378"
+    "code": "sc378",
+    "name": "Pallas"
   },
   "sc381": {
     "variants": {
@@ -28734,99 +29247,117 @@
       "01": {
         "mods": [
           "368ae70e706707ff50bc53937e74ea26"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc382"
+    "code": "sc382",
+    "name": "Neamhain"
   },
   "sc385": {
     "variants": {
       "01": {
         "mods": [
           "d13f11c1c477871f7e3a60c8870ec805"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc385"
+    "code": "sc385",
+    "name": "Marie Rose"
   },
   "sc387": {
     "variants": {
       "01": {
         "mods": [
           "4fc4dd211dc0898c9056fc65cc17f900"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc387"
+    "code": "sc387",
+    "name": "Honoka"
   },
   "sc391": {
     "variants": {
       "01": {
         "mods": [
           "8aebefc889346e8e38fabde40885d19a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc391"
+    "code": "sc391",
+    "name": "Medb"
   },
   "sc393": {
     "variants": {
       "01": {
         "mods": [
           "a78444198ec8d407f0362f7dbbee5e2d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc393"
+    "code": "sc393",
+    "name": "Mona"
   },
   "sc394": {
     "variants": {
       "01": {
         "mods": [
           "5a841e8db48b2f230aa773fe4f5bd269"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc394"
+    "code": "sc394",
+    "name": "Bathory"
   },
   "sc395": {
     "variants": {
       "01": {
         "mods": [
           "db8f0e8d6386b94323932d0d0e5b8c15"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc395"
+    "code": "sc395",
+    "name": "Eve"
   },
   "sc396": {
     "variants": {
       "01": {
         "mods": [
           "544d32f2a27623f7aa22d40e2c0cd087"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc396"
+    "code": "sc396",
+    "name": "Werewolf"
   },
   "sc397": {
     "variants": {
       "01": {
         "mods": [
           "d208cfe5151e97ec51fc93f5aaa1f53a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc397"
+    "code": "sc397",
+    "name": "Leda"
   },
   "sc398": {
     "variants": {
@@ -28855,11 +29386,13 @@
       "01": {
         "mods": [
           "4058e090c7281afb3351a38364a8f4a1"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc402"
+    "code": "sc402",
+    "name": "Noel"
   },
   "sc403": {
     "variants": {
@@ -28867,22 +29400,26 @@
         "mods": [
           "791760147136851c0b48c7d31fbde95c",
           "57e19dbf4e5c1d7244ccc3ae86758090"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc403"
+    "code": "sc403",
+    "name": "Makoto"
   },
   "sc404": {
     "variants": {
       "01": {
         "mods": [
           "feb726deab263d3a610331f8df0e0a12"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc404"
+    "code": "sc404",
+    "name": "Nine"
   },
   "sc405": {
     "variants": {
@@ -28900,33 +29437,39 @@
       "01": {
         "mods": [
           "1b2316837129f240cbbc5a4b244fb11b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc406"
+    "code": "sc406",
+    "name": "Serval"
   },
   "sc407": {
     "variants": {
       "01": {
         "mods": [
           "f2112ff769478628467c754866d708bd"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc407"
+    "code": "sc407",
+    "name": "Raccoon"
   },
   "sc408": {
     "variants": {
       "01": {
         "mods": [
           "c4efca20a609b5aa282b0b622f7855e8"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc408"
+    "code": "sc408",
+    "name": "Fennec"
   },
   "sc409": {
     "variants": {
@@ -28934,11 +29477,13 @@
         "mods": [
           "8d45ecb5bb5cc4b432f501e51d05c9be",
           "c3761380a2f2edf5168ab8021ba617ed"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc409"
+    "code": "sc409",
+    "name": "Limos"
   },
   "sc410": {
     "variants": {
@@ -29023,33 +29568,39 @@
         "mods": [
           "96ff81327cd04d2ce70081d0b955905e",
           "62da6ad82f228fe8c9c838fb78ae5072"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 3,
-    "code": "sc419"
+    "code": "sc419",
+    "name": "Catherine"
   },
   "sc420": {
     "variants": {
       "01": {
         "mods": [
           "d4804970672ae1daf91d1391132fbca4"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc420"
+    "code": "sc420",
+    "name": "Katherine"
   },
   "sc421": {
     "variants": {
       "01": {
         "mods": [
           "b9db816bdb7b82fe46df46ed872c0fae"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sc421"
+    "code": "sc421",
+    "name": "Rin"
   },
   "sc426": {
     "variants": {
@@ -29145,330 +29696,390 @@
       "01": {
         "mods": [
           "933c1be80bc48d8e67d137ae7ccfa617"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm003"
+    "code": "sm003",
+    "name": "Fire Dragon"
   },
   "sm007": {
     "variants": {
       "01": {
         "mods": [
           "5d42eaeb39f76a62749f114efb92c075"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm007"
+    "code": "sm007",
+    "name": "Teddy"
   },
   "sm036": {
     "variants": {
       "01": {
         "mods": [
           "d7f1dae58a1f3b3b26db451732ff1de5"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm036"
+    "code": "sm036",
+    "name": "Messenger"
   },
   "sm037": {
     "variants": {
       "01": {
         "mods": [
           "800e9dfe30c07c6ecf6a29012bb0f112"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm037"
+    "code": "sm037",
+    "name": "Chaser"
   },
   "sm039": {
     "variants": {
       "01": {
         "mods": [
           "5f7f806d128c73d09d3ea09ef463c5d9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm039"
+    "code": "sm039",
+    "name": "Kali Yuga"
   },
   "sm045": {
     "variants": {
       "01": {
         "mods": [
           "9e9f3142eabbb1f83a5368b38da2cca3"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm045"
+    "code": "sm045",
+    "name": "Bouquet"
   },
   "sm050": {
     "variants": {
       "01": {
         "mods": [
           "8a7973f21bdc731eca625a07dc622f17"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm050"
+    "code": "sm050",
+    "name": "Guillotine"
   },
   "sm052": {
     "variants": {
       "01": {
         "mods": [
           "8daf0e997f166147140a8e1b402e0b4e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm052"
+    "code": "sm052",
+    "name": "Basilisk"
   },
   "sm053": {
     "variants": {
       "01": {
         "mods": [
           "00b2d119ab58a629405e14e57e05ad1d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm053"
+    "code": "sm053",
+    "name": "Hydra"
   },
   "sm056": {
     "variants": {
       "01": {
         "mods": [
           "9f9477d6e763e941d202c997198c11a3"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm056"
+    "code": "sm056",
+    "name": "Abaddon"
   },
   "sm057": {
     "variants": {
       "01": {
         "mods": [
           "afa7915779265b23cc8b96fdcdceb9bd"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm057"
+    "code": "sm057",
+    "name": "Olga"
   },
   "sm063": {
     "variants": {
       "01": {
         "mods": [
           "65cfdcc2d67b5abad74ff670e2fa2a5e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm063"
+    "code": "sm063",
+    "name": "Ampoule"
   },
   "sm077": {
     "variants": {
       "01": {
         "mods": [
           "2597232f990d701e61e4e99de7e9c2cd"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm077"
+    "code": "sm077",
+    "name": "Moa"
   },
   "sm141": {
     "variants": {
       "01": {
         "mods": [
           "28824339565eb3e09187426856dd9b2d"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm141"
+    "code": "sm141",
+    "name": "Halloween"
   },
   "sm142": {
     "variants": {
       "01": {
         "mods": [
           "bcd5532b2cb520c5ba26df80b5c0f02a"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm142"
+    "code": "sm142",
+    "name": "Revenge Girl"
   },
   "sm143": {
     "variants": {
       "01": {
         "mods": [
           "0c3d378a53e9df367123672207a9436b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm143"
+    "code": "sm143",
+    "name": "Revenge Girl"
   },
   "sm144": {
     "variants": {
       "01": {
         "mods": [
           "54c4f860c4fe94fa881710bef6350498"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm144"
+    "code": "sm144",
+    "name": "Revenge Girl"
   },
   "sm145": {
     "variants": {
       "01": {
         "mods": [
           "5c63494314a6a512d410c959a5d5ba11"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm145"
+    "code": "sm145",
+    "name": "Revenge Girl"
   },
   "sm148": {
     "variants": {
       "01": {
         "mods": [
           "89b2a133344f671f1cb2318f4a0d6f29"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm148"
+    "code": "sm148",
+    "name": "Won"
   },
   "sm150": {
     "variants": {
       "01": {
         "mods": [
           "1e94c7d6f6b529a5cb8728503bad14f9"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm150"
+    "code": "sm150",
+    "name": "Hat-Trick"
   },
   "sm151": {
     "variants": {
       "01": {
         "mods": [
           "3c0aac9c665eeeaa65de8c6423fc12bd"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm151"
+    "code": "sm151",
+    "name": "Arms"
   },
   "sm152": {
     "variants": {
       "01": {
         "mods": [
           "383720de9a056e3517cb9a8ec4cbd32f"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm152"
+    "code": "sm152",
+    "name": "Fighter"
   },
   "sm153": {
     "variants": {
       "01": {
         "mods": [
           "44a04f509475538cc7a5ea168045d626"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm153"
+    "code": "sm153",
+    "name": "Manti"
   },
   "sm154": {
     "variants": {
       "01": {
         "mods": [
           "470d431c3d94a4c36ce6ad1cc03a82a4"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm154"
+    "code": "sm154",
+    "name": "Gungnir"
   },
   "sm189": {
     "variants": {
       "01": {
         "mods": [
           "66796a12c87a49a92271c17f9e900759"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm189"
+    "code": "sm189",
+    "name": "Mimic"
   },
   "sm190": {
     "variants": {
       "01": {
         "mods": [
           "adef00d5b090f3fdf601d463d161d8bd"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm190"
+    "code": "sm190",
+    "name": "Boxer"
   },
   "sm191": {
     "variants": {
       "01": {
         "mods": [
           "7ccc5aac54084fd9ed8e0d65964e1765"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm191"
+    "code": "sm191",
+    "name": "Chimera"
   },
   "sm199": {
     "variants": {
       "01": {
         "mods": [
           "9e0450dff7ded76e5bc5d621614a487e"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm199"
+    "code": "sm199",
+    "name": "Azure Dragon"
   },
   "sm200": {
     "variants": {
       "01": {
         "mods": [
           "add2b545e7d23fcb5351330fa4ff53b3"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm200"
+    "code": "sm200",
+    "name": "Ankh"
   },
   "sm216": {
     "variants": {
       "01": {
         "mods": [
           "4183f9cda9a23d90ca9352b1fabe763b"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm216"
+    "code": "sm216",
+    "name": "Fairy"
   },
   "sm224": {
     "variants": {
@@ -29486,22 +30097,26 @@
       "01": {
         "mods": [
           "16880a62f6bd240392a20eaad018ae41"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm245"
+    "code": "sm245",
+    "name": "Creature"
   },
   "sm261": {
     "variants": {
       "01": {
         "mods": [
           "e100654e67d70a608fac934f2e1b38e8"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
     "numMods": 2,
-    "code": "sm261"
+    "code": "sm261",
+    "name": "Moa"
   },
   "v002": {
     "variants": {
@@ -29563,10 +30178,12 @@
       "01": {
         "mods": [
           "003c2576ff2dc52e65b53a693da83ae8"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
-    "numMods": 1
+    "numMods": 1,
+    "name": "Thetis"
   },
   "sc332": {
     "code": "sc332",
@@ -29574,10 +30191,12 @@
       "01": {
         "mods": [
           "8c87126f4e33bec823d7f0ab64cc9b8c"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
-    "numMods": 1
+    "numMods": 1,
+    "name": "Ganesha"
   },
   "sc367": {
     "code": "sc367",
@@ -29585,10 +30204,12 @@
       "01": {
         "mods": [
           "5645061f4791254cee389c1b311f13b5"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
-    "numMods": 1
+    "numMods": 1,
+    "name": "Davi"
   },
   "c367": {
     "code": "c367",
@@ -29598,14 +30219,16 @@
           "f5bdd56ac9e0692770f0b860a3d2432e",
           "3c42537f5ba0aa8af19d55f9265ae988",
           "3d1aa58fc7674ed5968b4c7f7f1465c9"
-        ]
+        ],
+        "title": "True Archfiend"
       },
       "89": {
         "mods": [
           "b22f17873e67166d6bddff9da7c48419",
           "5589da05046abafa73dc7d800aa5c4dd",
           "208e4c185de74c27bc93c2feba2c8cb9"
-        ]
+        ],
+        "title": "Archfiend"
       },
       "01": {
         "mods": [
@@ -29613,7 +30236,8 @@
           "f8aaa554594ebeb24fe328aea598819a",
           "48d4f4210ec632a92b7c6931deed2080",
           "9cda12077b14a37f01685084ed9269bd"
-        ]
+        ],
+        "title": "Archfiend"
       },
       "02": {
         "mods": [
@@ -29622,10 +30246,12 @@
           "df2b709eafe6603eb6a6978fd5d9c3b6",
           "19323cbe41f4b980036267bae22af152",
           "e9237bb31b2f2455c923bec3ced68f77"
-        ]
+        ],
+        "title": "True Archfiend"
       }
     },
-    "numMods": 11
+    "numMods": 11,
+    "name": "Davi"
   },
   "c373": {
     "code": "c373",
@@ -29633,15 +30259,18 @@
       "01": {
         "mods": [
           "7de4099ed792311dcc32fd35d4cdcd8c"
-        ]
+        ],
+        "title": "Ruffian"
       },
       "02": {
         "mods": [
           "69ed9c273c37193e3ce93bda6b05d19a"
-        ]
+        ],
+        "title": "Black-Winged Messenger"
       }
     },
-    "numMods": 1
+    "numMods": 1,
+    "name": "Midas"
   },
   "c383": {
     "code": "c383",
@@ -29649,21 +30278,25 @@
       "11": {
         "mods": [
           "cb81dac13babc24022f666aef453f1bb"
-        ]
+        ],
+        "title": "Cursed Doll"
       },
       "01": {
         "mods": [
           "cd8f40fe7b19c4cdd0974e60ab910d5b"
-        ]
+        ],
+        "title": "Resurrected"
       },
       "02": {
         "mods": [
           "4629c00f5a158ec27cbad6297ba90a8c",
           "4b6931b8de8fc06e8aa4582816a39e52"
-        ]
+        ],
+        "title": "Unleashed"
       }
     },
-    "numMods": 2
+    "numMods": 2,
+    "name": "Frej"
   },
   "c450": {
     "code": "c450",
@@ -29999,10 +30632,12 @@
       "01": {
         "mods": [
           "407d0ebb9fced845331010fbd29a7cbd"
-        ]
+        ],
+        "title": "Hot Spring"
       }
     },
-    "numMods": 1
+    "numMods": 1,
+    "name": "Midas"
   },
   "c992": {
     "code": "c992",
