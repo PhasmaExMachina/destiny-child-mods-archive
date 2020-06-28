@@ -472,7 +472,8 @@
         "is_voice": "0",
         "title": "Natsume",
         "mods": [
-          "d557fef595e6431108ed632661e89ce4"
+          "d557fef595e6431108ed632661e89ce4",
+          "41a437c65a4bc89d6a61cf35ac6da01e"
         ]
       },
       "01": {
@@ -530,7 +531,7 @@
     "image2": "http://i.imgur.com/vkg9mDG.png",
     "image3": "http://i.imgur.com/j8rP3sU.png",
     "imageSkin": null,
-    "numMods": 15
+    "numMods": 16
   },
   "c008": {
     "code": "c008",
@@ -2557,7 +2558,8 @@
         "title": "Ran",
         "mods": [
           "eadf381f848e018aa69d67c7f29c892c",
-          "1f986b905895a86a0f32ca5e0070cb1b"
+          "1f986b905895a86a0f32ca5e0070cb1b",
+          "5f725d052e1c35fff027e1e9792467df"
         ]
       }
     },
@@ -2580,7 +2582,7 @@
     "image2": "http://i.imgur.com/bf5WnNG.png",
     "image3": "http://i.imgur.com/OQGOz7S.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 13
   },
   "c048": {
     "code": "c048",
@@ -2598,7 +2600,8 @@
         "is_voice": "0",
         "title": "Mei",
         "mods": [
-          "a226181b04fb599aa73971834aa74d97"
+          "a226181b04fb599aa73971834aa74d97",
+          "a7032e7f298c987a48df00d5a367ea9e"
         ]
       },
       "01": {
@@ -2648,7 +2651,7 @@
     "image2": "http://i.imgur.com/J0QB1TM.png",
     "image3": "http://i.imgur.com/CWGyVq6.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 13
   },
   "c049": {
     "code": "c049",
@@ -2737,7 +2740,8 @@
         "is_voice": "0",
         "title": "",
         "mods": [
-          "2ac98dc7174c06eb6aaf90b31f56f26d"
+          "2ac98dc7174c06eb6aaf90b31f56f26d",
+          "54ff4622eada5f40f992271843b3ed37"
         ]
       }
     },
@@ -2760,7 +2764,7 @@
     "image2": "http://i.imgur.com/zykgjwm.png",
     "image3": "http://i.imgur.com/FnxXUk4.png",
     "imageSkin": "http://i.imgur.com/jocBD1I.png",
-    "numMods": 41
+    "numMods": 42
   },
   "c051": {
     "code": "c051",
@@ -2946,7 +2950,8 @@
         "is_voice": "0",
         "title": "Chie",
         "mods": [
-          "e8e99e7597780a2c33e97b433dec70cf"
+          "e8e99e7597780a2c33e97b433dec70cf",
+          "3e1979a87679943a12d1a09ae0a27644"
         ]
       },
       "01": {
@@ -2995,7 +3000,7 @@
     "image2": "http://i.imgur.com/N1JMFSR.png",
     "image3": "http://i.imgur.com/uVJoQe2.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 11
   },
   "c054": {
     "code": "c054",
@@ -3036,7 +3041,8 @@
         "title": "",
         "mods": [
           "01cc47ced854c5ef6c9f4d4eb0cd7188",
-          "64a79fc154d1d18d49a2dfefb48f7ec0"
+          "64a79fc154d1d18d49a2dfefb48f7ec0",
+          "33eddce23d86f5126466ef96ae78e71f"
         ]
       }
     },
@@ -3059,7 +3065,7 @@
     "image2": "http://i.imgur.com/AJlXEHz.png",
     "image3": "http://i.imgur.com/jy2HRmw.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 13
   },
   "c056": {
     "code": "c056",
@@ -3271,7 +3277,8 @@
         "is_voice": "0",
         "title": "Rurimi",
         "mods": [
-          "0e630d6b500012d558fe2849014c2321"
+          "0e630d6b500012d558fe2849014c2321",
+          "7f4d6b7a35281076a0c5eadac19cc32c"
         ]
       },
       "01": {
@@ -3323,7 +3330,7 @@
     "image2": "http://i.imgur.com/TeebGg9.png",
     "image3": "http://i.imgur.com/jWwbR0j.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "c061": {
     "code": "c061",
@@ -3366,7 +3373,8 @@
         "title": "Shion",
         "mods": [
           "c1e9ddb839e666a0cd87388de76c6a4c",
-          "4033ad84ac5e6926a00079ae22dd620c"
+          "4033ad84ac5e6926a00079ae22dd620c",
+          "29e115064d67921190985a98fc20702f"
         ]
       }
     },
@@ -3389,7 +3397,7 @@
     "image2": "http://i.imgur.com/gq4Nyye.png",
     "image3": "http://i.imgur.com/HoxdCbM.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 11
   },
   "c062": {
     "code": "c062",
@@ -3431,7 +3439,8 @@
         "title": "Atsuko",
         "mods": [
           "fa4ee6942630d3907cdf7d11310a28dd",
-          "fc00b3c3c21d993197235e23a910c78c"
+          "fc00b3c3c21d993197235e23a910c78c",
+          "3c2a0b5eb9a27a1e02d4889985a363e7"
         ]
       }
     },
@@ -3454,7 +3463,7 @@
     "image2": "http://i.imgur.com/MPM89P3.png",
     "image3": "http://i.imgur.com/gY4HoP9.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "c063": {
     "code": "c063",
@@ -3499,7 +3508,8 @@
         "title": "Akimi",
         "mods": [
           "f602760bf1fc9404c53fe11f4aa482b6",
-          "50534de89ab7248d3fc2aa0012c8b47b"
+          "50534de89ab7248d3fc2aa0012c8b47b",
+          "8f123c4025a5470ff487b18d9a9fe6e8"
         ]
       }
     },
@@ -3522,7 +3532,7 @@
     "image2": "http://i.imgur.com/iJxqFao.png",
     "image3": "http://i.imgur.com/BH0f5Qn.png",
     "imageSkin": null,
-    "numMods": 15
+    "numMods": 16
   },
   "c064": {
     "code": "c064",
@@ -3544,7 +3554,8 @@
         "view_idx": "c064_00",
         "is_voice": "0",
         "mods": [
-          "e07eb83a40cebae1c4a0882ef59936f3"
+          "e07eb83a40cebae1c4a0882ef59936f3",
+          "1899bb48a43215e91caeff754464e28d"
         ]
       },
       "01": {
@@ -3594,7 +3605,7 @@
     "image2": "http://i.imgur.com/Jo40oEZ.png",
     "image3": "http://i.imgur.com/rDnqrA7.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 14
   },
   "c065": {
     "code": "c065",
@@ -3607,7 +3618,8 @@
         "is_voice": "0",
         "title": "Amu",
         "mods": [
-          "3ccdf346874260ab4866ce070f6badb9"
+          "3ccdf346874260ab4866ce070f6badb9",
+          "59ea7bd0bf2fff7e78df1d48f3fef657"
         ]
       },
       "01": {
@@ -3657,7 +3669,7 @@
     "image2": "http://i.imgur.com/J4I3Eec.png",
     "image3": "http://i.imgur.com/tJneAYg.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 9
   },
   "c067": {
     "code": "c067",
@@ -3732,7 +3744,8 @@
         "is_voice": "0",
         "title": "Shiori",
         "mods": [
-          "c6d14c1cfe6c969ba92a31ec5ab49128"
+          "c6d14c1cfe6c969ba92a31ec5ab49128",
+          "6e04b78c0f11aa295b75b81d8fc8bf46"
         ]
       },
       "01": {
@@ -3782,7 +3795,7 @@
     "image2": "http://i.imgur.com/DR0VEOF.png",
     "image3": "http://i.imgur.com/nEKz9UW.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 10
   },
   "c069": {
     "code": "c069",
@@ -3852,7 +3865,8 @@
         "view_idx": "c070_00",
         "is_voice": "0",
         "mods": [
-          "770b1f2cea3adcca91c2ad019ad8174b"
+          "770b1f2cea3adcca91c2ad019ad8174b",
+          "c3a4bdf510ccee6f543a35b5d907658c"
         ]
       },
       "01": {
@@ -3895,7 +3909,7 @@
     "image2": "http://i.imgur.com/DauM5k1.png",
     "image3": "http://i.imgur.com/cLWKGZL.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 7
   },
   "c072": {
     "code": "c072",
@@ -4050,7 +4064,8 @@
         "title": "Yoshiko",
         "mods": [
           "8c58014a93596f0edcd698452f2508db",
-          "e009d1a3dce97668955bda81b15cb892"
+          "e009d1a3dce97668955bda81b15cb892",
+          "5a535758cde4b476a1f80926c882e41d"
         ]
       }
     },
@@ -4073,7 +4088,7 @@
     "image2": "http://i.imgur.com/4IoEAqP.png",
     "image3": "http://i.imgur.com/Sgy9G64.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 11
   },
   "c081": {
     "code": "c081",
@@ -4085,7 +4100,8 @@
         "view_idx": "c081_00",
         "is_voice": "0",
         "mods": [
-          "e1ccd0d6e67f7838c34db33524aa788d"
+          "e1ccd0d6e67f7838c34db33524aa788d",
+          "7eba353135c970be331b9007940741af"
         ]
       },
       "01": {
@@ -4129,7 +4145,7 @@
     "image2": "http://i.imgur.com/U8kp86h.png",
     "image3": "http://i.imgur.com/KsazRC2.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 8
   },
   "c082": {
     "code": "c082",
@@ -4204,7 +4220,9 @@
         "is_voice": "0",
         "title": "Rei",
         "mods": [
-          "b88c2159d005f15cf2b23c28f60e523c"
+          "b88c2159d005f15cf2b23c28f60e523c",
+          "3476d0c90467eba2ccd31721bf0a7d22",
+          "e9ac3c4fb182a70ee317b7bb6a21dfa5"
         ]
       },
       "01": {
@@ -4254,7 +4272,7 @@
     "image2": "http://i.imgur.com/BsX2bxF.png",
     "image3": "http://i.imgur.com/mgetVsB.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 12
   },
   "c085": {
     "code": "c085",
@@ -10095,7 +10113,8 @@
         "title": "",
         "mods": [
           "427caf59ecdf4cc1f47881dbbf0eecd3",
-          "32742a7da9678d1df62944605d81d99c"
+          "32742a7da9678d1df62944605d81d99c",
+          "a5aefbeb8c449fce315f48406771c983"
         ]
       }
     },
@@ -10118,7 +10137,7 @@
     "image2": "http://i.imgur.com/HoAnFww.png",
     "image3": "http://i.imgur.com/Du7A6n0.png",
     "imageSkin": null,
-    "numMods": 15
+    "numMods": 16
   },
   "c066": {
     "code": "c066",
@@ -25120,7 +25139,8 @@
       },
       "00": {
         "mods": [
-          "10e6d043776c0e4cd707ed0aebdfcbd4"
+          "10e6d043776c0e4cd707ed0aebdfcbd4",
+          "d5ce040ba1c97a800b5ea58ae6da78fe"
         ]
       },
       "01": {
@@ -25129,7 +25149,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 7,
     "code": "c075"
   },
   "c087": {
