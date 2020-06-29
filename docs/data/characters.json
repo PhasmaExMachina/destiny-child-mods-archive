@@ -67,7 +67,7 @@
     },
     "name": "Master",
     "id": "10100001",
-    "numMods": 31
+    "numMods": 14
   },
   "c001": {
     "code": "c001",
@@ -190,7 +190,7 @@
     "image2": "http://i.imgur.com/F8scK2m.png",
     "image3": "http://i.imgur.com/68iIOB3.png",
     "imageSkin": "http://i.imgur.com/R6UTtqc.png",
-    "numMods": 44
+    "numMods": 30
   },
   "c002": {
     "code": "c002",
@@ -290,7 +290,7 @@
     "image2": "http://i.imgur.com/UEywhqp.png",
     "image3": "http://i.imgur.com/fb0RCnk.png",
     "imageSkin": "http://i.imgur.com/6qAuuJG.png",
-    "numMods": 25
+    "numMods": 15
   },
   "c003": {
     "code": "c003",
@@ -465,7 +465,7 @@
     "image2": "http://i.imgur.com/urR0MnE.png",
     "image3": "http://i.imgur.com/5PqDuVh.png",
     "imageSkin": "http://i.imgur.com/laFOqxq.png",
-    "numMods": 52
+    "numMods": 41
   },
   "c005": {
     "code": "c005",
@@ -537,7 +537,7 @@
     "image2": "http://i.imgur.com/vkg9mDG.png",
     "image3": "http://i.imgur.com/j8rP3sU.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 17
   },
   "c008": {
     "code": "c008",
@@ -603,7 +603,7 @@
     "image2": "http://i.imgur.com/AuESHzB.png",
     "image3": "http://i.imgur.com/am3Lp3m.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 11
   },
   "c009": {
     "code": "c009",
@@ -661,7 +661,7 @@
     "image2": "http://i.imgur.com/nwb4dgN.png",
     "image3": "http://i.imgur.com/rp8hQ0Y.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c010": {
     "code": "c010",
@@ -730,7 +730,7 @@
     "image2": "http://i.imgur.com/HuQxv3Z.png",
     "image3": "http://i.imgur.com/4a3eMvf.png",
     "imageSkin": null,
-    "numMods": 17
+    "numMods": 14
   },
   "c011": {
     "code": "c011",
@@ -793,7 +793,7 @@
     "image2": "http://i.imgur.com/8tJNvjq.png",
     "image3": "http://i.imgur.com/qgzhNit.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 8
   },
   "c013": {
     "code": "c013",
@@ -866,7 +866,7 @@
     "image2": "http://i.imgur.com/WEGRRNy.png",
     "image3": "http://i.imgur.com/E9x11Kq.png",
     "imageSkin": null,
-    "numMods": 20
+    "numMods": 18
   },
   "c014": {
     "code": "c014",
@@ -931,7 +931,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c017": {
     "code": "c017",
@@ -994,7 +994,7 @@
     "image2": "http://i.imgur.com/4f01sQp.png",
     "image3": "http://i.imgur.com/FjYvG5f.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 8
   },
   "c018": {
     "code": "c018",
@@ -1055,7 +1055,7 @@
     "image2": "http://i.imgur.com/fQtWdPu.png",
     "image3": "http://i.imgur.com/uk65R1S.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c019": {
     "code": "c019",
@@ -1118,7 +1118,7 @@
     "image2": "http://i.imgur.com/MIOUtiO.png",
     "image3": "http://i.imgur.com/Gpx1x9b.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 8
   },
   "c020": {
     "code": "c020",
@@ -1185,7 +1185,7 @@
     "image2": "http://i.imgur.com/JM97pV7.png",
     "image3": "http://i.imgur.com/mWco1pF.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 12
   },
   "c022": {
     "code": "c022",
@@ -1260,7 +1260,7 @@
     "image2": "http://i.imgur.com/4oIROUK.png",
     "image3": "http://i.imgur.com/khbikFl.png",
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 11
   },
   "c024": {
     "code": "c024",
@@ -1301,7 +1301,7 @@
     },
     "name": "Rufus",
     "id": "10100020",
-    "numMods": 6
+    "numMods": 3
   },
   "c026": {
     "code": "c026",
@@ -1365,7 +1365,7 @@
     "image2": "http://i.imgur.com/H6QAvXJ.png",
     "image3": "http://i.imgur.com/kyk6Wwj.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 9
   },
   "c027": {
     "code": "c027",
@@ -1425,7 +1425,7 @@
     "image2": "http://i.imgur.com/xc9cr4N.png",
     "image3": "http://i.imgur.com/PaEFBjB.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c028": {
     "code": "c028",
@@ -1502,7 +1502,7 @@
     "image2": "http://i.imgur.com/26LIieW.png",
     "image3": "http://i.imgur.com/6NHdRPN.png",
     "imageSkin": "http://i.imgur.com/sQMwWpp.png",
-    "numMods": 16
+    "numMods": 12
   },
   "c029": {
     "code": "c029",
@@ -1579,7 +1579,7 @@
     "image2": "http://i.imgur.com/RGY6DiC.png",
     "image3": "http://i.imgur.com/wtR1OVH.png",
     "imageSkin": null,
-    "numMods": 25
+    "numMods": 22
   },
   "c030": {
     "code": "c030",
@@ -1642,7 +1642,7 @@
     "image2": "http://i.imgur.com/vX50Ph4.png",
     "image3": "http://i.imgur.com/eDliYf8.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c031": {
     "code": "c031",
@@ -1708,7 +1708,7 @@
     "image2": "http://i.imgur.com/ht9ocCA.png",
     "image3": "http://i.imgur.com/VqDLz1t.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 11
   },
   "c032": {
     "code": "c032",
@@ -1768,7 +1768,7 @@
     "image2": "http://i.imgur.com/y3OWwxc.png",
     "image3": "http://i.imgur.com/qwAFxRK.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 5
   },
   "c033": {
     "code": "c033",
@@ -1829,7 +1829,7 @@
     "image2": "http://i.imgur.com/yB8Iqo3.png",
     "image3": "http://i.imgur.com/1rb8qlj.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c034": {
     "code": "c034",
@@ -1896,7 +1896,7 @@
     "image2": "http://i.imgur.com/oVFDhcA.png",
     "image3": "http://i.imgur.com/pcengq4.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 12
   },
   "c035": {
     "code": "c035",
@@ -1955,7 +1955,7 @@
     "image2": "http://i.imgur.com/th0UDgp.png",
     "image3": "http://i.imgur.com/mGu4zEl.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 4
   },
   "c036": {
     "code": "c036",
@@ -2035,7 +2035,7 @@
     "image2": "http://i.imgur.com/30s3cnt.png",
     "image3": "http://i.imgur.com/IiUsHXf.png",
     "imageSkin": "http://i.imgur.com/RvzgHvv.png",
-    "numMods": 17
+    "numMods": 16
   },
   "c038": {
     "code": "c038",
@@ -2121,7 +2121,7 @@
     "image2": "http://i.imgur.com/5BnBC5o.png",
     "image3": "http://i.imgur.com/HSTnMUk.png",
     "imageSkin": "http://i.imgur.com/cHkAmEA.png",
-    "numMods": 23
+    "numMods": 22
   },
   "c039": {
     "code": "c039",
@@ -2187,7 +2187,7 @@
     "image2": "http://i.imgur.com/Yma6HV7.png",
     "image3": "http://i.imgur.com/4mIJe7E.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 11
   },
   "c040": {
     "code": "c040",
@@ -2251,7 +2251,7 @@
     "image2": "http://i.imgur.com/9HomDEy.png",
     "image3": "http://i.imgur.com/2XqlWLU.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 10
   },
   "c043": {
     "code": "c043",
@@ -2328,7 +2328,7 @@
     "image2": "http://i.imgur.com/jv3eJI4.png",
     "image3": "http://i.imgur.com/UUX4CCm.png",
     "imageSkin": "http://i.imgur.com/S5XcZrj.png",
-    "numMods": 12
+    "numMods": 14
   },
   "c044": {
     "code": "c044",
@@ -2524,7 +2524,7 @@
     "image2": "http://i.imgur.com/fIJzBEm.png",
     "image3": "http://i.imgur.com/y3EtHan.png",
     "imageSkin": "http://i.imgur.com/FtWnEtc.png",
-    "numMods": 38
+    "numMods": 31
   },
   "c047": {
     "code": "c047",
@@ -2591,7 +2591,7 @@
     "image2": "http://i.imgur.com/bf5WnNG.png",
     "image3": "http://i.imgur.com/OQGOz7S.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 12
   },
   "c048": {
     "code": "c048",
@@ -2660,7 +2660,7 @@
     "image2": "http://i.imgur.com/J0QB1TM.png",
     "image3": "http://i.imgur.com/CWGyVq6.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c049": {
     "code": "c049",
@@ -2773,7 +2773,7 @@
     "image2": "http://i.imgur.com/zykgjwm.png",
     "image3": "http://i.imgur.com/FnxXUk4.png",
     "imageSkin": "http://i.imgur.com/jocBD1I.png",
-    "numMods": 42
+    "numMods": 48
   },
   "c051": {
     "code": "c051",
@@ -2888,7 +2888,7 @@
     "image2": "http://i.imgur.com/gOIu5iy.png",
     "image3": "http://i.imgur.com/7EIGpqT.png",
     "imageSkin": null,
-    "numMods": 28
+    "numMods": 19
   },
   "c052": {
     "code": "c052",
@@ -2946,7 +2946,7 @@
     "image2": "http://i.imgur.com/EwSrweL.png",
     "image3": "http://i.imgur.com/ghheF4G.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c053": {
     "code": "c053",
@@ -3009,7 +3009,7 @@
     "image2": "http://i.imgur.com/N1JMFSR.png",
     "image3": "http://i.imgur.com/uVJoQe2.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c054": {
     "code": "c054",
@@ -3074,7 +3074,7 @@
     "image2": "http://i.imgur.com/AJlXEHz.png",
     "image3": "http://i.imgur.com/jy2HRmw.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c056": {
     "code": "c056",
@@ -3136,7 +3136,7 @@
     "image2": "http://i.imgur.com/XHmhm0Q.png",
     "image3": "http://i.imgur.com/2IE5IXa.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 7
   },
   "c057": {
     "code": "c057",
@@ -3206,7 +3206,7 @@
     "image2": "http://i.imgur.com/NG2TKoS.png",
     "image3": "http://i.imgur.com/nWuikcs.png",
     "imageSkin": null,
-    "numMods": 17
+    "numMods": 15
   },
   "c058": {
     "code": "c058",
@@ -3339,7 +3339,7 @@
     "image2": "http://i.imgur.com/TeebGg9.png",
     "image3": "http://i.imgur.com/jWwbR0j.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 11
   },
   "c061": {
     "code": "c061",
@@ -3406,7 +3406,7 @@
     "image2": "http://i.imgur.com/gq4Nyye.png",
     "image3": "http://i.imgur.com/HoxdCbM.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "c062": {
     "code": "c062",
@@ -3472,7 +3472,7 @@
     "image2": "http://i.imgur.com/MPM89P3.png",
     "image3": "http://i.imgur.com/gY4HoP9.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 11
   },
   "c063": {
     "code": "c063",
@@ -3541,7 +3541,7 @@
     "image2": "http://i.imgur.com/iJxqFao.png",
     "image3": "http://i.imgur.com/BH0f5Qn.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 14
   },
   "c064": {
     "code": "c064",
@@ -3614,7 +3614,7 @@
     "image2": "http://i.imgur.com/Jo40oEZ.png",
     "image3": "http://i.imgur.com/rDnqrA7.png",
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 13
   },
   "c065": {
     "code": "c065",
@@ -3740,7 +3740,7 @@
     "image2": "http://i.imgur.com/0NFL5UD.png",
     "image3": "http://i.imgur.com/oEejR0w.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c068": {
     "code": "c068",
@@ -3804,7 +3804,7 @@
     "image2": "http://i.imgur.com/DR0VEOF.png",
     "image3": "http://i.imgur.com/nEKz9UW.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 9
   },
   "c069": {
     "code": "c069",
@@ -3862,7 +3862,7 @@
     "image2": "http://i.imgur.com/D2A43Ce.png",
     "image3": "http://i.imgur.com/PkMMRmZ.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c070": {
     "code": "c070",
@@ -3918,7 +3918,7 @@
     "image2": "http://i.imgur.com/DauM5k1.png",
     "image3": "http://i.imgur.com/cLWKGZL.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c072": {
     "code": "c072",
@@ -3981,7 +3981,7 @@
     "image2": "http://i.imgur.com/f19sohY.png",
     "image3": "http://i.imgur.com/t7MAsVF.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c073": {
     "code": "c073",
@@ -4032,7 +4032,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c074": {
     "code": "c074",
@@ -4097,7 +4097,7 @@
     "image2": "http://i.imgur.com/4IoEAqP.png",
     "image3": "http://i.imgur.com/Sgy9G64.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 10
   },
   "c081": {
     "code": "c081",
@@ -4154,7 +4154,7 @@
     "image2": "http://i.imgur.com/U8kp86h.png",
     "image3": "http://i.imgur.com/KsazRC2.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c082": {
     "code": "c082",
@@ -4216,7 +4216,7 @@
     "image2": "http://i.imgur.com/zx3CEF8.png",
     "image3": "http://i.imgur.com/agG0188.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c083": {
     "code": "c083",
@@ -4281,7 +4281,7 @@
     "image2": "http://i.imgur.com/BsX2bxF.png",
     "image3": "http://i.imgur.com/mgetVsB.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 10
   },
   "c085": {
     "code": "c085",
@@ -4336,7 +4336,7 @@
     "image2": "http://i.imgur.com/MNGrlDx.png",
     "image3": "http://i.imgur.com/PDJs4Tx.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c086": {
     "code": "c086",
@@ -4403,7 +4403,7 @@
     "image2": "http://i.imgur.com/qanINxK.png",
     "image3": "http://i.imgur.com/pNWGnwb.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 12
   },
   "c091": {
     "code": "c091",
@@ -4464,7 +4464,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c095": {
     "code": "c095",
@@ -4528,7 +4528,7 @@
     "image2": "http://i.imgur.com/yNIrqLV.png",
     "image3": "http://i.imgur.com/saX4nON.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 9
   },
   "c099": {
     "code": "c099",
@@ -4596,7 +4596,7 @@
     "image2": "http://i.imgur.com/QPcD9Oe.png",
     "image3": "http://i.imgur.com/GMONEIo.png",
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 13
   },
   "c101": {
     "code": "c101",
@@ -4719,7 +4719,7 @@
     "image2": "http://i.imgur.com/TMChulC.png",
     "image3": "http://i.imgur.com/g09YVir.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 5
   },
   "c107": {
     "code": "c107",
@@ -4784,7 +4784,7 @@
     "image2": "http://i.imgur.com/C41J4r0.png",
     "image3": "http://i.imgur.com/SLb7h5P.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c112": {
     "code": "c112",
@@ -4842,7 +4842,7 @@
     "image2": "http://i.imgur.com/THZLxeO.png",
     "image3": "http://i.imgur.com/jw4njHt.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c115": {
     "code": "c115",
@@ -4904,7 +4904,7 @@
     "image2": "http://i.imgur.com/O1Vyx3t.png",
     "image3": "http://i.imgur.com/Z2tmCaj.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c117": {
     "code": "c117",
@@ -4964,7 +4964,7 @@
     "image2": "http://i.imgur.com/a7K7spv.png",
     "image3": "http://i.imgur.com/7l9V9Qq.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 5
   },
   "c120": {
     "code": "c120",
@@ -5024,7 +5024,7 @@
     "image2": "http://i.imgur.com/c34WakB.png",
     "image3": "http://i.imgur.com/zYByHIp.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c121": {
     "code": "c121",
@@ -5082,7 +5082,7 @@
     "image2": "http://i.imgur.com/meAdilZ.png",
     "image3": "http://i.imgur.com/hhbR4QV.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c123": {
     "code": "c123",
@@ -5145,7 +5145,7 @@
     "image2": "http://i.imgur.com/W4oEacl.png",
     "image3": "http://i.imgur.com/0qCxJLf.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c124": {
     "code": "c124",
@@ -5252,7 +5252,7 @@
     "image2": "http://i.imgur.com/cVX2Zfj.png",
     "image3": "http://i.imgur.com/smvbYBS.png",
     "imageSkin": "http://i.imgur.com/8OXSO1P.png",
-    "numMods": 26
+    "numMods": 24
   },
   "c126": {
     "code": "c126",
@@ -5311,7 +5311,7 @@
     "image2": "http://i.imgur.com/vptssS6.png",
     "image3": "http://i.imgur.com/NndOcLl.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c127": {
     "code": "c127",
@@ -5393,7 +5393,7 @@
     "image2": "http://i.imgur.com/a5EUIz0.png",
     "image3": "http://i.imgur.com/0ZJupLF.png",
     "imageSkin": "http://i.imgur.com/qCb6WlE.png",
-    "numMods": 14
+    "numMods": 17
   },
   "c130": {
     "code": "c130",
@@ -5454,7 +5454,7 @@
     "image2": "http://i.imgur.com/ZDL6lDf.png",
     "image3": "http://i.imgur.com/BtYnDdd.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c135": {
     "code": "c135",
@@ -5513,7 +5513,7 @@
     "image2": "http://i.imgur.com/8EuaraU.png",
     "image3": "http://i.imgur.com/6cw9Otd.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c139": {
     "code": "c139",
@@ -5576,7 +5576,7 @@
     "image2": "http://i.imgur.com/eNuWkoU.png",
     "image3": "http://i.imgur.com/841q8pT.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 8
   },
   "c141": {
     "code": "c141",
@@ -5637,7 +5637,7 @@
     "image2": "http://i.imgur.com/u3IqSWG.png",
     "image3": "http://i.imgur.com/chzmuun.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c142": {
     "code": "c142",
@@ -5698,7 +5698,7 @@
     "image2": "http://i.imgur.com/dcntcI3.png",
     "image3": "http://i.imgur.com/cU4EIMz.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 7
   },
   "c144": {
     "code": "c144",
@@ -5755,7 +5755,7 @@
     "image2": "http://i.imgur.com/WlhNcpZ.png",
     "image3": "http://i.imgur.com/F0uVH1a.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c149": {
     "code": "c149",
@@ -5822,7 +5822,7 @@
     "image2": "http://i.imgur.com/ylw7P4X.png",
     "image3": "http://i.imgur.com/uS0CTpH.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 12
   },
   "c153": {
     "code": "c153",
@@ -5886,7 +5886,7 @@
     "image2": "http://i.imgur.com/n8XlEKW.png",
     "image3": "http://i.imgur.com/1w7itvt.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 9
   },
   "c154": {
     "code": "c154",
@@ -5946,7 +5946,7 @@
     "image2": "http://i.imgur.com/TwIbZ4F.png",
     "image3": "http://i.imgur.com/cliM79p.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c156": {
     "code": "c156",
@@ -6012,7 +6012,7 @@
     "image2": "http://i.imgur.com/dqzAKIz.png",
     "image3": "http://i.imgur.com/IiyUm7C.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 11
   },
   "c158": {
     "code": "c158",
@@ -6089,7 +6089,7 @@
     "image2": "http://i.imgur.com/zEBzXzZ.png",
     "image3": "http://i.imgur.com/c0KnLuf.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 12
   },
   "c159": {
     "code": "c159",
@@ -6147,7 +6147,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 6
   },
   "c160": {
     "code": "c160",
@@ -6206,7 +6206,7 @@
     "image2": "http://i.imgur.com/RK8XnkB.png",
     "image3": "http://i.imgur.com/y1EMCnV.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c164": {
     "code": "c164",
@@ -6271,7 +6271,7 @@
     "image2": "http://i.imgur.com/Zr0BKqR.png",
     "image3": "http://i.imgur.com/eCSsuMl.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 10
   },
   "c167": {
     "code": "c167",
@@ -6429,7 +6429,7 @@
     "image2": "http://i.imgur.com/4UukMLS.png",
     "image3": "http://i.imgur.com/iRjpesu.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c173": {
     "code": "c173",
@@ -6511,7 +6511,7 @@
     "image2": "http://i.imgur.com/01sb4G2.png",
     "image3": "http://i.imgur.com/IgUosSc.png",
     "imageSkin": "http://i.imgur.com/f8cd3zk.png",
-    "numMods": 16
+    "numMods": 17
   },
   "c174": {
     "code": "c174",
@@ -6616,7 +6616,7 @@
     "image2": "http://i.imgur.com/jkj9ixR.png",
     "image3": "http://i.imgur.com/LQYY38r.png",
     "imageSkin": null,
-    "numMods": 25
+    "numMods": 22
   },
   "c175": {
     "code": "c175",
@@ -6674,7 +6674,7 @@
     "image2": "http://i.imgur.com/LKgi0QS.png",
     "image3": "http://i.imgur.com/B4FmoWW.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c176": {
     "code": "c176",
@@ -6727,7 +6727,7 @@
     "image2": "http://i.imgur.com/PIGyU9f.png",
     "image3": "http://i.imgur.com/HsfVqzt.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 8
   },
   "c180": {
     "code": "c180",
@@ -6937,7 +6937,7 @@
     "image2": "http://i.imgur.com/Jdj9kiO.png",
     "image3": "http://i.imgur.com/eKC4a2a.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 9
   },
   "c189": {
     "code": "c189",
@@ -6999,7 +6999,7 @@
     "image2": "http://i.imgur.com/RpnlSv2.png",
     "image3": "http://i.imgur.com/nQiYBpk.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c191": {
     "code": "c191",
@@ -7060,7 +7060,7 @@
     "image2": "http://i.imgur.com/dTDfvRk.png",
     "image3": "http://i.imgur.com/aatpg4P.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c193": {
     "code": "c193",
@@ -7109,7 +7109,7 @@
     },
     "name": "Virupa",
     "id": "10100130",
-    "numMods": 13
+    "numMods": 9
   },
   "c199": {
     "code": "c199",
@@ -7184,7 +7184,7 @@
     "image2": "http://i.imgur.com/TvqRcQ3.png",
     "image3": "http://i.imgur.com/6comSwO.png",
     "imageSkin": "http://i.imgur.com/cveYxCA.png",
-    "numMods": 15
+    "numMods": 11
   },
   "c202": {
     "code": "c202",
@@ -7250,7 +7250,7 @@
     "image2": "http://i.imgur.com/ofu9Ud7.png",
     "image3": "http://i.imgur.com/1xEpkt1.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 11
   },
   "c208": {
     "code": "c208",
@@ -7309,7 +7309,7 @@
     "image2": "http://i.imgur.com/rJYvylw.png",
     "image3": "http://i.imgur.com/IKtvjNk.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c007": {
     "code": "c007",
@@ -7367,7 +7367,7 @@
     "image2": "http://i.imgur.com/EJdg6ZJ.png",
     "image3": "http://i.imgur.com/KibHSxv.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 3
   },
   "c209": {
     "code": "c209",
@@ -7436,7 +7436,7 @@
     "image2": "http://i.imgur.com/PWEschV.png",
     "image3": "http://i.imgur.com/cvlPc7j.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c214": {
     "code": "c214",
@@ -7515,7 +7515,7 @@
     "image2": "http://i.imgur.com/vQzO4tH.png",
     "image3": "http://i.imgur.com/G6Z3Kax.png",
     "imageSkin": "http://i.imgur.com/k5sDgtH.png",
-    "numMods": 17
+    "numMods": 14
   },
   "c004": {
     "code": "c004",
@@ -7574,7 +7574,7 @@
     "image2": "http://i.imgur.com/tqPf3YY.png",
     "image3": "http://i.imgur.com/nJTdxit.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c223": {
     "code": "c223",
@@ -7635,7 +7635,7 @@
     "image2": "http://i.imgur.com/vSRQiEU.png",
     "image3": "http://i.imgur.com/YtTqapS.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 9
   },
   "c224": {
     "code": "c224",
@@ -7665,7 +7665,7 @@
     },
     "name": "Loki",
     "id": "10100140",
-    "numMods": 7
+    "numMods": 4
   },
   "m001": {
     "code": "m001",
@@ -7695,7 +7695,7 @@
     },
     "name": "Fire Bat",
     "id": "10100141",
-    "numMods": 4
+    "numMods": 2
   },
   "m002": {
     "code": "m002",
@@ -7725,7 +7725,7 @@
     },
     "name": "Ice Bat",
     "id": "10100142",
-    "numMods": 4
+    "numMods": 2
   },
   "m003": {
     "code": "m003",
@@ -7772,7 +7772,7 @@
     "image2": "http://i.imgur.com/lOUEjSs.png",
     "image3": "http://i.imgur.com/uYyPM8I.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m004": {
     "code": "m004",
@@ -7819,7 +7819,7 @@
     "image2": "http://i.imgur.com/ibCMxEi.png",
     "image3": "http://i.imgur.com/B48oubJ.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m005": {
     "code": "m005",
@@ -7849,7 +7849,7 @@
     },
     "name": "YumNyam",
     "id": "10100145",
-    "numMods": 4
+    "numMods": 2
   },
   "m006": {
     "code": "m006",
@@ -7879,7 +7879,7 @@
     },
     "name": "Long-Ears",
     "id": "10100146",
-    "numMods": 4
+    "numMods": 2
   },
   "m007": {
     "code": "m007",
@@ -7937,7 +7937,7 @@
     "image2": "http://i.imgur.com/sSb0CiV.png",
     "image3": "http://i.imgur.com/hq9Dhwr.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m008": {
     "code": "m008",
@@ -7967,7 +7967,7 @@
     },
     "name": "Gelatin",
     "id": "10100148",
-    "numMods": 4
+    "numMods": 2
   },
   "m009": {
     "code": "m009",
@@ -7997,7 +7997,7 @@
     },
     "name": "Gelatin",
     "id": "10100149",
-    "numMods": 4
+    "numMods": 2
   },
   "m010": {
     "code": "m010",
@@ -8027,7 +8027,7 @@
     },
     "name": "Pudding",
     "id": "10100150",
-    "numMods": 4
+    "numMods": 2
   },
   "m011": {
     "code": "m011",
@@ -8057,7 +8057,7 @@
     },
     "name": "Pudding",
     "id": "10100151",
-    "numMods": 4
+    "numMods": 2
   },
   "m012": {
     "code": "m012",
@@ -8087,7 +8087,7 @@
     },
     "name": "Dondon",
     "id": "10100152",
-    "numMods": 4
+    "numMods": 2
   },
   "m013": {
     "code": "m013",
@@ -8117,7 +8117,7 @@
     },
     "name": "Ragdoll",
     "id": "10100153",
-    "numMods": 4
+    "numMods": 2
   },
   "m015": {
     "code": "m015",
@@ -8147,7 +8147,7 @@
     },
     "name": "Sandfox",
     "id": "10100155",
-    "numMods": 4
+    "numMods": 2
   },
   "m017": {
     "code": "m017",
@@ -8177,7 +8177,7 @@
     },
     "name": "Root",
     "id": "10100156",
-    "numMods": 4
+    "numMods": 2
   },
   "m018": {
     "code": "m018",
@@ -8207,7 +8207,7 @@
     },
     "name": "Pom",
     "id": "10100157",
-    "numMods": 4
+    "numMods": 2
   },
   "m021": {
     "code": "m021",
@@ -8237,7 +8237,7 @@
     },
     "name": "Donkey",
     "id": "10100158",
-    "numMods": 4
+    "numMods": 2
   },
   "m022": {
     "code": "m022",
@@ -8267,7 +8267,7 @@
     },
     "name": "Puppy",
     "id": "10100159",
-    "numMods": 4
+    "numMods": 2
   },
   "m023": {
     "code": "m023",
@@ -8297,7 +8297,7 @@
     },
     "name": "Lizard",
     "id": "10100160",
-    "numMods": 4
+    "numMods": 2
   },
   "m025": {
     "code": "m025",
@@ -8327,7 +8327,7 @@
     },
     "name": "Berry",
     "id": "10100161",
-    "numMods": 4
+    "numMods": 2
   },
   "m026": {
     "code": "m026",
@@ -8357,7 +8357,7 @@
     },
     "name": "Chick",
     "id": "10100162",
-    "numMods": 4
+    "numMods": 2
   },
   "m027": {
     "code": "m027",
@@ -8387,7 +8387,7 @@
     },
     "name": "Mandrake Seeds",
     "id": "10100163",
-    "numMods": 4
+    "numMods": 2
   },
   "m028": {
     "code": "m028",
@@ -8417,7 +8417,7 @@
     },
     "name": "Squirrel",
     "id": "10100164",
-    "numMods": 4
+    "numMods": 2
   },
   "m029": {
     "code": "m029",
@@ -8447,7 +8447,7 @@
     },
     "name": "Tooth",
     "id": "10100165",
-    "numMods": 4
+    "numMods": 2
   },
   "m031": {
     "code": "m031",
@@ -8477,7 +8477,7 @@
     },
     "name": "Tree",
     "id": "10100166",
-    "numMods": 4
+    "numMods": 2
   },
   "m035": {
     "code": "m035",
@@ -8507,7 +8507,7 @@
     },
     "name": "Gremlin",
     "id": "10100167",
-    "numMods": 4
+    "numMods": 2
   },
   "m036": {
     "code": "m036",
@@ -8554,7 +8554,7 @@
     "image2": "http://i.imgur.com/3VkSECR.png",
     "image3": "http://i.imgur.com/3r2KJdN.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m037": {
     "code": "m037",
@@ -8601,7 +8601,7 @@
     "image2": "http://i.imgur.com/tZ86PkA.png",
     "image3": "http://i.imgur.com/R7sqTJg.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m038": {
     "code": "m038",
@@ -8688,7 +8688,7 @@
     "image2": "http://i.imgur.com/bTlh9dT.png",
     "image3": "http://i.imgur.com/N3VyUhI.png",
     "imageSkin": "http://i.imgur.com/c2xQEGG.png",
-    "numMods": 19
+    "numMods": 14
   },
   "m039": {
     "code": "m039",
@@ -8735,7 +8735,7 @@
     "image2": "http://i.imgur.com/AEpWUyv.png",
     "image3": "http://i.imgur.com/L0gBUz2.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m040": {
     "code": "m040",
@@ -8792,7 +8792,7 @@
     "image2": "http://i.imgur.com/RTmHLVM.png",
     "image3": "http://i.imgur.com/8di3eyE.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m045": {
     "code": "m045",
@@ -8852,7 +8852,7 @@
     "image2": "http://i.imgur.com/5TSwgDt.png",
     "image3": "http://i.imgur.com/yPZNcMG.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "m047": {
     "code": "m047",
@@ -8882,7 +8882,7 @@
     },
     "name": "Egg",
     "id": "10100174",
-    "numMods": 4
+    "numMods": 2
   },
   "m048": {
     "code": "m048",
@@ -8913,7 +8913,7 @@
     },
     "name": "Bunny",
     "id": "10100175",
-    "numMods": 5
+    "numMods": 3
   },
   "m049": {
     "code": "m049",
@@ -8971,7 +8971,7 @@
     "image2": "http://i.imgur.com/w3eXcEs.png",
     "image3": "http://i.imgur.com/HcOVE29.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m050": {
     "code": "m050",
@@ -9029,7 +9029,7 @@
     "image2": "http://i.imgur.com/wJ1F4CF.png",
     "image3": "http://i.imgur.com/VULaTRz.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m051": {
     "code": "m051",
@@ -9105,7 +9105,7 @@
     "image2": "http://i.imgur.com/aHfNWab.png",
     "image3": "http://i.imgur.com/kI6URqP.png",
     "imageSkin": "http://i.imgur.com/09NRTIe.png",
-    "numMods": 15
+    "numMods": 11
   },
   "m052": {
     "code": "m052",
@@ -9152,7 +9152,7 @@
     "image2": "http://i.imgur.com/rRsefik.png",
     "image3": "http://i.imgur.com/D0ed6xJ.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m053": {
     "code": "m053",
@@ -9210,7 +9210,7 @@
     "image2": "https://i.imgur.com/JFd4wbO.png",
     "image3": "https://i.imgur.com/B7bK9ru.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m054": {
     "code": "m054",
@@ -9270,7 +9270,7 @@
     "image2": "http://i.imgur.com/IFd6IC8.png",
     "image3": "http://i.imgur.com/kVus4S5.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "m056": {
     "code": "m056",
@@ -9336,7 +9336,7 @@
     "image2": "http://i.imgur.com/7H4wcn7.png",
     "image3": "http://i.imgur.com/xG2wHxL.png",
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 11
   },
   "m057": {
     "code": "m057",
@@ -9414,7 +9414,7 @@
     "image2": "http://i.imgur.com/yBw2JjD.png",
     "image3": "http://i.imgur.com/0sXWo2z.png",
     "imageSkin": null,
-    "numMods": 17
+    "numMods": 13
   },
   "m059": {
     "code": "m059",
@@ -9472,7 +9472,7 @@
     "image2": "http://i.imgur.com/qAitJek.png",
     "image3": "http://i.imgur.com/cZenEvs.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m063": {
     "code": "m063",
@@ -9530,7 +9530,7 @@
     "image2": "http://i.imgur.com/gznx3ve.png",
     "image3": "http://i.imgur.com/ku1JjSo.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m077": {
     "code": "m077",
@@ -9620,7 +9620,7 @@
     "image2": "http://i.imgur.com/C0xrn9A.png",
     "image3": "http://upload2.inven.co.kr/upload/2017/10/11/bbs/i14688231158.png",
     "imageSkin": null,
-    "numMods": 22
+    "numMods": 17
   },
   "m116": {
     "code": "m116",
@@ -9650,7 +9650,7 @@
     },
     "name": "Bow-Wow",
     "id": "10100188",
-    "numMods": 4
+    "numMods": 2
   },
   "m136": {
     "code": "m136",
@@ -9709,7 +9709,7 @@
     "image2": "http://i.imgur.com/FkpXH6Q.png",
     "image3": "http://i.imgur.com/4MO7RvR.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "m137": {
     "code": "m137",
@@ -9767,7 +9767,7 @@
     "image2": "http://i.imgur.com/OpXsyLV.png",
     "image3": "http://i.imgur.com/sZ37UjY.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m141": {
     "code": "m141",
@@ -9825,7 +9825,7 @@
     "image2": "http://i.imgur.com/QyZJglX.png",
     "image3": "http://i.imgur.com/qV5qCaJ.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m148": {
     "code": "m148",
@@ -9872,7 +9872,7 @@
     "image2": "http://i.imgur.com/cbDdoTf.png",
     "image3": "http://i.imgur.com/d1HOPIX.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m149": {
     "code": "m149",
@@ -9919,7 +9919,7 @@
     "image2": "http://i.imgur.com/5WsAnd8.png",
     "image3": "http://i.imgur.com/E3sfZ8O.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m153": {
     "code": "m153",
@@ -9966,7 +9966,7 @@
     "image2": "http://i.imgur.com/LfLv18U.png",
     "image3": "http://i.imgur.com/WDTuuqP.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c012": {
     "code": "c012",
@@ -10024,7 +10024,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c037": {
     "code": "c037",
@@ -10082,7 +10082,7 @@
     "image2": "http://i.imgur.com/H7LQLyK.png",
     "image3": "http://i.imgur.com/iZuADSO.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c041": {
     "code": "c041",
@@ -10150,7 +10150,7 @@
     "image2": "http://i.imgur.com/HoAnFww.png",
     "image3": "http://i.imgur.com/Du7A6n0.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 13
   },
   "c066": {
     "code": "c066",
@@ -10208,7 +10208,7 @@
     "image2": "http://i.imgur.com/R2zL6jg.png",
     "image3": "http://i.imgur.com/EYK6ssn.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c090": {
     "code": "c090",
@@ -10267,7 +10267,7 @@
     "image2": "http://i.imgur.com/OB6R58Y.png",
     "image3": "http://i.imgur.com/7HdbOwb.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c109": {
     "code": "c109",
@@ -10312,7 +10312,7 @@
     "image2": "http://i.imgur.com/GmDiLcL.png",
     "image3": "http://i.imgur.com/ynS3wxV.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c110": {
     "code": "c110",
@@ -10355,7 +10355,7 @@
       }
     },
     "id": "10200014",
-    "numMods": 9
+    "numMods": 5
   },
   "c132": {
     "code": "c132",
@@ -10443,7 +10443,7 @@
     "image2": "http://i.imgur.com/X3Opb7t.png",
     "image3": "http://i.imgur.com/x1xRasm.png",
     "imageSkin": null,
-    "numMods": 20
+    "numMods": 15
   },
   "c133": {
     "code": "c133",
@@ -10504,7 +10504,7 @@
     "image2": "http://i.imgur.com/XuFMVxV.png",
     "image3": "http://i.imgur.com/xvQiTCA.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c147": {
     "code": "c147",
@@ -10562,7 +10562,7 @@
     "image2": "http://i.imgur.com/fZRE23j.png",
     "image3": "http://i.imgur.com/sZ4bXqB.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c148": {
     "code": "c148",
@@ -10654,7 +10654,7 @@
     "image2": "http://i.imgur.com/uoLgOCm.png",
     "image3": "http://i.imgur.com/99342m9.png",
     "imageSkin": "http://i.imgur.com/ALNK0xv.png",
-    "numMods": 24
+    "numMods": 19
   },
   "c152": {
     "code": "c152",
@@ -10712,7 +10712,7 @@
     "image2": "http://i.imgur.com/Uc6S4pO.png",
     "image3": "http://i.imgur.com/1tIuq1E.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c169": {
     "code": "c169",
@@ -10774,7 +10774,7 @@
     "image2": "http://i.imgur.com/EPbGBwT.png",
     "image3": "http://i.imgur.com/BuPUos3.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c172": {
     "code": "c172",
@@ -10841,7 +10841,7 @@
     "image2": "http://i.imgur.com/lpb2mgV.png",
     "image3": "http://i.imgur.com/F1GDP9D.png",
     "imageSkin": null,
-    "numMods": 15
+    "numMods": 12
   },
   "c178": {
     "code": "c178",
@@ -10907,7 +10907,7 @@
     "image2": "http://i.imgur.com/e7JLjG1.png",
     "image3": "http://i.imgur.com/rcxHcQ9.png",
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 11
   },
   "c185": {
     "code": "c185",
@@ -10963,7 +10963,7 @@
     "image2": "http://i.imgur.com/V8i1p7n.png",
     "image3": "http://i.imgur.com/MlM43AI.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c188": {
     "code": "c188",
@@ -11025,7 +11025,7 @@
     "image2": "http://i.imgur.com/Z90Y9xR.png",
     "image3": "http://i.imgur.com/FIV3WlY.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c190": {
     "code": "c190",
@@ -11089,7 +11089,7 @@
     "image2": "http://i.imgur.com/o9pdNFx.png",
     "image3": "http://i.imgur.com/0Krikn8.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 9
   },
   "c194": {
     "code": "c194",
@@ -11154,7 +11154,7 @@
     "image2": "http://i.imgur.com/sLmJE8u.png",
     "image3": "http://i.imgur.com/6GLzC1c.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c195": {
     "code": "c195",
@@ -11223,7 +11223,7 @@
     "image2": "http://i.imgur.com/5GaIHmB.png",
     "image3": "http://i.imgur.com/JY2fMQb.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 9
   },
   "c196": {
     "code": "c196",
@@ -11288,7 +11288,7 @@
     "image2": "http://i.imgur.com/0j1tEJy.png",
     "image3": "http://i.imgur.com/YhuZI2P.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 10
   },
   "c198": {
     "code": "c198",
@@ -11363,7 +11363,7 @@
     "image2": "http://i.imgur.com/NACVrBw.png",
     "image3": "http://i.imgur.com/ikKAS0X.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 11
   },
   "c200": {
     "code": "c200",
@@ -11421,7 +11421,7 @@
     "image2": "http://i.imgur.com/yxEANRK.png",
     "image3": "http://i.imgur.com/aNyIGzQ.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c205": {
     "code": "c205",
@@ -11482,7 +11482,7 @@
     "image2": "http://i.imgur.com/ZljdtzE.png",
     "image3": "http://i.imgur.com/GEOB17L.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c210": {
     "code": "c210",
@@ -11541,7 +11541,7 @@
     "image2": "http://i.imgur.com/iwEs0BK.png",
     "image3": "http://i.imgur.com/Bm7rWot.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c216": {
     "code": "c216",
@@ -11610,7 +11610,7 @@
     "image2": "http://i.imgur.com/6zYKkJh.png",
     "image3": "http://i.imgur.com/s2F2guU.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 14
   },
   "c219": {
     "code": "c219",
@@ -11666,7 +11666,7 @@
     "image2": "http://i.imgur.com/A7HdEVd.png",
     "image3": "http://i.imgur.com/aljst7q.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "c220": {
     "code": "c220",
@@ -11728,7 +11728,7 @@
     "image2": "http://i.imgur.com/MnrlvA1.png",
     "image3": "http://i.imgur.com/CNpLNbt.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 7
   },
   "c221": {
     "code": "c221",
@@ -11792,7 +11792,7 @@
     "image2": "http://i.imgur.com/h7Km4XQ.png",
     "image3": "http://i.imgur.com/UisiCTh.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 9
   },
   "c222": {
     "code": "c222",
@@ -11858,7 +11858,7 @@
     "image2": "http://i.imgur.com/IgkOyex.png",
     "image3": "http://i.imgur.com/inhj52d.png",
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 11
   },
   "c225": {
     "code": "c225",
@@ -11915,7 +11915,7 @@
     "image2": "http://i.imgur.com/HN5fL5n.png",
     "image3": "http://i.imgur.com/cxxjxt3.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 7
   },
   "c227": {
     "code": "c227",
@@ -11982,7 +11982,7 @@
     "image2": "http://i.imgur.com/vbfdpeM.png",
     "image3": "http://i.imgur.com/jxXsT49.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "m117": {
     "code": "m117",
@@ -12013,7 +12013,7 @@
     },
     "name": "Dummy",
     "id": "10200067",
-    "numMods": 5
+    "numMods": 3
   },
   "m150": {
     "code": "m150",
@@ -12060,7 +12060,7 @@
     "image2": "http://i.imgur.com/ux2Gu3q.png",
     "image3": "http://i.imgur.com/4IHJbTQ.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m151": {
     "code": "m151",
@@ -12107,7 +12107,7 @@
     "image2": "http://i.imgur.com/DdsDvoJ.png",
     "image3": "http://i.imgur.com/loq6R6K.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m152": {
     "code": "m152",
@@ -12165,7 +12165,7 @@
     "image2": "http://i.imgur.com/gHRlNJt.png",
     "image3": "http://i.imgur.com/gPW0tE3.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m154": {
     "code": "m154",
@@ -12211,7 +12211,7 @@
     },
     "name": "Mayomi",
     "id": "10200071",
-    "numMods": 11
+    "numMods": 8
   },
   "c229": {
     "code": "c229",
@@ -12280,7 +12280,7 @@
     "image2": "http://i.imgur.com/MbsrAx4.png",
     "image3": "http://i.imgur.com/MHgAEGe.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c230": {
     "code": "c230",
@@ -12344,7 +12344,7 @@
     "image2": "http://i.imgur.com/k04kBRe.png",
     "image3": "http://i.imgur.com/lC5KY2M.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 9
   },
   "c231": {
     "code": "c231",
@@ -12376,7 +12376,7 @@
       }
     },
     "id": "10200075",
-    "numMods": 6
+    "numMods": 3
   },
   "c232": {
     "code": "c232",
@@ -12441,7 +12441,7 @@
     "image2": "http://i.imgur.com/UIuS4cq.png",
     "image3": "http://i.imgur.com/4jxiumL.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c233": {
     "code": "c233",
@@ -12511,7 +12511,7 @@
     "image2": "http://i.imgur.com/p7P7l8v.png",
     "image3": "http://i.imgur.com/bLphiRp.png",
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 15
   },
   "c234": {
     "code": "c234",
@@ -12581,7 +12581,7 @@
     "image2": "http://i.imgur.com/lJbBuk9.png",
     "image3": "http://i.imgur.com/GFIvjOF.png",
     "imageSkin": "http://i.imgur.com/VGccGqm.png",
-    "numMods": 10
+    "numMods": 6
   },
   "c235": {
     "code": "c235",
@@ -12643,7 +12643,7 @@
     "image2": "http://i.imgur.com/wrKD0a3.png",
     "image3": "http://i.imgur.com/BoPv8cU.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c237": {
     "code": "c237",
@@ -12679,7 +12679,7 @@
     },
     "name": "Typhon",
     "id": "10200081",
-    "numMods": 6
+    "numMods": 3
   },
   "c238": {
     "code": "c238",
@@ -12748,7 +12748,7 @@
     "image2": "http://i.imgur.com/zjH70Zf.png",
     "image3": "http://i.imgur.com/Xo3tK17.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 9
   },
   "c242": {
     "code": "c242",
@@ -12815,7 +12815,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 15
+    "numMods": 12
   },
   "c244": {
     "code": "c244",
@@ -12863,7 +12863,7 @@
     "image2": "http://i.imgur.com/TJzF3pu.png",
     "image3": "http://i.imgur.com/t4Hzner.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 5
   },
   "c245": {
     "code": "c245",
@@ -12910,7 +12910,7 @@
     "image2": "http://i.imgur.com/KdWXj7P.png",
     "image3": "http://i.imgur.com/DWjtBRg.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "c246": {
     "code": "c246",
@@ -13024,7 +13024,7 @@
     "image2": "http://i.imgur.com/maAnlMN.png",
     "image3": "http://i.imgur.com/VhtHbUf.png",
     "imageSkin": "http://i.imgur.com/YoDJZxT.png",
-    "numMods": 22
+    "numMods": 24
   },
   "c247": {
     "code": "c247",
@@ -13088,7 +13088,7 @@
     "image2": "http://i.imgur.com/7p2JF4F.png",
     "image3": "http://i.imgur.com/kewj30p.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 9
   },
   "c252": {
     "code": "c252",
@@ -13146,7 +13146,7 @@
       }
     },
     "id": "10200096",
-    "numMods": 16
+    "numMods": 11
   },
   "m185": {
     "code": "m185",
@@ -13187,7 +13187,7 @@
     },
     "name": "Actyon",
     "id": "10200098",
-    "numMods": 6
+    "numMods": 3
   },
   "m186": {
     "code": "m186",
@@ -13214,7 +13214,7 @@
       }
     },
     "id": "10200099",
-    "numMods": 4
+    "numMods": 2
   },
   "m187": {
     "code": "m187",
@@ -13247,7 +13247,7 @@
     },
     "name": "Dagon",
     "id": "10200100",
-    "numMods": 7
+    "numMods": 5
   },
   "m188": {
     "code": "m188",
@@ -13277,7 +13277,7 @@
     },
     "name": "Gold Coin",
     "id": "10200101",
-    "numMods": 5
+    "numMods": 2
   },
   "c257": {
     "code": "c257",
@@ -13308,7 +13308,7 @@
     },
     "name": "Carlos",
     "id": "10200102",
-    "numMods": 4
+    "numMods": 3
   },
   "m189": {
     "code": "m189",
@@ -13355,7 +13355,7 @@
     "image2": "http://i.imgur.com/dLE8UzR.png",
     "image3": "http://i.imgur.com/MdlV9OY.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m190": {
     "code": "m190",
@@ -13402,7 +13402,7 @@
     "image2": "http://i.imgur.com/vTpyWdd.png",
     "image3": "http://i.imgur.com/AW5Igzl.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c262": {
     "code": "c262",
@@ -13478,7 +13478,7 @@
     "image2": "http://i.imgur.com/2348KY8.png",
     "image3": "http://i.imgur.com/L5UbFrS.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "m191": {
     "code": "m191",
@@ -13536,7 +13536,7 @@
     "image2": "http://i.imgur.com/DmnKk4h.png",
     "image3": "http://i.imgur.com/jcD32Hs.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m192": {
     "code": "m192",
@@ -13583,7 +13583,7 @@
     "image2": "http://i.imgur.com/KxWxaqE.png",
     "image3": "http://i.imgur.com/8l2p1NF.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m193": {
     "code": "m193",
@@ -13630,7 +13630,7 @@
     "image2": "http://i.imgur.com/9dysE9j.png",
     "image3": "http://i.imgur.com/sdrcdE1.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c266": {
     "code": "c266",
@@ -13692,7 +13692,7 @@
     "image2": "http://i.imgur.com/CBrKRNa.png",
     "image3": "http://i.imgur.com/MDoNw2V.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c267": {
     "code": "c267",
@@ -13827,7 +13827,7 @@
     "image2": "http://i.imgur.com/97F8W3L.png",
     "image3": "http://i.imgur.com/w7iyA93.png",
     "imageSkin": "http://i.imgur.com/Q8n0fuc.png",
-    "numMods": 44
+    "numMods": 42
   },
   "c274": {
     "code": "c274",
@@ -13889,7 +13889,7 @@
     "image2": "http://i.imgur.com/EJFVM6Z.png",
     "image3": "http://i.imgur.com/yXJplxG.png",
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c277": {
     "code": "c277",
@@ -13956,7 +13956,7 @@
     "image2": "http://i.imgur.com/kRHtrYL.png",
     "image3": "http://i.imgur.com/918qUOe.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 12
   },
   "c278": {
     "code": "c278",
@@ -13985,7 +13985,7 @@
       }
     },
     "id": "10200122",
-    "numMods": 6
+    "numMods": 4
   },
   "c279": {
     "code": "c279",
@@ -14035,7 +14035,7 @@
       }
     },
     "id": "10200123",
-    "numMods": 11
+    "numMods": 7
   },
   "c280": {
     "code": "c280",
@@ -14086,7 +14086,7 @@
     "image2": "http://i.imgur.com/7TDxsIV.png",
     "image3": "http://i.imgur.com/9NSIAiV.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 6
   },
   "c281": {
     "code": "c281",
@@ -14118,7 +14118,7 @@
       }
     },
     "id": "10200125",
-    "numMods": 6
+    "numMods": 3
   },
   "c283": {
     "code": "c283",
@@ -14235,7 +14235,7 @@
     "image2": "http://i.imgur.com/V4MVQY8.png",
     "image3": "http://i.imgur.com/vUBAb7i.png",
     "imageSkin": "http://i.imgur.com/4J5o41u.png",
-    "numMods": 29
+    "numMods": 23
   },
   "c285": {
     "code": "c285",
@@ -14291,7 +14291,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 8
   },
   "c286": {
     "code": "c286",
@@ -14349,7 +14349,7 @@
     "image2": "http://i.imgur.com/CKTN4qk.png",
     "image3": "http://i.imgur.com/jRKAN9O.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c287": {
     "code": "c287",
@@ -14420,7 +14420,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 6
   },
   "c289": {
     "code": "c289",
@@ -14489,7 +14489,7 @@
     "image2": "http://i.imgur.com/0Vh8HKh.png",
     "image3": "http://i.imgur.com/HTkpjIV.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 5
   },
   "c290": {
     "code": "c290",
@@ -14552,7 +14552,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c292": {
     "code": "c292",
@@ -14613,7 +14613,7 @@
     "image2": "http://i.imgur.com/j20LPKq.png",
     "image3": "http://i.imgur.com/lK7O0Ee.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 6
   },
   "c294": {
     "code": "c294",
@@ -14678,7 +14678,7 @@
     "image2": "http://i.imgur.com/fHoFtin.png",
     "image3": "http://i.imgur.com/QVu2zaF.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c295": {
     "code": "c295",
@@ -14741,7 +14741,7 @@
     "image2": "http://i.imgur.com/x2xB6rh.png",
     "image3": "http://i.imgur.com/wJ0pRgA.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c296": {
     "code": "c296",
@@ -14809,7 +14809,7 @@
     "image2": "https://i.imgur.com/KaVBIYJ.png",
     "image3": "https://i.imgur.com/btIXahH.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 13
   },
   "c297": {
     "code": "c297",
@@ -14869,7 +14869,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 8
   },
   "c299": {
     "code": "c299",
@@ -14925,7 +14925,7 @@
     "image2": "http://i.imgur.com/3T8I7CU.png",
     "image3": "http://i.imgur.com/goBETZI.png",
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 6
   },
   "c300": {
     "code": "c300",
@@ -14975,7 +14975,7 @@
     "image2": "http://i.imgur.com/zCpK22S.png",
     "image3": "http://i.imgur.com/klULFTw.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 5
   },
   "c301": {
     "code": "c301",
@@ -15027,7 +15027,7 @@
     "image2": "http://i.imgur.com/8dU4saq.png",
     "image3": "http://i.imgur.com/cznuVoN.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 7
   },
   "c304": {
     "code": "c304",
@@ -15072,7 +15072,7 @@
     "image2": "http://i.imgur.com/u9y5oAv.png",
     "image3": "http://i.imgur.com/BrSNSn3.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c305": {
     "code": "c305",
@@ -15161,7 +15161,7 @@
     "image2": "http://i.imgur.com/sTeVw1P.png",
     "image3": "http://i.imgur.com/uShdA0y.png",
     "imageSkin": "http://i.imgur.com/HlYs2xT.png",
-    "numMods": 22
+    "numMods": 24
   },
   "c308": {
     "code": "c308",
@@ -15239,7 +15239,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 13
   },
   "c310": {
     "code": "c310",
@@ -15297,7 +15297,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c311": {
     "code": "c311",
@@ -15452,7 +15452,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 11
   },
   "c315": {
     "code": "c315",
@@ -15503,7 +15503,7 @@
     },
     "name": "Methuselah",
     "id": "10200158",
-    "numMods": 9
+    "numMods": 5
   },
   "c316": {
     "code": "c316",
@@ -15566,7 +15566,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c317": {
     "code": "c317",
@@ -15625,7 +15625,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c318": {
     "code": "c318",
@@ -15761,7 +15761,7 @@
     "image2": "http://i.imgur.com/HfHIm7H.png",
     "image3": "http://i.imgur.com/QphLT9n.png",
     "imageSkin": "http://i.imgur.com/fDnWmTf.png",
-    "numMods": 50
+    "numMods": 52
   },
   "c319": {
     "code": "c319",
@@ -15821,7 +15821,7 @@
     "image2": "http://i.imgur.com/uL9eNAb.png",
     "image3": "http://i.imgur.com/d4H6WBR.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 5
   },
   "c320": {
     "code": "c320",
@@ -15883,7 +15883,7 @@
     "image2": "http://i.imgur.com/cRoqLLs.png",
     "image3": "http://i.imgur.com/3eURsqh.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 10
   },
   "c321": {
     "code": "c321",
@@ -15931,7 +15931,7 @@
     "image2": "http://i.imgur.com/4busQOh.png",
     "image3": "http://i.imgur.com/cAHdp5N.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 5
   },
   "c322": {
     "code": "c322",
@@ -15996,7 +15996,7 @@
     "image2": "http://i.imgur.com/kWoCfYO.png",
     "image3": "http://i.imgur.com/n1xLQK5.png",
     "imageSkin": "http://i.imgur.com/Uprhc7V.png",
-    "numMods": 8
+    "numMods": 4
   },
   "c324": {
     "code": "c324",
@@ -16063,7 +16063,7 @@
     "image2": "http://i.imgur.com/KAOsm2c.png",
     "image3": "http://i.imgur.com/LTMdmQN.png",
     "imageSkin": null,
-    "numMods": 20
+    "numMods": 17
   },
   "c344": {
     "code": "c344",
@@ -16152,7 +16152,7 @@
     "image2": "http://i.imgur.com/7weZ0x8.png",
     "image3": "http://i.imgur.com/Kgmji3I.png",
     "imageSkin": "http://i.imgur.com/3PYp4sV.png",
-    "numMods": 21
+    "numMods": 15
   },
   "c345": {
     "code": "c345",
@@ -16244,7 +16244,7 @@
     "image2": "http://i.imgur.com/VdXtIUP.png",
     "image3": "http://i.imgur.com/m8rkQoo.png",
     "imageSkin": "http://i.imgur.com/bwGVjiv.png",
-    "numMods": 24
+    "numMods": 19
   },
   "c346": {
     "code": "c346",
@@ -16292,7 +16292,7 @@
     "image2": "http://i.imgur.com/Z9tWJez.png",
     "image3": "http://i.imgur.com/dPsOfVt.png",
     "imageSkin": null,
-    "numMods": 5
+    "numMods": 3
   },
   "c336": {
     "code": "c336",
@@ -16350,7 +16350,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "c349": {
     "code": "c349",
@@ -16414,7 +16414,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 9
   },
   "c350": {
     "code": "c350",
@@ -16476,7 +16476,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 7
   },
   "c348": {
     "code": "c348",
@@ -16621,7 +16621,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 6
   },
   "c253": {
     "code": "c253",
@@ -16724,7 +16724,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 23
+    "numMods": 21
   },
   "c355": {
     "code": "c355",
@@ -16781,7 +16781,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 12
   },
   "c353": {
     "code": "c353",
@@ -16844,7 +16844,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 8
   },
   "c358": {
     "code": "c358",
@@ -16894,7 +16894,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 5
   },
   "c359": {
     "code": "c359",
@@ -16941,7 +16941,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c360": {
     "code": "c360",
@@ -17011,7 +17011,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 18
+    "numMods": 15
   },
   "c364": {
     "code": "c364",
@@ -17062,7 +17062,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 6
   },
   "c365": {
     "code": "c365",
@@ -17119,7 +17119,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 12
   },
   "m254": {
     "code": "m254",
@@ -17149,7 +17149,7 @@
     },
     "name": "Davi",
     "id": "10200187",
-    "numMods": 4
+    "numMods": 2
   },
   "c366": {
     "code": "c366",
@@ -17199,7 +17199,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 5
   },
   "c354": {
     "code": "c354",
@@ -17276,7 +17276,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 12
   },
   "m255": {
     "code": "m255",
@@ -17306,7 +17306,7 @@
     },
     "name": "Ampoule",
     "id": "10200190",
-    "numMods": 4
+    "numMods": 2
   },
   "c332": {
     "code": "c332",
@@ -17339,7 +17339,7 @@
     },
     "name": "Ganesha",
     "id": "10200194",
-    "numMods": 7
+    "numMods": 5
   },
   "c374": {
     "code": "c374",
@@ -17554,7 +17554,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 22
+    "numMods": 18
   },
   "c370": {
     "code": "c370",
@@ -17629,7 +17629,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 11
   },
   "c371": {
     "code": "c371",
@@ -17693,7 +17693,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 9
   },
   "c372": {
     "code": "c372",
@@ -17760,7 +17760,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 12
   },
   "c381": {
     "code": "c381",
@@ -17809,7 +17809,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 6
   },
   "c388": {
     "code": "c388",
@@ -17855,7 +17855,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 5
+    "numMods": 3
   },
   "c382": {
     "code": "c382",
@@ -17906,7 +17906,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 6
   },
   "c378": {
     "code": "c378",
@@ -17946,7 +17946,7 @@
     },
     "name": "Touka",
     "id": "10200207",
-    "numMods": 10
+    "numMods": 7
   },
   "c379": {
     "code": "c379",
@@ -17979,7 +17979,7 @@
     },
     "name": "Athena",
     "id": "10200208",
-    "numMods": 7
+    "numMods": 5
   },
   "c384": {
     "code": "c384",
@@ -18009,7 +18009,7 @@
       }
     },
     "id": "10200209",
-    "numMods": 5,
+    "numMods": 3,
     "name": "Narvi"
   },
   "m261": {
@@ -18085,7 +18085,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 15
+    "numMods": 11
   },
   "c390": {
     "code": "c390",
@@ -18161,7 +18161,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 16
+    "numMods": 12
   },
   "c339": {
     "code": "c339",
@@ -18210,7 +18210,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "c392": {
     "code": "c392",
@@ -18290,7 +18290,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 20
+    "numMods": 15
   },
   "c385": {
     "code": "c385",
@@ -18383,7 +18383,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 23
+    "numMods": 18
   },
   "c386": {
     "code": "c386",
@@ -18489,7 +18489,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 36
+    "numMods": 31
   },
   "c387": {
     "code": "c387",
@@ -18570,7 +18570,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 20
+    "numMods": 16
   },
   "c393": {
     "code": "c393",
@@ -18634,7 +18634,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 9
   },
   "c391": {
     "code": "c391",
@@ -18690,7 +18690,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 11
   },
   "c333": {
     "code": "c333",
@@ -18732,7 +18732,7 @@
       }
     },
     "id": "10200221",
-    "numMods": 8
+    "numMods": 4
   },
   "c394": {
     "code": "c394",
@@ -18786,7 +18786,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 9
   },
   "c395": {
     "code": "c395",
@@ -18835,7 +18835,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "c396": {
     "code": "c396",
@@ -18884,7 +18884,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "c362": {
     "code": "c362",
@@ -18949,7 +18949,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 4
   },
   "c357": {
     "code": "c357",
@@ -18994,7 +18994,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c397": {
     "code": "c397",
@@ -19051,7 +19051,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 14
+    "numMods": 12
   },
   "c398": {
     "code": "c398",
@@ -19107,7 +19107,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "c400": {
     "code": "c400",
@@ -19153,7 +19153,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c401": {
     "code": "c401",
@@ -19202,7 +19202,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "c347": {
     "code": "c347",
@@ -19251,7 +19251,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "c410": {
     "code": "c410",
@@ -19308,7 +19308,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 5
   },
   "c408": {
     "code": "c408",
@@ -19355,7 +19355,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c406": {
     "code": "c406",
@@ -19407,7 +19407,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 7
   },
   "c405": {
     "code": "c405",
@@ -19473,7 +19473,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 5
   },
   "c407": {
     "code": "c407",
@@ -19520,7 +19520,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c409": {
     "code": "c409",
@@ -19574,7 +19574,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 9
   },
   "c343": {
     "code": "c343",
@@ -19608,7 +19608,7 @@
       }
     },
     "id": "10200241",
-    "numMods": 11
+    "numMods": 9
   },
   "c412": {
     "code": "c412",
@@ -19683,7 +19683,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 10
+    "numMods": 5
   },
   "c402": {
     "code": "c402",
@@ -19728,7 +19728,7 @@
     },
     "name": "Noel",
     "id": "10200245",
-    "numMods": 10
+    "numMods": 7
   },
   "c403": {
     "code": "c403",
@@ -19759,7 +19759,7 @@
     },
     "name": "Makoto",
     "id": "10200246",
-    "numMods": 5
+    "numMods": 3
   },
   "c404": {
     "code": "c404",
@@ -19793,7 +19793,7 @@
     },
     "name": "Nine",
     "id": "10200247",
-    "numMods": 8
+    "numMods": 6
   },
   "c414": {
     "code": "c414",
@@ -19853,7 +19853,7 @@
       }
     },
     "id": "10200249",
-    "numMods": 13
+    "numMods": 8
   },
   "c415": {
     "code": "c415",
@@ -19893,7 +19893,7 @@
       }
     },
     "id": "10200250",
-    "numMods": 9
+    "numMods": 6
   },
   "c416": {
     "code": "c416",
@@ -19932,7 +19932,7 @@
       }
     },
     "id": "10200251",
-    "numMods": 8
+    "numMods": 5
   },
   "c417": {
     "code": "c417",
@@ -19992,7 +19992,7 @@
       }
     },
     "id": "10200252",
-    "numMods": 21
+    "numMods": 17
   },
   "c418": {
     "code": "c418",
@@ -20024,7 +20024,7 @@
       }
     },
     "id": "10200253",
-    "numMods": 9
+    "numMods": 7
   },
   "c419": {
     "code": "c419",
@@ -20056,7 +20056,7 @@
     },
     "name": "Catherine",
     "id": "10200254",
-    "numMods": 6
+    "numMods": 4
   },
   "c420": {
     "code": "c420",
@@ -20112,7 +20112,7 @@
     },
     "name": "Katherine",
     "id": "10200255",
-    "numMods": 12
+    "numMods": 8
   },
   "c421": {
     "code": "c421",
@@ -20145,7 +20145,7 @@
     },
     "name": "Rin",
     "id": "10200256",
-    "numMods": 7
+    "numMods": 5
   },
   "c423": {
     "code": "c423",
@@ -20173,7 +20173,7 @@
       }
     },
     "id": "10200257",
-    "numMods": 5
+    "numMods": 3
   },
   "c426": {
     "code": "c426",
@@ -20212,7 +20212,7 @@
       }
     },
     "id": "10200260",
-    "numMods": 8
+    "numMods": 5
   },
   "c428": {
     "code": "c428",
@@ -20259,7 +20259,7 @@
       }
     },
     "id": "10200262",
-    "numMods": 8
+    "numMods": 4
   },
   "c429": {
     "code": "c429",
@@ -20317,7 +20317,7 @@
       }
     },
     "id": "10200263",
-    "numMods": 17
+    "numMods": 11
   },
   "c430": {
     "code": "c430",
@@ -20364,7 +20364,7 @@
       }
     },
     "id": "10200264",
-    "numMods": 13
+    "numMods": 9
   },
   "c431": {
     "code": "c431",
@@ -20405,7 +20405,7 @@
       }
     },
     "id": "10200265",
-    "numMods": 10
+    "numMods": 7
   },
   "c432": {
     "code": "c432",
@@ -20433,7 +20433,7 @@
       }
     },
     "id": "10200266",
-    "numMods": 5
+    "numMods": 3
   },
   "c433": {
     "code": "c433",
@@ -20465,7 +20465,7 @@
       }
     },
     "id": "10200267",
-    "numMods": 9
+    "numMods": 7
   },
   "c434": {
     "code": "c434",
@@ -20495,7 +20495,7 @@
       }
     },
     "id": "10200268",
-    "numMods": 7
+    "numMods": 5
   },
   "c422": {
     "code": "c422",
@@ -20539,7 +20539,7 @@
       }
     },
     "id": "10200269",
-    "numMods": 13
+    "numMods": 10
   },
   "c435": {
     "code": "c435",
@@ -20577,7 +20577,7 @@
       }
     },
     "id": "10200270",
-    "numMods": 7
+    "numMods": 4
   },
   "c436": {
     "code": "c436",
@@ -20624,7 +20624,7 @@
       }
     },
     "id": "10200271",
-    "numMods": 8
+    "numMods": 4
   },
   "c437": {
     "code": "c437",
@@ -20651,7 +20651,7 @@
       }
     },
     "id": "10200272",
-    "numMods": 4
+    "numMods": 2
   },
   "c438": {
     "code": "c438",
@@ -20691,7 +20691,7 @@
       }
     },
     "id": "10200273",
-    "numMods": 9
+    "numMods": 6
   },
   "c443": {
     "code": "c443",
@@ -20721,7 +20721,7 @@
       }
     },
     "id": "10200279",
-    "numMods": 7
+    "numMods": 5
   },
   "c441": {
     "code": "c441",
@@ -20750,7 +20750,7 @@
       }
     },
     "id": "10200280",
-    "numMods": 6
+    "numMods": 4
   },
   "c363": {
     "code": "c363",
@@ -20779,7 +20779,7 @@
       }
     },
     "id": "10200282",
-    "numMods": 6
+    "numMods": 4
   },
   "c448": {
     "code": "c448",
@@ -20830,7 +20830,7 @@
       }
     },
     "id": "10200283",
-    "numMods": 17
+    "numMods": 13
   },
   "c449": {
     "code": "c449",
@@ -20861,7 +20861,7 @@
       }
     },
     "id": "10200284",
-    "numMods": 8
+    "numMods": 6
   },
   "m097": {
     "code": "m097",
@@ -20891,7 +20891,7 @@
     },
     "name": "Ball",
     "id": "20100001",
-    "numMods": 4
+    "numMods": 2
   },
   "m100": {
     "code": "m100",
@@ -20921,7 +20921,7 @@
     },
     "name": "Ball",
     "id": "20100002",
-    "numMods": 4
+    "numMods": 2
   },
   "m030": {
     "code": "m030",
@@ -20951,7 +20951,7 @@
     },
     "name": "Ball",
     "id": "20100003",
-    "numMods": 4
+    "numMods": 2
   },
   "m096": {
     "code": "m096",
@@ -20981,7 +20981,7 @@
     },
     "name": "Ball",
     "id": "20100004",
-    "numMods": 4
+    "numMods": 2
   },
   "m098": {
     "code": "m098",
@@ -21011,7 +21011,7 @@
     },
     "name": "Ball",
     "id": "20100005",
-    "numMods": 4
+    "numMods": 2
   },
   "m125": {
     "code": "m125",
@@ -21058,7 +21058,7 @@
     "image2": "http://i.imgur.com/kM6ymoE.png",
     "image3": "http://i.imgur.com/zioXooW.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m124": {
     "code": "m124",
@@ -21105,7 +21105,7 @@
     "image2": "http://i.imgur.com/RiWdBWe.png",
     "image3": "http://i.imgur.com/43RfcaE.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m127": {
     "code": "m127",
@@ -21152,7 +21152,7 @@
     "image2": "http://i.imgur.com/ccPFSUf.png",
     "image3": "http://i.imgur.com/uSsJ8Cf.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m128": {
     "code": "m128",
@@ -21199,7 +21199,7 @@
     "image2": "http://i.imgur.com/ZM4W0x0.png",
     "image3": "http://i.imgur.com/otuesru.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m126": {
     "code": "m126",
@@ -21246,7 +21246,7 @@
     "image2": "http://i.imgur.com/ox2c2kn.png",
     "image3": "http://i.imgur.com/10R0VLw.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m131": {
     "code": "m131",
@@ -21276,7 +21276,7 @@
     },
     "name": "Popper",
     "id": "20100011",
-    "numMods": 4
+    "numMods": 2
   },
   "m130": {
     "code": "m130",
@@ -21306,7 +21306,7 @@
     },
     "name": "Popper",
     "id": "20100012",
-    "numMods": 4
+    "numMods": 2
   },
   "m132": {
     "code": "m132",
@@ -21336,7 +21336,7 @@
     },
     "name": "Popper",
     "id": "20100013",
-    "numMods": 4
+    "numMods": 2
   },
   "m133": {
     "code": "m133",
@@ -21366,7 +21366,7 @@
     },
     "name": "Popper",
     "id": "20100014",
-    "numMods": 4
+    "numMods": 2
   },
   "m134": {
     "code": "m134",
@@ -21396,7 +21396,7 @@
     },
     "name": "Popper",
     "id": "20100015",
-    "numMods": 4
+    "numMods": 2
   },
   "m120": {
     "code": "m120",
@@ -21426,7 +21426,7 @@
     },
     "name": "Assassin",
     "id": "20100016",
-    "numMods": 4
+    "numMods": 2
   },
   "m119": {
     "code": "m119",
@@ -21456,7 +21456,7 @@
     },
     "name": "Ninja",
     "id": "20100017",
-    "numMods": 4
+    "numMods": 2
   },
   "m118": {
     "code": "m118",
@@ -21486,7 +21486,7 @@
     },
     "name": "Slasher",
     "id": "20100018",
-    "numMods": 4
+    "numMods": 2
   },
   "m123": {
     "code": "m123",
@@ -21516,7 +21516,7 @@
     },
     "name": "Shadow",
     "id": "20100019",
-    "numMods": 4
+    "numMods": 2
   },
   "m121": {
     "code": "m121",
@@ -21546,7 +21546,7 @@
     },
     "name": "Warrior",
     "id": "20100020",
-    "numMods": 4
+    "numMods": 2
   },
   "m089": {
     "code": "m089",
@@ -21576,7 +21576,7 @@
     },
     "name": "Mukuri",
     "id": "20100021",
-    "numMods": 4
+    "numMods": 2
   },
   "m066": {
     "code": "m066",
@@ -21606,7 +21606,7 @@
     },
     "name": "Kukuri",
     "id": "20100022",
-    "numMods": 4
+    "numMods": 2
   },
   "m064": {
     "code": "m064",
@@ -21636,7 +21636,7 @@
     },
     "name": "Pukli",
     "id": "20100023",
-    "numMods": 4
+    "numMods": 2
   },
   "m065": {
     "code": "m065",
@@ -21666,7 +21666,7 @@
     },
     "name": "Kokuri",
     "id": "20100024",
-    "numMods": 4
+    "numMods": 2
   },
   "m090": {
     "code": "m090",
@@ -21696,7 +21696,7 @@
     },
     "name": "Fukli",
     "id": "20100025",
-    "numMods": 4
+    "numMods": 2
   },
   "m143": {
     "code": "m143",
@@ -21745,7 +21745,7 @@
     "image2": "http://i.imgur.com/FzcxpRA.png",
     "image3": "http://i.imgur.com/PG7jlNc.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "m142": {
     "code": "m142",
@@ -21794,7 +21794,7 @@
     "image2": "http://i.imgur.com/8KKahWw.png",
     "image3": "http://i.imgur.com/9Eo0YEL.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "m144": {
     "code": "m144",
@@ -21843,7 +21843,7 @@
     "image2": "http://i.imgur.com/sx7lU6h.png",
     "image3": "http://i.imgur.com/uFisIWQ.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "m145": {
     "code": "m145",
@@ -21892,7 +21892,7 @@
     "image2": "http://i.imgur.com/K4srQC6.png",
     "image3": "http://i.imgur.com/OL4RxhQ.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "m146": {
     "code": "m146",
@@ -21941,7 +21941,7 @@
     "image2": "http://i.imgur.com/YVcxbvr.png",
     "image3": "http://i.imgur.com/DdOGiw1.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 4
   },
   "m102": {
     "code": "m102",
@@ -21972,7 +21972,7 @@
     },
     "name": "Blue Bloop",
     "id": "20100031",
-    "numMods": 5
+    "numMods": 3
   },
   "m101": {
     "code": "m101",
@@ -22002,7 +22002,7 @@
     },
     "name": "Red Bloop",
     "id": "20100032",
-    "numMods": 4
+    "numMods": 2
   },
   "m105": {
     "code": "m105",
@@ -22032,7 +22032,7 @@
     },
     "name": "Green Bloop",
     "id": "20100033",
-    "numMods": 4
+    "numMods": 2
   },
   "m103": {
     "code": "m103",
@@ -22062,7 +22062,7 @@
     },
     "name": "Yellow Bloop",
     "id": "20100034",
-    "numMods": 4
+    "numMods": 2
   },
   "m104": {
     "code": "m104",
@@ -22092,7 +22092,7 @@
     },
     "name": "Purple Bloop",
     "id": "20100035",
-    "numMods": 4
+    "numMods": 2
   },
   "m139": {
     "code": "m139",
@@ -22111,7 +22111,7 @@
     },
     "name": "Aurora Bloop",
     "id": "20100036",
-    "numMods": 2
+    "numMods": 1
   },
   "m082": {
     "code": "m082",
@@ -22141,7 +22141,7 @@
     },
     "name": "Cocoon",
     "id": "20100039",
-    "numMods": 4
+    "numMods": 2
   },
   "m080": {
     "code": "m080",
@@ -22171,7 +22171,7 @@
     },
     "name": "Cocoon",
     "id": "20100040",
-    "numMods": 4
+    "numMods": 2
   },
   "m078": {
     "code": "m078",
@@ -22201,7 +22201,7 @@
     },
     "name": "Cocoon",
     "id": "20100041",
-    "numMods": 4
+    "numMods": 2
   },
   "m081": {
     "code": "m081",
@@ -22231,7 +22231,7 @@
     },
     "name": "Cocoon",
     "id": "20100042",
-    "numMods": 4
+    "numMods": 2
   },
   "m083": {
     "code": "m083",
@@ -22261,7 +22261,7 @@
     },
     "name": "Cocoon",
     "id": "20100043",
-    "numMods": 4
+    "numMods": 2
   },
   "m072": {
     "code": "m072",
@@ -22291,7 +22291,7 @@
     },
     "name": "Blue Chain",
     "id": "20100044",
-    "numMods": 4
+    "numMods": 2
   },
   "m070": {
     "code": "m070",
@@ -22321,7 +22321,7 @@
     },
     "name": "Red Chain",
     "id": "20100045",
-    "numMods": 4
+    "numMods": 2
   },
   "m071": {
     "code": "m071",
@@ -22351,7 +22351,7 @@
     },
     "name": "Green Chain",
     "id": "20100046",
-    "numMods": 4
+    "numMods": 2
   },
   "m086": {
     "code": "m086",
@@ -22381,7 +22381,7 @@
     },
     "name": "Light Chain",
     "id": "20100047",
-    "numMods": 4
+    "numMods": 2
   },
   "m087": {
     "code": "m087",
@@ -22411,7 +22411,7 @@
     },
     "name": "Dark Chain",
     "id": "20100048",
-    "numMods": 4
+    "numMods": 2
   },
   "m067": {
     "code": "m067",
@@ -22441,7 +22441,7 @@
     },
     "name": "Food",
     "id": "20100049",
-    "numMods": 4
+    "numMods": 2
   },
   "m109": {
     "code": "m109",
@@ -22471,7 +22471,7 @@
     },
     "name": "Food",
     "id": "20100050",
-    "numMods": 4
+    "numMods": 2
   },
   "m107": {
     "code": "m107",
@@ -22501,7 +22501,7 @@
     },
     "name": "Food",
     "id": "20100051",
-    "numMods": 4
+    "numMods": 2
   },
   "m069": {
     "code": "m069",
@@ -22531,7 +22531,7 @@
     },
     "name": "Food",
     "id": "20100052",
-    "numMods": 4
+    "numMods": 2
   },
   "m068": {
     "code": "m068",
@@ -22561,7 +22561,7 @@
     },
     "name": "Food",
     "id": "20100053",
-    "numMods": 4
+    "numMods": 2
   },
   "m095": {
     "code": "m095",
@@ -22591,7 +22591,7 @@
     },
     "name": "Syringe",
     "id": "20100054",
-    "numMods": 4
+    "numMods": 2
   },
   "m061": {
     "code": "m061",
@@ -22621,7 +22621,7 @@
     },
     "name": "Syringe",
     "id": "20100055",
-    "numMods": 4
+    "numMods": 2
   },
   "m092": {
     "code": "m092",
@@ -22651,7 +22651,7 @@
     },
     "name": "Syringe",
     "id": "20100056",
-    "numMods": 4
+    "numMods": 2
   },
   "m093": {
     "code": "m093",
@@ -22681,7 +22681,7 @@
     },
     "name": "Syringe",
     "id": "20100057",
-    "numMods": 4
+    "numMods": 2
   },
   "m062": {
     "code": "m062",
@@ -22711,7 +22711,7 @@
     },
     "name": "Syringe",
     "id": "20100058",
-    "numMods": 4
+    "numMods": 2
   },
   "m075": {
     "code": "m075",
@@ -22741,7 +22741,7 @@
     },
     "name": "Cube",
     "id": "20100059",
-    "numMods": 4
+    "numMods": 2
   },
   "m084": {
     "code": "m084",
@@ -22771,7 +22771,7 @@
     },
     "name": "Cube",
     "id": "20100060",
-    "numMods": 4
+    "numMods": 2
   },
   "m073": {
     "code": "m073",
@@ -22801,7 +22801,7 @@
     },
     "name": "Cube",
     "id": "20100061",
-    "numMods": 4
+    "numMods": 2
   },
   "m076": {
     "code": "m076",
@@ -22831,7 +22831,7 @@
     },
     "name": "Cube",
     "id": "20100062",
-    "numMods": 4
+    "numMods": 2
   },
   "m074": {
     "code": "m074",
@@ -22861,7 +22861,7 @@
     },
     "name": "Cube",
     "id": "20100063",
-    "numMods": 4
+    "numMods": 2
   },
   "m112": {
     "code": "m112",
@@ -22891,7 +22891,7 @@
     },
     "name": "Bluron",
     "id": "20100064",
-    "numMods": 4
+    "numMods": 2
   },
   "m111": {
     "code": "m111",
@@ -22921,7 +22921,7 @@
     },
     "name": "Firon",
     "id": "20100065",
-    "numMods": 4
+    "numMods": 2
   },
   "m110": {
     "code": "m110",
@@ -22951,7 +22951,7 @@
     },
     "name": "Gron",
     "id": "20100066",
-    "numMods": 4
+    "numMods": 2
   },
   "m114": {
     "code": "m114",
@@ -22981,7 +22981,7 @@
     },
     "name": "Liron",
     "id": "20100067",
-    "numMods": 4
+    "numMods": 2
   },
   "m113": {
     "code": "m113",
@@ -23010,7 +23010,7 @@
     },
     "name": "Daron",
     "id": "20100068",
-    "numMods": 4
+    "numMods": 2
   },
   "m158": {
     "code": "m158",
@@ -23040,7 +23040,7 @@
     },
     "name": "Blue Drop",
     "id": "20100069",
-    "numMods": 4
+    "numMods": 2
   },
   "m155": {
     "code": "m155",
@@ -23070,7 +23070,7 @@
     },
     "name": "Red Drop",
     "id": "20100070",
-    "numMods": 4
+    "numMods": 2
   },
   "m157": {
     "code": "m157",
@@ -23100,7 +23100,7 @@
     },
     "name": "Green Drop",
     "id": "20100071",
-    "numMods": 4
+    "numMods": 2
   },
   "m159": {
     "code": "m159",
@@ -23130,7 +23130,7 @@
     },
     "name": "Purple Drop",
     "id": "20100072",
-    "numMods": 4
+    "numMods": 2
   },
   "m156": {
     "code": "m156",
@@ -23160,7 +23160,7 @@
     },
     "name": "Yellow Drop",
     "id": "20100073",
-    "numMods": 4
+    "numMods": 2
   },
   "m164": {
     "code": "m164",
@@ -23190,7 +23190,7 @@
     },
     "name": "Blue Blobbie",
     "id": "20100074",
-    "numMods": 4
+    "numMods": 2
   },
   "m161": {
     "code": "m161",
@@ -23220,7 +23220,7 @@
     },
     "name": "Red Blobbie",
     "id": "20100075",
-    "numMods": 4
+    "numMods": 2
   },
   "m163": {
     "code": "m163",
@@ -23250,7 +23250,7 @@
     },
     "name": "Green Blobbie",
     "id": "20100076",
-    "numMods": 4
+    "numMods": 2
   },
   "m165": {
     "code": "m165",
@@ -23280,7 +23280,7 @@
     },
     "name": "Purple Blobbie",
     "id": "20100077",
-    "numMods": 4
+    "numMods": 2
   },
   "m162": {
     "code": "m162",
@@ -23310,7 +23310,7 @@
     },
     "name": "Yellow Blobbie",
     "id": "20100078",
-    "numMods": 4
+    "numMods": 2
   },
   "m170": {
     "code": "m170",
@@ -23342,7 +23342,7 @@
     },
     "name": "Blue Heart",
     "id": "20100079",
-    "numMods": 6
+    "numMods": 4
   },
   "m167": {
     "code": "m167",
@@ -23374,7 +23374,7 @@
     },
     "name": "Red Heart",
     "id": "20100080",
-    "numMods": 6
+    "numMods": 4
   },
   "m169": {
     "code": "m169",
@@ -23406,7 +23406,7 @@
     },
     "name": "Green Heart",
     "id": "20100081",
-    "numMods": 6
+    "numMods": 4
   },
   "m171": {
     "code": "m171",
@@ -23438,7 +23438,7 @@
     },
     "name": "Purple Heart",
     "id": "20100082",
-    "numMods": 6
+    "numMods": 4
   },
   "m168": {
     "code": "m168",
@@ -23470,7 +23470,7 @@
     },
     "name": "Yellow Heart",
     "id": "20100083",
-    "numMods": 6
+    "numMods": 4
   },
   "m176": {
     "code": "m176",
@@ -23504,7 +23504,7 @@
     },
     "name": "Blue Heart",
     "id": "20100084",
-    "numMods": 8
+    "numMods": 6
   },
   "m173": {
     "code": "m173",
@@ -23538,7 +23538,7 @@
     },
     "name": "Red Heart",
     "id": "20100085",
-    "numMods": 8
+    "numMods": 6
   },
   "m175": {
     "code": "m175",
@@ -23572,7 +23572,7 @@
     },
     "name": "Green Heart",
     "id": "20100086",
-    "numMods": 8
+    "numMods": 6
   },
   "m177": {
     "code": "m177",
@@ -23606,7 +23606,7 @@
     },
     "name": "Purple Heart",
     "id": "20100087",
-    "numMods": 8
+    "numMods": 6
   },
   "m174": {
     "code": "m174",
@@ -23640,7 +23640,7 @@
     },
     "name": "Yellow Heart",
     "id": "20100088",
-    "numMods": 8
+    "numMods": 6
   },
   "m160": {
     "code": "m160",
@@ -23670,7 +23670,7 @@
     },
     "name": "Aurora Drop",
     "id": "20100094",
-    "numMods": 4
+    "numMods": 2
   },
   "m166": {
     "code": "m166",
@@ -23700,7 +23700,7 @@
     },
     "name": "Aurora Blobbie",
     "id": "20100095",
-    "numMods": 4
+    "numMods": 2
   },
   "m172": {
     "code": "m172",
@@ -23732,7 +23732,7 @@
     },
     "name": "Aurora Heart",
     "id": "20100096",
-    "numMods": 6
+    "numMods": 4
   },
   "m178": {
     "code": "m178",
@@ -23764,7 +23764,7 @@
     },
     "name": "Aurora Heart",
     "id": "20100097",
-    "numMods": 6
+    "numMods": 4
   },
   "c271": {
     "code": "c271",
@@ -23796,7 +23796,7 @@
     },
     "name": "Pixie",
     "id": "20100099",
-    "numMods": 6
+    "numMods": 4
   },
   "c258": {
     "code": "c258",
@@ -23828,7 +23828,7 @@
     },
     "name": "Pixie",
     "id": "20100100",
-    "numMods": 6
+    "numMods": 4
   },
   "c272": {
     "code": "c272",
@@ -23860,7 +23860,7 @@
     },
     "name": "Pixie",
     "id": "20100101",
-    "numMods": 6
+    "numMods": 4
   },
   "c270": {
     "code": "c270",
@@ -23893,7 +23893,7 @@
     },
     "name": "Pixie",
     "id": "20100102",
-    "numMods": 7
+    "numMods": 5
   },
   "c269": {
     "code": "c269",
@@ -23925,7 +23925,7 @@
     },
     "name": "Pixie",
     "id": "20100103",
-    "numMods": 6
+    "numMods": 4
   },
   "m197": {
     "code": "m197",
@@ -23972,7 +23972,7 @@
     "image2": "http://i.imgur.com/VsHO4Ol.png",
     "image3": "http://i.imgur.com/lLwZNI8.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m196": {
     "code": "m196",
@@ -24019,7 +24019,7 @@
     "image2": "http://i.imgur.com/NUSeQEU.png",
     "image3": "http://i.imgur.com/x2l22mW.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m194": {
     "code": "m194",
@@ -24066,7 +24066,7 @@
     "image2": "http://i.imgur.com/YiNS5e1.png",
     "image3": "http://i.imgur.com/TDglBGE.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m195": {
     "code": "m195",
@@ -24113,7 +24113,7 @@
     "image2": "http://i.imgur.com/QpC0vNH.png",
     "image3": "http://i.imgur.com/EGxb2rc.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m198": {
     "code": "m198",
@@ -24160,7 +24160,7 @@
     "image2": "http://i.imgur.com/jHsj4Dx.png",
     "image3": "http://i.imgur.com/Y40JXEj.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m199": {
     "code": "m199",
@@ -24207,7 +24207,7 @@
     "image2": "http://i.imgur.com/mfstWle.png",
     "image3": "http://i.imgur.com/m7Jt4pq.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m200": {
     "code": "m200",
@@ -24265,7 +24265,7 @@
     "image2": "http://i.imgur.com/07YryTc.png",
     "image3": "http://i.imgur.com/MnLRegC.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m201": {
     "code": "m201",
@@ -24323,7 +24323,7 @@
     "image2": "http://i.imgur.com/NqJcdr3.png",
     "image3": "http://i.imgur.com/GhDXclO.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m202": {
     "code": "m202",
@@ -24381,7 +24381,7 @@
     "image2": "http://i.imgur.com/gtgA9UA.png",
     "image3": "http://i.imgur.com/LluGl3S.png",
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m203": {
     "code": "m203",
@@ -24439,7 +24439,7 @@
     "image2": "http://i.imgur.com/9U04VqH.png",
     "image3": "http://i.imgur.com/Aa9czT9.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 4
   },
   "m205": {
     "code": "m205",
@@ -24484,7 +24484,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m206": {
     "code": "m206",
@@ -24531,7 +24531,7 @@
     "image2": "http://i.imgur.com/VaRzOei.png",
     "image3": "http://i.imgur.com/RRUoLmW.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m211": {
     "code": "m211",
@@ -24578,7 +24578,7 @@
     "image2": "https://i.imgur.com/krneDon.png",
     "image3": "https://i.imgur.com/tDkx0GA.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m212": {
     "code": "m212",
@@ -24625,7 +24625,7 @@
     "image2": "http://i.imgur.com/fpVKvBN.png",
     "image3": "http://i.imgur.com/JsT3DR9.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m214": {
     "code": "m214",
@@ -24652,7 +24652,7 @@
       }
     },
     "id": "20100123",
-    "numMods": 4
+    "numMods": 2
   },
   "m215": {
     "code": "m215",
@@ -24721,7 +24721,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 8
+    "numMods": 4
   },
   "m216": {
     "code": "m216",
@@ -24768,7 +24768,7 @@
     "image2": "http://i.imgur.com/8Kchp6S.png",
     "image3": "http://i.imgur.com/DqMtkE2.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m217": {
     "code": "m217",
@@ -24815,7 +24815,7 @@
     "image2": "http://i.imgur.com/das2DC7.png",
     "image3": "http://i.imgur.com/n7phGfL.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m218": {
     "code": "m218",
@@ -24832,7 +24832,7 @@
       }
     },
     "id": "20100128",
-    "numMods": 2
+    "numMods": 1
   },
   "m219": {
     "code": "m219",
@@ -24849,7 +24849,7 @@
       }
     },
     "id": "20100129",
-    "numMods": 2
+    "numMods": 1
   },
   "m220": {
     "code": "m220",
@@ -24866,7 +24866,7 @@
       }
     },
     "id": "20100130",
-    "numMods": 2
+    "numMods": 1
   },
   "m221": {
     "code": "m221",
@@ -24883,7 +24883,7 @@
       }
     },
     "id": "20100131",
-    "numMods": 2
+    "numMods": 1
   },
   "m222": {
     "code": "m222",
@@ -24900,7 +24900,7 @@
       }
     },
     "id": "20100132",
-    "numMods": 2
+    "numMods": 1
   },
   "m223": {
     "code": "m223",
@@ -24947,7 +24947,7 @@
     "image2": "http://i.imgur.com/cbdAAHK.png",
     "image3": "http://i.imgur.com/aBQ4LOt.png",
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "m224": {
     "code": "m224",
@@ -25002,7 +25002,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6
+    "numMods": 3
   },
   "m225": {
     "code": "m225",
@@ -25032,7 +25032,7 @@
     },
     "name": "Cosmim",
     "id": "20100136",
-    "numMods": 4
+    "numMods": 2
   },
   "m229": {
     "code": "m229",
@@ -25062,7 +25062,7 @@
     },
     "name": "Cosmim",
     "id": "20100138",
-    "numMods": 4
+    "numMods": 2
   },
   "m230": {
     "code": "m230",
@@ -25092,7 +25092,7 @@
     },
     "name": "Cosmim",
     "id": "20100139",
-    "numMods": 4
+    "numMods": 2
   },
   "m231": {
     "code": "m231",
@@ -25122,7 +25122,7 @@
     },
     "name": "Cross",
     "id": "20100140",
-    "numMods": 4
+    "numMods": 2
   },
   "m245": {
     "code": "m245",
@@ -25169,7 +25169,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 2
   },
   "c023": {
     "variants": {
@@ -25179,7 +25179,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c023"
   },
   "c075": {
@@ -25202,7 +25202,7 @@
         "title": "Odorous"
       }
     },
-    "numMods": 7,
+    "numMods": 4,
     "code": "c075",
     "name": "Taha"
   },
@@ -25225,7 +25225,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 3,
     "code": "c087",
     "name": "Ninurta"
   },
@@ -25244,7 +25244,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "c092",
     "name": "Eames"
   },
@@ -25259,7 +25259,7 @@
         ]
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "c122"
   },
   "c125": {
@@ -25298,7 +25298,7 @@
         ]
       }
     },
-    "numMods": 13,
+    "numMods": 11,
     "code": "c125",
     "name": "Sengoku"
   },
@@ -25322,7 +25322,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 3,
     "code": "c131",
     "name": "Oda"
   },
@@ -25337,7 +25337,7 @@
         "title": "Guarding"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "c140",
     "name": "Nodens"
   },
@@ -25360,7 +25360,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 3,
     "code": "c161",
     "name": "Justitia"
   },
@@ -25399,7 +25399,7 @@
         "title": "Sorrowful"
       }
     },
-    "numMods": 16,
+    "numMods": 12,
     "code": "c187",
     "name": "Mizutani"
   },
@@ -25421,7 +25421,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 3,
     "code": "c206"
   },
   "c215": {
@@ -25433,7 +25433,7 @@
         "title": "Immature"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c215",
     "name": "Surtr"
   },
@@ -25445,7 +25445,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c326"
   },
   "c327": {
@@ -25456,7 +25456,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c327"
   },
   "c328": {
@@ -25467,7 +25467,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c328"
   },
   "c352": {
@@ -25493,7 +25493,7 @@
         "title": ""
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c369",
     "name": "Old Lady"
   },
@@ -25516,7 +25516,7 @@
         ]
       }
     },
-    "numMods": 7,
+    "numMods": 4,
     "code": "c389"
   },
   "m239": {
@@ -25529,7 +25529,7 @@
         "title": "Giant"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "m239",
     "name": "Aurora King"
   },
@@ -25541,7 +25541,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m243"
   },
   "m262": {
@@ -25553,7 +25553,7 @@
         "title": "Return"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m262",
     "name": "Cocoon"
   },
@@ -25566,7 +25566,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc005",
     "name": "Mars"
   },
@@ -25579,7 +25579,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc009",
     "name": "Hector"
   },
@@ -25592,7 +25592,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc010",
     "name": "Demeter"
   },
@@ -25605,7 +25605,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc014",
     "name": "Astraea"
   },
@@ -25618,7 +25618,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc017",
     "name": "Cu Sith"
   },
@@ -25633,7 +25633,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc019",
     "name": "Eris"
   },
@@ -25646,7 +25646,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc020",
     "name": "Fortuna"
   },
@@ -25660,7 +25660,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc022",
     "name": "Mayahuel"
   },
@@ -25675,7 +25675,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc029",
     "name": "Selene"
   },
@@ -25688,7 +25688,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc041",
     "name": "Tiamat"
   },
@@ -25704,7 +25704,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc043",
     "name": "Hera"
   },
@@ -25717,7 +25717,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc044",
     "name": "Pantheon"
   },
@@ -25730,7 +25730,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc047",
     "name": "Hestia"
   },
@@ -25745,7 +25745,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc048",
     "name": "Neamhain"
   },
@@ -25758,7 +25758,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc052",
     "name": "Berit"
   },
@@ -25771,7 +25771,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc054",
     "name": "Legend"
   },
@@ -25786,7 +25786,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc060",
     "name": "Tisiphone"
   },
@@ -25799,7 +25799,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc062",
     "name": "Europa"
   },
@@ -25812,7 +25812,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc063",
     "name": "Freesia"
   },
@@ -25824,7 +25824,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc064"
   },
   "sc068": {
@@ -25836,7 +25836,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc068",
     "name": "Ambrosia"
   },
@@ -25849,7 +25849,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc069",
     "name": "Ptah"
   },
@@ -25864,7 +25864,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc086",
     "name": "Goga"
   },
@@ -25879,7 +25879,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc099",
     "name": "Melpomene"
   },
@@ -25892,7 +25892,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc112",
     "name": "Elias"
   },
@@ -25905,7 +25905,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc120",
     "name": "Flora"
   },
@@ -25918,7 +25918,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc139",
     "name": "Pomona"
   },
@@ -25931,7 +25931,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc142",
     "name": "Hypnos"
   },
@@ -25944,7 +25944,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc147",
     "name": "Baal"
   },
@@ -25957,7 +25957,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc154",
     "name": "Thoth"
   },
@@ -25971,7 +25971,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc156",
     "name": "Elizabeth"
   },
@@ -25986,7 +25986,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc158",
     "name": "Naias"
   },
@@ -25999,7 +25999,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc164",
     "name": "Ishtar"
   },
@@ -26015,7 +26015,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc174",
     "name": "A.I"
   },
@@ -26028,7 +26028,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc176",
     "name": "Eshu"
   },
@@ -26041,7 +26041,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc184",
     "name": "Elysion"
   },
@@ -26054,7 +26054,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc188",
     "name": "Atalanta"
   },
@@ -26067,7 +26067,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc209",
     "name": "Hecate"
   },
@@ -26080,7 +26080,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc214",
     "name": "Jupiter"
   },
@@ -26092,7 +26092,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc219"
   },
   "sc221": {
@@ -26106,7 +26106,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc221",
     "name": "Jana"
   },
@@ -26120,7 +26120,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc227",
     "name": "Mafdet"
   },
@@ -26135,7 +26135,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc230",
     "name": "Skuld"
   },
@@ -26148,7 +26148,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc234",
     "name": "Hercules"
   },
@@ -26161,7 +26161,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc235",
     "name": "Danu"
   },
@@ -26175,7 +26175,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc242",
     "name": "Ailill"
   },
@@ -26189,7 +26189,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc253",
     "name": "Nicole"
   },
@@ -26202,7 +26202,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc289",
     "name": "Durandal"
   },
@@ -26217,7 +26217,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc295",
     "name": "Unknown"
   },
@@ -26230,7 +26230,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc318",
     "name": "Bari"
   },
@@ -26243,7 +26243,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc319",
     "name": "Willow Doryeong"
   },
@@ -26258,7 +26258,7 @@
         ]
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc320"
   },
   "sc336": {
@@ -26270,7 +26270,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc336",
     "name": "Pan"
   },
@@ -26283,7 +26283,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc338",
     "name": "Pomona"
   },
@@ -26295,7 +26295,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc339"
   },
   "sc354": {
@@ -26309,7 +26309,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc354",
     "name": "Demeter"
   },
@@ -26322,7 +26322,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc374",
     "name": "Hildr"
   },
@@ -26335,7 +26335,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc379",
     "name": "Athena"
   },
@@ -26348,7 +26348,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc383",
     "name": "Frej"
   },
@@ -26361,7 +26361,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc386",
     "name": "Kasumi"
   },
@@ -26374,7 +26374,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc390",
     "name": "Eochaid"
   },
@@ -26387,7 +26387,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc392",
     "name": "Davi"
   },
@@ -26399,7 +26399,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc422"
   },
   "sc423": {
@@ -26410,7 +26410,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc423"
   },
   "sc428": {
@@ -26421,7 +26421,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc428"
   },
   "sc429": {
@@ -26432,7 +26432,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc429"
   },
   "sc433": {
@@ -26443,7 +26443,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc433"
   },
   "sc436": {
@@ -26454,7 +26454,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc436"
   },
   "sm038": {
@@ -26466,7 +26466,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm038",
     "name": "Diablo"
   },
@@ -26479,7 +26479,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm040",
     "name": "Chain Killer"
   },
@@ -26492,7 +26492,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm049",
     "name": "Skull"
   },
@@ -26505,7 +26505,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm051",
     "name": "Hades"
   },
@@ -26518,7 +26518,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm059",
     "name": "Bazooka"
   },
@@ -26531,7 +26531,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm136",
     "name": "Lady"
   },
@@ -26544,7 +26544,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm137",
     "name": "Bellboy"
   },
@@ -26557,7 +26557,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm146",
     "name": "Revenge Girl"
   },
@@ -26571,7 +26571,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sm149",
     "name": "Hertz"
   },
@@ -26584,7 +26584,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm192",
     "name": "Blood Dragon"
   },
@@ -26597,7 +26597,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm193",
     "name": "Pompoms"
   },
@@ -26610,7 +26610,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm217",
     "name": "Red Nose"
   },
@@ -26622,7 +26622,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "v005"
   },
   "v007": {
@@ -26653,7 +26653,7 @@
         ]
       }
     },
-    "numMods": 10,
+    "numMods": 5,
     "code": "v007"
   },
   "v008": {
@@ -26684,7 +26684,7 @@
         ]
       }
     },
-    "numMods": 10,
+    "numMods": 5,
     "code": "v008"
   },
   "c015": {
@@ -26698,7 +26698,7 @@
         "title": "Seasonal"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "c015",
     "name": "Helena"
   },
@@ -26711,7 +26711,7 @@
         "title": "Tyrannical"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c050",
     "name": "Od"
   },
@@ -26724,7 +26724,7 @@
         "title": "Kayano"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c113",
     "name": "Mido"
   },
@@ -26747,7 +26747,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 3,
     "code": "c116",
     "name": "Pluto"
   },
@@ -26772,7 +26772,7 @@
         ]
       }
     },
-    "numMods": 9,
+    "numMods": 6,
     "code": "c128"
   },
   "c129": {
@@ -26796,7 +26796,7 @@
         ]
       }
     },
-    "numMods": 8,
+    "numMods": 5,
     "code": "c129",
     "name": "Nike"
   },
@@ -26809,7 +26809,7 @@
         "title": "Plundering"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c226",
     "name": "Ragnar"
   },
@@ -26821,7 +26821,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c241"
   },
   "c251": {
@@ -26843,7 +26843,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 3,
     "code": "c251",
     "name": "Ganymede"
   },
@@ -26886,7 +26886,7 @@
         "title": "Prologue"
       }
     },
-    "numMods": 10,
+    "numMods": 9,
     "code": "c255",
     "name": "Mona"
   },
@@ -26899,7 +26899,7 @@
         "title": ""
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c256",
     "name": "Lisa"
   },
@@ -26916,7 +26916,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "c302"
   },
   "c314": {
@@ -26929,7 +26929,7 @@
         "title": "Debut"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "c314",
     "name": "Mona"
   },
@@ -26946,7 +26946,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "c325"
   },
   "c330": {
@@ -26957,7 +26957,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c330"
   },
   "c331": {
@@ -26968,7 +26968,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "c331"
   },
   "c375": {
@@ -26980,7 +26980,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "c375"
   },
   "c376": {
@@ -26992,7 +26992,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "c376"
   },
   "c399": {
@@ -27005,7 +27005,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "c399"
   },
   "c411": {
@@ -27017,7 +27017,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "c411"
   },
   "c413": {
@@ -27034,7 +27034,7 @@
         ]
       }
     },
-    "numMods": 5,
+    "numMods": 3,
     "code": "c413"
   },
   "c424": {
@@ -27046,7 +27046,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "c424"
   },
   "c447": {
@@ -27058,7 +27058,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "c447"
   },
   "m184": {
@@ -27069,7 +27069,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m184"
   },
   "m228": {
@@ -27082,7 +27082,7 @@
         "title": "Golden"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "m228",
     "name": "Charinn"
   },
@@ -27096,7 +27096,7 @@
         "title": "Golden"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "m232",
     "name": "Charinn"
   },
@@ -27109,7 +27109,7 @@
         "title": "Golden"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m233",
     "name": "Charinn"
   },
@@ -27123,7 +27123,7 @@
         "title": "Golden"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "m234",
     "name": "Charinn"
   },
@@ -27137,7 +27137,7 @@
         "title": "Golden"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "m235",
     "name": "Charinn"
   },
@@ -27150,7 +27150,7 @@
         "title": "Giant"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m236",
     "name": "Aurora King"
   },
@@ -27165,7 +27165,7 @@
         "title": "Giant"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "m237",
     "name": "Aurora King"
   },
@@ -27180,7 +27180,7 @@
         "title": "Giant"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "m238",
     "name": "Aurora King"
   },
@@ -27192,7 +27192,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m240"
   },
   "m241": {
@@ -27203,7 +27203,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m241"
   },
   "m242": {
@@ -27214,7 +27214,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m242"
   },
   "m244": {
@@ -27225,7 +27225,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m244"
   },
   "m253": {
@@ -27243,7 +27243,7 @@
         "title": "Rabbit"
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "m253",
     "name": "YUKINE"
   },
@@ -27258,7 +27258,7 @@
         "title": "Giant"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "m256",
     "name": "Aurora King"
   },
@@ -27271,7 +27271,7 @@
         "title": "Rabbit"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "m263",
     "name": "YUKINE"
   },
@@ -27284,7 +27284,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc001",
     "name": "Mona"
   },
@@ -27297,7 +27297,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc002",
     "name": "Lisa"
   },
@@ -27310,7 +27310,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc003",
     "name": "Davi"
   },
@@ -27323,7 +27323,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc004",
     "name": "Cheoyong"
   },
@@ -27336,7 +27336,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc007",
     "name": "Phoenix"
   },
@@ -27352,7 +27352,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc008",
     "name": "Frigga"
   },
@@ -27367,7 +27367,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc011",
     "name": "Deino"
   },
@@ -27380,7 +27380,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc012",
     "name": "Agamemnon"
   },
@@ -27393,7 +27393,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc013",
     "name": "Artemis"
   },
@@ -27406,7 +27406,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc018",
     "name": "Korra"
   },
@@ -27422,7 +27422,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc026",
     "name": "Eos"
   },
@@ -27435,7 +27435,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc027",
     "name": "Cynthia"
   },
@@ -27450,7 +27450,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc028",
     "name": "Leda"
   },
@@ -27463,7 +27463,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc030",
     "name": "Detective Girl"
   },
@@ -27476,7 +27476,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc031",
     "name": "Freyja"
   },
@@ -27489,7 +27489,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc032",
     "name": "Alecto"
   },
@@ -27502,7 +27502,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc033",
     "name": "Diana"
   },
@@ -27515,7 +27515,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc034",
     "name": "Mnemosyne"
   },
@@ -27528,7 +27528,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc035",
     "name": "Persephone"
   },
@@ -27541,7 +27541,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc036",
     "name": "Hermes"
   },
@@ -27554,7 +27554,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc037",
     "name": "Judas"
   },
@@ -27567,7 +27567,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc038",
     "name": "Calypso"
   },
@@ -27580,7 +27580,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc039",
     "name": "Morrigan"
   },
@@ -27595,7 +27595,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc040",
     "name": "Shamash"
   },
@@ -27610,7 +27610,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc045",
     "name": "Aria"
   },
@@ -27626,7 +27626,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc049",
     "name": "Maat"
   },
@@ -27639,7 +27639,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc051",
     "name": "Frej"
   },
@@ -27652,7 +27652,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc053",
     "name": "Metis"
   },
@@ -27666,7 +27666,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc056",
     "name": "Jeanne d'Arc"
   },
@@ -27682,7 +27682,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc057",
     "name": "Lan Fei"
   },
@@ -27699,7 +27699,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 6,
+    "numMods": 5,
     "code": "sc058",
     "name": "Nirrti"
   },
@@ -27716,7 +27716,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 6,
+    "numMods": 5,
     "code": "sc061",
     "name": "Siren"
   },
@@ -27729,7 +27729,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc065",
     "name": "Erato"
   },
@@ -27742,7 +27742,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc066",
     "name": "Aten"
   },
@@ -27755,7 +27755,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc067",
     "name": "Thanatos"
   },
@@ -27768,7 +27768,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc072",
     "name": "Fenrir"
   },
@@ -27781,7 +27781,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc074",
     "name": "Quirinus"
   },
@@ -27794,7 +27794,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc082",
     "name": "Calchas"
   },
@@ -27809,7 +27809,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc083",
     "name": "Neith"
   },
@@ -27822,7 +27822,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc090",
     "name": "Vulcan"
   },
@@ -27835,7 +27835,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc095",
     "name": "Vesta"
   },
@@ -27848,7 +27848,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc101",
     "name": "Syrinx"
   },
@@ -27861,7 +27861,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc106",
     "name": "Medeia"
   },
@@ -27874,7 +27874,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc107",
     "name": "Apollo"
   },
@@ -27886,7 +27886,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc110"
   },
   "sc115": {
@@ -27900,7 +27900,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc115",
     "name": "Sonnet"
   },
@@ -27913,7 +27913,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc117",
     "name": "Yaga"
   },
@@ -27926,7 +27926,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc121",
     "name": "Muse"
   },
@@ -27939,7 +27939,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc123",
     "name": "Baphomet"
   },
@@ -27953,7 +27953,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc124",
     "name": "Eve"
   },
@@ -27966,7 +27966,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc126",
     "name": "Salmacis"
   },
@@ -27979,7 +27979,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc127",
     "name": "Bastet"
   },
@@ -27992,7 +27992,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc130",
     "name": "Genius"
   },
@@ -28005,7 +28005,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc132",
     "name": "Midas"
   },
@@ -28020,7 +28020,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc133",
     "name": "Titania"
   },
@@ -28033,7 +28033,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc135",
     "name": "Valkyrie"
   },
@@ -28046,7 +28046,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc141",
     "name": "Amor"
   },
@@ -28058,7 +28058,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc144"
   },
   "sc148": {
@@ -28072,7 +28072,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc148",
     "name": "Inanna"
   },
@@ -28087,7 +28087,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc149",
     "name": "Rusalka"
   },
@@ -28101,7 +28101,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc153",
     "name": "Epona"
   },
@@ -28113,7 +28113,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc159"
   },
   "sc160": {
@@ -28125,7 +28125,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc160"
   },
   "sc167": {
@@ -28141,7 +28141,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 6,
+    "numMods": 5,
     "code": "sc167",
     "name": "Chang'e"
   },
@@ -28154,7 +28154,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc169",
     "name": "Euros"
   },
@@ -28167,7 +28167,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc172",
     "name": "Yuna"
   },
@@ -28180,7 +28180,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc173",
     "name": "Daoine Sidhe"
   },
@@ -28193,7 +28193,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc175",
     "name": "Red Cross"
   },
@@ -28206,7 +28206,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc178",
     "name": "Morgana"
   },
@@ -28219,7 +28219,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc180",
     "name": "Mammon"
   },
@@ -28234,7 +28234,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc183",
     "name": "Dana"
   },
@@ -28247,7 +28247,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc189",
     "name": "Kratos"
   },
@@ -28260,7 +28260,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc190",
     "name": "Isis"
   },
@@ -28273,7 +28273,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc191",
     "name": "Sekhmet"
   },
@@ -28286,7 +28286,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc194",
     "name": "Ashtoreth"
   },
@@ -28301,7 +28301,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc195",
     "name": "Cybele"
   },
@@ -28317,7 +28317,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc196",
     "name": "Idun"
   },
@@ -28330,7 +28330,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc198",
     "name": "Zelos"
   },
@@ -28345,7 +28345,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc199",
     "name": "Aurora"
   },
@@ -28358,7 +28358,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc200",
     "name": "Seshat"
   },
@@ -28372,7 +28372,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc202",
     "name": "Victorix"
   },
@@ -28385,7 +28385,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc205",
     "name": "Merlin"
   },
@@ -28398,7 +28398,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc208",
     "name": "Firo"
   },
@@ -28411,7 +28411,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc210",
     "name": "Tartarus"
   },
@@ -28424,7 +28424,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc216",
     "name": "Werewolf"
   },
@@ -28439,7 +28439,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc220",
     "name": "Atropos"
   },
@@ -28454,7 +28454,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc222",
     "name": "El Dorado"
   },
@@ -28469,7 +28469,7 @@
         ]
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc223"
   },
   "sc225": {
@@ -28481,7 +28481,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc225",
     "name": "Rudolph"
   },
@@ -28497,7 +28497,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc229",
     "name": "Brownie"
   },
@@ -28510,7 +28510,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc232",
     "name": "Daphne"
   },
@@ -28523,7 +28523,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc233",
     "name": "Arges"
   },
@@ -28535,7 +28535,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc237"
   },
   "sc238": {
@@ -28547,7 +28547,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc238",
     "name": "Medb"
   },
@@ -28560,7 +28560,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc246",
     "name": "Krampus"
   },
@@ -28575,7 +28575,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc247",
     "name": "Myrina"
   },
@@ -28588,7 +28588,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc262",
     "name": "Daphnis"
   },
@@ -28601,7 +28601,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc266",
     "name": "Horus"
   },
@@ -28615,7 +28615,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc267",
     "name": "Cleopatra"
   },
@@ -28628,7 +28628,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc274",
     "name": "Bast"
   },
@@ -28641,7 +28641,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc277",
     "name": "Leuce"
   },
@@ -28654,7 +28654,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc280",
     "name": "Tyche"
   },
@@ -28667,7 +28667,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc283",
     "name": "Morgan"
   },
@@ -28680,7 +28680,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc286",
     "name": "Verdelet"
   },
@@ -28692,7 +28692,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc287"
   },
   "sc290": {
@@ -28704,7 +28704,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc290",
     "name": "Brigid"
   },
@@ -28717,7 +28717,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc292",
     "name": "Luin"
   },
@@ -28732,7 +28732,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc294",
     "name": "Bathory"
   },
@@ -28750,7 +28750,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 7,
+    "numMods": 6,
     "code": "sc296",
     "name": "Hildr"
   },
@@ -28762,7 +28762,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc297"
   },
   "sc299": {
@@ -28774,7 +28774,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc299",
     "name": "Santa Claus"
   },
@@ -28787,7 +28787,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc300",
     "name": "Pietas"
   },
@@ -28800,7 +28800,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc301",
     "name": "Jacheongbi"
   },
@@ -28812,7 +28812,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc304"
   },
   "sc305": {
@@ -28825,7 +28825,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc305",
     "name": "Rita"
   },
@@ -28838,7 +28838,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc308",
     "name": "Kubaba"
   },
@@ -28851,7 +28851,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc310",
     "name": "Bes"
   },
@@ -28867,7 +28867,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc311",
     "name": "Khepri"
   },
@@ -28880,7 +28880,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc312",
     "name": "Tyrving"
   },
@@ -28892,7 +28892,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc315"
   },
   "sc316": {
@@ -28904,7 +28904,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc316",
     "name": "Wodan"
   },
@@ -28917,7 +28917,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc317",
     "name": "Babel"
   },
@@ -28929,7 +28929,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc321"
   },
   "sc324": {
@@ -28943,7 +28943,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc324",
     "name": "Mona"
   },
@@ -28955,7 +28955,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc343"
   },
   "sc344": {
@@ -28967,7 +28967,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc344",
     "name": "Isolde"
   },
@@ -28986,7 +28986,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 8,
+    "numMods": 7,
     "code": "sc345",
     "name": "Anemone"
   },
@@ -28999,7 +28999,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc346",
     "name": "Tristan"
   },
@@ -29012,7 +29012,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc347",
     "name": "Dana"
   },
@@ -29025,7 +29025,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc348",
     "name": "Mars♥"
   },
@@ -29038,7 +29038,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc349",
     "name": "Saturn♥"
   },
@@ -29053,7 +29053,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc350",
     "name": "Neptune♥"
   },
@@ -29068,7 +29068,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc351",
     "name": "Venus♥"
   },
@@ -29081,7 +29081,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc353",
     "name": "Charlotte"
   },
@@ -29096,7 +29096,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc355",
     "name": "Chang'e"
   },
@@ -29109,7 +29109,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc360",
     "name": "Maat"
   },
@@ -29121,7 +29121,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc362"
   },
   "sc364": {
@@ -29135,7 +29135,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc364",
     "name": "Sytry"
   },
@@ -29148,7 +29148,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc365",
     "name": "Lisa"
   },
@@ -29161,7 +29161,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc366",
     "name": "Deino"
   },
@@ -29174,7 +29174,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc370",
     "name": "Mona"
   },
@@ -29187,7 +29187,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc371",
     "name": "Lisa"
   },
@@ -29201,7 +29201,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc372",
     "name": "Davi"
   },
@@ -29214,7 +29214,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc377",
     "name": "Iphis"
   },
@@ -29228,7 +29228,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc378",
     "name": "Pallas"
   },
@@ -29240,7 +29240,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc381"
   },
   "sc382": {
@@ -29252,7 +29252,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc382",
     "name": "Neamhain"
   },
@@ -29265,7 +29265,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc385",
     "name": "Marie Rose"
   },
@@ -29278,7 +29278,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc387",
     "name": "Honoka"
   },
@@ -29291,7 +29291,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc391",
     "name": "Medb"
   },
@@ -29304,7 +29304,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc393",
     "name": "Mona"
   },
@@ -29317,7 +29317,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc394",
     "name": "Bathory"
   },
@@ -29330,7 +29330,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc395",
     "name": "Eve"
   },
@@ -29343,7 +29343,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc396",
     "name": "Werewolf"
   },
@@ -29356,7 +29356,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc397",
     "name": "Leda"
   },
@@ -29368,7 +29368,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc398"
   },
   "sc400": {
@@ -29379,7 +29379,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc400"
   },
   "sc402": {
@@ -29391,7 +29391,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc402",
     "name": "Noel"
   },
@@ -29405,7 +29405,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc403",
     "name": "Makoto"
   },
@@ -29418,7 +29418,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc404",
     "name": "Nine"
   },
@@ -29430,7 +29430,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc405"
   },
   "sc406": {
@@ -29442,7 +29442,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc406",
     "name": "Serval"
   },
@@ -29455,7 +29455,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc407",
     "name": "Raccoon"
   },
@@ -29468,7 +29468,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc408",
     "name": "Fennec"
   },
@@ -29482,7 +29482,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc409",
     "name": "Limos"
   },
@@ -29494,7 +29494,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc410"
   },
   "sc412": {
@@ -29505,7 +29505,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc412"
   },
   "sc414": {
@@ -29516,7 +29516,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc414"
   },
   "sc415": {
@@ -29527,7 +29527,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc415"
   },
   "sc416": {
@@ -29538,7 +29538,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc416"
   },
   "sc417": {
@@ -29549,7 +29549,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc417"
   },
   "sc418": {
@@ -29560,7 +29560,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc418"
   },
   "sc419": {
@@ -29573,7 +29573,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc419",
     "name": "Catherine"
   },
@@ -29586,7 +29586,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc420",
     "name": "Katherine"
   },
@@ -29599,7 +29599,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc421",
     "name": "Rin"
   },
@@ -29611,7 +29611,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc426"
   },
   "sc430": {
@@ -29622,7 +29622,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc430"
   },
   "sc431": {
@@ -29633,7 +29633,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc431"
   },
   "sc432": {
@@ -29644,7 +29644,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc432"
   },
   "sc434": {
@@ -29655,7 +29655,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc434"
   },
   "sc435": {
@@ -29667,7 +29667,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc435"
   },
   "sc437": {
@@ -29678,7 +29678,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc437"
   },
   "sc438": {
@@ -29689,7 +29689,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sc438"
   },
   "sm003": {
@@ -29701,7 +29701,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm003",
     "name": "Fire Dragon"
   },
@@ -29714,7 +29714,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm007",
     "name": "Teddy"
   },
@@ -29727,7 +29727,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm036",
     "name": "Messenger"
   },
@@ -29740,7 +29740,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm037",
     "name": "Chaser"
   },
@@ -29753,7 +29753,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm039",
     "name": "Kali Yuga"
   },
@@ -29766,7 +29766,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm045",
     "name": "Bouquet"
   },
@@ -29779,7 +29779,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm050",
     "name": "Guillotine"
   },
@@ -29792,7 +29792,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm052",
     "name": "Basilisk"
   },
@@ -29805,7 +29805,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm053",
     "name": "Hydra"
   },
@@ -29818,7 +29818,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm056",
     "name": "Abaddon"
   },
@@ -29831,7 +29831,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm057",
     "name": "Olga"
   },
@@ -29844,7 +29844,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm063",
     "name": "Ampoule"
   },
@@ -29857,7 +29857,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm077",
     "name": "Moa"
   },
@@ -29870,7 +29870,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm141",
     "name": "Halloween"
   },
@@ -29883,7 +29883,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm142",
     "name": "Revenge Girl"
   },
@@ -29896,7 +29896,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm143",
     "name": "Revenge Girl"
   },
@@ -29909,7 +29909,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm144",
     "name": "Revenge Girl"
   },
@@ -29922,7 +29922,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm145",
     "name": "Revenge Girl"
   },
@@ -29935,7 +29935,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm148",
     "name": "Won"
   },
@@ -29948,7 +29948,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm150",
     "name": "Hat-Trick"
   },
@@ -29961,7 +29961,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm151",
     "name": "Arms"
   },
@@ -29974,7 +29974,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm152",
     "name": "Fighter"
   },
@@ -29987,7 +29987,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm153",
     "name": "Manti"
   },
@@ -30000,7 +30000,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm154",
     "name": "Gungnir"
   },
@@ -30013,7 +30013,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm189",
     "name": "Mimic"
   },
@@ -30026,7 +30026,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm190",
     "name": "Boxer"
   },
@@ -30039,7 +30039,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm191",
     "name": "Chimera"
   },
@@ -30052,7 +30052,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm199",
     "name": "Azure Dragon"
   },
@@ -30065,7 +30065,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm200",
     "name": "Ankh"
   },
@@ -30078,7 +30078,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm216",
     "name": "Fairy"
   },
@@ -30090,7 +30090,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm224"
   },
   "sm245": {
@@ -30102,7 +30102,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm245",
     "name": "Creature"
   },
@@ -30115,7 +30115,7 @@
         "title": "Hot Spring"
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "sm261",
     "name": "Moa"
   },
@@ -30127,7 +30127,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "v002"
   },
   "v003": {
@@ -30143,7 +30143,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "v003"
   },
   "v004": {
@@ -30159,7 +30159,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "v004"
   },
   "v006": {
@@ -30170,7 +30170,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 1,
     "code": "v006"
   },
   "sc187": {
@@ -30251,7 +30251,7 @@
         "title": "True Archfiend"
       }
     },
-    "numMods": 11,
+    "numMods": 15,
     "name": "Davi"
   },
   "c373": {
@@ -30270,7 +30270,7 @@
         "title": "Black-Winged Messenger"
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "name": "Midas"
   },
   "c383": {
@@ -30296,7 +30296,7 @@
         "title": "Unleashed"
       }
     },
-    "numMods": 2,
+    "numMods": 4,
     "name": "Frej"
   },
   "c450": {
