@@ -30635,12 +30635,13 @@
     "variants": {
       "01": {
         "mods": [
-          "407d0ebb9fced845331010fbd29a7cbd"
+          "407d0ebb9fced845331010fbd29a7cbd",
+          "bff459c63f94fde201cd9c6b4cf36ae9"
         ],
         "title": "Hot Spring"
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "name": "Midas"
   },
   "c992": {
