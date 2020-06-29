@@ -19,13 +19,20 @@ mergeDirs(path.join(__dirname, '../build'), docsPath, 'overwrite')
 fs.copyFileSync(path.join(srcDataPath, 'mods.json'), path.join(docsDataPath, 'mods.json'))
 fs.copyFileSync(path.join(srcDataPath, 'characters.json'), path.join(docsDataPath, 'characters.json'))
 
+const copyIndexHtmlToDocs = p => {
+  fs.mkdirSync(path.join(docsPath, p), {recursive: true})
+  fs.copyFileSync(path.join(__dirname, '../docs/index.html'), path.join(docsPath, p, 'index.html'))
+}
+
+copyIndexHtmlToDocs('childs')
+
 // create child HTML files
 Object.keys(characters).forEach(code => {
   Object.keys(characters[code].variants).forEach(variant => {
     const codePath = path.join(__dirname, '../docs/characters/' + code),
           variantPath = path.join(codePath, variant)
-    fs.mkdirSync(variantPath, {recursive: true})
-    fs.copyFileSync(path.join(__dirname, '../docs/index.html'), path.join(codePath, 'index.html'))
-    fs.copyFileSync(path.join(__dirname, '../docs/index.html'), path.join(variantPath, 'index.html'))
+          fs.mkdirSync(variantPath, {recursive: true})
+    copyIndexHtmlToDocs('characters/' + code + '/' + variant)
+    copyIndexHtmlToDocs('characters/' + code)
   })
 })
