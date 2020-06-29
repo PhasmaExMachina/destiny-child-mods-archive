@@ -4,7 +4,7 @@ import characters from './data/characters.json'
 import ModPreview from './ModPreview'
 
 function CharacterVariant() {
-  const {code, variant} = useParams(),
+  const {code} = useParams(),
         character = characters[code],
         {name, variants} = character
   return (
@@ -14,11 +14,12 @@ function CharacterVariant() {
         {' > '}
         {name}
       </p>
+      <h2>{name} ({code})</h2>
       {Object.keys(variants).sort().map(variant => (
         <div key={variant}>
           <h3>{variants[variant].title} {name} Mods ({code}_{variant})</h3>
           {variants[variant].mods.map(hash =>
-            <ModPreview {...{character, variant, hash}} />
+            <ModPreview key={hash} {...{character, variant, hash}} />
           )}
         </div>
       ))}

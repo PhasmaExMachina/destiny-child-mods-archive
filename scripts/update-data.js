@@ -83,12 +83,14 @@ fs.readdirSync(charactersPath).forEach(charDir => {
 
 // const mods = {}
 
-// Object.keys(characters).forEach(code => {
-//   Object.keys(characters[code].variants).forEach(variant => {
-//     characters[code].variants[variant].mods = characters[code].variants[variant].mods.map(hash => hash)
-//     // characters[code].variants[variant].mods = characters[code].variants[variant].mods
-//   })
-// })
-// fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
+Object.keys(characters).forEach(code => {
+  characters[code].numMods = 0
+  Object.keys(characters[code].variants).forEach(variant => {
+    characters[code].numMods += characters[code].variants[variant].mods.length
+    // characters[code].variants[variant].mods = characters[code].variants[variant].mods.map(hash => hash)
+    // characters[code].variants[variant].mods = characters[code].variants[variant].mods
+  })
+})
+fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 // fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
 // fs.writeFileSync(path.join(__dirname, '../seen/textures.json'), JSON.stringify(textures, null, 2))

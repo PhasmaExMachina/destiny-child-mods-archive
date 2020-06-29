@@ -1,4 +1,5 @@
 import React, {useState} from 'react';
+import TablePagination from '@material-ui/core/TablePagination'
 import CharacterPreview from './CharacterPreview'
 import characters from './data/characters.json'
 import mods from './data/mods.json'
@@ -6,7 +7,6 @@ import useQuery from './use-query'
 import {useHistory, useLocation, Link} from "react-router-dom"
 import queryString from 'query-string'
 import ModPreview from './ModPreview';
-import basePath from './base-path';
 
 function Home() {
   const query = useQuery(),
@@ -15,10 +15,10 @@ function Home() {
         {
           stars,
           type = 'c',
-          perPage = '5',
-          view = 'characters',
-          sort = 'code',
-          order = 'asc',
+          perPage = '10',
+          view = 'mods',
+          sort = 'added',
+          order = 'desc',
           page = '0'
         } = query,
         [filter, setFilter] = useState(''),
@@ -60,7 +60,7 @@ function Home() {
     })
   }
   if(sort === 'added') {
-    filtered.sort((a, b) => a.created > b.created ? -1 : a.created > b.created ? 1 : 0)
+    filtered.sort((a, b) => a.created < b.created ? -1 : a.created < b.created ? 1 : 0)
   }
   if(order === 'desc') filtered.reverse()
   const numPerPage = perPage === 'all' ? filtered.length : parseInt(perPage),
@@ -79,56 +79,41 @@ function Home() {
     <>
       <p>All PCK files have been converted to universal and should work in both Global and KR/JP. To download, click on a mod image to launch the Live2d preview, then on the download icon in the top right. Instructions on installing mods can be found <a href="https://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" taget="_blank">here</a> or on <a href="http://letmegooglethat.com/?q=destiny+child+how+to+install+mods" target="_blank" rel="noopener noreferrer" >Google</a>. There's also a <a href="https://discord.gg/2vew9te" target="_blank" rel="noopener noreferrer" >Discord community</a>. The <a href="#credits">credits</a> are at the bottom.</p>
       <p>
+        {(view !== 'mods' || sort !== 'added' || order !== 'desc')
+          ? <a onClick={() => setQueryParam({
+            view: 'mods',
+            pageNum: 0,
+            perPage: 20,
+            sort: 'added',
+            order: 'desc',
+            type: 'all'
+          })}>
+            Latest Mods</a>
+          : <span style={{fontWeight: 'bold'}}>Latest Mods</span>
+        }
+        {' | '}
         {(view !== 'characters')
           ? <a onClick={() => setQueryParam({view: 'characters', pageNum: 0, perPage: 5, sort: 'code', order: false})}>
             Mods by Character
           </a>
           : <span style={{fontWeight: 'bold'}}>Mods by Character</span>
         }
-        {' | '}
-        {(view !== 'mods' || sort !== 'added' || order !== 'asc')
-          ? <a style={{marginRight: '1em'}} onClick={() => setQueryParam({
-            view: 'mods',
-            pageNum: 0,
-            perPage: 20,
-            sort: 'added',
-            order: 'asc',
-            type: 'all'
-          })}>
-            Latest Mods
-          </a>
-          : <span style={{fontWeight: 'bold'}}>Latest Mods</span>
-        }
       </p>
       <p>Show{' '}
-        <select onChange={({target: {value}}) => setQueryParam({page: 0, perPage: value === '10' ? false : value})} value={perPage}>
-          <option value="5">5</option>
-          <option value="10">10</option>
-          <option value="20">20</option>
-          <option value="50">50</option>
-          <option value="100">100</option>
-          <option value="all">all</option>
-        </select>
-        {' '}
-        <select onChange={({target: {value}}) => setQueryParam({
-          view: value === 'characters' ? false :
-          value, page: 0,
-          perPage: value === 'characters' ? 5 : 20
-        })} value={view}>
+        <select onChange={({target: {value}}) => setQueryParam({view: value !== 'mods' && value, page: 0})} value={view}>
           <option value="characters">Characters</option>
           <option value="mods">Mods</option>
         </select>
-        {' '}{perPage !== 'all' ? 'per page' : ''}
         {' '}sorted by{' '}
         {view === 'characters'
           ? 'model code'
-          : <select onChange={({target: {value}}) => setQueryParam({sort: value === 'code' ? false : value})} value={sort}>
+          : <select onChange={({target: {value}}) => setQueryParam({sort: value !== 'added' && value})} value={sort}>
             <option value="code">Model Code</option>
             <option value="added">Latest</option>
           </select>
         }
         {' '}
-        <select onChange={({target: {value}}) => setQueryParam({order: value === 'asc' ? false : value})} value={order}>
+        <select onChange={({target: {value}}) => setQueryParam({order: value !== 'desc' && value})} value={order}>
           <option value="asc">Ascending</option>
           <option value="desc">Descending</option>
         </select>
@@ -155,7 +140,14 @@ function Home() {
           <option value="v">Other</option>
         </select>
       </p>
-      <PageSummary />
+      <TablePagination
+        component="div"
+        count={filtered.length}
+        page={pageNum}
+        onChangePage={(_, page) => setQueryParam({page})}
+        rowsPerPage={numPerPage}
+        onChangeRowsPerPage={({target: {value}}) => setQueryParam({perPage: value != '10' && parseInt(value, 10)})}
+      />
       {view === 'characters'
         ? filtered.slice(pageNum * numPerPage, pageNum * numPerPage + numPerPage).map(character => (
           <CharacterPreview key={character.code} character={character} />
@@ -164,15 +156,14 @@ function Home() {
           <ModPreview {...{character: characters[code], variant, hash, key: hash}} />
         )
       }
-      <PageSummary />
-      <p>
-        <a href="#" onClick={() => setQueryParam({page: 0})}>First</a>{' '}
-        {new Array(maxPage).fill(1).map((_, i) => i == pageNum
-          ? <span style={{marginRight: '.25em'}}>{i + 1}</span>
-          : <><a href="#" onClick={() => setQueryParam({page: i})} style={{marginRight: '.25em'}}>{i + 1}</a>{' '}</>
-        )}{' '}
-        <a href="#" onClick={() => setQueryParam({page: maxPage})}>Last</a>
-      </p>
+      <TablePagination
+        component="div"
+        count={filtered.length}
+        page={pageNum}
+        onChangePage={(_, page) => setQueryParam({page})}
+        rowsPerPage={numPerPage}
+        onChangeRowsPerPage={({target: {value}}) => setQueryParam({perPage: value != '10' && parseInt(value, 10)})}
+      />
     </>
   )
 }

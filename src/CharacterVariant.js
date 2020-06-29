@@ -12,13 +12,13 @@ function CharacterVariant() {
       <p>
         <Link to="/">Home</Link>
         {' > '}
-        <Link to={`/characters/${code}`}>{name}</Link>
+        <Link to={`/characters/${code}`}>{name || '[unknown]'}</Link>
         {' > '}
         {variants[variant].title} {name} ({code}_{variant})
       </p>
       <h2>{variants[variant].title} {name} Mods</h2>
       {variants[variant].mods.map(hash =>
-        <ModPreview {...{character, variant, hash}} />
+        <ModPreview key={hash} {...{character, variant, hash}} />
       )}
     </>
   )
