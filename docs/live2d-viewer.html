@@ -46,8 +46,9 @@
         modelName = urlParams.get('model');
         modHash = urlParams.get('modHash');
         previewMade = true;
+        modelScale = urlParams.get('scale') ? parseFloat(urlParams.get('scale')) : 1;
+        console.log('modelScale', urlParams.get('scale'), modelScale)
         const background = urlParams.get('background')
-        console.log('background', background)
         if(background) document.body.style.background = background
         document.getElementById('download').title = 'Download universal ' + modelName + '.pck'
         document.getElementById('download').href = `./characters/${modelName}/${modHash}/${modelName}.pck`
