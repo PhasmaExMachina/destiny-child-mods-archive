@@ -26,7 +26,7 @@
     <a style="text-decoration: none; position: relative; top: 5px;" id="download">
       <img src="./img/download-icon.png" height="72" />
     </a>
-    <a style="text-decoration: none" target="_blank" rel="noopener noreferrer"  title="Modding instructions and resources" href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding">
+    <a style="text-decoration: none" target="_blank" rel="noopener noreferrer"  title="Modding instructions and resources" href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" id="help">
       <img src="./img/info-icon.png" height="60"/>
     </a>
   </div>
@@ -50,8 +50,14 @@
         console.log('modelScale', urlParams.get('scale'), modelScale)
         const background = urlParams.get('background')
         if(background) document.body.style.background = background
-        document.getElementById('download').title = 'Download universal ' + modelName + '.pck'
-        document.getElementById('download').href = `./characters/${modelName}/${modHash}/${modelName}.pck`
+        if(urlParams.get('hideUI')) {
+          document.getElementById('download').style.display = 'none'
+          document.getElementById('help').style.display = 'none'
+        }
+        else {
+          document.getElementById('download').title = 'Download universal ' + modelName + '.pck'
+          document.getElementById('download').href = `./characters/${modelName}/${modHash}/${modelName}.pck`
+        }
     </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script>
