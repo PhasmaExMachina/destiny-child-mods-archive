@@ -19,15 +19,41 @@
     var ajax_error_500 = "An error occured, please <a href=\"/apk/display_pck/1172\">reload</a> the page";
 
   //--></script>
+  <style type="text/css">
+    body {
+      background-color: #111;
+    }
+    a {
+      text-decoration: none;
+    }
+    #icons {
+      position: absolute;
+      top: 0;
+      right: 0;
+      padding: 1em;
+      vertical-align: middle;
+    }
+    #icons img {
+      height: 36px;
+      filter: invert(100%) brightness(.5);
+      vertical-align: middle;
+    }
+  </style>
 </head>
 
 <body>
-  <div style="position: absolute; top: 0; right: 0; padding-right: 1em; font-family: Arial, Helvetica, sans-serif; font-size: 1.5em; text-decoration: none;">
-    <a style="text-decoration: none; position: relative; top: 5px;" id="download">
-      <img src="./img/download-icon.png" height="72" />
+  <div id="icons">
+    <a id="download">
+      <img src="./img/icons/cloud-download.png" />
     </a>
-    <a style="text-decoration: none" target="_blank" rel="noopener noreferrer"  title="Modding instructions and resources" href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding" id="help">
-      <img src="./img/info-icon.png" height="60"/>
+    <a target="_blank" rel="noopener noreferrer"  title="Modding instructions and resources" href="http://wiki.anime-sharing.com/hgames/index.php?title=Destiny_Child/Modding">
+      <img src="./img/icons/help.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer"  title="See more mods" href="./">
+      <img src="./img/icons/image-multiple.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer"  title="Android DC Mod Manager App" href="https://github.com/PhasmaExMachina/dc-mod-manager/blob/master/README.md">
+      <img src="./img/icons/android.png" />
     </a>
   </div>
   <canvas id="canvas" class="maxwidth" width="4000" height="4000" onclick="totsugeki()" style="display: block; margin: auto;"></canvas>
@@ -51,8 +77,7 @@
         const background = urlParams.get('background')
         if(background) document.body.style.background = background
         if(urlParams.get('hideUI')) {
-          document.getElementById('download').style.display = 'none'
-          document.getElementById('help').style.display = 'none'
+          document.getElementById('icons').style.display = 'none'
         }
         else {
           document.getElementById('download').title = 'Download universal ' + modelName + '.pck'
