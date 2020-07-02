@@ -29515,11 +29515,12 @@
     "variants": {
       "01": {
         "mods": [
-          "5147f81520bd7c843199ad31ed26eaab"
+          "5147f81520bd7c843199ad31ed26eaab",
+          "c27eba45c00aa11f875ac86d631b2d93"
         ]
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "code": "sc414"
   },
   "sc415": {
