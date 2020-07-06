@@ -2599,7 +2599,8 @@
     "variants": {
       "10": {
         "mods": [
-          "7f1bdf108728e23e6818ed89305cc7d1"
+          "7f1bdf108728e23e6818ed89305cc7d1",
+          "2d5b00ef27813db8747d462e4cc18b61"
         ]
       },
       "00": {
@@ -2662,7 +2663,7 @@
     "image2": "http://i.imgur.com/J0QB1TM.png",
     "image3": "http://i.imgur.com/CWGyVq6.png",
     "imageSkin": null,
-    "numMods": 11
+    "numMods": 12
   },
   "c049": {
     "code": "c049",
@@ -4011,7 +4012,8 @@
       },
       "00": {
         "mods": [
-          "0271f3bcb21918870ea08dee62423b94"
+          "0271f3bcb21918870ea08dee62423b94",
+          "551b3aa1e19970eedf84d567a1c42a8a"
         ]
       }
     },
@@ -4034,7 +4036,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4
+    "numMods": 5
   },
   "c074": {
     "code": "c074",
@@ -4351,7 +4353,8 @@
         "is_voice": "0",
         "title": "Kyoko",
         "mods": [
-          "4856adaf1c3a43d448ed9e3d07f60ee6"
+          "4856adaf1c3a43d448ed9e3d07f60ee6",
+          "c26543d33b04bc514c19f5a164d05369"
         ]
       },
       "01": {
@@ -4405,7 +4408,7 @@
     "image2": "http://i.imgur.com/qanINxK.png",
     "image3": "http://i.imgur.com/pNWGnwb.png",
     "imageSkin": null,
-    "numMods": 12
+    "numMods": 13
   },
   "c091": {
     "code": "c091",
@@ -4418,7 +4421,8 @@
         "is_voice": "0",
         "title": "Yuriko",
         "mods": [
-          "21844dec03c773b28420302f968ca26c"
+          "21844dec03c773b28420302f968ca26c",
+          "58458c8f8656f774f302e69ab7d403d0"
         ]
       },
       "01": {
@@ -4466,7 +4470,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 8
   },
   "c095": {
     "code": "c095",
@@ -4479,7 +4483,8 @@
         "is_voice": "0",
         "title": "Kumiko",
         "mods": [
-          "459557930098fc72abfe27c133506161"
+          "459557930098fc72abfe27c133506161",
+          "ff370be6f4bb28969532eac036c05ef1"
         ]
       },
       "01": {
@@ -4530,7 +4535,7 @@
     "image2": "http://i.imgur.com/yNIrqLV.png",
     "image3": "http://i.imgur.com/saX4nON.png",
     "imageSkin": null,
-    "numMods": 9
+    "numMods": 10
   },
   "c099": {
     "code": "c099",
@@ -4575,7 +4580,8 @@
         "title": "Marin",
         "mods": [
           "a320d08243ef23db2af582378548cdad",
-          "cf02e643b0539ad31ae342247d7caf70"
+          "cf02e643b0539ad31ae342247d7caf70",
+          "31b2d462dc8382cad33295ce0d53a1d0"
         ]
       }
     },
@@ -4598,7 +4604,7 @@
     "image2": "http://i.imgur.com/QPcD9Oe.png",
     "image3": "http://i.imgur.com/GMONEIo.png",
     "imageSkin": null,
-    "numMods": 13
+    "numMods": 14
   },
   "c101": {
     "code": "c101",
@@ -4648,7 +4654,8 @@
         "is_voice": "1",
         "title": "Nanami",
         "mods": [
-          "8ea0cc429846307cd1420b8b406afc9b"
+          "8ea0cc429846307cd1420b8b406afc9b",
+          "befdd628322144133d8c8e334e54e203"
         ]
       }
     },
@@ -4671,7 +4678,7 @@
     "image2": "http://i.imgur.com/jN3mjht.png",
     "image3": "http://i.imgur.com/brxbQs9.png",
     "imageSkin": null,
-    "numMods": 18
+    "numMods": 19
   },
   "c106": {
     "code": "c106",
@@ -4883,7 +4890,8 @@
         "title": "Shino",
         "mods": [
           "f77f86f3b80a2d0792442c56bf4d1810",
-          "843a0d6c81d9de9444f26ae5721f996b"
+          "843a0d6c81d9de9444f26ae5721f996b",
+          "4d9b3e63ab392677657c88ae55a69d91"
         ]
       }
     },
@@ -4906,7 +4914,7 @@
     "image2": "http://i.imgur.com/O1Vyx3t.png",
     "image3": "http://i.imgur.com/Z2tmCaj.png",
     "imageSkin": null,
-    "numMods": 7
+    "numMods": 8
   },
   "c117": {
     "code": "c117",
@@ -4919,7 +4927,8 @@
         "is_voice": "0",
         "title": "Himiko",
         "mods": [
-          "40a468b32bc6adc75d65319703a04dc5"
+          "40a468b32bc6adc75d65319703a04dc5",
+          "1abf5a13897013f5f7ab5f6c7d5d9ed8"
         ]
       },
       "01": {
@@ -4966,7 +4975,7 @@
     "image2": "http://i.imgur.com/a7K7spv.png",
     "image3": "http://i.imgur.com/7l9V9Qq.png",
     "imageSkin": null,
-    "numMods": 5
+    "numMods": 6
   },
   "c120": {
     "code": "c120",
@@ -25213,7 +25222,8 @@
     "variants": {
       "00": {
         "mods": [
-          "88fe984373beb9f4f1640b5bed85ca82"
+          "88fe984373beb9f4f1640b5bed85ca82",
+          "f320c18d9ff49ea96e7d6d2d83042079"
         ]
       },
       "01": {
@@ -25228,7 +25238,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 4,
     "code": "c087",
     "name": "Ninurta"
   },
@@ -26722,12 +26732,13 @@
     "variants": {
       "00": {
         "mods": [
-          "c88ad15890cfe660d55e2074f6dbff3b"
+          "c88ad15890cfe660d55e2074f6dbff3b",
+          "88d8031a7e0385ec1d7e7ac72b2497d9"
         ],
         "title": "Kayano"
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "code": "c113",
     "name": "Mido"
   },
@@ -26735,7 +26746,8 @@
     "variants": {
       "00": {
         "mods": [
-          "460eaae7dc7a1af06f40d8487fee108a"
+          "460eaae7dc7a1af06f40d8487fee108a",
+          "681f7d8303e9b8093de8b858b8f9163c"
         ]
       },
       "01": {
@@ -26750,7 +26762,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 4,
     "code": "c116",
     "name": "Pluto"
   },
@@ -26897,12 +26909,13 @@
     "variants": {
       "01": {
         "mods": [
-          "a0beade1bd4ef8d4f6c1c3e289786127"
+          "a0beade1bd4ef8d4f6c1c3e289786127",
+          "34e7871c1e82886a77f4382ece9e752d"
         ],
         "title": ""
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "code": "c256",
     "name": "Lisa"
   },
@@ -30512,21 +30525,24 @@
     "variants": {
       "00": {
         "mods": [
-          "50fd531419f51d6f3d4711f57b6cbc11"
+          "50fd531419f51d6f3d4711f57b6cbc11",
+          "e5d77b12be7fa008ad20deff4fe155d2"
         ]
       },
       "01": {
         "mods": [
-          "fc5cb741650286d228f840d68f5c2f04"
+          "fc5cb741650286d228f840d68f5c2f04",
+          "aa5e2ff1c20ae760521e4177e73a9a29"
         ]
       },
       "02": {
         "mods": [
-          "e4d4e4d3317d3d1ed15a8b8dd989f24f"
+          "e4d4e4d3317d3d1ed15a8b8dd989f24f",
+          "3cd0322d129429b882ff0a5147e288f5"
         ]
       }
     },
-    "numMods": 3
+    "numMods": 6
   },
   "c275": {
     "code": "c275",
