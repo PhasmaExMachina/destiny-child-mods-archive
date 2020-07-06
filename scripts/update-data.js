@@ -103,4 +103,4 @@ const modelInfo = {};
 [modelInfoGlobal, modelInfoKr, modelInfoJp].forEach(info =>
   Object.keys(info).forEach(code => modelInfo[code] = modelInfo[code] || info[code])
 )
-fs.writeFileSync(path.join(__dirname, '../src/data/model_info.merged.json'), JSON.stringify(modelInfo, null, 2))
+fs.writeFileSync(path.join(__dirname, '../docs/data/model_info.merged.json'), JSON.stringify(modelInfo, null, 2))
