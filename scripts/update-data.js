@@ -1,7 +1,10 @@
 const fs = require('fs'),
       path = require('path'),
       md5File = require('md5-file').sync,
-      characters = require('../src/data/characters.json')
+      characters = require('../src/data/characters.json'),
+      modelInfoGlobal = require('../docs/data/model_info.global.json'),
+      modelInfoKr = require('../docs/data/model_info.kr.json'),
+      modelInfoJp = require('../docs/data/model_info.jp.json')
 // Object.keys(characters).forEach(code => {
 //   characters[code] = characters[code] || {}
 //   characters[code].code = characters[code].code || code
@@ -94,3 +97,10 @@ Object.keys(characters).forEach(code => {
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 // fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
 // fs.writeFileSync(path.join(__dirname, '../seen/textures.json'), JSON.stringify(textures, null, 2))
+
+// merge model infos
+const modelInfo = {};
+[modelInfoGlobal, modelInfoKr, modelInfoJp].forEach(info =>
+  Object.keys(info).forEach(code => modelInfo[code] = modelInfo[code] || info[code])
+)
+fs.writeFileSync(path.join(__dirname, '../src/data/model_info.merged.json'), JSON.stringify(modelInfo, null, 2))
