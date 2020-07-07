@@ -29,3 +29,4 @@ yarn-error.log*
 /iport-pck/*
 **/preview.png
 **/temp/*
+**/_dev/*
