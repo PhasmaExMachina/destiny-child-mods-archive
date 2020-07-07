@@ -89,18 +89,36 @@ fs.readdirSync(charactersPath).forEach(charDir => {
 Object.keys(characters).forEach(code => {
   characters[code].numMods = 0
   Object.keys(characters[code].variants).forEach(variant => {
+    characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
     characters[code].numMods += characters[code].variants[variant].mods.length
     // characters[code].variants[variant].mods = characters[code].variants[variant].mods.map(hash => hash)
     // characters[code].variants[variant].mods = characters[code].variants[variant].mods
   })
 })
-fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 // fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
 // fs.writeFileSync(path.join(__dirname, '../seen/textures.json'), JSON.stringify(textures, null, 2))
 
 // merge model infos
-const modelInfo = {};
-[modelInfoGlobal, modelInfoKr, modelInfoJp].forEach(info =>
-  Object.keys(info).forEach(code => modelInfo[code] = modelInfo[code] || info[code])
-)
+const modelInfo = {}
+const regions = ['global', 'kr', 'jp']
+;[modelInfoGlobal, modelInfoKr, modelInfoJp].forEach((info, i) => {
+  const region = regions[i]
+  Object.keys(info).forEach(codeAndVariant => {
+    modelInfo[codeAndVariant] = modelInfo[codeAndVariant] || info[codeAndVariant]
+    const [_, code, variant] = codeAndVariant.match(/([a-z][a-z]?\d\d\d)_(\d\d)/)
+    characters[code] = characters[code] || {code, mods: []}
+    characters[code].regions = characters[code].regions || []
+    if(characters[code].regions.indexOf(region) < 0) {
+      characters[code].regions.push(region)
+    }
+    characters[code].variants = characters[code].variants || {}
+    characters[code].variants[variant] = characters[code].variants[variant] || {}
+    characters[code].variants[variant].regions = characters[code].variants[variant].regions || []
+    if(characters[code].variants[variant].regions.indexOf(region) < 0) {
+      characters[code].variants[variant].regions.push(region)
+    }
+  })
+})
 fs.writeFileSync(path.join(__dirname, '../docs/data/model_info.merged.json'), JSON.stringify(modelInfo, null, 2))
+
+fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
