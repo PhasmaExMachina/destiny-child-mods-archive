@@ -5220,10 +5220,8 @@
         "mods": [
           "ba977ee6e4614ce61ae23e27f202b4e2",
           "6a70d2481757a00a1c5a603a323ff02c",
-          "82d91aa12c79158ad81a6c16aaaf8392",
           "dc97672ca461f2183c486bd58452ebae",
-          "2119603801d80abaf96d56c9669fcfcc",
-          "78a64f2ed7f1e03dceb57853c9e29c39"
+          "2119603801d80abaf96d56c9669fcfcc"
         ]
       },
       "02": {
@@ -5263,7 +5261,7 @@
     "image2": "http://i.imgur.com/cVX2Zfj.png",
     "image3": "http://i.imgur.com/smvbYBS.png",
     "imageSkin": "http://i.imgur.com/8OXSO1P.png",
-    "numMods": 24
+    "numMods": 22
   },
   "c126": {
     "code": "c126",
