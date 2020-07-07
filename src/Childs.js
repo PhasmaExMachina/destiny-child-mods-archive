@@ -30,7 +30,7 @@ function Childs() {
   page = parseInt(page, 0)
   perPage = parseInt(perPage, 10)
   const childs = Object.keys(characters).reduce((acc, code) => {
-    if(code.match(/^(c|m)\d\d\d/) && characters[code].starLevel) {
+    if(code.match(/^(c|m)\d\d\d/)) {
       acc.push(characters[code])
     }
     return acc
@@ -50,7 +50,7 @@ function Childs() {
   if(order === 'desc') filtered.reverse()
   return (
     <>
-      <h2>Childs Database</h2>
+      <h2>Characters Database</h2>
       <p>
         Filter:{' '}
         <input onKeyUp={({target: {value}}) => {
@@ -101,7 +101,7 @@ function Childs() {
         onChangeRowsPerPage={({target: {value}}) => setQueryParam({perPage: value != '10' && parseInt(value, 10)})}
       />
       {filtered.slice(page * perPage, page * perPage + perPage).map(child => (
-        <div key={child.code} style={{clear: 'left', marginBottom: '1em', border: '1px solid', padding: '.5em'}}>
+        <div key={child.code} style={{clear: 'left', marginBottom: '1em', border: '1px solid', padding: '.5em', minHeight: '200px'}}>
           <Link to={'/characters/' + child.code}>
             <img src={child.image2 || child.image3 || child.image4 || child.image1} style={{
               height: '200px',
@@ -113,28 +113,47 @@ function Childs() {
           </Link>
           <h3>
             <Link to={'/characters/' + child.code}>
-              <img src={basePath + '/img/types/' + child.type + '.png'} style={{
-                verticalAlign: 'middle'
-              }} />{' '}
-              <img src={basePath + '/img/elements/' + child.element + '.png'} style={{
-                verticalAlign: 'middle'
-              }} />{' '}
-              {child.name} ({child.code})
               {child.thumbnail &&
                 <img src={child.thumbnail} style={{
                   height: '26px',
-                  marginLeft: '.5em',
+                  marginRight: '.5em',
                   verticalAlign: 'middle'
                 }}/>
               }
+              {child.type &&
+                <>
+                  <img src={basePath + '/img/types/' + child.type + '.png'} style={{
+                    verticalAlign: 'middle'
+                  }} />{' '}
+                </>
+              }
+              {child.element &&
+                <>
+                  <img src={basePath + '/img/elements/' + child.element + '.png'} style={{
+                    verticalAlign: 'middle'
+                  }} />{' '}
+                </>
+              }
+              {child.name || '?'} ({child.code})
+              {child.regions.map(region =>
+                <img src={basePath + '/img/icons/regions/' + region + '.png'} style={{
+                  height: '24px',
+                  verticalAlign: 'middle',
+                  marginLeft: '.5em'
+                }} title={region}/>
+              )}
             </Link>
           </h3>
           <p>Variants: {Object.keys(child.variants).length} {' '} Mods: <Link to={'/characters/' + child.code}>{child.numMods}</Link></p>
-          <p>Attack: {child.skillAuto}</p>
-          <p>Tap Skill: {child.skillTap}</p>
-          <p>Slide Skill: {child.skillSlide}</p>
-          <p>Drive Skill: {child.skillDrive}</p>
-          <p>Leader Skill: {child.skillLeader}</p>
+          {child.skillAuto &&
+            <>
+              <p>Attack: {child.skillAuto}</p>
+              <p>Tap Skill: {child.skillTap}</p>
+              <p>Slide Skill: {child.skillSlide}</p>
+              <p>Drive Skill: {child.skillDrive}</p>
+              <p>Leader Skill: {child.skillLeader}</p>
+            </>
+          }
         </div>
       ))}
       <TablePagination

@@ -12,6 +12,8 @@ function CharacterVariant() {
       <p>
         <Link to="/">Home</Link>
         {' > '}
+        <Link to="/childs">Childs Database</Link>
+        {' > '}
         {name}
       </p>
       <h2>{name} ({code})</h2>

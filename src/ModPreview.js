@@ -2,7 +2,7 @@ import React from 'react'
 import basePath from './base-path'
 import {Link} from 'react-router-dom'
 
-function CharacterImage({character: {name, variants, code}, variant, hash}) {
+function CharacterImage({character: {name, variants, code, regions}, variant, hash}) {
   variant = variant || ['01', '00'].reduce((acc, vId) => {
     return acc || (variants[vId] ? vId : false)
   }, false)
