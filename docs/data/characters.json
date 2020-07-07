@@ -6883,10 +6883,10 @@
           "2137717e2bbbd7f156f1dcef31cc134e",
           "248f7f02a17880722e1e2136638c26e2",
           "006c0b7d561445d922726482dc19ea35",
-          "0d05d9e9a6da1faabd13b74de855d7c3",
           "9a61688982aeddfc854e0e7767f9f5b5",
           "df6f4b574b99515590d9b1e4fab036ae",
-          "8686a0137c63307e8f08d801f1978c49"
+          "8686a0137c63307e8f08d801f1978c49",
+          "8a924f5bbd074b1a5bfff0e273fde1ed"
         ],
         "regions": [
           "global",
@@ -6914,7 +6914,7 @@
     "image2": "http://i.imgur.com/cVX2Zfj.png",
     "image3": "http://i.imgur.com/smvbYBS.png",
     "imageSkin": "http://i.imgur.com/8OXSO1P.png",
-    "numMods": 22,
+    "numMods": 23,
     "regions": [
       "global",
       "kr",
@@ -36713,7 +36713,8 @@
           "4b080f0a2f423f74b8b92cd95ebfe809",
           "7f7421aafe9d012008c24c7fa2c1ae03",
           "0332f31548e4ef2544848840fa6375c6",
-          "0be5f54b01f1e438ad68999ff4840a51"
+          "0be5f54b01f1e438ad68999ff4840a51",
+          "850c005e2c3e4450e986ad1f1f254b1d"
         ],
         "title": "",
         "regions": [
@@ -36733,7 +36734,7 @@
         ]
       }
     },
-    "numMods": 5,
+    "numMods": 6,
     "code": "c254",
     "name": "Davi",
     "regions": [
