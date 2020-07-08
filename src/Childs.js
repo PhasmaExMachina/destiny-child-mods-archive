@@ -15,7 +15,8 @@ function Childs() {
           sort = 'name',
           order = 'ask',
           element = '',
-          type = ''
+          type = '',
+          region = ''
         } = query,
         setQueryParam = params => {
           const newParams = Object.assign({}, query, params)
@@ -40,6 +41,14 @@ function Childs() {
     : childs)
   if(element) filtered = filtered.filter(child => child.element === element)
   if(type) filtered = filtered.filter(child => child.type === type)
+  if(region) {
+    const [r, exclusive] = region.split('-')
+    console.log('region', r, exclusive)
+    filtered = filtered.filter(child => {
+      const regions = child.regions || []
+      return regions.indexOf(r) > 0 && (!exclusive || regions.length == 1)
+    })
+  }
   const getAttack = ({skillAuto}) => parseInt(skillAuto.match(/\d+/)[0])
   if(sort === 'attack') {
     filtered = filtered.sort((a, b) => getAttack(a) > getAttack(b) ? 1 : getAttack(b) > getAttack(a) ? -1 : 0)
@@ -91,6 +100,17 @@ function Childs() {
           <option value="support">Supporter</option>
           <option value="tank">Defender</option>
         </select>
+        {' '}Region:{' '}
+        <select onChange={(({target: {value}}) => setQueryParam({region: value !== '' && value}))} value={region}>
+          <option value="">All regions</option>
+          <option value="global">Glogal</option>
+          <option value="global-exclusive">Global Exclusive</option>
+          <option value="kr">KR</option>
+          <option value="kr-exclusive">KR Exclusive</option>
+          <option value="jp">JP</option>
+          <option value="jp-exclusive">JP Exclusive</option>
+        </select>
+
       </p>
       <TablePagination
         component="div"
