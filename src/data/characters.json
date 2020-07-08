@@ -12275,7 +12275,9 @@
         "title": "Morishige",
         "mods": [
           "977e6b94cb983cb3525f883f6b1f1341",
-          "399d726157eeb482abe71751a77dabc7"
+          "399d726157eeb482abe71751a77dabc7",
+          "cfbfd25614c489d2d0b15b2aa78df8e2",
+          "565f9290112a3b4c05cb0a60c139b74e"
         ],
         "regions": [
           "global",
@@ -12336,7 +12338,7 @@
     "image2": "http://i.imgur.com/IFd6IC8.png",
     "image3": "http://i.imgur.com/kVus4S5.png",
     "imageSkin": null,
-    "numMods": 5,
+    "numMods": 7,
     "regions": [
       "global",
       "kr",

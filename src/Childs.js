@@ -5,6 +5,7 @@ import queryString from 'query-string'
 import useQuery from './use-query'
 import characters from './data/characters.json'
 import basePath from './base-path'
+import CharacterImage from './CharacterImage'
 
 function Childs() {
   const [filter, setFilter] = useState(''),
@@ -16,7 +17,8 @@ function Childs() {
           order = 'ask',
           element = '',
           type = '',
-          region = ''
+          region = '',
+          starLevel = ''
         } = query,
         setQueryParam = params => {
           const newParams = Object.assign({}, query, params)
@@ -37,8 +39,9 @@ function Childs() {
     return acc
   }, [])
   let filtered = (filter
-    ? childs.filter(child => (child.name || '').toLowerCase().match(filter.toLowerCase()))
+    ? childs.filter(child => ((child.name || '') + ' ' + child.code).toLowerCase().match(filter.toLowerCase()))
     : childs)
+  if(starLevel) filtered = filtered.filter(child => child.starLevel == starLevel)
   if(element) filtered = filtered.filter(child => child.element === element)
   if(type) filtered = filtered.filter(child => child.type === type)
   if(region) {
@@ -82,7 +85,16 @@ function Childs() {
         </select>
       </p>
       <p>
-        Element:{' '}
+        Rarity:{' '}
+        <select onChange={(({target: {value}}) => setQueryParam({starLevel: value !== '' && value}))} value={starLevel}>
+          <option value="">Any Rarity</option>
+          <option value="5">5 Star</option>
+          <option value="4">4 Star</option>
+          <option value="3">3 Star</option>
+          <option value="2">2 Star</option>
+          <option value="1">1 Star</option>
+        </select>
+        {' '}Element:{' '}
         <select onChange={(({target: {value}}) => setQueryParam({element: value !== '' && value}))} value={element}>
           <option value="">Any element</option>
           <option value="fire">Fire</option>
@@ -121,15 +133,16 @@ function Childs() {
         onChangeRowsPerPage={({target: {value}}) => setQueryParam({perPage: value != '10' && parseInt(value, 10)})}
       />
       {filtered.slice(page * perPage, page * perPage + perPage).map(child => (
-        <div key={child.code} style={{clear: 'left', marginBottom: '1em', border: '1px solid', padding: '.5em', minHeight: '200px'}}>
+        <div key={child.code} style={{clear: 'left', marginBottom: '1em', border: '1px solid', padding: '.5em', minHeight: '330px'}}>
           <Link to={'/characters/' + child.code}>
-            <img src={child.image2 || child.image3 || child.image4 || child.image1} style={{
-              height: '200px',
-              width: '73px',
+            <div style={{
               float: 'left',
-              marginRight: '1em',
-              marginBottom: '1em'
-            }}/>
+              margin: '1em',
+              width: '300px',
+              textAlign: 'center',
+            }}>
+              <CharacterImage character={child} />
+            </div>
           </Link>
           <h3>
             <Link to={'/characters/' + child.code}>
@@ -160,13 +173,14 @@ function Childs() {
                   height: '24px',
                   verticalAlign: 'middle',
                   marginLeft: '.5em'
-                }} title={region}/>
+                }} key={region} title={region}/>
               )}
             </Link>
           </h3>
           <p>Variants: {Object.keys(child.variants).length} {' '} Mods: <Link to={'/characters/' + child.code}>{child.numMods}</Link></p>
-          {child.skillAuto &&
+          {child.starLevel &&
             <>
+              <p>Rarity: {child.starLevel} star</p>
               <p>Attack: {child.skillAuto}</p>
               <p>Tap Skill: {child.skillTap}</p>
               <p>Slide Skill: {child.skillSlide}</p>
