@@ -141,7 +141,7 @@ function Childs() {
               width: '300px',
               textAlign: 'center',
             }}>
-              <CharacterImage character={child} />
+              <CharacterImage character={child} style={{minHeight: '200px'}} />
             </div>
           </Link>
           <h3>

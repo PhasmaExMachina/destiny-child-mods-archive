@@ -12039,7 +12039,16 @@
           "0e1e0841388a52a6d622a70c6d3bc7cd",
           "616274488a6930bea6b4700df44deb5b",
           "aae3da4e34d46a6c7c9d215a35263d9e",
-          "145f337399b6389eca6d02c20600c807"
+          "145f337399b6389eca6d02c20600c807",
+          "7c113bad6f22629e5e8f6d0145aeb7c8",
+          "218e42b4e0fd23b5dea9be265849ca9a",
+          "2b073adc87bdca6ec220d007359560c6",
+          "fd162ebf5b1f6d98fc5ee18d58b7e6d2",
+          "dde85114ff78165bf9a9580c5a4bea3f",
+          "e0b1e2b6d15f4130cbfae6deccbb720b",
+          "1a1e48acc9e900e867ce5fc8f5aef136",
+          "95994cd8138f9450756b3032768c33a3",
+          "741d30ddec5149509ccc4628dd4df94a"
         ],
         "regions": [
           "global",
@@ -12116,7 +12125,7 @@
     "image2": "http://i.imgur.com/aHfNWab.png",
     "image3": "http://i.imgur.com/kI6URqP.png",
     "imageSkin": "http://i.imgur.com/09NRTIe.png",
-    "numMods": 11,
+    "numMods": 20,
     "regions": [
       "global",
       "kr",
