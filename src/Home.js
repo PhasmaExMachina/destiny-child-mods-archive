@@ -14,7 +14,7 @@ function Home() {
         history = useHistory(),
         {
           stars,
-          type = 'c',
+          type = 'all',
           perPage = '10',
           view = 'mods',
           sort = 'added',
