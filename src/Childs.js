@@ -36,7 +36,7 @@ function Childs() {
     return acc
   }, [])
   let filtered = (filter
-    ? childs.filter(child => (child.name).toLowerCase().match(filter.toLowerCase()))
+    ? childs.filter(child => (child.name || '').toLowerCase().match(filter.toLowerCase()))
     : childs)
   if(element) filtered = filtered.filter(child => child.element === element)
   if(type) filtered = filtered.filter(child => child.type === type)

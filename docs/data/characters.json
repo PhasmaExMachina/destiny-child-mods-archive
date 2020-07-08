@@ -461,7 +461,8 @@
         "is_voice": "0",
         "title": "Summer Dream",
         "mods": [
-          "5695e1a8983a351b2f3747475743b877"
+          "5695e1a8983a351b2f3747475743b877",
+          "b137bf1b203ccbfb3ea12bde7daa8297"
         ],
         "regions": [
           "global",
@@ -640,7 +641,7 @@
     "image2": "http://i.imgur.com/urR0MnE.png",
     "image3": "http://i.imgur.com/5PqDuVh.png",
     "imageSkin": "http://i.imgur.com/laFOqxq.png",
-    "numMods": 41,
+    "numMods": 42,
     "regions": [
       "global",
       "kr",
