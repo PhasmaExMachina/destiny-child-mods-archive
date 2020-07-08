@@ -12277,7 +12277,9 @@
           "977e6b94cb983cb3525f883f6b1f1341",
           "399d726157eeb482abe71751a77dabc7",
           "cfbfd25614c489d2d0b15b2aa78df8e2",
-          "565f9290112a3b4c05cb0a60c139b74e"
+          "565f9290112a3b4c05cb0a60c139b74e",
+          "a0ce28962dbb425acecf821a41116eab",
+          "cab7efa00528d62ed79ac6f8e708bac9"
         ],
         "regions": [
           "global",
@@ -12338,7 +12340,7 @@
     "image2": "http://i.imgur.com/IFd6IC8.png",
     "image3": "http://i.imgur.com/kVus4S5.png",
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 9,
     "regions": [
       "global",
       "kr",
