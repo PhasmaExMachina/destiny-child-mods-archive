@@ -9,6 +9,7 @@ const missingCroppedThumb = []
 
 Object.keys(characters).sort().forEach(model => {
   Object.keys(characters[model].variants).sort().forEach(variantId => {
+    characters[model].variants[variantId].mods = characters[model].variants[variantId].mods || []
     characters[model].variants[variantId].mods.forEach(hash => {
       if(fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + hash + '/preview.png')) &&
         !fs.existsSync(path.join(__dirname, '../docs/characters/' + model + '_' + variantId + '/' + hash + '/static.png'))
