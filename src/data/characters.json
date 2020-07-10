@@ -19137,7 +19137,8 @@
         "view_idx": "c287_88",
         "is_voice": "1",
         "mods": [
-          "f798369809b633bd11f324d84d995af8"
+          "f798369809b633bd11f324d84d995af8",
+          "c54c6d3929d3055c0e4b390b366aa14c"
         ],
         "regions": [
           "kr",
@@ -19151,7 +19152,8 @@
         "view_idx": "c287_89",
         "is_voice": "1",
         "mods": [
-          "caa5817f2701cf0a7ee4702fdbcccd73"
+          "caa5817f2701cf0a7ee4702fdbcccd73",
+          "c8eceb7c390822db7f5cd9a1bbe8ab2c"
         ],
         "regions": [
           "kr",
@@ -19180,7 +19182,8 @@
         "view_idx": "c287_02",
         "is_voice": "0",
         "mods": [
-          "51f046b92257f8e09dc2ebb3c70d77e1"
+          "51f046b92257f8e09dc2ebb3c70d77e1",
+          "a03c151c4e1f9c965f7f0429c5734a45"
         ],
         "regions": [
           "kr",
@@ -19216,7 +19219,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 9,
     "regions": [
       "kr",
       "jp"
