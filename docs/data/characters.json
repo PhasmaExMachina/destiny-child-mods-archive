@@ -2956,7 +2956,8 @@
           "e4948972d1609f9e0e01ed7317cccaf6",
           "61fc011afe4cc0402e06b63ba08a1e51",
           "c5e43457bfc577550ed2dac1ceab6a83",
-          "87767d4a466813683cad102a2735e07a"
+          "87767d4a466813683cad102a2735e07a",
+          "b1e4c77e375d724de0fd8191f5e4ba45"
         ],
         "regions": [
           "global",
@@ -2984,7 +2985,7 @@
     "image2": "http://i.imgur.com/9HomDEy.png",
     "image3": "http://i.imgur.com/2XqlWLU.png",
     "imageSkin": null,
-    "numMods": 9,
+    "numMods": 10,
     "regions": [
       "global",
       "kr",
@@ -5069,9 +5070,7 @@
         "is_voice": "0",
         "title": "Tuning",
         "mods": [
-          "55b233f4f4257d55c8989685b8087b07",
-          "685673450081721442d5200c6dbb511a",
-          "3d0b618aab938edfe1a279b22ee03084"
+          "55b233f4f4257d55c8989685b8087b07"
         ],
         "regions": [
           "global",
@@ -5099,7 +5098,7 @@
     "image2": "http://i.imgur.com/D2A43Ce.png",
     "image3": "http://i.imgur.com/PkMMRmZ.png",
     "imageSkin": null,
-    "numMods": 5,
+    "numMods": 3,
     "regions": [
       "global",
       "kr",
