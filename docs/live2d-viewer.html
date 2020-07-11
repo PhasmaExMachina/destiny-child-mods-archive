@@ -52,6 +52,9 @@
     <a target="_blank" rel="noopener noreferrer"  title="See more mods" href="./">
       <img src="./img/icons/image-multiple.png" />
     </a>
+    <a target="_blank" rel="noopener noreferrer"  title="View texture" id="texture">
+      <img src="./img/icons/format-paint.png" />
+    </a>
     <a target="_blank" rel="noopener noreferrer"  title="Android DC Mod Manager App" href="https://github.com/PhasmaExMachina/dc-mod-manager/blob/master/README.md">
       <img src="./img/icons/android.png" />
     </a>
@@ -82,6 +85,7 @@
         else {
           document.getElementById('download').title = 'Download universal ' + modelName + '.pck'
           document.getElementById('download').href = `./characters/${modelName}/${modHash}/${modelName}.pck`
+          document.getElementById('texture').href = `./characters/${modelName}/${modHash}/texture_00.png`
         }
     </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
