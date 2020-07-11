@@ -5054,7 +5054,9 @@
         "is_voice": "0",
         "title": "Restorative",
         "mods": [
-          "0d6e87af3e00dc33c4b348a41a5153bd"
+          "0d6e87af3e00dc33c4b348a41a5153bd",
+          "851ac594f2d567ad9ad66e2d404d189d",
+          "486a3011a00941e34cee74c50960b96b"
         ],
         "regions": [
           "global",
@@ -5101,7 +5103,7 @@
     "image2": "http://i.imgur.com/D2A43Ce.png",
     "image3": "http://i.imgur.com/PkMMRmZ.png",
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 8,
     "regions": [
       "global",
       "kr",
