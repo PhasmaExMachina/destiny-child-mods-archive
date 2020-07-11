@@ -6757,7 +6757,8 @@
         "is_voice": "0",
         "title": "Kaneko",
         "mods": [
-          "3cd5354631a9b48ba47df58ef224d9b3"
+          "3cd5354631a9b48ba47df58ef224d9b3",
+          "37f5eeef1fc055b0454c6022de7fc026"
         ],
         "regions": [
           "global",
@@ -6785,7 +6786,7 @@
     "image2": "http://i.imgur.com/W4oEacl.png",
     "image3": "http://i.imgur.com/0qCxJLf.png",
     "imageSkin": null,
-    "numMods": 8,
+    "numMods": 9,
     "regions": [
       "global",
       "kr",
@@ -6854,7 +6855,8 @@
         "is_voice": "0",
         "title": "",
         "mods": [
-          "d792754f6bc2a3e06d7453b7ea45ad74"
+          "d792754f6bc2a3e06d7453b7ea45ad74",
+          "9a264140c830d1443e142a3d11e35aae"
         ],
         "regions": [
           "global",
@@ -6925,7 +6927,7 @@
     "image2": "http://i.imgur.com/cVX2Zfj.png",
     "image3": "http://i.imgur.com/smvbYBS.png",
     "imageSkin": "http://i.imgur.com/8OXSO1P.png",
-    "numMods": 24,
+    "numMods": 25,
     "regions": [
       "global",
       "kr",
@@ -6942,7 +6944,8 @@
         "view_idx": "c126_00",
         "is_voice": "0",
         "mods": [
-          "4fb3014d3be0d376d760dc807bcc1d56"
+          "4fb3014d3be0d376d760dc807bcc1d56",
+          "619e7bbe4d03098a49cc70d6eb268828"
         ],
         "regions": [
           "global",
@@ -7004,7 +7007,7 @@
     "image2": "http://i.imgur.com/vptssS6.png",
     "image3": "http://i.imgur.com/NndOcLl.png",
     "imageSkin": null,
-    "numMods": 5,
+    "numMods": 6,
     "regions": [
       "global",
       "kr",
@@ -7044,7 +7047,8 @@
         "is_voice": "0",
         "title": "Natsuki",
         "mods": [
-          "9f2a08194a4597c144f40f0331213f0a"
+          "9f2a08194a4597c144f40f0331213f0a",
+          "eeda1893f2904bc00afee833dbc361dc"
         ],
         "regions": [
           "global",
@@ -7111,7 +7115,7 @@
     "image2": "http://i.imgur.com/a5EUIz0.png",
     "image3": "http://i.imgur.com/0ZJupLF.png",
     "imageSkin": "http://i.imgur.com/qCb6WlE.png",
-    "numMods": 17,
+    "numMods": 18,
     "regions": [
       "global",
       "kr",
@@ -7129,7 +7133,8 @@
         "is_voice": "0",
         "title": "Kagura",
         "mods": [
-          "d25c9e8f51fe7773b50df5e317fa4a0d"
+          "d25c9e8f51fe7773b50df5e317fa4a0d",
+          "dbad14e71de1389d42073fe623c3f85a"
         ],
         "regions": [
           "global",
@@ -7192,7 +7197,7 @@
     "image2": "http://i.imgur.com/ZDL6lDf.png",
     "image3": "http://i.imgur.com/BtYnDdd.png",
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 7,
     "regions": [
       "global",
       "kr",
@@ -7209,7 +7214,8 @@
         "view_idx": "c135_00",
         "is_voice": "0",
         "mods": [
-          "72279f4bbb01af3ba648fe7dde3b2d22"
+          "72279f4bbb01af3ba648fe7dde3b2d22",
+          "64bec9723862f92b486475c4a26fc8b6"
         ],
         "regions": [
           "global",
@@ -7271,7 +7277,7 @@
     "image2": "http://i.imgur.com/8EuaraU.png",
     "image3": "http://i.imgur.com/6cw9Otd.png",
     "imageSkin": null,
-    "numMods": 5,
+    "numMods": 6,
     "regions": [
       "global",
       "kr",
@@ -7289,7 +7295,8 @@
         "is_voice": "0",
         "title": "Shiho",
         "mods": [
-          "9d0e5f9b40eef2ddc5301a3a935f17e7"
+          "9d0e5f9b40eef2ddc5301a3a935f17e7",
+          "15306fea53cd67ed7d4d5fbc5193898b"
         ],
         "regions": [
           "global",
@@ -7354,7 +7361,7 @@
     "image2": "http://i.imgur.com/eNuWkoU.png",
     "image3": "http://i.imgur.com/841q8pT.png",
     "imageSkin": null,
-    "numMods": 8,
+    "numMods": 9,
     "regions": [
       "global",
       "kr",
@@ -7373,7 +7380,8 @@
         "title": "Yumi",
         "mods": [
           "91b043e23280ad15e00ffdb5b7532000",
-          "70ca6b887b5ffc6a37f531034bd81dda"
+          "70ca6b887b5ffc6a37f531034bd81dda",
+          "aa864245bf48e9eec99cb3e14b3f958c"
         ],
         "regions": [
           "global",
@@ -7435,7 +7443,7 @@
     "image2": "http://i.imgur.com/u3IqSWG.png",
     "image3": "http://i.imgur.com/chzmuun.png",
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 7,
     "regions": [
       "global",
       "kr",
@@ -7452,7 +7460,8 @@
         "view_idx": "c142_00",
         "is_voice": "0",
         "mods": [
-          "a743704b04a975ed8bc03e96111ee31b"
+          "a743704b04a975ed8bc03e96111ee31b",
+          "115728ac0e54950d7d5366301bfa6a13"
         ],
         "regions": [
           "global",
@@ -7516,7 +7525,7 @@
     "image2": "http://i.imgur.com/dcntcI3.png",
     "image3": "http://i.imgur.com/cU4EIMz.png",
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 8,
     "regions": [
       "global",
       "kr",
@@ -7533,7 +7542,8 @@
         "view_idx": "c144_00",
         "is_voice": "0",
         "mods": [
-          "9f444b69ec6134daa50c4c87ff3967f1"
+          "9f444b69ec6134daa50c4c87ff3967f1",
+          "ae7c6e4dc6302465b98871319814cf79"
         ],
         "regions": [
           "kr"
@@ -7589,7 +7599,7 @@
     "image2": "http://i.imgur.com/WlhNcpZ.png",
     "image3": "http://i.imgur.com/F0uVH1a.png",
     "imageSkin": null,
-    "numMods": 4,
+    "numMods": 5,
     "regions": [
       "global",
       "kr",
@@ -7648,7 +7658,8 @@
         "title": "Hideka",
         "mods": [
           "c0b5f8d192553a2e1a89981bc0ebae19",
-          "efaa977dd62f0b1108d8469714719d05"
+          "efaa977dd62f0b1108d8469714719d05",
+          "a259cf16f1ee1f89fcacb0b627b4a45e"
         ],
         "regions": [
           "global",
@@ -7676,7 +7687,7 @@
     "image2": "http://i.imgur.com/ylw7P4X.png",
     "image3": "http://i.imgur.com/uS0CTpH.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 13,
     "regions": [
       "global",
       "kr",
@@ -13972,7 +13983,8 @@
         "is_voice": "0",
         "mods": [
           "dfdff2b2d49b65ba8e7d9b96c0891228",
-          "3f8ef6f56fe8bf9f040f75b04d6f33d4"
+          "3f8ef6f56fe8bf9f040f75b04d6f33d4",
+          "84371a91f41b34ab87ec1dde501aba70"
         ],
         "regions": [
           "global",
@@ -14000,7 +14012,7 @@
     "image2": "http://i.imgur.com/XuFMVxV.png",
     "image3": "http://i.imgur.com/xvQiTCA.png",
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 8,
     "regions": [
       "global",
       "kr",
@@ -14128,7 +14140,8 @@
         "is_voice": "0",
         "title": "Juria",
         "mods": [
-          "3cca2f569c208f0be203e9cbe301ca86"
+          "3cca2f569c208f0be203e9cbe301ca86",
+          "5e7b2f1b74bc0206f9a3349ed9178a21"
         ],
         "regions": [
           "global",
@@ -14196,7 +14209,7 @@
     "image2": "http://i.imgur.com/uoLgOCm.png",
     "image3": "http://i.imgur.com/99342m9.png",
     "imageSkin": "http://i.imgur.com/ALNK0xv.png",
-    "numMods": 19,
+    "numMods": 20,
     "regions": [
       "global",
       "kr",
@@ -14215,7 +14228,8 @@
         "title": "",
         "mods": [
           "48cb377c26e087c9013d76e61ef49b5a",
-          "60343b617a01c25a72e78c7f9cc84f2a"
+          "60343b617a01c25a72e78c7f9cc84f2a",
+          "4b68d6d51b8d171eb6fd2f21a784e819"
         ],
         "regions": [
           "global",
@@ -14270,7 +14284,7 @@
     "image2": "http://i.imgur.com/Uc6S4pO.png",
     "image3": "http://i.imgur.com/1tIuq1E.png",
     "imageSkin": null,
-    "numMods": 5,
+    "numMods": 6,
     "regions": [
       "global",
       "kr",
@@ -36612,7 +36626,8 @@
     "variants": {
       "00": {
         "mods": [
-          "1e7f94a68215d17eef76533ddf7e7ead"
+          "1e7f94a68215d17eef76533ddf7e7ead",
+          "219aa4a05a55ccda31bf22878d2bd44c"
         ],
         "regions": [
           "kr"
@@ -36638,7 +36653,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 7,
     "code": "c128",
     "regions": [
       "kr"
@@ -36648,7 +36663,8 @@
     "variants": {
       "00": {
         "mods": [
-          "c4c9b1e76175240b4e0c3ff609716167"
+          "c4c9b1e76175240b4e0c3ff609716167",
+          "f6ff8cd36beb2fbd182fc63d7659b834"
         ]
       },
       "01": {
@@ -36673,7 +36689,7 @@
         ]
       }
     },
-    "numMods": 5,
+    "numMods": 6,
     "code": "c129",
     "name": "Nike",
     "regions": [
@@ -44795,14 +44811,15 @@
       },
       "02": {
         "mods": [
-          "a6c7364a0399d6d03eb6c4c9dff98a67"
+          "a6c7364a0399d6d03eb6c4c9dff98a67",
+          "4c9a16c02f9145baf71f10a97d355adb"
         ],
         "regions": [
           "kr"
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 5,
     "regions": [
       "kr"
     ]
