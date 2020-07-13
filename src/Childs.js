@@ -168,7 +168,7 @@ function Childs() {
                 </>
               }
               {child.name || '?'} ({child.code})
-              {child.regions.map(region =>
+              {child.regions && child.regions.map(region =>
                 <img src={basePath + '/img/icons/regions/' + region + '.png'} style={{
                   height: '24px',
                   verticalAlign: 'middle',
