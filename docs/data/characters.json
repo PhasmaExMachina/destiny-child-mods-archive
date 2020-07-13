@@ -25082,8 +25082,7 @@
         "title": "Oracle",
         "mods": [
           "0ded4a90763ab21c2e0f1a7aef9fef0d",
-          "234087aae0460994753e2ac70f29d12d",
-          "7a295471b9577bedb09dc81d86636808"
+          "234087aae0460994753e2ac70f29d12d"
         ],
         "regions": [
           "global",
@@ -25111,7 +25110,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 4,
+    "numMods": 3,
     "regions": [
       "global",
       "kr",
