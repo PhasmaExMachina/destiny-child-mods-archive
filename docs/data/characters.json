@@ -5275,7 +5275,8 @@
         "is_voice": "0",
         "mods": [
           "1f29f899da7b814d0cb67ac178e73ec4",
-          "18cb12b0da124483752722dd36e01db2"
+          "18cb12b0da124483752722dd36e01db2",
+          "4a838969d7f51f445e1cb6c7be3d6045"
         ],
         "regions": [
           "kr",
@@ -5327,7 +5328,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 7,
     "regions": [
       "kr",
       "jp"
