@@ -24718,7 +24718,8 @@
           "12996d0508efb01767611133d4f20646",
           "fe5747188e037e50cb2da3a1f6830ecd",
           "80494ead82bc94c1ba6d33cad8d823a7",
-          "9c521890e1be41e8203887d760809281"
+          "9c521890e1be41e8203887d760809281",
+          "0c7a7e4c8b8002e2ce8e4ae39bad7549"
         ],
         "title": "Radiant",
         "regions": [
@@ -24736,7 +24737,8 @@
         "mods": [
           "72be1c64d39d42929d7e2b10cfd8e2dd",
           "dda8c5ed9ebd04f2cbbc63b0b3c72b2b",
-          "b231139d60874a7f9173afbcdf4f3dce"
+          "b231139d60874a7f9173afbcdf4f3dce",
+          "ba9c7da071a66a1acbe50ebfb3c38d8e"
         ],
         "title": "Lightbeam",
         "regions": [
@@ -24753,7 +24755,8 @@
         "is_voice": "0",
         "mods": [
           "def02b8af9a2112f5a580e24aa732add",
-          "75d921f4a338914360e4e78e31d04c5e"
+          "75d921f4a338914360e4e78e31d04c5e",
+          "5bff27fe9efd5116dd25c92c60fbb4e9"
         ],
         "title": "Heavenly Ray",
         "regions": [
@@ -24782,7 +24785,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 9,
+    "numMods": 12,
     "regions": [
       "global",
       "kr",
