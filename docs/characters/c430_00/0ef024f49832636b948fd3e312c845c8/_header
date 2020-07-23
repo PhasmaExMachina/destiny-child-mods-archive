@@ -1,0 +1,10 @@
+{
+    "c430_00_attack.mtn": "ea0f002a2c9cd34e",
+    "c430_00_hit.mtn": "c70e00279667ec18",
+    "c430_00_idle.mtn": "280f0028e473aec6",
+    "character.dat": "050e002500ebee0b",
+    "model.json": "660e0026f011704e",
+    "confused.exp.json": "890f0029de8c3bff",
+    "idle.exp.json": "050e0025cf324483",
+    "texture_00.png": "660e0026f87f18f6"
+}
