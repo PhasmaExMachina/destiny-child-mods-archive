@@ -20,7 +20,7 @@ function CharacterPreview({character}) {
         {/* <CharacterImage character={character} /> */}
         {Object.keys(character.variants).sort().map(vId => (
           <div key={`${code}_${vId}`} style={{marginRight: '1em', cextAlign: 'center', marginBottom: '1em'}}>
-            <h2>{code}_{vId} {character.variants[vId].title} {character.name}</h2>
+            <h2>{code}_{vId} {character.variants[vId].title} {character.name || character.kname}</h2>
             {character.variants[vId].mods && character.variants[vId].mods.map(hash => (
               <div key={hash} style={{marginLeft: '2em', textAlign: 'center', display: 'inline-block', position: 'relative', padding: '0 1em 0'}}>
                 <a href={`${basePath}/live2d-viewer.html?model=${code}_${vId}&modHash=${hash}`} target="_blank" rel="noopener noreferrer" >

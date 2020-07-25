@@ -39,7 +39,7 @@ function Childs() {
     return acc
   }, [])
   let filtered = (filter
-    ? childs.filter(child => ((child.name || '') + ' ' + child.code).toLowerCase().match(filter.toLowerCase()))
+    ? childs.filter(child => ((child.name || child.kname || '?') + ' ' + child.code).toLowerCase().match(filter.toLowerCase()))
     : childs)
   if(starLevel) filtered = filtered.filter(child => child.starLevel == starLevel)
   if(element) filtered = filtered.filter(child => child.element === element)
@@ -167,7 +167,7 @@ function Childs() {
                   }} />{' '}
                 </>
               }
-              {child.name || '?'} ({child.code})
+              {child.name || child.kname || '?'} ({child.code})
               {child.regions && child.regions.map(region =>
                 <img src={basePath + '/img/icons/regions/' + region + '.png'} style={{
                   height: '24px',

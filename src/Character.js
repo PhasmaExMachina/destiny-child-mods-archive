@@ -6,7 +6,7 @@ import ModPreview from './ModPreview'
 function CharacterVariant() {
   const {code} = useParams(),
         character = characters[code],
-        {name, variants} = character
+        {name, kname, variants} = character
   return (
     <>
       <p>
@@ -14,12 +14,12 @@ function CharacterVariant() {
         {' > '}
         <Link to="/childs">Childs Database</Link>
         {' > '}
-        {name}
+        {name || kname}
       </p>
       <h2>{name} ({code})</h2>
       {Object.keys(variants).sort().map(variant => (
         <div key={variant}>
-          <h3>{variants[variant].title} {name} Mods ({code}_{variant})</h3>
+          <h3>{variants[variant].title} {name || kname} Mods ({code}_{variant})</h3>
           {variants[variant].mods.map(hash =>
             <ModPreview key={hash} {...{character, variant, hash}} />
           )}
