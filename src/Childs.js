@@ -49,7 +49,7 @@ function Childs() {
     console.log('region', r, exclusive)
     filtered = filtered.filter(child => {
       const regions = child.regions || []
-      return regions.indexOf(r) > 0 && (!exclusive || regions.length == 1)
+      return regions.indexOf(r) > -1 && (!exclusive || regions.length == 1)
     })
   }
   const getAttack = ({skillAuto}) => parseInt(skillAuto.match(/\d+/)[0])
