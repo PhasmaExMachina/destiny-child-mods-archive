@@ -3451,7 +3451,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10100040",
+        "type": "1",
+        "sub_type": "10",
+        "view_idx": "c048_10",
+        "is_voice": "0"
       },
       "00": {
         "idx": "10100040",
@@ -3711,7 +3716,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10100043",
+        "type": "1",
+        "sub_type": "12",
+        "view_idx": "c051_12",
+        "is_voice": "0"
       },
       "21": {
         "idx": "10100043",
@@ -17522,7 +17532,12 @@
         ],
         "regions": [
           "kr"
-        ]
+        ],
+        "idx": "10200096",
+        "type": "1",
+        "sub_type": "11",
+        "view_idx": "c252_11",
+        "is_voice": "1"
       },
       "88": {
         "idx": "10200096",
@@ -34181,7 +34196,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200015",
+        "type": "1",
+        "sub_type": "10",
+        "view_idx": "c125_10",
+        "is_voice": "1"
       },
       "89": {
         "mods": [
@@ -34192,7 +34212,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200015",
+        "type": "1",
+        "sub_type": "89",
+        "view_idx": "c125_89",
+        "is_voice": "1"
       },
       "00": {
         "mods": [
@@ -34215,7 +34240,12 @@
           "global",
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200015",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c125_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
@@ -34225,7 +34255,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200015",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c125_02",
+        "is_voice": "0"
       }
     },
     "numMods": 11,
@@ -34355,7 +34390,12 @@
           "global",
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200037",
+        "type": "1",
+        "sub_type": "89",
+        "view_idx": "c187_89",
+        "is_voice": "1"
       },
       "01": {
         "mods": [
@@ -34369,7 +34409,12 @@
           "global",
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200037",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c187_01",
+        "is_voice": "0"
       },
       "00": {
         "mods": [
@@ -34394,7 +34439,12 @@
           "global",
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200037",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c187_02",
+        "is_voice": "0"
       }
     },
     "numMods": 13,
@@ -42822,7 +42872,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200285",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c450_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
@@ -42831,7 +42886,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200285",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c450_02",
+        "is_voice": "0"
       }
     },
     "numMods": 2,
@@ -43158,7 +43218,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10100107",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c155_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
@@ -43168,7 +43233,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10100107",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c155_02",
+        "is_voice": "0"
       }
     },
     "numMods": 6,
@@ -43197,7 +43267,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200119",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c275_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
@@ -43206,7 +43281,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200119",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c275_02",
+        "is_voice": "0"
       }
     },
     "numMods": 4,
@@ -43225,7 +43305,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200274",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c439_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
@@ -43234,7 +43319,12 @@
         "regions": [
           "kr",
           "jp"
-        ]
+        ],
+        "idx": "10200274",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c439_02",
+        "is_voice": "0"
       }
     },
     "numMods": 2,
@@ -43262,7 +43352,12 @@
         ],
         "regions": [
           "kr"
-        ]
+        ],
+        "idx": "10200288",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c442_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
@@ -43271,7 +43366,12 @@
         ],
         "regions": [
           "kr"
-        ]
+        ],
+        "idx": "10200288",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c442_02",
+        "is_voice": "0"
       }
     },
     "numMods": 6,
@@ -43392,17 +43492,6 @@
       "jp"
     ]
   },
-  "c992": {
-    "code": "c992",
-    "variants": {
-      "02": {
-        "mods": [
-          "a24ced732a3846ba6225fe6d9075ec5e"
-        ]
-      }
-    },
-    "numMods": 1
-  },
   "sm004": {
     "code": "sm004",
     "regions": [
@@ -43417,7 +43506,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43425,7 +43515,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43436,7 +43527,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Ice Dragon"
   },
   "sm054": {
     "code": "sm054",
@@ -43452,7 +43544,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43460,7 +43553,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43471,7 +43565,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Gomorrah"
   },
   "sm124": {
     "code": "sm124",
@@ -43487,7 +43582,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43495,7 +43591,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43506,7 +43603,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Watcher"
   },
   "sm125": {
     "code": "sm125",
@@ -43522,7 +43620,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43530,7 +43629,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43541,7 +43641,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Watcher"
   },
   "sm126": {
     "code": "sm126",
@@ -43557,7 +43658,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43565,7 +43667,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43576,7 +43679,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Watcher"
   },
   "sm127": {
     "code": "sm127",
@@ -43592,7 +43696,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43600,7 +43705,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43611,7 +43717,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Watcher"
   },
   "sm128": {
     "code": "sm128",
@@ -43627,7 +43734,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43635,7 +43743,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43646,7 +43755,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Watcher"
   },
   "sm194": {
     "code": "sm194",
@@ -43662,7 +43772,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43670,7 +43781,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43681,7 +43793,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Gron"
   },
   "sm195": {
     "code": "sm195",
@@ -43697,7 +43810,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43705,7 +43819,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43716,7 +43831,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Liron"
   },
   "sm196": {
     "code": "sm196",
@@ -43732,7 +43848,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43740,7 +43857,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43751,7 +43869,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Firon"
   },
   "sm197": {
     "code": "sm197",
@@ -43767,7 +43886,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43775,7 +43895,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43786,7 +43907,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Charonn"
   },
   "sm198": {
     "code": "sm198",
@@ -43802,7 +43924,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43810,7 +43933,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43821,7 +43945,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Daron"
   },
   "sm201": {
     "code": "sm201",
@@ -43837,7 +43962,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43845,7 +43971,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43856,7 +43983,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Mech Commander"
   },
   "sm202": {
     "code": "sm202",
@@ -43872,7 +44000,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43880,7 +44009,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43891,7 +44021,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Mech Soldier"
   },
   "sm203": {
     "code": "sm203",
@@ -43907,7 +44038,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43915,7 +44047,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43926,7 +44059,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Bremen"
   },
   "sm206": {
     "code": "sm206",
@@ -43942,7 +44076,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43950,7 +44085,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43961,7 +44097,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Boss Pig"
   },
   "sm211": {
     "code": "sm211",
@@ -43977,7 +44114,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -43985,7 +44123,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -43996,7 +44135,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Angel Lot"
   },
   "sm212": {
     "code": "sm212",
@@ -44012,7 +44152,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -44020,7 +44161,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -44031,7 +44173,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Rune"
   },
   "sm215": {
     "code": "sm215",
@@ -44047,7 +44190,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -44055,7 +44199,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -44066,7 +44211,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Aurora King"
   },
   "sm223": {
     "code": "sm223",
@@ -44082,7 +44228,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -44090,7 +44237,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -44101,7 +44249,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Gift Bag"
   },
   "sm255": {
     "code": "sm255",
@@ -44117,7 +44266,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "02": {
         "regions": [
@@ -44125,7 +44275,8 @@
           "kr",
           "jp"
         ],
-        "mods": []
+        "mods": [],
+        "title": "Hot Spring"
       },
       "03": {
         "regions": [
@@ -44136,7 +44287,8 @@
         "mods": []
       }
     },
-    "numMods": 0
+    "numMods": 0,
+    "name": "Ampoule"
   },
   "sc070": {
     "code": "sc070",
@@ -44915,7 +45067,12 @@
         ],
         "regions": [
           "kr"
-        ]
+        ],
+        "idx": "10200277",
+        "type": "1",
+        "sub_type": "88",
+        "view_idx": "c445_88",
+        "is_voice": "1"
       },
       "89": {
         "mods": [
@@ -44923,7 +45080,12 @@
         ],
         "regions": [
           "kr"
-        ]
+        ],
+        "idx": "10200277",
+        "type": "1",
+        "sub_type": "89",
+        "view_idx": "c445_89",
+        "is_voice": "1"
       },
       "01": {
         "mods": [
@@ -44932,7 +45094,12 @@
         ],
         "regions": [
           "kr"
-        ]
+        ],
+        "idx": "10200277",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c445_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
@@ -44942,7 +45109,12 @@
         ],
         "regions": [
           "kr"
-        ]
+        ],
+        "idx": "10200277",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c445_02",
+        "is_voice": "0"
       }
     },
     "numMods": 7,
@@ -45069,17 +45241,32 @@
       "88": {
         "mods": [
           "b4c596bd2f081e93b35d06d1c3a0b203"
-        ]
+        ],
+        "idx": "10200278",
+        "type": "1",
+        "sub_type": "88",
+        "view_idx": "c446_88",
+        "is_voice": "1"
       },
       "01": {
         "mods": [
           "b681aa415ba6fc71bc7043668ddda042"
-        ]
+        ],
+        "idx": "10200278",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c446_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
           "01d548315cab5e6bb80cdf7667eeadb3"
-        ]
+        ],
+        "idx": "10200278",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c446_02",
+        "is_voice": "0"
       }
     },
     "numMods": 3
@@ -45090,12 +45277,22 @@
       "01": {
         "mods": [
           "02054a7801f1d2f63c190b6e0b70a907"
-        ]
+        ],
+        "idx": "10200289",
+        "type": "0",
+        "sub_type": "1",
+        "view_idx": "c453_01",
+        "is_voice": "0"
       },
       "02": {
         "mods": [
           "1d2579f18fec551aabd3181977562fe3"
-        ]
+        ],
+        "idx": "10200289",
+        "type": "0",
+        "sub_type": "2",
+        "view_idx": "c453_02",
+        "is_voice": "0"
       }
     },
     "numMods": 2

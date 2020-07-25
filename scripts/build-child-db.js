@@ -37,7 +37,7 @@ console.log('childSkills', childSkills)
 Object.keys(characters).forEach(id => {
   const nameData = childNames[characters[id].code]
   if(nameData) {
-    characters[id].name = nameData.name
+    characters[id].name = characters[id].name || nameData.name
     Object.keys(nameData.variants).forEach(variantNum => {
       if(characters[id].variants[variantNum]) {
         // characters[id].variants[variantNum] = characters[id].variants[variantNum] || {}
@@ -59,11 +59,11 @@ Object.keys(characters).forEach(id => {
 childSkills.forEach(s => {
   delete s.id
   if(!characters[s.model_id]) {
-    characters[s.model_id] = s
+    characters[s.model_id] = Object.assign({}, s, characters[s.model_id])
     characters[s.model_id].variants = {}
   }
   else {
-    Object.assign(characters[s.model_id], s)
+    Object.assign(s, characters[s.model_id])
   }
 })
 
