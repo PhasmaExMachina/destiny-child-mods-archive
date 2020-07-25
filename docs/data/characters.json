@@ -42708,7 +42708,8 @@
         "title": "Hot Spring",
         "regions": [
           "global",
-          "jp"
+          "jp",
+          "kr"
         ]
       }
     },
@@ -42716,7 +42717,8 @@
     "name": "Thetis",
     "regions": [
       "global",
-      "jp"
+      "jp",
+      "kr"
     ]
   },
   "sc332": {
@@ -45283,7 +45285,11 @@
         "type": "1",
         "sub_type": "88",
         "view_idx": "c446_88",
-        "is_voice": "1"
+        "is_voice": "1",
+        "regions": [
+          "kr",
+          "jp"
+        ]
       },
       "01": {
         "mods": [
@@ -45293,7 +45299,11 @@
         "type": "0",
         "sub_type": "1",
         "view_idx": "c446_01",
-        "is_voice": "0"
+        "is_voice": "0",
+        "regions": [
+          "kr",
+          "jp"
+        ]
       },
       "02": {
         "mods": [
@@ -45303,10 +45313,18 @@
         "type": "0",
         "sub_type": "2",
         "view_idx": "c446_02",
-        "is_voice": "0"
+        "is_voice": "0",
+        "regions": [
+          "kr",
+          "jp"
+        ]
       }
     },
-    "numMods": 3
+    "numMods": 3,
+    "regions": [
+      "kr",
+      "jp"
+    ]
   },
   "c453": {
     "code": "c453",
@@ -45319,7 +45337,11 @@
         "type": "0",
         "sub_type": "1",
         "view_idx": "c453_01",
-        "is_voice": "0"
+        "is_voice": "0",
+        "regions": [
+          "kr",
+          "jp"
+        ]
       },
       "02": {
         "mods": [
@@ -45329,9 +45351,81 @@
         "type": "0",
         "sub_type": "2",
         "view_idx": "c453_02",
-        "is_voice": "0"
+        "is_voice": "0",
+        "regions": [
+          "kr",
+          "jp"
+        ]
       }
     },
-    "numMods": 2
+    "numMods": 2,
+    "regions": [
+      "kr",
+      "jp"
+    ]
+  },
+  "sc446": {
+    "code": "sc446",
+    "mods": [],
+    "regions": [
+      "kr",
+      "jp"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr",
+          "jp"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr",
+          "jp"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr",
+          "jp"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "sc453": {
+    "code": "sc453",
+    "mods": [],
+    "regions": [
+      "kr",
+      "jp"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr",
+          "jp"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr",
+          "jp"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr",
+          "jp"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
   }
 }
