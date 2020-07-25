@@ -20327,7 +20327,8 @@
         "mods": [
           "8fec0be9122664204422ffc2879c353c",
           "f0e82b567fef3f71781d69f5f54fac59",
-          "b4c7e34edfeb5480db26e84d6931d74a"
+          "b4c7e34edfeb5480db26e84d6931d74a",
+          "6b921e942d77ebc2370d4aa6c6de6943"
         ],
         "regions": [
           "global",
@@ -20410,7 +20411,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 13,
+    "numMods": 14,
     "regions": [
       "global",
       "kr",
@@ -21685,7 +21686,8 @@
           "ccec24b61b173cae811b6bd9d0f03ca5",
           "20d2eb5b5b6eab2c4950979fb97e7b64",
           "deeb8181f58e8fa9f5cebfd739dd4893",
-          "bdc5cc90b8c88c157ca469ad7d067675"
+          "bdc5cc90b8c88c157ca469ad7d067675",
+          "37c654981cc355c9b69a246bd881e4cc"
         ],
         "regions": [
           "global",
@@ -21713,7 +21715,7 @@
     "image2": "http://i.imgur.com/VdXtIUP.png",
     "image3": "http://i.imgur.com/m8rkQoo.png",
     "imageSkin": "http://i.imgur.com/bwGVjiv.png",
-    "numMods": 19,
+    "numMods": 20,
     "regions": [
       "global",
       "kr",
@@ -24113,7 +24115,8 @@
         "mods": [
           "7d34981fa80b779ce67fc785130cdb9f",
           "541fcdb057638dd3d1252a207cd11414",
-          "cdb2f76324c94aa22c82762406f83272"
+          "cdb2f76324c94aa22c82762406f83272",
+          "c15949512081fc58c62581b80418699b"
         ],
         "regions": [
           "global",
@@ -24131,7 +24134,8 @@
         "mods": [
           "13d0acb3be7ff0867ff56007387e1fab",
           "cc6008cf83dfdc0a65c357188cac37bf",
-          "466ef02060338c3b3cfc11fcb460b14a"
+          "466ef02060338c3b3cfc11fcb460b14a",
+          "cfb07310051c9deea4220c513e5f58ab"
         ],
         "regions": [
           "global",
@@ -24159,7 +24163,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 11,
+    "numMods": 13,
     "regions": [
       "global",
       "kr",
@@ -24575,7 +24579,8 @@
           "45822d0a767999a5692c10a8be73a262",
           "492265f8626424375984b9de8bd9417e",
           "417225231045c0a782f9deae6a76a174",
-          "d561044a2595641e8aee91ed11b087e7"
+          "d561044a2595641e8aee91ed11b087e7",
+          "5a4b166f07fde0d907068f22578cdf14"
         ],
         "regions": [
           "global",
@@ -24688,7 +24693,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 31,
+    "numMods": 32,
     "regions": [
       "global",
       "kr",
@@ -26485,7 +26490,8 @@
         "is_voice": "0",
         "mods": [
           "bbb502c5ccfa6b6f1a414a7cc929908a",
-          "cfc6bb8e178a1e17704bf6ba6d56929c"
+          "cfc6bb8e178a1e17704bf6ba6d56929c",
+          "c6fc4e986496b7b8b2817b32da81668c"
         ],
         "regions": [
           "kr",
@@ -26495,7 +26501,7 @@
       }
     },
     "id": "10200249",
-    "numMods": 9,
+    "numMods": 10,
     "regions": [
       "kr",
       "jp",
@@ -26530,7 +26536,8 @@
         "is_voice": "0",
         "mods": [
           "ad304d270f715df48dc12cab375168f3",
-          "449c00880f43e1e7291d8c74d1ca8d27"
+          "449c00880f43e1e7291d8c74d1ca8d27",
+          "dc67a8298321762e04138741c651789b"
         ],
         "regions": [
           "kr",
@@ -26557,7 +26564,7 @@
       }
     },
     "id": "10200250",
-    "numMods": 7,
+    "numMods": 8,
     "regions": [
       "kr",
       "jp",
@@ -26713,7 +26720,8 @@
         "mods": [
           "af7e14b46af265a505de983aca409785",
           "89e122b38863d7a5bd2dd0c8d694d73f",
-          "663373f17b4a7057e55a752105483198"
+          "663373f17b4a7057e55a752105483198",
+          "a56b50d6464652354a441507ec3e9a7b"
         ],
         "regions": [
           "kr",
@@ -26730,7 +26738,8 @@
           "1cbb396875ee290385d22d5d626c09d8",
           "0ee0eebf1808a5bea72d5112fdd690d0",
           "1d2dec8be177e5ff3aae07bd4bf2eefd",
-          "fc099bf8a7bb1d0f16ecb1644085ff6b"
+          "fc099bf8a7bb1d0f16ecb1644085ff6b",
+          "393d3e9d35e82affd9c36a77751030fd"
         ],
         "regions": [
           "kr",
@@ -26739,7 +26748,7 @@
       }
     },
     "id": "10200253",
-    "numMods": 7,
+    "numMods": 9,
     "regions": [
       "kr",
       "jp"
@@ -27834,7 +27843,8 @@
         "mods": [
           "6a0740cbfffc2fceca9e19d000ae292f",
           "93c3f1bd7c1f18f86f96620f9551cbe6",
-          "9bf432ab56bd570b67eb320eb521d353"
+          "9bf432ab56bd570b67eb320eb521d353",
+          "ece34368f60a4412702d02b4d8d9b5b4"
         ],
         "regions": [
           "kr",
@@ -27854,7 +27864,8 @@
           "8886feadab9180c864434a2b34ae1713",
           "edabe83ef35e93b33a1e0a67aca7a76f",
           "d739026e2648d19d654fb8a98f7b3d0e",
-          "fc32557b4200584e45dc56708fb8fbe3"
+          "fc32557b4200584e45dc56708fb8fbe3",
+          "0d2ef096009214ebe61240789e7447c3"
         ],
         "regions": [
           "kr",
@@ -27873,7 +27884,7 @@
       }
     },
     "id": "10200283",
-    "numMods": 14,
+    "numMods": 16,
     "regions": [
       "kr",
       "jp"
@@ -27891,7 +27902,8 @@
         "mods": [
           "1583afcb0f31b1775993efc9a9498ade",
           "5321e68dad26178c87eaef518f28f480",
-          "8c2c44ca0cf5e808eabc1033ba10898c"
+          "8c2c44ca0cf5e808eabc1033ba10898c",
+          "13e5c14d8b27dda0ea81b2d255607f34"
         ],
         "regions": [
           "kr",
@@ -27907,7 +27919,8 @@
         "mods": [
           "1143dc90d140f7b9763eb6087d925f17",
           "b20220613e935f15ba395bde5a6a0910",
-          "2b68e905da8a58050d6e008011fda702"
+          "2b68e905da8a58050d6e008011fda702",
+          "179e272c487de14fb39cbe3c03b866ba"
         ],
         "regions": [
           "kr",
@@ -27916,7 +27929,7 @@
       }
     },
     "id": "10200284",
-    "numMods": 6,
+    "numMods": 8,
     "regions": [
       "kr",
       "jp"
