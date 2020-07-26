@@ -26458,7 +26458,8 @@
         "view_idx": "c414_01",
         "is_voice": "0",
         "mods": [
-          "ce048bcd80bfdf652e0f1dc98559ac58"
+          "ce048bcd80bfdf652e0f1dc98559ac58",
+          "b3a6b44d0ad3cf27dd4bd91154cf7111"
         ],
         "regions": [
           "kr",
@@ -26501,7 +26502,7 @@
       }
     },
     "id": "10200249",
-    "numMods": 10,
+    "numMods": 11,
     "regions": [
       "kr",
       "jp",
@@ -45344,7 +45345,8 @@
     "variants": {
       "01": {
         "mods": [
-          "02054a7801f1d2f63c190b6e0b70a907"
+          "02054a7801f1d2f63c190b6e0b70a907",
+          "38aeaeab94de6dcf4dfbd1d7a0bc5d71"
         ],
         "idx": "10200289",
         "type": "0",
@@ -45358,7 +45360,8 @@
       },
       "02": {
         "mods": [
-          "1d2579f18fec551aabd3181977562fe3"
+          "1d2579f18fec551aabd3181977562fe3",
+          "4416f87f45c2b8a2747401c9d830ad6b"
         ],
         "idx": "10200289",
         "type": "0",
@@ -45371,7 +45374,7 @@
         ]
       }
     },
-    "numMods": 2,
+    "numMods": 4,
     "regions": [
       "kr",
       "jp"
