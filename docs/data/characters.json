@@ -26427,7 +26427,8 @@
         "is_voice": "1",
         "mods": [
           "9aa13c5dac5504f958b0689fde1d2077",
-          "b61e97a9798023ac1cc8808f5dbb932a"
+          "b61e97a9798023ac1cc8808f5dbb932a",
+          "76260b9faaeb57c91362169b79de4398"
         ],
         "regions": [
           "kr",
@@ -26443,7 +26444,8 @@
         "is_voice": "1",
         "mods": [
           "7e9ca41fe1456324ed402a0d61376c27",
-          "e6e515f986fcd1325bf3b64454f75abb"
+          "e6e515f986fcd1325bf3b64454f75abb",
+          "7c57ada02ac12048455d1eeb99769ee5"
         ],
         "regions": [
           "kr",
@@ -26502,7 +26504,7 @@
       }
     },
     "id": "10200249",
-    "numMods": 11,
+    "numMods": 13,
     "regions": [
       "kr",
       "jp",
