@@ -45509,7 +45509,8 @@
     "variants": {
       "10": {
         "mods": [
-          "c876e6e2ae69c2d296b8160b2e1c48b1"
+          "c876e6e2ae69c2d296b8160b2e1c48b1",
+          "431a68317dec528c02c2727d8fd0e0b7"
         ],
         "regions": [
           "kr",
@@ -45536,7 +45537,9 @@
       },
       "02": {
         "mods": [
-          "3b694d82d5d0c3ae1b12a2c038c5b20f"
+          "3b694d82d5d0c3ae1b12a2c038c5b20f",
+          "706282788c6756ca9c71b487cddadf76",
+          "9cb4612288856caaf9a91aa4768c8de9"
         ],
         "regions": [
           "kr",
@@ -45544,7 +45547,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 7,
     "regions": [
       "kr",
       "jp"
