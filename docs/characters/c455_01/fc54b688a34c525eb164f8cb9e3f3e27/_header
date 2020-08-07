@@ -1,0 +1,18 @@
+{
+    "angry.exp.json": "660e0026fb01fb1d",
+    "c455_01_attack.mtn": "ea0f002a78fde8da",
+    "c455_01_banner.mtn": "ea0f002abee2b6c6",
+    "c455_01_hit.mtn": "c70e002712024569",
+    "c455_01_idle.mtn": "280f002800262291",
+    "character.dat": "050e002510a8222d",
+    "model.json": "660e0026cc568110",
+    "confused.exp.json": "890f00297e81df25",
+    "idle.exp.json": "050e0025fff07afd",
+    "sad.exp.json": "a40d002480f9bf1e",
+    "serious.exp.json": "280f002856f4e521",
+    "sigh.exp.json": "050e00252ad100a1",
+    "smile.exp.json": "660e00265a3f28be",
+    "sulky.exp.json": "660e00262e34203b",
+    "texture_00.png": "660e00266447f12e",
+    "texture_01.png": "660e0026a5204c58"
+}
