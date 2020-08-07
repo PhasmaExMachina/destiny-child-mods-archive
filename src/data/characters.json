@@ -26591,7 +26591,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "02": {
@@ -26606,7 +26607,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "00": {
@@ -26621,7 +26623,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -26629,7 +26632,8 @@
     "numMods": 6,
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "c417": {
@@ -26666,7 +26670,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "02": {
@@ -26702,7 +26707,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -26710,7 +26716,8 @@
     "numMods": 18,
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "c418": {
@@ -41607,7 +41614,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -41615,7 +41623,8 @@
     "code": "sc416",
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "sc417": {
