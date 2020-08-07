@@ -45464,25 +45464,40 @@
       "88": {
         "mods": [
           "dd30c773093a8d20c6b1b8ac6ad25e67"
+        ],
+        "regions": [
+          "kr"
         ]
       },
       "89": {
         "mods": [
           "3766af603c4740b5071ae62e94752707"
+        ],
+        "regions": [
+          "kr"
         ]
       },
       "01": {
         "mods": [
           "99d4664278770356c3bef39164c45876"
+        ],
+        "regions": [
+          "kr"
         ]
       },
       "02": {
         "mods": [
           "1b338bb38e86e10db093d83d17d9af27"
+        ],
+        "regions": [
+          "kr"
         ]
       }
     },
-    "numMods": 4
+    "numMods": 4,
+    "regions": [
+      "kr"
+    ]
   },
   "c455": {
     "code": "c455",
@@ -45490,25 +45505,40 @@
       "10": {
         "mods": [
           "c876e6e2ae69c2d296b8160b2e1c48b1"
+        ],
+        "regions": [
+          "kr"
         ]
       },
       "11": {
         "mods": [
           "7b1ae2e0ed67dd48cc12367ab97b76f3"
+        ],
+        "regions": [
+          "kr"
         ]
       },
       "01": {
         "mods": [
           "fc54b688a34c525eb164f8cb9e3f3e27"
+        ],
+        "regions": [
+          "kr"
         ]
       },
       "02": {
         "mods": [
           "3b694d82d5d0c3ae1b12a2c038c5b20f"
+        ],
+        "regions": [
+          "kr"
         ]
       }
     },
-    "numMods": 4
+    "numMods": 4,
+    "regions": [
+      "kr"
+    ]
   },
   "c457": {
     "code": "c457",
@@ -45516,15 +45546,24 @@
       "01": {
         "mods": [
           "ca86d0bf13511f9f862ee6a99dba10d4"
+        ],
+        "regions": [
+          "kr"
         ]
       },
       "02": {
         "mods": [
           "e9e2548e1c28e7e8154e14405d6340b3"
+        ],
+        "regions": [
+          "kr"
         ]
       }
     },
-    "numMods": 2
+    "numMods": 2,
+    "regions": [
+      "kr"
+    ]
   },
   "v011": {
     "code": "v011",
@@ -45532,9 +45571,99 @@
       "01": {
         "mods": [
           "144da1a699ccda23ecee293860924a01"
+        ],
+        "regions": [
+          "kr"
         ]
       }
     },
-    "numMods": 1
+    "numMods": 1,
+    "regions": [
+      "kr"
+    ]
+  },
+  "sc454": {
+    "code": "sc454",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "sc455": {
+    "code": "sc455",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "sc457": {
+    "code": "sc457",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
   }
 }
