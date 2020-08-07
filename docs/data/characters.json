@@ -45466,7 +45466,8 @@
           "dd30c773093a8d20c6b1b8ac6ad25e67"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       },
       "89": {
@@ -45474,7 +45475,8 @@
           "3766af603c4740b5071ae62e94752707"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       },
       "01": {
@@ -45482,7 +45484,8 @@
           "99d4664278770356c3bef39164c45876"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       },
       "02": {
@@ -45490,13 +45493,15 @@
           "1b338bb38e86e10db093d83d17d9af27"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       }
     },
     "numMods": 4,
     "regions": [
-      "kr"
+      "kr",
+      "jp"
     ]
   },
   "c455": {
@@ -45507,7 +45512,8 @@
           "c876e6e2ae69c2d296b8160b2e1c48b1"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       },
       "11": {
@@ -45515,7 +45521,8 @@
           "7b1ae2e0ed67dd48cc12367ab97b76f3"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       },
       "01": {
@@ -45523,7 +45530,8 @@
           "fc54b688a34c525eb164f8cb9e3f3e27"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       },
       "02": {
@@ -45531,13 +45539,15 @@
           "3b694d82d5d0c3ae1b12a2c038c5b20f"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       }
     },
     "numMods": 4,
     "regions": [
-      "kr"
+      "kr",
+      "jp"
     ]
   },
   "c457": {
@@ -45548,7 +45558,8 @@
           "ca86d0bf13511f9f862ee6a99dba10d4"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       },
       "02": {
@@ -45556,13 +45567,15 @@
           "e9e2548e1c28e7e8154e14405d6340b3"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       }
     },
     "numMods": 2,
     "regions": [
-      "kr"
+      "kr",
+      "jp"
     ]
   },
   "v011": {
@@ -45573,37 +45586,43 @@
           "144da1a699ccda23ecee293860924a01"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ]
       }
     },
     "numMods": 1,
     "regions": [
-      "kr"
+      "kr",
+      "jp"
     ]
   },
   "sc454": {
     "code": "sc454",
     "mods": [],
     "regions": [
-      "kr"
+      "kr",
+      "jp"
     ],
     "variants": {
       "01": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       },
       "02": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       },
       "03": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       }
@@ -45614,24 +45633,28 @@
     "code": "sc455",
     "mods": [],
     "regions": [
-      "kr"
+      "kr",
+      "jp"
     ],
     "variants": {
       "01": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       },
       "02": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       },
       "03": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       }
@@ -45642,24 +45665,28 @@
     "code": "sc457",
     "mods": [],
     "regions": [
-      "kr"
+      "kr",
+      "jp"
     ],
     "variants": {
       "01": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       },
       "02": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       },
       "03": {
         "regions": [
-          "kr"
+          "kr",
+          "jp"
         ],
         "mods": []
       }
