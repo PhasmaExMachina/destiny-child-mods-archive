@@ -23671,7 +23671,8 @@
           "bd5f99b32b6b9bc6b03621e76c5edc48",
           "6d641e191c461da579ed370116309a16",
           "db64896d83c0b6082ad2ed001e1c23ce",
-          "a857ef41f295d881b73401fc8dc1b3cb"
+          "a857ef41f295d881b73401fc8dc1b3cb",
+          "2831e033d76cc9a0de4bef4803d22f51"
         ],
         "regions": [
           "global",
@@ -23719,7 +23720,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 13,
     "regions": [
       "global",
       "kr",
@@ -23738,7 +23739,8 @@
         "mods": [
           "9b4b19d651840945467810b4fbaa70cb",
           "3cfea8d5baf444da0d00e0dc42473c9f",
-          "386d42c182a732989f74608e4d3a8989"
+          "386d42c182a732989f74608e4d3a8989",
+          "da4709f28951f81d8a4882ce71574835"
         ],
         "regions": [
           "kr",
@@ -23783,7 +23785,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 7,
     "regions": [
       "kr",
       "jp",
