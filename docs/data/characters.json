@@ -26589,7 +26589,8 @@
         "is_voice": "0",
         "mods": [
           "d28276e4f194c764127ab6871331cde9",
-          "e205c6b7bb171f7635e1581767edf3bc"
+          "e205c6b7bb171f7635e1581767edf3bc",
+          "c71d2994b6aa48cdaef961ac7f03f6ef"
         ],
         "regions": [
           "kr",
@@ -26605,7 +26606,8 @@
         "is_voice": "0",
         "mods": [
           "e6f5c1eb22d83ed4443e03bce9d79caf",
-          "1c57a251beb535e8f871322617dc6955"
+          "1c57a251beb535e8f871322617dc6955",
+          "c8a2bfb477ffec8534b5eec3529b8dd9"
         ],
         "regions": [
           "kr",
@@ -26631,7 +26633,7 @@
       }
     },
     "id": "10200251",
-    "numMods": 6,
+    "numMods": 8,
     "name": "Keino",
     "regions": [
       "kr",
