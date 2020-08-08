@@ -18371,7 +18371,6 @@
         "mods": [
           "fb1057dc7293d8ad299daad68564290d",
           "18fde14edddcc2d2add7f1a7f8f85c05",
-          "b9637a501421286f3dd0e6c4b47daae8",
           "ab6122ddbff91fcc071090d9eac2e1d2",
           "f786b2f73b1f1ee20ff63544573513e4"
         ],
@@ -18513,7 +18512,7 @@
     "image2": "http://i.imgur.com/97F8W3L.png",
     "image3": "http://i.imgur.com/w7iyA93.png",
     "imageSkin": "http://i.imgur.com/Q8n0fuc.png",
-    "numMods": 33,
+    "numMods": 32,
     "regions": [
       "global",
       "kr",
