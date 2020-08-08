@@ -18446,12 +18446,7 @@
         "title": "Transmigration",
         "mods": [
           "ffb96462cf32b49493350487aea682b4",
-          "4e6dfad25bab1f2a148ef4a705324922",
-          "4ec22d5f1a01971dd5294f11e95bdea0",
-          "f44adda4aa94a9c780e6d21d8dc24c5c",
-          "97d4e37fb81c959644d05efc5fe36eda",
-          "e0d4b0804e88ba86887b20216d279892",
-          "5509031578e59a6c1c210832f192335d"
+          "4ec22d5f1a01971dd5294f11e95bdea0"
         ],
         "regions": [
           "global",
@@ -18469,14 +18464,10 @@
         "mods": [
           "cfc5c659ccda96468d948a6feef3bc31",
           "532dde3af50e666a631c77f1fd656a06",
-          "adc918c7329a16d2be533dce09b8179f",
           "f4ebcfd147a3b14fe41b9c13cecdf1d6",
           "9c4d2f75499400e231534d0dfca19c87",
           "0f10048202cf18d8ba1cbc7b2bd70e5a",
-          "82be156f680ab5d53ff4c2bf3409aa5c",
-          "119701b3c13bea3b3a31446228353066",
-          "99d1a355f84580e0c4a391267772a65d",
-          "940e1e96d637efeb7bb6f241f15c5047"
+          "119701b3c13bea3b3a31446228353066"
         ],
         "regions": [
           "global",
@@ -18493,7 +18484,6 @@
         "title": "Queen of the Nile",
         "mods": [
           "a5186f18c2fa6820e8b80915149e42bc",
-          "7a52eda07fe94a156e6ed9061785c05a",
           "95f430a6b66915ca333e742ec9487868",
           "45db0e5d1e0a2ddf724336869e605e35"
         ],
@@ -18523,7 +18513,7 @@
     "image2": "http://i.imgur.com/97F8W3L.png",
     "image3": "http://i.imgur.com/w7iyA93.png",
     "imageSkin": "http://i.imgur.com/Q8n0fuc.png",
-    "numMods": 43,
+    "numMods": 33,
     "regions": [
       "global",
       "kr",
@@ -26583,7 +26573,8 @@
         "is_voice": "0",
         "mods": [
           "d28276e4f194c764127ab6871331cde9",
-          "e205c6b7bb171f7635e1581767edf3bc"
+          "e205c6b7bb171f7635e1581767edf3bc",
+          "773f7ee0cba0cbbf0929b7d10f3c335b"
         ],
         "regions": [
           "kr",
@@ -26599,7 +26590,8 @@
         "is_voice": "0",
         "mods": [
           "e6f5c1eb22d83ed4443e03bce9d79caf",
-          "1c57a251beb535e8f871322617dc6955"
+          "1c57a251beb535e8f871322617dc6955",
+          "46a3706a44cc053fb8e0b985623922fc"
         ],
         "regions": [
           "kr",
@@ -26615,7 +26607,8 @@
         "is_voice": "0",
         "mods": [
           "51de91e3d41ccae830909ecbdb1e3e8e",
-          "c9e93345848b42bcd21a108ab59e8d07"
+          "c9e93345848b42bcd21a108ab59e8d07",
+          "d3315463cdfbacb4413de9f78a5467f3"
         ],
         "regions": [
           "kr",
@@ -26625,7 +26618,7 @@
       }
     },
     "id": "10200251",
-    "numMods": 6,
+    "numMods": 9,
     "name": "Keino",
     "regions": [
       "kr",

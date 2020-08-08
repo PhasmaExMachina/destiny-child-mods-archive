@@ -62,6 +62,9 @@ function Home() {
   if(sort === 'added') {
     filtered.sort((a, b) => a.created < b.created ? -1 : a.created < b.created ? 1 : 0)
   }
+  if(sort === 'numMods') {
+    filtered.sort((a, b) => a.numMods < b.numMods ? -1 : a.numMods < b.numMods ? 1 : 0)
+  }
   if(order === 'desc') filtered.reverse()
   const numPerPage = perPage === 'all' ? filtered.length : parseInt(perPage),
         pageNum = page ? parseInt(page) : 0,
