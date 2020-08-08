@@ -61,6 +61,7 @@
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.4",
     "react-router-dom": "^5.2.0",
+    "rimraf": "^3.0.2",
     "sharp": "^0.25.4"
   }
 }
