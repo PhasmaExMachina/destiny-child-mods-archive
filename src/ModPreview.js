@@ -36,7 +36,7 @@ I'll update the information in the archive as soon as I can and will close this 
         <Link to={`/characters/${code}/${variant}/`}>
           {code}_{variant}
         </Link> {(mod && characters[code].variants[variant].mods.indexOf(hash) != 0) && <span>by {mod.modder
-          ? <span>by {mod.modder}</span>
+          ? mod.modder
           : <a href={'http://github.com/PhasmaExMachina/destiny-child-mods-archive/issues/new?labels=modder&title=' +
               'Modder credit ' + (name ? 'for ' + variants[variant].title + ' ' + name : '') +
               '&body=' + encodeURIComponent(modderCreditTicketTemplate)
