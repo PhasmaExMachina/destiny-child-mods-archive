@@ -10,17 +10,14 @@ function CharacterImage({character: {name, variants, code, regions}, variant, ha
   }, false)
   const mod = mods[hash],
         modderCreditTicketTemplate = `
-Use this form to sumbmit modder author/creator information for a given mod so they get credit for their work:
-
-Link to mod:
-https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?model=${code}_${variant}&modHash=${hash}&background=%23111
+Use this form to sumbmit modder author/creator information for a given mod so they get credit for their work. I'll update the information in the archive as soon as I can and will close this ticket when it's done. ~Phasma
 
 Name of modder that released the mod:
 
 Name(s) of modders the mod is based on:
 
-I'll update the information in the archive as soon as I can and will close this ticket when it's done.
-`
+Mod link (do not change this):
+https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?model=${code}_${variant}&modHash=${hash}&background=%23111`
 
   return (variant && variants[variant] && (
     <div style={{
