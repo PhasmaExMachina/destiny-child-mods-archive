@@ -20552,16 +20552,19 @@
   "d3315463cdfbacb4413de9f78a5467f3": {
     "code": "c416",
     "variant": "00",
-    "created": 1596892864674
+    "created": 1596892864674,
+    "modder": "Seireiko"
   },
   "773f7ee0cba0cbbf0929b7d10f3c335b": {
     "code": "c416",
     "variant": "01",
-    "created": 1596892865283
+    "created": 1596892865283,
+    "modder": "Seireiko"
   },
   "46a3706a44cc053fb8e0b985623922fc": {
     "code": "c416",
     "variant": "02",
-    "created": 1596892865907
+    "created": 1596892865907,
+    "modder": "Seireiko"
   }
 }

@@ -1,11 +1,13 @@
 import React from 'react'
 import basePath from './base-path'
 import {Link} from 'react-router-dom'
+import mods from './data/mods.json'
 
 function CharacterImage({character: {name, variants, code, regions}, variant, hash}) {
   variant = variant || ['01', '00'].reduce((acc, vId) => {
     return acc || (variants[vId] ? vId : false)
   }, false)
+  const mod = mods[hash]
 
   return (variant && variants[variant] && (
     <div style={{
@@ -20,7 +22,9 @@ function CharacterImage({character: {name, variants, code, regions}, variant, ha
       <div>
         <Link to={`/characters/${code}/${variant}/`}>
           {code}_{variant}
-        </Link>
+        </Link> {mod && mod.modder &&
+          <span>by {mod.modder}</span>
+        }
       </div>
     </div>
   )) || null
