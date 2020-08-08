@@ -110,7 +110,7 @@ function Home() {
         {' '}sorted by{' '}
         <select onChange={({target: {value}}) => setQueryParam({sort: value !== 'added' && value})} value={sort}>
           <option value="code">Model Code</option>
-          <option value="numMods">Number of Mods</option>
+          {view === 'characters' && <option value="numMods">Number of Mods</option>}
           {view === 'mods' && <option value="added">Latest</option>}
         </select>
         {' '}
