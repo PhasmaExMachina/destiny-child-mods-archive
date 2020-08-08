@@ -26526,7 +26526,8 @@
         "is_voice": "0",
         "mods": [
           "4bac5a41d0d521ccc36a0ce6b7e9191f",
-          "4243d499cd41fd9e6b3b6599eca19765"
+          "4243d499cd41fd9e6b3b6599eca19765",
+          "33f57e8c92791660861df6ad801eb3ab"
         ],
         "regions": [
           "kr",
@@ -26570,7 +26571,7 @@
       }
     },
     "id": "10200250",
-    "numMods": 8,
+    "numMods": 9,
     "regions": [
       "kr",
       "jp",
