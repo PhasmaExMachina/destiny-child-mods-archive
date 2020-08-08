@@ -4004,21 +4004,6 @@
     "variant": "12",
     "created": 1592450161970
   },
-  "801b2307674e88c1550a6584ddefa8ba": {
-    "code": "c124",
-    "variant": "12",
-    "created": 1592450163634
-  },
-  "f2c72a57d8a672047b3da92a7c6891d4": {
-    "code": "c124",
-    "variant": "12",
-    "created": 1592450166179
-  },
-  "ce96db19f289f02d42915397acc4d60b": {
-    "code": "c124",
-    "variant": "12",
-    "created": 1592450167720
-  },
   "d792754f6bc2a3e06d7453b7ea45ad74": {
     "code": "c124",
     "variant": "00",
@@ -7354,11 +7339,6 @@
     "variant": "01",
     "created": 1592272266726
   },
-  "8e9c8d27c18b8352f01a5a4607b38710": {
-    "code": "c194",
-    "variant": "01",
-    "created": 1592450178426
-  },
   "5d1ac3c8391fa8a37c02e3695d829d3c": {
     "code": "c194",
     "variant": "01",
@@ -7368,11 +7348,6 @@
     "code": "c194",
     "variant": "02",
     "created": 1592272267971
-  },
-  "d6f41c43bf2c135adfc58dd1cf205f0b": {
-    "code": "c194",
-    "variant": "02",
-    "created": 1592450178918
   },
   "80d80952c8f87cc002c9c1d6b54cbc9d": {
     "code": "c194",
@@ -19279,11 +19254,6 @@
     "variant": "00",
     "created": 1593383648360
   },
-  "a864c51c0fb71a0f686fed16dddfddb8": {
-    "code": "c014",
-    "variant": "02",
-    "created": 1593384129665
-  },
   "5dd8b5203ed023e4c879a32d038fb958": {
     "code": "c028",
     "variant": "10",
@@ -20618,11 +20588,6 @@
     "code": "c455",
     "variant": "02",
     "created": 1596767169383
-  },
-  "9cb4612288856caaf9a91aa4768c8de9": {
-    "code": "c455",
-    "variant": "02",
-    "created": 1596767170020
   },
   "431a68317dec528c02c2727d8fd0e0b7": {
     "code": "c455",

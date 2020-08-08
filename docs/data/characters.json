@@ -1202,8 +1202,7 @@
         "mods": [
           "e2ef0a64223d82dd3dfdfd2ce512896f",
           "0cebd7cd1735355da9e9ce74edb6c37c",
-          "e943a44f88d8e4c0822538ca78234050",
-          "a864c51c0fb71a0f686fed16dddfddb8"
+          "e943a44f88d8e4c0822538ca78234050"
         ],
         "regions": [
           "global",
@@ -1248,7 +1247,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 10,
+    "numMods": 9,
     "regions": [
       "global",
       "kr",
@@ -6865,10 +6864,7 @@
         "is_voice": "1",
         "mods": [
           "453320e5be77f67295a90515cb3859b1",
-          "41ca8e67da981c1b0bc836b7670b9e2e",
-          "801b2307674e88c1550a6584ddefa8ba",
-          "f2c72a57d8a672047b3da92a7c6891d4",
-          "ce96db19f289f02d42915397acc4d60b"
+          "41ca8e67da981c1b0bc836b7670b9e2e"
         ],
         "regions": [
           "kr",
@@ -6955,7 +6951,7 @@
     "image2": "http://i.imgur.com/cVX2Zfj.png",
     "image3": "http://i.imgur.com/smvbYBS.png",
     "imageSkin": "http://i.imgur.com/8OXSO1P.png",
-    "numMods": 25,
+    "numMods": 22,
     "regions": [
       "global",
       "kr",
@@ -14854,7 +14850,6 @@
         "title": "White",
         "mods": [
           "9db756be4c7ced74707f80aba7c14244",
-          "8e9c8d27c18b8352f01a5a4607b38710",
           "5d1ac3c8391fa8a37c02e3695d829d3c"
         ],
         "regions": [
@@ -14872,7 +14867,6 @@
         "title": "Pure White",
         "mods": [
           "f479e0613064e20cbbf9beb83f3df32d",
-          "d6f41c43bf2c135adfc58dd1cf205f0b",
           "80d80952c8f87cc002c9c1d6b54cbc9d",
           "c7b8535ea8999681643c9244c2dbcb23",
           "c00bd8e6a82d142fe655192ece61e5f2"
@@ -14921,7 +14915,7 @@
     "image2": "http://i.imgur.com/sLmJE8u.png",
     "image3": "http://i.imgur.com/6GLzC1c.png",
     "imageSkin": null,
-    "numMods": 11,
+    "numMods": 9,
     "regions": [
       "global",
       "kr",
@@ -45540,8 +45534,7 @@
       "02": {
         "mods": [
           "3b694d82d5d0c3ae1b12a2c038c5b20f",
-          "706282788c6756ca9c71b487cddadf76",
-          "9cb4612288856caaf9a91aa4768c8de9"
+          "706282788c6756ca9c71b487cddadf76"
         ],
         "regions": [
           "kr",
@@ -45549,7 +45542,7 @@
         ]
       }
     },
-    "numMods": 7,
+    "numMods": 6,
     "regions": [
       "kr",
       "jp"
