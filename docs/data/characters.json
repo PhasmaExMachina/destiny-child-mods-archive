@@ -40955,7 +40955,8 @@
     "variants": {
       "01": {
         "mods": [
-          "13d33bd799894a573ccf523dcfababaf"
+          "13d33bd799894a573ccf523dcfababaf",
+          "6d5246c9ee1acc54e76ea88799993ca6"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -40965,7 +40966,7 @@
         ]
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "code": "sc370",
     "name": "Mona",
     "regions": [
@@ -41185,7 +41186,8 @@
     "variants": {
       "01": {
         "mods": [
-          "a78444198ec8d407f0362f7dbbee5e2d"
+          "a78444198ec8d407f0362f7dbbee5e2d",
+          "717fa171324bb02a2063f85dba369ee4"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -41195,7 +41197,7 @@
         ]
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "code": "sc393",
     "name": "Mona",
     "regions": [

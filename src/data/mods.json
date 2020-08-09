@@ -20568,5 +20568,17 @@
     "variant": "02",
     "created": 1596892865907,
     "modder": "Seireiko"
+  },
+  "6d5246c9ee1acc54e76ea88799993ca6": {
+    "code": "sc370",
+    "variant": "01",
+    "created": 1596981117574,
+    "modder": "csc unit"
+  },
+  "717fa171324bb02a2063f85dba369ee4": {
+    "code": "sc393",
+    "variant": "01",
+    "created": 1596981118501,
+    "modder": "csc unit"
   }
 }
