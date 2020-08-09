@@ -1,0 +1,34 @@
+{
+  "csc unit": {
+    "mods": [
+      "b3a6b44d0ad3cf27dd4bd91154cf7111",
+      "33f57e8c92791660861df6ad801eb3ab",
+      "6d5246c9ee1acc54e76ea88799993ca6",
+      "717fa171324bb02a2063f85dba369ee4"
+    ],
+    "profile": ""
+  },
+  "Seireiko": {
+    "mods": [
+      "773f7ee0cba0cbbf0929b7d10f3c335b",
+      "46a3706a44cc053fb8e0b985623922fc",
+      "d3315463cdfbacb4413de9f78a5467f3"
+    ],
+    "profile": ""
+  },
+  "蠟燭炭": {
+    "mods": [
+      "03e116933a460b4fef77ac1d64c73a64"
+    ],
+    "profile": ""
+  },
+  "Kalaratri": {
+    "mods": [
+      "38aeaeab94de6dcf4dfbd1d7a0bc5d71",
+      "4416f87f45c2b8a2747401c9d830ad6b",
+      "431a68317dec528c02c2727d8fd0e0b7",
+      "706282788c6756ca9c71b487cddadf76"
+    ],
+    "profile": ""
+  }
+}

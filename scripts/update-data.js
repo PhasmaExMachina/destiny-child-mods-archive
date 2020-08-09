@@ -2,6 +2,8 @@ const fs = require('fs'),
       path = require('path'),
       md5File = require('md5-file').sync,
       characters = require('../src/data/characters.json'),
+      mods = require('../src/data/mods.json'),
+      modders = require('../src/data/modders.json'),
       modelInfoGlobal = require('../docs/data/model_info.global.json'),
       modelInfoKr = require('../docs/data/model_info.kr.json'),
       modelInfoJp = require('../docs/data/model_info.jp.json')
@@ -84,7 +86,10 @@ fs.readdirSync(charactersPath).forEach(charDir => {
 //   }
 // })
 
-// const mods = {}
+// clear out modder mods to rebuild them from scratch each time
+Object.keys(modders).forEach(modder => {
+  modders[modder].mods = []
+})
 
 Object.keys(characters).forEach(code => {
   characters[code].numMods = 0
@@ -93,6 +98,16 @@ Object.keys(characters).forEach(code => {
     characters[code].numMods += characters[code].variants[variant].mods.length
     // characters[code].variants[variant].mods = characters[code].variants[variant].mods.map(hash => hash)
     // characters[code].variants[variant].mods = characters[code].variants[variant].mods
+    // update modders
+    characters[code].variants[variant].mods.forEach(hash => {
+      const mod = Object.assign({}, mods[hash], {hash})
+      if(mod.modder) {
+        modders[mod.modder] = modders[mod.modder] || {}
+        modders[mod.modder].mods = modders[mod.modder].mods || []
+        modders[mod.modder].profile = modders[mod.modder].profile || ""
+        if(modders[mod.modder].mods.indexOf(hash) < 0) modders[mod.modder].mods.push(hash)
+      }
+    })
   })
 })
 // fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
@@ -120,5 +135,5 @@ const regions = ['global', 'kr', 'jp']
   })
 })
 fs.writeFileSync(path.join(__dirname, '../docs/data/model_info.merged.json'), JSON.stringify(modelInfo, null, 2))
-
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
+fs.writeFileSync(path.join(__dirname, '../src/data/modders.json'), JSON.stringify(modders, null, 2))

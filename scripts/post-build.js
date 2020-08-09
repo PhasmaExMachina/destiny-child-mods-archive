@@ -1,7 +1,8 @@
 const fs = require('fs'),
       path = require('path'),
       mergeDirs = require('merge-dirs').default,
-      characters = require('../src/data/characters.json')
+      characters = require('../src/data/characters.json'),
+      modders = require('../src/data/modders.json')
 
 const docsPath = path.join(__dirname, '../docs'),
       docsDataPath = path.join(docsPath, 'data'),
@@ -25,6 +26,7 @@ const copyIndexHtmlToDocs = p => {
 }
 
 copyIndexHtmlToDocs('childs')
+copyIndexHtmlToDocs('modders')
 
 // create child HTML files
 Object.keys(characters).forEach(code => {
@@ -35,4 +37,12 @@ Object.keys(characters).forEach(code => {
     copyIndexHtmlToDocs('characters/' + code + '/' + variant)
     copyIndexHtmlToDocs('characters/' + code)
   })
+})
+
+// create modder HTML files
+Object.keys(modders).forEach(modder => {
+  modder = encodeURIComponent(modder)
+  const modderPath = path.join(__dirname, '../docs/modders/' + modder)
+  fs.mkdirSync(modderPath, {recursive: true})
+  copyIndexHtmlToDocs('modders/' + modder)
 })
