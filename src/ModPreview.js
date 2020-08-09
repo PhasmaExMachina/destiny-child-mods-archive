@@ -34,7 +34,7 @@ https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?
           {code}_{variant}
         </Link> {(mod && characters[code].variants[variant].mods.indexOf(hash) != 0) &&
           <span>by {mod.modder
-            ? <Link to={`${basePath}/modders/${encodeURIComponent(mod.modder)}`}>{mod.modder}</Link>
+            ? <Link to={`/modders/${encodeURIComponent(mod.modder)}`}>{mod.modder}</Link>
             : <a href={'http://github.com/PhasmaExMachina/destiny-child-mods-archive/issues/new?labels=modder&title=' +
                 'Modder credit ' + (name ? 'for ' + variants[variant].title + ' ' + name : '') +
                 '&body=' + encodeURIComponent(modderCreditTicketTemplate)
