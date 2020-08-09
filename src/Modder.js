@@ -1,6 +1,7 @@
 import React from 'react'
 import {useParams, Link} from 'react-router-dom'
 import mods from './data/mods.json'
+import modders from './data/modders.json'
 import characters from './data/characters.json'
 import ModPreview from './ModPreview'
 
@@ -11,8 +12,8 @@ const Modder = () => {
               acc.push(Object.assign({}, mods[hash], {hash}))
             }
             return acc
-          }, [])
-    console.log(modder, modderMods)
+          }, []),
+          modderDetails = modders[modder]
     return (
         <>
             <p>
@@ -24,6 +25,9 @@ const Modder = () => {
                 {modder}
             </p>
             <h1>{modder}</h1>
+            {modderDetails.profile &&
+              <div dangerouslySetInnerHTML={{__html:modderDetails.profile}} />
+            }
             {modderMods.map(({hash, variant, code}) => (
               <ModPreview {...{character: characters[code], variant, hash, key: hash}} />
             ))}

@@ -32,8 +32,8 @@ function App() {
           </h1>
           <a href="https://github.com/PhasmaExMachina/destiny-child-mods-archive" style={{
             position: 'absolute',
-            top: '-5px',
-            right: '-5px'
+            top: 0,
+            right: 0
           }} target="_blank" rel="noopener noreferrer">
             <img src={basePath + '/img/strip-fork-me-on-github.png'} style={{width: '100px'}}/>
           </a>
