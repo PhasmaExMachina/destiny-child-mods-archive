@@ -111,9 +111,16 @@
   },
   "蠟燭炭": {
     "mods": [
+      "451de9f83a00f560cdf62cfbceb3322f",
+      "d8c5ac622daceb7670aefb38294c0a7d",
+      "97ddf5fb0fa35b16e2100ac3be130fdf",
+      "25da6f50077b860757cfe718235f681d",
       "03e116933a460b4fef77ac1d64c73a64"
     ],
-    "profile": ""
+    "profile": "",
+    "modsUsingAssets": [
+      "6fc5df07ce6bed8a601b24a7ea101801"
+    ]
   },
   "Kalaratri": {
     "mods": [
@@ -121,6 +128,12 @@
       "4416f87f45c2b8a2747401c9d830ad6b",
       "431a68317dec528c02c2727d8fd0e0b7",
       "706282788c6756ca9c71b487cddadf76"
+    ],
+    "profile": ""
+  },
+  "Enn": {
+    "mods": [
+      "6fc5df07ce6bed8a601b24a7ea101801"
     ],
     "profile": ""
   }
