@@ -12268,7 +12268,8 @@
   "a252a77ecd4e220fcf5cf532b2ef16d0": {
     "code": "c390",
     "variant": "88",
-    "created": 1592520494863
+    "created": 1592520494863,
+    "modder": "Seireiko"
   },
   "b3a3f6932795a49ef381b831eed412e2": {
     "code": "c390",
@@ -12308,12 +12309,14 @@
   "5f5547c44c01de0b85d9304d3686ba56": {
     "code": "c390",
     "variant": "02",
-    "created": 1592520493072
+    "created": 1592520493072,
+    "usingAssetsBy": "Seireiko"
   },
   "289c8accfad8995d153847bb17d78f8c": {
     "code": "c390",
     "variant": "02",
-    "created": 1592577579908
+    "created": 1592577579908,
+    "modder": "Seireiko"
   },
   "8b9b31aad6a8572b1e267f1e51628f46": {
     "code": "c339",
