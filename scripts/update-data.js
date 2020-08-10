@@ -107,6 +107,15 @@ Object.keys(characters).forEach(code => {
         modders[mod.modder].profile = modders[mod.modder].profile || ""
         if(modders[mod.modder].mods.indexOf(hash) < 0) modders[mod.modder].mods.push(hash)
       }
+      if(mod.usingAssetsBy) {
+        mod.usingAssetsBy.split(',').forEach(usingAssetsBy => {
+          modders[usingAssetsBy] = modders[usingAssetsBy] || {}
+          modders[usingAssetsBy].mods = modders[usingAssetsBy].mods || []
+          modders[usingAssetsBy].modsUsingAssets = modders[usingAssetsBy].modsUsingAssets || []
+          modders[usingAssetsBy].profile = modders[usingAssetsBy].profile || ""
+          if(modders[usingAssetsBy].modsUsingAssets.indexOf(hash) < 0) modders[usingAssetsBy].modsUsingAssets.push(hash)
+        })
+      }
     })
   })
 })

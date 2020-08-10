@@ -18813,7 +18813,6 @@
         "title": "Innocent",
         "mods": [
           "dbb9ee82592309772993e4f79c44fde8",
-          "8a6c3ad85c9fef2a857a250972e2f507",
           "2411f1abac448d719caf2366003e4c1f",
           "17aa51e53dd210b47c41c214e1d6ab01"
         ],
@@ -18860,7 +18859,7 @@
     "image2": "http://i.imgur.com/7TDxsIV.png",
     "image3": "http://i.imgur.com/9NSIAiV.png",
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 5,
     "regions": [
       "global",
       "kr",
@@ -19036,8 +19035,7 @@
           "160d424f167748aeef8361217cd709d8",
           "77dabb871faf0d16a0d1bca81523a16e",
           "eb5ded7fef6059ee7a3f4ecb2f47200c",
-          "4403c3d3b96551db97eefaeecaacfdf3",
-          "767e2e7a400c552056b25f99eded2438"
+          "4403c3d3b96551db97eefaeecaacfdf3"
         ],
         "regions": [
           "global",
@@ -19065,7 +19063,7 @@
     "image2": "http://i.imgur.com/V4MVQY8.png",
     "image3": "http://i.imgur.com/vUBAb7i.png",
     "imageSkin": "http://i.imgur.com/4J5o41u.png",
-    "numMods": 24,
+    "numMods": 23,
     "regions": [
       "global",
       "kr",
@@ -20093,8 +20091,7 @@
           "d1a7bb5b0a1241941d205ead5e3254fa",
           "d3891588e3fdce0f27660d3f7240e2e1",
           "4b0ef7b86f02b60167f1ac297e908f2f",
-          "e347fbb174d7a10e97f6a7b3febf1ebe",
-          "018d320228ddeae99944c2a90843091b"
+          "e347fbb174d7a10e97f6a7b3febf1ebe"
         ],
         "regions": [
           "global",
@@ -20122,7 +20119,7 @@
     "image2": "http://i.imgur.com/8dU4saq.png",
     "image3": "http://i.imgur.com/cznuVoN.png",
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 6,
     "regions": [
       "global",
       "kr",
@@ -21192,7 +21189,6 @@
           "8bd93ff3cdea41d0d2fd6980a3d5d96e",
           "5a8d0d5cef382436ef711ef23ae45fc8",
           "bc60c390acf3d7bffbda1ae4420d7658",
-          "7ace1251f0089ae0b5c8f8c2389fc358",
           "74fcf6f5a1d5853b02d3d40eadda2a4c",
           "7b0b81ae82e9c10dfcb2077ad16a81ea"
         ],
@@ -21235,7 +21231,7 @@
     "image2": "http://i.imgur.com/cRoqLLs.png",
     "image3": "http://i.imgur.com/3eURsqh.png",
     "imageSkin": null,
-    "numMods": 11,
+    "numMods": 10,
     "regions": [
       "kr"
     ]

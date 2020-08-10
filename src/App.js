@@ -12,6 +12,7 @@ import CharacterVariant from './CharacterVariant'
 import Character from './Character'
 import Childs from './Childs'
 import Modder from './Modder'
+import Modders from './Modders'
 
 const theme = createMuiTheme({
   palette: {
@@ -47,6 +48,7 @@ function App() {
             <Route path="/characters/:code/"><Character /></Route>
             <Route path="/childs"><Childs /></Route>
             <Route path="/modders/:modder/"><Modder /></Route>
+            <Route path="/modders"><Modders /></Route>
             <Route path="/"><Home /></Route>
           </Switch>
         </Router>

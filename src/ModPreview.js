@@ -25,7 +25,7 @@ https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?
       margin: '2em 3em 2em 1em',
       textAlign: 'center'
     }}>
-      <a href={`${basePath}/live2d-viewer.html?model=${code}_${variant}&modHash=${hash}&background=%23111`} target="_blank" rel="noopener noreferrer" >
+      <a href={`${basePath}/live2d-viewer.html?model=${code}_${variant}&background=%23111&modHash=${hash}`} target="_blank" rel="noopener noreferrer" >
         <img alt={code + '_' + variant} src={basePath + '/characters/' + code + '_' + variant + '/' + (hash || variants[variant].mods[0]) + '/static.png'} style={{maxWidth: '300px', maxHeight: '300px', height: '300px'}} />
       </a>
       <div>{variants[variant].title} {name}</div>
@@ -42,7 +42,13 @@ https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?
                 title="Click to submit modder information">
               ?
             </a>
-          }</span>
+          }
+          {mod.usingAssetsBy &&
+            <span> using assets by{' '}
+              <Link to={`/modders/${encodeURIComponent(mod.usingAssetsBy)}`}>{mod.usingAssetsBy}</Link>
+            </span>
+          }
+          </span>
         }
       </div>
     </div>

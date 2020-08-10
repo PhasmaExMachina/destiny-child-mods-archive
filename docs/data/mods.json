@@ -147,7 +147,8 @@
   "119f6dc54ccc206bda8cc794604c1bdb": {
     "code": "c001",
     "variant": "17",
-    "created": 1592577218463
+    "created": 1592577218463,
+    "modder": "Seireiko"
   },
   "e5ce3edfd5485d82284a5faf9082a51a": {
     "code": "c001",
@@ -212,7 +213,8 @@
   "c1ab3743d075276e6b19d6a006cffe4c": {
     "code": "c001",
     "variant": "02",
-    "created": 1592577216590
+    "created": 1592577216590,
+    "modder": "Seireiko"
   },
   "d2b52bad934ebf689e8274674fb1fea8": {
     "code": "c002",
@@ -287,7 +289,8 @@
   "3cc2238ff306ed57234eb4badd954392": {
     "code": "c002",
     "variant": "02",
-    "created": 1592577220005
+    "created": 1592577220005,
+    "modder": "Seireiko"
   },
   "24d707e7ed008e225482521b8eebc378": {
     "code": "c003",
@@ -677,7 +680,8 @@
   "b1f10cd7d14ed9b5297fba2c1e37e46b": {
     "code": "c010",
     "variant": "02",
-    "created": 1592577234409
+    "created": 1592577234409,
+    "usingAssetsBy": "Seireiko"
   },
   "1fef828b372b40aaa1b963c90dc1069e": {
     "code": "c010",
@@ -767,7 +771,8 @@
   "57287f158964537313bba4e1a436adc8": {
     "code": "c013",
     "variant": "01",
-    "created": 1592577236468
+    "created": 1592577236468,
+    "usingAssetsBy": "Seireiko"
   },
   "5e9b817bd58e01c62b35d447f92f1ac2": {
     "code": "c013",
@@ -842,7 +847,8 @@
   "47b7e5b4fc5a5ef293b88c18bcd3238a": {
     "code": "c014",
     "variant": "01",
-    "created": 1592577238230
+    "created": 1592577238230,
+    "modder": "Seireiko"
   },
   "e2ef0a64223d82dd3dfdfd2ce512896f": {
     "code": "c014",
@@ -857,7 +863,8 @@
   "e943a44f88d8e4c0822538ca78234050": {
     "code": "c014",
     "variant": "02",
-    "created": 1592577240487
+    "created": 1592577240487,
+    "modder": "Seireiko"
   },
   "25394c129380bce9a1f3cf1174efe0e3": {
     "code": "c014",
@@ -1037,7 +1044,8 @@
   "d189fdc2a25a6e8285bf8ca117009fa6": {
     "code": "c020",
     "variant": "02",
-    "created": 1592577248044
+    "created": 1592577248044,
+    "modder": "Seireiko"
   },
   "1fd490bc98414ff564c3b831d8756932": {
     "code": "c022",
@@ -1152,7 +1160,8 @@
   "0275c169bad336cb9bb3beb4ddc05092": {
     "code": "c026",
     "variant": "02",
-    "created": 1592577251745
+    "created": 1592577251745,
+    "modder": "Seireiko"
   },
   "71c44ae9bb4d1503e8fe13477e3baa86": {
     "code": "c027",
@@ -1317,7 +1326,8 @@
   "5ed2a2a9afa3361d439acd0301e9df49": {
     "code": "c029",
     "variant": "02",
-    "created": 1592577254920
+    "created": 1592577254920,
+    "modder": "Seireiko"
   },
   "381cde2705f6cfb79f2ed2836e889559": {
     "code": "c029",
@@ -1507,7 +1517,8 @@
   "c0bf0fa7cb9be153da30a15ba6793d85": {
     "code": "c034",
     "variant": "01",
-    "created": 1592517766739
+    "created": 1592517766739,
+    "modder": "Seireiko"
   },
   "c9fc446e87a47535d36f30ce07d5bc56": {
     "code": "c034",
@@ -1522,7 +1533,8 @@
   "88d6be3111ca82872e37d9ebed3c6026": {
     "code": "c034",
     "variant": "02",
-    "created": 1592517767894
+    "created": 1592517767894,
+    "modder": "Seireiko"
   },
   "3267eeef7bbfee32f2eefdaa8ea633a2": {
     "code": "c034",
@@ -1582,7 +1594,8 @@
   "bce60e40bb733705c0bd0b2411e91595": {
     "code": "c036",
     "variant": "10",
-    "created": 1592536421729
+    "created": 1592536421729,
+    "modder": "Seireiko"
   },
   "e954d1e09d59be9612f8581e458cfecc": {
     "code": "c036",
@@ -1612,7 +1625,8 @@
   "440c0ef07b48c99005735c55ff479021": {
     "code": "c036",
     "variant": "01",
-    "created": 1592577264670
+    "created": 1592577264670,
+    "usingAssetsBy": "Seireiko"
   },
   "3c29e695f78d58d5f46663e7823384e0": {
     "code": "c036",
@@ -1647,7 +1661,8 @@
   "84b56bfbc8d42f24465c95654af7e740": {
     "code": "c036",
     "variant": "02",
-    "created": 1592577265344
+    "created": 1592577265344,
+    "usingAssetsBy": "Seireiko"
   },
   "c2d2e93b66cb11c66e174b793eeec73f": {
     "code": "c038",
@@ -2157,7 +2172,8 @@
   "c924e6f2808cc013b6207461dc0b1b14": {
     "code": "c047",
     "variant": "01",
-    "created": 1592577279177
+    "created": 1592577279177,
+    "modder": "Seireiko"
   },
   "76e06015542ac1532e9d9fd38f207a58": {
     "code": "c047",
@@ -2177,7 +2193,8 @@
   "9924d0d521403e002285168f00cf4d21": {
     "code": "c047",
     "variant": "02",
-    "created": 1592577279839
+    "created": 1592577279839,
+    "modder": "Seireiko"
   },
   "dfa3509a0725e9a1e83cd5a72b070a6a": {
     "code": "c047",
@@ -2387,7 +2404,8 @@
   "f111844d5c3d47c3c069651e1ed7ed2b": {
     "code": "c049",
     "variant": "01",
-    "created": 1592577282334
+    "created": 1592577282334,
+    "modder": "Seireiko"
   },
   "a592293a2192d9fc69f1bc772a19992c": {
     "code": "c049",
@@ -2452,7 +2470,8 @@
   "ecca075478117565ac5f7d74ca7c3b6c": {
     "code": "c049",
     "variant": "02",
-    "created": 1592577283073
+    "created": 1592577283073,
+    "modder": "Seireiko"
   },
   "e4a4d69c10bdd0e7cb131042ff658577": {
     "code": "c049",
@@ -2712,7 +2731,8 @@
   "a7a748e871d8fa893482bc9994092b3a": {
     "code": "c057",
     "variant": "01",
-    "created": 1592577291572
+    "created": 1592577291572,
+    "modder": "Seireiko"
   },
   "94761ec31f06651d04e6b159e79d31c3": {
     "code": "c057",
@@ -2747,7 +2767,8 @@
   "b1fbd16ec9c992e76289f665ef8583ed": {
     "code": "c057",
     "variant": "02",
-    "created": 1592577292318
+    "created": 1592577292318,
+    "modder": "Seireiko"
   },
   "2012399ce28d9c3d371152e9dd8a5482": {
     "code": "c057",
@@ -3432,7 +3453,8 @@
   "2869cb4bd2b0f4ed4644b4077c38f8e0": {
     "code": "c083",
     "variant": "01",
-    "created": 1592577310372
+    "created": 1592577310372,
+    "usingAssetsBy": "Seireiko"
   },
   "36e0986f01423d7bad6d301a341fe22f": {
     "code": "c083",
@@ -3452,7 +3474,8 @@
   "dbc090bc7c4e845a0d53ee34d56505c9": {
     "code": "c083",
     "variant": "02",
-    "created": 1592577311088
+    "created": 1592577311088,
+    "modder": "Seireiko"
   },
   "3624eb34c9dcd04b74234489e0cb866c": {
     "code": "c085",
@@ -3547,7 +3570,8 @@
   "dac0a9395c99e363795c757351840a7c": {
     "code": "c091",
     "variant": "01",
-    "created": 1592577315661
+    "created": 1592577315661,
+    "usingAssetsBy": "Seireiko"
   },
   "c5dd7a37f54b062ac536259dc27479b1": {
     "code": "c091",
@@ -3607,7 +3631,8 @@
   "a51f79b34e40169e9303240e9659e4f6": {
     "code": "c095",
     "variant": "02",
-    "created": 1592577317772
+    "created": 1592577317772,
+    "modder": "Seireiko"
   },
   "c8c4c82dcbce55e66f83c111d994e466": {
     "code": "c099",
@@ -3632,7 +3657,8 @@
   "a628bdcebf60c46eb3826c42c3dd3af7": {
     "code": "c099",
     "variant": "01",
-    "created": 1592577318786
+    "created": 1592577318786,
+    "modder": "Seireiko"
   },
   "72808392734047708e193f50c2e40aa7": {
     "code": "c099",
@@ -3662,7 +3688,8 @@
   "1eeaac67f0986dca3c01c3b0ba83e1f6": {
     "code": "c099",
     "variant": "02",
-    "created": 1592577319512
+    "created": 1592577319512,
+    "modder": "Seireiko"
   },
   "a320d08243ef23db2af582378548cdad": {
     "code": "c099",
@@ -4042,7 +4069,8 @@
   "006c0b7d561445d922726482dc19ea35": {
     "code": "c124",
     "variant": "02",
-    "created": 1592486843831
+    "created": 1592486843831,
+    "modder": "Seireiko"
   },
   "9a61688982aeddfc854e0e7767f9f5b5": {
     "code": "c124",
@@ -4402,7 +4430,8 @@
   "efaa977dd62f0b1108d8469714719d05": {
     "code": "c149",
     "variant": "00",
-    "created": 1592577350897
+    "created": 1592577350897,
+    "modder": "Seireiko"
   },
   "1ffd8c6a3ad33ec6861e7f087aabc010": {
     "code": "c153",
@@ -4417,7 +4446,8 @@
   "b0cd1296ad09fc39386fd41006e9af8b": {
     "code": "c153",
     "variant": "01",
-    "created": 1592577354297
+    "created": 1592577354297,
+    "modder": "Seireiko"
   },
   "5fdcb7702779212fc53f1de526bad4dd": {
     "code": "c153",
@@ -4427,7 +4457,8 @@
   "e1c510e6710627b565c2dde9c8f248c7": {
     "code": "c153",
     "variant": "02",
-    "created": 1592577355010
+    "created": 1592577355010,
+    "modder": "Seireiko"
   },
   "b61e408185654b857efa7b99393d0575": {
     "code": "c153",
@@ -4522,7 +4553,8 @@
   "d625ffd5f83e9839b914217009a86da7": {
     "code": "c156",
     "variant": "00",
-    "created": 1592577356546
+    "created": 1592577356546,
+    "modder": "Seireiko"
   },
   "d23d8ee9ed72e6d5286e98ef719716f6": {
     "code": "c156",
@@ -4807,7 +4839,8 @@
   "19352f2192ee535472f5a1050d440043": {
     "code": "c167",
     "variant": "02",
-    "created": 1592577363255
+    "created": 1592577363255,
+    "modder": "Seireiko"
   },
   "8898ecf3b2771db70584253cdf18fd6a": {
     "code": "c167",
@@ -5002,7 +5035,8 @@
   "40f266922ae4cdda9355fc77062bcb5d": {
     "code": "c174",
     "variant": "01",
-    "created": 1592577368840
+    "created": 1592577368840,
+    "modder": "Seireiko"
   },
   "ff622e82f7372e3a6b50476a8fbe0a71": {
     "code": "c174",
@@ -5037,7 +5071,8 @@
   "700e9c9e0fbcf9a83333ff3934ae6b21": {
     "code": "c174",
     "variant": "02",
-    "created": 1592577369328
+    "created": 1592577369328,
+    "modder": "Seireiko"
   },
   "9c4a42cc581896e2459f071430d6e787": {
     "code": "c174",
@@ -5107,7 +5142,8 @@
   "874158a2803be12b0bb1dbcf797c3bc5": {
     "code": "c176",
     "variant": "02",
-    "created": 1592577372177
+    "created": 1592577372177,
+    "modder": "Seireiko"
   },
   "af15d897d58422d8ce36a21c0f40bb31": {
     "code": "c176",
@@ -5327,7 +5363,8 @@
   "3ba285993e70669533f9177366f984cb": {
     "code": "c184",
     "variant": "02",
-    "created": 1592577378060
+    "created": 1592577378060,
+    "modder": "Seireiko"
   },
   "e2157572aeec53e5982088bdcde26e8a": {
     "code": "c184",
@@ -5552,7 +5589,8 @@
   "ba3017edc981764cc91b3b49372c2983": {
     "code": "c202",
     "variant": "02",
-    "created": 1592577400419
+    "created": 1592577400419,
+    "modder": "Seireiko"
   },
   "8645d94dc0b4030ae0e2a481f4637e30": {
     "code": "c202",
@@ -5692,7 +5730,8 @@
   "a22940565b62778662eda85ac225a2cf": {
     "code": "c214",
     "variant": "01",
-    "created": 1592577406343
+    "created": 1592577406343,
+    "modder": "Seireiko"
   },
   "15b5bf2fdab051f9e2fb3f3814555294": {
     "code": "c214",
@@ -7202,7 +7241,8 @@
   "a097969105c09b4f786c27fe6704e694": {
     "code": "c178",
     "variant": "01",
-    "created": 1592577372855
+    "created": 1592577372855,
+    "usingAssetsBy": "Seireiko"
   },
   "bf1bd4758e75f492d13905d615810e6d": {
     "code": "c178",
@@ -7487,7 +7527,8 @@
   "c62fe73c96feddf726530d3568e33c85": {
     "code": "c198",
     "variant": "01",
-    "created": 1592577395151
+    "created": 1592577395151,
+    "modder": "Seireiko"
   },
   "d373598daec60aaf547f1ca652c2cac0": {
     "code": "c198",
@@ -7512,7 +7553,8 @@
   "02f26cec221879dfb5291d07644cff86": {
     "code": "c198",
     "variant": "02",
-    "created": 1592577395857
+    "created": 1592577395857,
+    "modder": "Seireiko"
   },
   "0b11c38d3031606277769912a705fc0d": {
     "code": "c198",
@@ -8122,7 +8164,8 @@
   "f37295d54becb3a94f0176d55228bbe0": {
     "code": "c233",
     "variant": "00",
-    "created": 1592577422212
+    "created": 1592577422212,
+    "modder": "Seireiko"
   },
   "8ba7298235dc8c9e0846b3151e6fbf0d": {
     "code": "c233",
@@ -8557,7 +8600,8 @@
   "39b7489055128b83c6cd9ed5499a677d": {
     "code": "c247",
     "variant": "01",
-    "created": 1592577439766
+    "created": 1592577439766,
+    "usingAssetsBy": "Seireiko"
   },
   "35a3a9912b936cf9d29bf5102f254b50": {
     "code": "c247",
@@ -8572,7 +8616,8 @@
   "a03ac3c00a53eb911a0a94c097d397d8": {
     "code": "c247",
     "variant": "02",
-    "created": 1592503627160
+    "created": 1592503627160,
+    "modder": "Seireiko"
   },
   "99530f9e0c08a573c9dc9105679ec1c0": {
     "code": "c247",
@@ -8977,7 +9022,8 @@
   "4ec22d5f1a01971dd5294f11e95bdea0": {
     "code": "c267",
     "variant": "01",
-    "created": 1592577450680
+    "created": 1592577450680,
+    "modder": "Seireiko"
   },
   "cfc5c659ccda96468d948a6feef3bc31": {
     "code": "c267",
@@ -8997,7 +9043,8 @@
   "9c4d2f75499400e231534d0dfca19c87": {
     "code": "c267",
     "variant": "02",
-    "created": 1592577451348
+    "created": 1592577451348,
+    "usingAssetsBy": "Seireiko"
   },
   "0f10048202cf18d8ba1cbc7b2bd70e5a": {
     "code": "c267",
@@ -9042,7 +9089,8 @@
   "256f0655c85fbbaf362d68340b428a5a": {
     "code": "c274",
     "variant": "02",
-    "created": 1592503629413
+    "created": 1592503629413,
+    "modder": "Seireiko"
   },
   "2f5524eb68fb57e70b80f877c895ed31": {
     "code": "c274",
@@ -9174,11 +9222,6 @@
     "variant": "01",
     "created": 1592272491338
   },
-  "8a6c3ad85c9fef2a857a250972e2f507": {
-    "code": "c280",
-    "variant": "01",
-    "created": 1592508559201
-  },
   "2411f1abac448d719caf2366003e4c1f": {
     "code": "c280",
     "variant": "01",
@@ -9187,7 +9230,8 @@
   "17aa51e53dd210b47c41c214e1d6ab01": {
     "code": "c280",
     "variant": "01",
-    "created": 1592536472325
+    "created": 1592536472325,
+    "modder": "Seireiko"
   },
   "12c82fa3009e407807807fc9a0105741": {
     "code": "c280",
@@ -9227,7 +9271,8 @@
   "36b39e203d9619bd7753f6973bedba33": {
     "code": "c283",
     "variant": "10",
-    "created": 1592577464716
+    "created": 1592577464716,
+    "modder": "Seireiko"
   },
   "77ab90d2d6e5ac01848614c7f26b8ac0": {
     "code": "c283",
@@ -9237,7 +9282,8 @@
   "92d7eb25ff9df2e0d2034ae2ffbb0a51": {
     "code": "c283",
     "variant": "11",
-    "created": 1592577466404
+    "created": 1592577466404,
+    "modder": "Seireiko"
   },
   "f044dbee43d88ee088ace4e9877e608e": {
     "code": "c283",
@@ -9272,7 +9318,8 @@
   "3ce55044551fe4b9b6e5022a9dd58e05": {
     "code": "c283",
     "variant": "89",
-    "created": 1592577469864
+    "created": 1592577469864,
+    "modder": "Seireiko"
   },
   "aaab3e7bf6b3901c5ba7ca6ca66d87ed": {
     "code": "c283",
@@ -9324,11 +9371,6 @@
     "variant": "02",
     "created": 1592577463537
   },
-  "767e2e7a400c552056b25f99eded2438": {
-    "code": "c283",
-    "variant": "02",
-    "created": 1592840732546
-  },
   "d2a042cb45831f5fe00307649c1f412d": {
     "code": "c285",
     "variant": "10",
@@ -9362,7 +9404,8 @@
   "46bdca2e10ae7f434c0a3c401750ac4e": {
     "code": "c285",
     "variant": "02",
-    "created": 1592517846302
+    "created": 1592517846302,
+    "modder": "Seireiko"
   },
   "d43e8443174d8e57376fd82be26c90fd": {
     "code": "c285",
@@ -9747,7 +9790,8 @@
   "3635ea0689d105008de6b181bcff4d9c": {
     "code": "c300",
     "variant": "02",
-    "created": 1592577483728
+    "created": 159257743728,
+    "modder": "Seireiko"
   },
   "fac942d497996d927a82ec4d19adddd4": {
     "code": "c301",
@@ -9947,7 +9991,8 @@
   "6164b054a2210428e50eecc75ac6ab35": {
     "code": "c308",
     "variant": "01",
-    "created": 1592577488675
+    "created": 1592577488675,
+    "modder": "Seireiko"
   },
   "06a49029279050a2f89c192d9aa639d2": {
     "code": "c308",
@@ -10307,7 +10352,8 @@
   "72eb7349571460a11aadc3afbf5562da": {
     "code": "c318",
     "variant": "10",
-    "created": 1592577499883
+    "created": 1592577499883,
+    "usingAssetsBy": "Seireiko"
   },
   "42ff9dbfc194c567851a0164a8797e14": {
     "code": "c318",
@@ -10357,7 +10403,8 @@
   "f3bafa109151659a1828c83057b2d24c": {
     "code": "c318",
     "variant": "11",
-    "created": 1592577501123
+    "created": 1592577501123,
+    "usingAssetsBy": "Seireiko"
   },
   "e8c062b1e882a9bb5a87232dc8d7a13a": {
     "code": "c318",
@@ -10412,7 +10459,8 @@
   "94f0dc2793dc9fe7546199a4dba77b2a": {
     "code": "c318",
     "variant": "89",
-    "created": 1592577502366
+    "created": 1592577502366,
+    "usingAssetsBy": "Seireiko"
   },
   "d58aa2df1408f6b0d018e57fd3a6fad1": {
     "code": "c318",
@@ -10447,7 +10495,8 @@
   "df999de1f52586eec1bf793cce359f06": {
     "code": "c318",
     "variant": "01",
-    "created": 1592577498366
+    "created": 1592577498366,
+    "modder": "Seireiko"
   },
   "2ffb85e4530053eb1eb9a0a69c17a1a1": {
     "code": "c318",
@@ -10477,7 +10526,8 @@
   "6c117d3fdd414edd0fe068b7a6432854": {
     "code": "c318",
     "variant": "02",
-    "created": 1592517864872
+    "created": 1592517864872,
+    "modder": "Seireiko"
   },
   "5c92276df709b7a773191e5c3d8d7d99": {
     "code": "c318",
@@ -10553,11 +10603,6 @@
     "code": "c320",
     "variant": "01",
     "created": 1592450203125
-  },
-  "7ace1251f0089ae0b5c8f8c2389fc358": {
-    "code": "c320",
-    "variant": "01",
-    "created": 1592450203587
   },
   "74fcf6f5a1d5853b02d3d40eadda2a4c": {
     "code": "c320",
@@ -10727,7 +10772,8 @@
   "f2fe16746123652adb785fefc955de60": {
     "code": "c344",
     "variant": "10",
-    "created": 1592577511973
+    "created": 1592577511973,
+    "usingAssetsBy": "Seireiko"
   },
   "bffef6e44b168a49f3e8a7d4e77ffb3a": {
     "code": "c344",
@@ -10937,7 +10983,8 @@
   "e17cb8b3ded61435c784adecd16eb09d": {
     "code": "c349",
     "variant": "01",
-    "created": 1592517881584
+    "created": 1592517881584,
+    "modder": "Seireiko"
   },
   "d3442f382eb174bbbdb09e55fbaf6054": {
     "code": "c349",
@@ -11107,7 +11154,8 @@
   "f695d12c50920f353b0f68f5afbbbc96": {
     "code": "c351",
     "variant": "02",
-    "created": 1592517886122
+    "created": 1592517886122,
+    "modder": "Seireiko"
   },
   "8213dd3fb15cd72bae8ea2486bd6e6bc": {
     "code": "c253",
@@ -11442,7 +11490,8 @@
   "801ef740fff14ed0de0db179e78a1234": {
     "code": "c364",
     "variant": "02",
-    "created": 1592517896846
+    "created": 1592517896846,
+    "modder": "Seireiko"
   },
   "918c455dae6851df645ff034cf15e730": {
     "code": "c364",
@@ -11467,7 +11516,8 @@
   "8bdbde0ba70842fc444b06e4e8878664": {
     "code": "c365",
     "variant": "01",
-    "created": 1592577545485
+    "created": 1592577545485,
+    "modder": "Seireiko"
   },
   "b153676178d9ca16de65f6595f8c1839": {
     "code": "c365",
@@ -11497,7 +11547,8 @@
   "f671564babb316401102b519b6c35fd3": {
     "code": "c365",
     "variant": "02",
-    "created": 1592517898652
+    "created": 1592517898652,
+    "usingAssetsBy": "Seireiko"
   },
   "72b1556bf6d3db3bd837f44048ac55a5": {
     "code": "c365",
@@ -11507,7 +11558,8 @@
   "2af69d8c95b43d27f0b2d5f0f79ff92b": {
     "code": "c365",
     "variant": "02",
-    "created": 1592839036210
+    "created": 1592839036210,
+    "modder": "Seireiko"
   },
   "157706d3449870c456f86cf2e1d33b4c": {
     "code": "m254",
@@ -11542,7 +11594,8 @@
   "adfee1ff4386495597f6f24d5c4f431d": {
     "code": "c366",
     "variant": "02",
-    "created": 1592577547467
+    "created": 1592577547467,
+    "modder": "Seireiko"
   },
   "e914e99e9329e5b34a375599f648d394": {
     "code": "c354",
@@ -11567,7 +11620,8 @@
   "a0cc1dcbddfb03ee7f347137858134c8": {
     "code": "c354",
     "variant": "10",
-    "created": 1592577533691
+    "created": 1592577533691,
+    "modder": "Seireiko"
   },
   "f7dc184586e91b12b86a48f270d5ebbf": {
     "code": "c354",
@@ -11622,7 +11676,8 @@
   "b9fb70eb2b881ad9645d861627dd67f8": {
     "code": "c332",
     "variant": "01",
-    "created": 1592536490724
+    "created": 1592536490724,
+    "modder": "Seireiko"
   },
   "0b8b511d5e705538a00cb86077012649": {
     "code": "c332",
@@ -11637,7 +11692,8 @@
   "b493c529a191650949fae2c1f6d6d98c": {
     "code": "c332",
     "variant": "02",
-    "created": 1592536491959
+    "created": 1592536491959,
+    "modder": "Seireiko"
   },
   "f2506b8bcfe4fa455ca2d514ca8973ba": {
     "code": "c374",
@@ -11657,7 +11713,8 @@
   "3121203d5263b78dbfac4e49230e0049": {
     "code": "c374",
     "variant": "01",
-    "created": 1592450211634
+    "created": 1592450211634,
+    "usingAssetsBy": "Seireiko"
   },
   "4f8fc0a3cbcb55a14028dd896251383e": {
     "code": "c374",
@@ -11727,7 +11784,8 @@
   "3527b6b84a453621e1aa9fdeeba2cac3": {
     "code": "c338",
     "variant": "01",
-    "created": 1592577507786
+    "created": 1592577507786,
+    "modder": "Seireiko"
   },
   "4d0d6f4403d597e7a9df1fe90488c71e": {
     "code": "c338",
@@ -11902,7 +11960,8 @@
   "ccd8a4694970cb43e5b563a6c03bfac6": {
     "code": "c371",
     "variant": "10",
-    "created": 1592577555470
+    "created": 1592577555470,
+    "modder": "Seireiko"
   },
   "80a31fc59abbe94cb606e3208d5e41e9": {
     "code": "c371",
@@ -11922,7 +11981,8 @@
   "0430dfe55796de738b446e72a16ba268": {
     "code": "c371",
     "variant": "02",
-    "created": 1592577554687
+    "created": 1592577554687,
+    "modder": "Seireiko"
   },
   "c54a58c2ed321f18854ca711f9f690df": {
     "code": "c372",
@@ -11937,7 +11997,8 @@
   "e72e472d4fa32c5068f0c47b855ab312": {
     "code": "c372",
     "variant": "10",
-    "created": 1592577559228
+    "created": 1592577559228,
+    "modder": "Seireiko"
   },
   "bd5f99b32b6b9bc6b03621e76c5edc48": {
     "code": "c372",
@@ -11982,7 +12043,8 @@
   "66ec6f1dce689181a06bd84e5e94f009": {
     "code": "c372",
     "variant": "02",
-    "created": 1592577557838
+    "created": 1592577557838,
+    "modder": "Seireiko"
   },
   "9b4b19d651840945467810b4fbaa70cb": {
     "code": "c381",
@@ -11992,12 +12054,14 @@
   "3cfea8d5baf444da0d00e0dc42473c9f": {
     "code": "c381",
     "variant": "01",
-    "created": 1592517910131
+    "created": 1592517910131,
+    "modder": "Seireiko"
   },
   "386d42c182a732989f74608e4d3a8989": {
     "code": "c381",
     "variant": "01",
-    "created": 1592517911123
+    "created": 1592517911123,
+    "usingAssetsBy": "Seireiko"
   },
   "b9bc57a2b79b53d302db938a9c97e955": {
     "code": "c381",
@@ -12007,12 +12071,14 @@
   "590243345ea20813801674ef3c3986d1": {
     "code": "c381",
     "variant": "02",
-    "created": 1592517912111
+    "created": 1592517912111,
+    "modder": "Seireiko"
   },
   "5ba5b78b4063ed14a809cc518eb3f184": {
     "code": "c381",
     "variant": "02",
-    "created": 1592517913064
+    "created": 1592517913064,
+    "usingAssetsBy": "Seireiko"
   },
   "59c9d1353a02ee75af3d37d6a5de1bca": {
     "code": "c388",
@@ -12437,7 +12503,8 @@
   "08e9893dff7d4b3bf0e46f5385678045": {
     "code": "c386",
     "variant": "11",
-    "created": 1592577572645
+    "created": 1592577572645,
+    "modder": "Seireiko"
   },
   "2c0cf04026333b92185f7d9e4a5eb65a": {
     "code": "c386",
@@ -12452,7 +12519,8 @@
   "39d3b1eef1f6828a2387e058cffd2ab9": {
     "code": "c386",
     "variant": "12",
-    "created": 1592577573373
+    "created": 1592577573373,
+    "modder": "Seireiko"
   },
   "e5cf10519ec465f4b4633d4dfa48d00f": {
     "code": "c386",
@@ -12562,7 +12630,8 @@
   "04beca5d98247409ac53bdaf073a8413": {
     "code": "c387",
     "variant": "10",
-    "created": 1592577576053
+    "created": 1592577576053,
+    "modder": "Seireiko"
   },
   "c0ae8b76d295cf4a0a533de811d7d32a": {
     "code": "c387",
@@ -12577,7 +12646,8 @@
   "bd66c77da733a11825201fa05020292e": {
     "code": "c387",
     "variant": "11",
-    "created": 1592577577034
+    "created": 1592577577034,
+    "modder": "Seireiko"
   },
   "2a4e6545651fc82626704b080e7c990b": {
     "code": "c387",
@@ -12622,7 +12692,8 @@
   "404a59455d8bcc440299094566fcd69a": {
     "code": "c387",
     "variant": "02",
-    "created": 1592577575122
+    "created": 1592577575122,
+    "modder": "Seireiko"
   },
   "12996d0508efb01767611133d4f20646": {
     "code": "c393",
@@ -19093,12 +19164,14 @@
   "bd4c67d2e059fa8a48fa87c62c079b53": {
     "code": "c348",
     "variant": "00",
-    "created": 1593227252737
+    "created": 1593227252737,
+    "modder": "Seireiko"
   },
   "c1eab97613dab12c0849dc6c760f0036": {
     "code": "c351",
     "variant": "00",
-    "created": 1593227253535
+    "created": 1593227253535,
+    "modder": "Seireiko"
   },
   "41a437c65a4bc89d6a61cf35ac6da01e": {
     "code": "c005",

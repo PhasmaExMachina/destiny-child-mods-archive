@@ -13,14 +13,19 @@ const Modder = () => {
             }
             return acc
           }, []),
+          modsUsingModderAssets = Object.keys(mods).reduce((acc, hash) => {
+            if(mods[hash].usingAssetsBy == modder) {
+              acc.push(Object.assign({}, mods[hash], {hash}))
+            }
+            return acc
+          }, []),
           modderDetails = modders[modder]
     return (
         <>
             <p>
                 <Link to="/">Home</Link>
                 {' > '}
-                {/* <Link to="/modders">Modders</Link> */}
-                Modders
+                <Link to="/modders">Modders</Link>
                 {' > '}
                 {modder}
             </p>
@@ -31,6 +36,14 @@ const Modder = () => {
             {modderMods.map(({hash, variant, code}) => (
               <ModPreview {...{character: characters[code], variant, hash, key: hash}} />
             ))}
+            {modsUsingModderAssets.length > 0 &&
+              <>
+                <h2>Mods Using assets by {modder}</h2>
+                {modsUsingModderAssets.map(({hash, variant, code}) => (
+                  <ModPreview {...{character: characters[code], variant, hash, key: hash}} />
+                ))}
+              </>
+            }
         </>
     )
 }
