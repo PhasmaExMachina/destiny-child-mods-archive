@@ -19,6 +19,7 @@ fs.readdirSync(docsPath).forEach(file => {
 mergeDirs(path.join(__dirname, '../build'), docsPath, 'overwrite')
 fs.copyFileSync(path.join(srcDataPath, 'mods.json'), path.join(docsDataPath, 'mods.json'))
 fs.copyFileSync(path.join(srcDataPath, 'characters.json'), path.join(docsDataPath, 'characters.json'))
+fs.copyFileSync(path.join(srcDataPath, 'modders.json'), path.join(docsDataPath, 'modders.json'))
 
 const copyIndexHtmlToDocs = p => {
   fs.mkdirSync(path.join(docsPath, p), {recursive: true})
