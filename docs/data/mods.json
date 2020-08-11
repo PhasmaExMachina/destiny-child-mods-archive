@@ -6328,7 +6328,8 @@
   "145f337399b6389eca6d02c20600c807": {
     "code": "m051",
     "variant": "10",
-    "created": 1592839038426
+    "created": 1592839038426,
+    "modder": "蠟燭炭"
   },
   "1ffd2f6afd428390d2cab42779d8609c": {
     "code": "m051",
@@ -13129,7 +13130,8 @@
   "337e2982a6cb8f4c803c7647a6419ca1": {
     "code": "c406",
     "variant": "01",
-    "created": 1592839037091
+    "created": 1592839037091,
+    "modder": "蠟燭炭"
   },
   "40a614d5a22e5be5d10b1e8ee2387687": {
     "code": "c406",
@@ -13139,7 +13141,8 @@
   "244dac7eeab5f2292f5cf03f531cd3d9": {
     "code": "c406",
     "variant": "02",
-    "created": 1592444366074
+    "created": 1592444366074,
+    "modder": "蠟燭炭"
   },
   "c5a28826d7cf916d5b52adef73cef4b0": {
     "code": "c405",
