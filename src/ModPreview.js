@@ -12,12 +12,14 @@ function CharacterImage({character: {name, variants, code, regions}, variant, ha
         modderCreditTicketTemplate = `
 Use this form to sumbmit modder author/creator information for a given mod so they get credit for their work. I'll update the information in the archive as soon as I can and will close this ticket when it's done. ~Phasma
 
-Name of modder that released the mod:
+Modder:
 
-Name(s) of modders the mod is based on:
+If this mod uses assets by any other modders please list them here:
 
 Mod link (do not change this):
-https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?model=${code}_${variant}&modHash=${hash}&background=%23111`
+https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?model=${code}_${variant}&modHash=${hash}&background=%23111
+
+Mod hash (do not change this): ${hash}`
 
   return (variant && variants[variant] && (
     <div style={{
