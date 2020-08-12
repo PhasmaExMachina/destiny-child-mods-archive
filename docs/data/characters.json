@@ -36028,7 +36028,6 @@
       "01": {
         "mods": [
           "c2b79a6e04cdbdafb05802dd3c68163a",
-          "73551e7ed114d377157a1acf7bbba09d",
           "2e3fc67a5dff131ac7777e8ccbf82eeb"
         ],
         "title": "Hot Spring",
@@ -36039,7 +36038,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc354",
     "name": "Demeter",
     "regions": [
@@ -40531,8 +40530,7 @@
       "01": {
         "mods": [
           "802c0e1251a9d2f843eb82ccafe2520f",
-          "ab6814cd384dd900e15eaf9ae01d66ce",
-          "583d716bd2b4ee95dff857eaea0c9f78"
+          "ab6814cd384dd900e15eaf9ae01d66ce"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -40542,7 +40540,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc324",
     "name": "Mona",
     "regions": [
@@ -40599,7 +40597,6 @@
         "mods": [
           "bbaf5e329ddb6e27b5649049d9183904",
           "54c4321fe7315d9b1bdb6797c6d7b25a",
-          "50fe575ad90f3117a33ac1af030fefc2",
           "e40958acc6821c90c530b9e28201a9ae",
           "68aca00dd206be8386cc1e1228d1d61f",
           "1596596fa3a3f7a9ff9ec67f1f33b431",
@@ -40613,7 +40610,7 @@
         ]
       }
     },
-    "numMods": 7,
+    "numMods": 6,
     "code": "sc345",
     "name": "Anemone",
     "regions": [
@@ -40719,8 +40716,7 @@
       "01": {
         "mods": [
           "7e67617edcbee1ac441e5549156a8715",
-          "2927c19986bfbe896dfb6f37cc9b3a23",
-          "311b6e0b56cd120a2aea6fae0725eb84"
+          "2927c19986bfbe896dfb6f37cc9b3a23"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -40730,7 +40726,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc350",
     "name": "Neptune♥",
     "regions": [
@@ -40744,7 +40740,6 @@
       "01": {
         "mods": [
           "e1f916e9327ae831c084a15b468947d3",
-          "cfa3788561f64285b08b6782a0fb3d82",
           "a67e4295308f05d4115a3d658270664a"
         ],
         "title": "Hot Spring",
@@ -40755,7 +40750,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc351",
     "name": "Venus♥",
     "regions": [
@@ -40792,7 +40787,6 @@
       "01": {
         "mods": [
           "19c2026178e66029c99d0cb92efe8c9f",
-          "c58210b6b1921a843cea91bbbd62639e",
           "abda54eb20309281019dff887bdf02d6"
         ],
         "title": "Hot Spring",
@@ -40803,7 +40797,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc355",
     "name": "Chang'e",
     "regions": [
