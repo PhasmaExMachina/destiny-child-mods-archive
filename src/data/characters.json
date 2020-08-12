@@ -5821,7 +5821,7 @@
     "image2": "http://i.imgur.com/qanINxK.png",
     "image3": "http://i.imgur.com/pNWGnwb.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",
@@ -15008,7 +15008,7 @@
     "image2": "http://i.imgur.com/5GaIHmB.png",
     "image3": "http://i.imgur.com/JY2fMQb.png",
     "imageSkin": null,
-    "numMods": 11,
+    "numMods": 10,
     "regions": [
       "global",
       "kr",
@@ -16727,7 +16727,7 @@
     "image2": "http://i.imgur.com/p7P7l8v.png",
     "image3": "http://i.imgur.com/bLphiRp.png",
     "imageSkin": null,
-    "numMods": 16,
+    "numMods": 15,
     "regions": [
       "global",
       "kr",
@@ -20114,7 +20114,7 @@
     "image2": "http://i.imgur.com/8dU4saq.png",
     "image3": "http://i.imgur.com/cznuVoN.png",
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 5,
     "regions": [
       "global",
       "kr",
@@ -20663,7 +20663,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 10,
     "regions": [
       "global",
       "kr",
@@ -25860,7 +25860,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 6,
     "regions": [
       "global",
       "kr",
@@ -34872,7 +34872,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc019",
     "name": "Eris",
     "regions": [
@@ -34943,7 +34943,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc029",
     "name": "Selene",
     "regions": [
@@ -34990,7 +34990,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "sc043",
     "name": "Hera",
     "regions": [
@@ -35060,7 +35060,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc048",
     "name": "Neamhain",
     "regions": [
@@ -37794,8 +37794,7 @@
         "mods": [
           "7b0185a9d976453d2aad21f849f2cc7f",
           "d76cee2fa15123bb91e5d54b89ee8ad8",
-          "2545ffbd80df28755a70f3c28cfa5541",
-          "3436dcda03a517e278530bd48e8ac05a"
+          "2545ffbd80df28755a70f3c28cfa5541"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -37805,7 +37804,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc008",
     "name": "Frigga",
     "regions": [
@@ -37819,8 +37818,7 @@
       "01": {
         "mods": [
           "39a413a5c0e192a20c9402a2f237d12b",
-          "9597f30396fd8c099515e27b7f3da018",
-          "bbc733014f624c059f0bd5294942f93c"
+          "9597f30396fd8c099515e27b7f3da018"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -37830,7 +37828,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc011",
     "name": "Deino",
     "regions": [

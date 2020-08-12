@@ -5774,8 +5774,7 @@
           "b5236097ff6ee5a460c8b1854a9b6530",
           "268791572bd07366aa81653ae866ce7e",
           "4f7749bae9218b1048546e7c33106b18",
-          "dcdc659faad9fdee323b525b584bd20d",
-          "20145a1aea838890bbf222239b13dca8"
+          "dcdc659faad9fdee323b525b584bd20d"
         ],
         "regions": [
           "global",
@@ -5822,7 +5821,7 @@
     "image2": "http://i.imgur.com/qanINxK.png",
     "image3": "http://i.imgur.com/pNWGnwb.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",
@@ -14962,7 +14961,6 @@
         "title": "Dark Princess",
         "mods": [
           "66cf5af559bc0063fa7d5b520bea2694",
-          "35246ec744aaf78033cbed3a14724ae8",
           "7e8203f59d1f15ffca3ca132f7d9c783",
           "630ecef6eecd145d74869f5fe8ce6630"
         ],
@@ -15010,7 +15008,7 @@
     "image2": "http://i.imgur.com/5GaIHmB.png",
     "image3": "http://i.imgur.com/JY2fMQb.png",
     "imageSkin": null,
-    "numMods": 11,
+    "numMods": 10,
     "regions": [
       "global",
       "kr",
@@ -16679,7 +16677,6 @@
           "0a2c15f69ce472a1f9017d350627a77a",
           "5807fd19e49c1b8420b835a3ba8611b3",
           "2b34714d888b0102cc45cc670e4ebe6c",
-          "95756ffb5941878789f201d2fad2ae9b",
           "b5e4862e171740a109e59f9ef2bd5141"
         ],
         "regions": [
@@ -16730,7 +16727,7 @@
     "image2": "http://i.imgur.com/p7P7l8v.png",
     "image3": "http://i.imgur.com/bLphiRp.png",
     "imageSkin": null,
-    "numMods": 16,
+    "numMods": 15,
     "regions": [
       "global",
       "kr",
@@ -20089,8 +20086,7 @@
         "mods": [
           "d1a7bb5b0a1241941d205ead5e3254fa",
           "d3891588e3fdce0f27660d3f7240e2e1",
-          "4b0ef7b86f02b60167f1ac297e908f2f",
-          "e347fbb174d7a10e97f6a7b3febf1ebe"
+          "4b0ef7b86f02b60167f1ac297e908f2f"
         ],
         "regions": [
           "global",
@@ -20118,7 +20114,7 @@
     "image2": "http://i.imgur.com/8dU4saq.png",
     "image3": "http://i.imgur.com/cznuVoN.png",
     "imageSkin": null,
-    "numMods": 6,
+    "numMods": 5,
     "regions": [
       "global",
       "kr",
@@ -20601,7 +20597,6 @@
         "title": "Cynical",
         "mods": [
           "a44a44cda08a3bdcb60544f73d71850d",
-          "c1557c61b48ce451d7740901148820e7",
           "21f02fbb98c7bc65dfa59ddd0568bb86",
           "4dcb78dbc8f5126ae6c63c16da2bab68",
           "0154d442d677cffaa1a889a90fea8ccd",
@@ -20622,7 +20617,6 @@
         "title": "Cursed Sword",
         "mods": [
           "83bf268d6a7c72ca677bd63936162f42",
-          "79504e3fddbeaaa7bf2e995534ab0724",
           "e700d493a8cf37aede605eb39f5bb36f"
         ],
         "regions": [
@@ -20669,7 +20663,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 10,
     "regions": [
       "global",
       "kr",
@@ -25819,7 +25813,6 @@
         "title": "",
         "mods": [
           "a6ce91ba18eeafd4704b3c3fd4a2ee4f",
-          "954cd1a0f7db7cc21a63eb44823078e5",
           "a531161826b85553a29c2f2511e6a522",
           "a71dacbbb7b54dd0b7b8a992b4287a69",
           "337e2982a6cb8f4c803c7647a6419ca1"
@@ -25867,7 +25860,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 6,
     "regions": [
       "global",
       "kr",
@@ -34869,7 +34862,6 @@
       "01": {
         "mods": [
           "6f5236c92de227921b5c56d84fe39905",
-          "8f2650f19f54ea35e417df5515552e47",
           "7f510597d9adb0bcfd9dccb351d4af3c"
         ],
         "title": "Hot Spring",
@@ -34880,7 +34872,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc019",
     "name": "Eris",
     "regions": [
@@ -34941,7 +34933,6 @@
       "01": {
         "mods": [
           "b48ec3e1abe4a7b24314b9bdc9ee0761",
-          "4d5b84c085ac1e21c437cdea0c765b1d",
           "57d30dc90ac81c5b1fc6aa4dfefd14cf"
         ],
         "title": "Hot Spring",
@@ -34952,7 +34943,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc029",
     "name": "Selene",
     "regions": [
@@ -34989,9 +34980,7 @@
       "01": {
         "mods": [
           "fe8a0e6024633878e1949324607a6a2c",
-          "adaec378a8e2ada7fc00dbc4ee287b91",
-          "1bd562045ff9f7ec32bc758b2d711c1d",
-          "f95aad886a5dfbdec0e0e1369cf8ea81"
+          "1bd562045ff9f7ec32bc758b2d711c1d"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -35001,7 +34990,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "sc043",
     "name": "Hera",
     "regions": [
@@ -35061,7 +35050,6 @@
       "01": {
         "mods": [
           "4480738faa38e6050d9f6b196f0320a5",
-          "71b92328bced4201453f69f0b3af1ae3",
           "48356291d72ccd58ce89d5e5330b8533"
         ],
         "title": "Hot Spring",
@@ -35072,7 +35060,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc048",
     "name": "Neamhain",
     "regions": [
@@ -37806,8 +37794,7 @@
         "mods": [
           "7b0185a9d976453d2aad21f849f2cc7f",
           "d76cee2fa15123bb91e5d54b89ee8ad8",
-          "2545ffbd80df28755a70f3c28cfa5541",
-          "3436dcda03a517e278530bd48e8ac05a"
+          "2545ffbd80df28755a70f3c28cfa5541"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -37817,7 +37804,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc008",
     "name": "Frigga",
     "regions": [
@@ -37831,8 +37818,7 @@
       "01": {
         "mods": [
           "39a413a5c0e192a20c9402a2f237d12b",
-          "9597f30396fd8c099515e27b7f3da018",
-          "bbc733014f624c059f0bd5294942f93c"
+          "9597f30396fd8c099515e27b7f3da018"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -37842,7 +37828,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc011",
     "name": "Deino",
     "regions": [
