@@ -19898,7 +19898,8 @@
   "ba9c7da071a66a1acbe50ebfb3c38d8e": {
     "code": "c393",
     "variant": "01",
-    "created": 1595196991463
+    "created": 1595196991463,
+    "modder": "csc unit"
   },
   "5bff27fe9efd5116dd25c92c60fbb4e9": {
     "code": "c393",
@@ -19908,7 +19909,8 @@
   "0c7a7e4c8b8002e2ce8e4ae39bad7549": {
     "code": "c393",
     "variant": "10",
-    "created": 1595196994291
+    "created": 1595196994291,
+    "modder": "csc unit"
   },
   "9bbef568bd124c0910af210e1b995f48": {
     "code": "c073",
@@ -20619,6 +20621,12 @@
     "code": "sc393",
     "variant": "01",
     "created": 1596981118501,
+    "modder": "csc unit"
+  },
+  "66f454ce1ed37e7b0d699331bbb8b8e8": {
+    "code": "c416",
+    "variant": "02",
+    "created": 1597240998495,
     "modder": "csc unit"
   }
 }

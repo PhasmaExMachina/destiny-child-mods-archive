@@ -12,7 +12,7 @@ const Modders = () => {
       </p>
       <h1>Modders</h1>
       {Object.keys(modders).sort((a, b) => a.toLowerCase() < b.toLowerCase() ? -1 : b.toLowerCase() < a.toLowerCase ? 1 : 0)
-        .map(modder =>
+        .map(modder => modder != '?' &&
           <ul>
             <li>
               <Link to={`/modders/${modder}`}>
