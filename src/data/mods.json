@@ -517,20 +517,10 @@
     "variant": "01",
     "created": 1592450129952
   },
-  "5ff8cb9bbf920a9b76be2c6883ee8d02": {
-    "code": "c005",
-    "variant": "01",
-    "created": 1592446380032
-  },
   "086652031be4cb1896ffdcaa9b17b97a": {
     "code": "c005",
     "variant": "01",
     "created": 1592577229031
-  },
-  "873899cdcf3a483e511c5a1769e69674": {
-    "code": "c005",
-    "variant": "01",
-    "created": 1593004949709
   },
   "0e72004bde9d46b15aefd593a5027105": {
     "code": "c005",
@@ -552,15 +542,11 @@
     "variant": "02",
     "created": 1592486824776
   },
-  "d37045f7ce6f723625f5b9b7d0630372": {
-    "code": "c005",
-    "variant": "02",
-    "created": 1592446380474
-  },
   "be49305c064e493e512051bd918c5699": {
     "code": "c005",
     "variant": "02",
-    "created": 1593004950312
+    "created": 1593004950312,
+    "modder": "csc unit"
   },
   "1eda01d7e1dafb150161c3b40be86d3d": {
     "code": "c008",
@@ -2773,7 +2759,8 @@
   "978d59348ef35a6f60836ef3af5499c2": {
     "code": "c057",
     "variant": "02",
-    "created": 1592520404974
+    "created": 1592520404974,
+    "modder": "csc unit"
   },
   "b1fbd16ec9c992e76289f665ef8583ed": {
     "code": "c057",
@@ -13232,7 +13219,8 @@
   "72395a132e7021600d2655f4775c08d5": {
     "code": "c409",
     "variant": "02",
-    "created": 1592520542912
+    "created": 1592520542912,
+    "modder": "csc unit"
   },
   "4ac26975fdc913c92109b5c12cf1aced": {
     "code": "c343",
@@ -18368,7 +18356,8 @@
   "c3761380a2f2edf5168ab8021ba617ed": {
     "code": "sc409",
     "variant": "01",
-    "created": 1592520560567
+    "created": 1592520560567,
+    "modder": "csc unit"
   },
   "2e588b0c8365602bed15b0798de0edae": {
     "code": "sc410",
@@ -18906,11 +18895,6 @@
     "variant": "03",
     "created": 1592786214562
   },
-  "21f25d32c1ef9b320daf7983b78dadbc": {
-    "code": "c005",
-    "variant": "02",
-    "created": 1593022437443
-  },
   "6e69128d3b446e3e78b7fca8f87bad63": {
     "code": "c355",
     "variant": "02",
@@ -18995,16 +18979,6 @@
     "code": "sc443",
     "variant": "01",
     "created": 1593125183497
-  },
-  "e590bda71a3cbda3f6d9e35acd37e725": {
-    "code": "c005",
-    "variant": "01",
-    "created": 1593129136133
-  },
-  "92f82b299db8b245f4ff7b5ad6f9d536": {
-    "code": "c005",
-    "variant": "02",
-    "created": 1593129136800
   },
   "f6a6d143e491d1c18ed22d72034d74e6": {
     "code": "c339",
@@ -19311,7 +19285,8 @@
   "ea1b9f7220e55c5851801247a0787680": {
     "code": "c005",
     "variant": "01",
-    "created": 1593446602817
+    "created": 1593446602817,
+    "modder": "csc unit"
   },
   "4f6d8e95e41025e0a0c85607865e84b3": {
     "code": "c048",

@@ -679,10 +679,7 @@
           "f84af4cb09a3d96caa5d442bf3fbda83",
           "afa0f2261daf1c360f8d73a9de722aa2",
           "07ee91974dfd0094c8cfbe54d7dae48e",
-          "5ff8cb9bbf920a9b76be2c6883ee8d02",
           "086652031be4cb1896ffdcaa9b17b97a",
-          "873899cdcf3a483e511c5a1769e69674",
-          "e590bda71a3cbda3f6d9e35acd37e725",
           "ea1b9f7220e55c5851801247a0787680"
         ],
         "regions": [
@@ -703,10 +700,7 @@
           "2c5ba2797aa37d88caa5a161a75811ca",
           "1acc93ef6f7cfc3b99363f44e3543548",
           "a49e7d42de99aa82541b6d283de993d8",
-          "d37045f7ce6f723625f5b9b7d0630372",
-          "be49305c064e493e512051bd918c5699",
-          "21f25d32c1ef9b320daf7983b78dadbc",
-          "92f82b299db8b245f4ff7b5ad6f9d536"
+          "be49305c064e493e512051bd918c5699"
         ],
         "regions": [
           "global",
@@ -734,7 +728,7 @@
     "image2": "http://i.imgur.com/vkg9mDG.png",
     "image3": "http://i.imgur.com/j8rP3sU.png",
     "imageSkin": null,
-    "numMods": 18,
+    "numMods": 12,
     "regions": [
       "global",
       "kr",
