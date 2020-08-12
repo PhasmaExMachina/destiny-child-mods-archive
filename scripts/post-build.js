@@ -42,7 +42,9 @@ Object.keys(characters).forEach(code => {
 
 // create modder HTML files
 Object.keys(modders).forEach(modder => {
-  const modderPath = path.join(__dirname, '../docs/modders/' + modder)
-  fs.mkdirSync(modderPath, {recursive: true})
-  copyIndexHtmlToDocs('modders/' + modder)
+  if(modder != '?') {
+    const modderPath = path.join(__dirname, '../docs/modders/' + modder)
+    fs.mkdirSync(modderPath, {recursive: true})
+    copyIndexHtmlToDocs('modders/' + modder)
+  }
 })
