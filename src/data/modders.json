@@ -225,5 +225,41 @@
       "6fc5df07ce6bed8a601b24a7ea101801"
     ],
     "profile": ""
+  },
+  "Eljoseto": {
+    "mods": [
+      "1b098f9532e65af717bec7e1ee237afe",
+      "8249478fce192560377519555a431439",
+      "d3b3664458d9e3fa274d1824512c07ae",
+      "d65a7dfed0b64f92de0419514065eecb",
+      "39fd1749c8904e883b1508efe7f4b6a8",
+      "554d5e9b43939035af4f8dec9e75919b",
+      "f4ebcfd147a3b14fe41b9c13cecdf1d6",
+      "70191c5387bc74ef254d0047dfea34cb",
+      "fb313e1358152e18de99cd8684b99301",
+      "60647022aaa3ef23b31479b61ce03a96",
+      "a8594abbeb3dc43fa5a960564774c37a",
+      "230658394fb3df4a44e1379fad610476",
+      "6ea9a481b7d73e0ceb2430a065ac47ae",
+      "6e186fbf120b35feb4a4f4ce94180e81"
+    ],
+    "profile": "",
+    "modsUsingAssets": [
+      "cde18db0e2984cfcd5bc74ae987625c7",
+      "d7bb71be5eebadbe17ea4dea263e8d4d",
+      "5bb8b32b4e7a267f8dab04fece2aba5c",
+      "4fa7774c72e6238426dd4e863a718ae0",
+      "e59c5e61c121d87d1cd0ba4b6fd102bf",
+      "eb84fc29f9e2f675f8d1807f8cd490a1",
+      "8918a128cb522b8ca04d601b7cd83f41",
+      "3e6242903a611a6ebb52132ec499ee3a"
+    ]
+  },
+  "Loki": {
+    "mods": [
+      "d7bb71be5eebadbe17ea4dea263e8d4d",
+      "cde18db0e2984cfcd5bc74ae987625c7"
+    ],
+    "profile": ""
   }
 }

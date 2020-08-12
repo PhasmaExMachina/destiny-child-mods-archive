@@ -274,7 +274,8 @@
   "1b098f9532e65af717bec7e1ee237afe": {
     "code": "c002",
     "variant": "01",
-    "created": 1592450126471
+    "created": 1592450126471,
+    "modder": "Eljoseto"
   },
   "07fcfe12dadfbd3a41451fbbeda51148": {
     "code": "c002",
@@ -477,12 +478,14 @@
   "8249478fce192560377519555a431439": {
     "code": "c003",
     "variant": "02",
-    "created": 1592450128321
+    "created": 1592450128321,
+    "modder": "Eljoseto"
   },
   "d3b3664458d9e3fa274d1824512c07ae": {
     "code": "c003",
     "variant": "02",
-    "created": 1592508003095
+    "created": 1592508003095,
+    "modder": "Eljoseto"
   },
   "50aafe45e9b1a4524e4f26c9f94c691d": {
     "code": "c003",
@@ -1946,7 +1949,8 @@
   "d65a7dfed0b64f92de0419514065eecb": {
     "code": "c043",
     "variant": "02",
-    "created": 1592486827522
+    "created": 1592486827522,
+    "modder": "Eljoseto"
   },
   "2b846c7364275b59abf709eaf88750f8": {
     "code": "c043",
@@ -7930,7 +7934,9 @@
   "d7bb71be5eebadbe17ea4dea263e8d4d": {
     "code": "c227",
     "variant": "02",
-    "created": 1592450182790
+    "created": 1592450182790,
+    "modder": "Loki",
+    "usingAssetsBy": "Eljoseto"
   },
   "7001b30a6de31b32539d4049d4c98d13": {
     "code": "c227",
@@ -7945,7 +7951,8 @@
   "39fd1749c8904e883b1508efe7f4b6a8": {
     "code": "c227",
     "variant": "02",
-    "created": 1592486874447
+    "created": 1592486874447,
+    "modder": "Eljoseto"
   },
   "3a093e48a6a599bf749a009ef4310f00": {
     "code": "c227",
@@ -7955,7 +7962,9 @@
   "cde18db0e2984cfcd5bc74ae987625c7": {
     "code": "c227",
     "variant": "02",
-    "created": 1592486872173
+    "created": 1592486872173,
+    "modder": "Loki",
+    "usingAssetsBy": "Eljoseto"
   },
   "f555218b97d405e0ad38bde0c13f5cf0": {
     "code": "c227",
@@ -8070,7 +8079,8 @@
   "554d5e9b43939035af4f8dec9e75919b": {
     "code": "c229",
     "variant": "02",
-    "created": 1592486877395
+    "created": 1592486877395,
+    "modder": "Eljoseto"
   },
   "63627e505d27fa2fecaa15e4d1a0a747": {
     "code": "c230",
@@ -9076,7 +9086,8 @@
   "f4ebcfd147a3b14fe41b9c13cecdf1d6": {
     "code": "c267",
     "variant": "02",
-    "created": 1592487501939
+    "created": 1592487501939,
+    "modder": "Eljoseto"
   },
   "9c4d2f75499400e231534d0dfca19c87": {
     "code": "c267",
@@ -10621,7 +10632,8 @@
   "70191c5387bc74ef254d0047dfea34cb": {
     "code": "c319",
     "variant": "02",
-    "created": 1592487517854
+    "created": 1592487517854,
+    "modder": "Eljoseto"
   },
   "563ce9345cdeb13f5c00eb672f078c3a": {
     "code": "c319",
@@ -10736,22 +10748,26 @@
   "5bb8b32b4e7a267f8dab04fece2aba5c": {
     "code": "c324",
     "variant": "01",
-    "created": 1592450205042
+    "created": 1592450205042,
+    "usingAssetsBy": "Eljoseto"
   },
   "fb313e1358152e18de99cd8684b99301": {
     "code": "c324",
     "variant": "01",
-    "created": 1592508017658
+    "created": 1592508017658,
+    "modder": "Eljoseto"
   },
   "60647022aaa3ef23b31479b61ce03a96": {
     "code": "c324",
     "variant": "01",
-    "created": 1592508018748
+    "created": 1592508018748,
+    "modder": "Eljoseto"
   },
   "4fa7774c72e6238426dd4e863a718ae0": {
     "code": "c324",
     "variant": "01",
-    "created": 1592513092687
+    "created": 1592513092687,
+    "usingAssetsBy": "Eljoseto"
   },
   "a80328a07795b435053e279f9044b17a": {
     "code": "c324",
@@ -10761,7 +10777,8 @@
   "e59c5e61c121d87d1cd0ba4b6fd102bf": {
     "code": "c324",
     "variant": "01",
-    "created": 1592513097655
+    "created": 1592513097655,
+    "usingAssetsBy": "Eljoseto"
   },
   "cd28fac61c17f1748fcd01174f52b23b": {
     "code": "c324",
@@ -10781,7 +10798,8 @@
   "eb84fc29f9e2f675f8d1807f8cd490a1": {
     "code": "c324",
     "variant": "02",
-    "created": 1592450205527
+    "created": 1592450205527,
+    "usingAssetsBy": "Eljoseto"
   },
   "dd570f41e12a371e2fa3df7d811303f2": {
     "code": "c324",
@@ -10791,7 +10809,8 @@
   "8918a128cb522b8ca04d601b7cd83f41": {
     "code": "c324",
     "variant": "02",
-    "created": 1592513099799
+    "created": 1592513099799,
+    "usingAssetsBy": "Eljoseto"
   },
   "1d742171ea4bd88505a448e4d72b81c0": {
     "code": "c324",
@@ -10947,7 +10966,8 @@
   "a8594abbeb3dc43fa5a960564774c37a": {
     "code": "c345",
     "variant": "02",
-    "created": 1592487607261
+    "created": 1592487607261,
+    "modder": "Eljoseto"
   },
   "4778cda6ecceeba36e05c9719d61e8ca": {
     "code": "c345",
@@ -11497,7 +11517,8 @@
   "230658394fb3df4a44e1379fad610476": {
     "code": "c360",
     "variant": "02",
-    "created": 1592487621288
+    "created": 1592487621288,
+    "modder": "Eljoseto"
   },
   "cb94d91c5e6e506ad6c5b2b3a9561ddf": {
     "code": "c360",
@@ -11848,12 +11869,14 @@
   "6ea9a481b7d73e0ceb2430a065ac47ae": {
     "code": "c338",
     "variant": "02",
-    "created": 1592503630492
+    "created": 1592503630492,
+    "modder": "Eljoseto"
   },
   "3e6242903a611a6ebb52132ec499ee3a": {
     "code": "c338",
     "variant": "02",
-    "created": 1592577509617
+    "created": 1592577509617,
+    "usingAssetsBy": "Eljoseto"
   },
   "9abe2db438e0c6eed12f23a8a64a80c0": {
     "code": "c377",
@@ -15424,7 +15447,8 @@
   "6e186fbf120b35feb4a4f4ce94180e81": {
     "code": "c270",
     "variant": "01",
-    "created": 1592508558421
+    "created": 1592508558421,
+    "modder": "Eljoseto"
   },
   "38bf416bc77e26e5dc33a623550debc2": {
     "code": "c270",
