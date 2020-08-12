@@ -35683,8 +35683,7 @@
       "01": {
         "mods": [
           "929cb6cbd577c932bd79ef4536efc018",
-          "3947912d8107854b3b180b19a332dab8",
-          "0f3bd4decd8bfab1a21b86ef5fddf3f3"
+          "3947912d8107854b3b180b19a332dab8"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -35694,7 +35693,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc221",
     "name": "Jana",
     "regions": [
@@ -35732,7 +35731,6 @@
       "01": {
         "mods": [
           "cab4dc8737b2aa44fd8d6814b9f19c4c",
-          "6f4b9381bdb738a7c5dd8c2c467c8199",
           "fa05de3da6120efb35244b7ee6aa1d44"
         ],
         "title": "Hot Spring",
@@ -35743,7 +35741,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc230",
     "name": "Skuld",
     "regions": [
@@ -39698,8 +39696,7 @@
       "01": {
         "mods": [
           "7b72de922d4b8a888e8a75ffb4dc3c12",
-          "13a67a9921189bd1de5a29ed285ca5cf",
-          "51fd95508bd9092a6c99907cb7cb578c"
+          "13a67a9921189bd1de5a29ed285ca5cf"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39709,7 +39706,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc222",
     "name": "El Dorado",
     "regions": [
@@ -39767,8 +39764,7 @@
         "mods": [
           "36cc3097d9dcd499ca3786425c929f5f",
           "bc1d344273edcda0c2f2b4b3c3e3e6b7",
-          "fe74bcb89df35054578eef4119bf76da",
-          "e42757495a25bd5ae5ce1bce492e01c4"
+          "fe74bcb89df35054578eef4119bf76da"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39778,7 +39774,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc229",
     "name": "Brownie",
     "regions": [
@@ -39903,7 +39899,6 @@
       "01": {
         "mods": [
           "a9e98dbb4faf830a19b64e4eb77d5bf5",
-          "48a08e3ae737b2845fc9a954ad3a1cb4",
           "2b5b46e1ae6de9453cceaaafe360b194"
         ],
         "title": "Hot Spring",
@@ -39914,7 +39909,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc247",
     "name": "Myrina",
     "regions": [
@@ -40180,7 +40175,6 @@
       "01": {
         "mods": [
           "6c80197615975d16ae95ad81bd8fbe9f",
-          "0f56bcb0475afb788cdd415dd90af355",
           "0dd55ab785217084ab2d9023f063bcac"
         ],
         "title": "Hot Spring",
@@ -40191,7 +40185,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc294",
     "name": "Bathory",
     "regions": [
