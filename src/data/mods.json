@@ -2454,7 +2454,8 @@
   "08c7f11c58130c022bdcfb0e4cb8a18c": {
     "code": "c049",
     "variant": "02",
-    "created": 1592486835450
+    "created": 1592486835450,
+    "modder": "Loki"
   },
   "5d2b7a35d4545a2f3bbed826f9d8f52c": {
     "code": "c049",
@@ -4814,7 +4815,8 @@
   "1cf7f3db7c98f5318974270d65db1124": {
     "code": "c167",
     "variant": "02",
-    "created": 1592486854885
+    "created": 1592486854885,
+    "modder": "Loki"
   },
   "672311eedeaf051f20880c5a2380a42b": {
     "code": "c167",
@@ -19629,27 +19631,32 @@
   "e4904e49fc847a5eb93478a37767faaf": {
     "code": "c069",
     "variant": "02",
-    "created": 1594441711081
+    "created": 1594441711081,
+    "modder": "Loki"
   },
   "b4f3cf82a7391a0bf0f40214f2a288c4": {
     "code": "c069",
     "variant": "02",
-    "created": 1594441796020
+    "created": 1594441796020,
+    "modder": "Loki"
   },
   "b44723a2f8f033f5e6693201ee9d1d27": {
     "code": "c069",
     "variant": "02",
-    "created": 1594441947399
+    "created": 1594441947399,
+    "modder": "Loki"
   },
   "851ac594f2d567ad9ad66e2d404d189d": {
     "code": "c069",
     "variant": "01",
-    "created": 1594442439464
+    "created": 1594442439464,
+    "modder": "Loki"
   },
   "486a3011a00941e34cee74c50960b96b": {
     "code": "c069",
     "variant": "01",
-    "created": 1594442525948
+    "created": 1594442525948,
+    "modder": "Loki"
   },
   "37f5eeef1fc055b0454c6022de7fc026": {
     "code": "c123",
