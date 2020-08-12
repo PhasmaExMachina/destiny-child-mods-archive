@@ -2,7 +2,8 @@ const fs = require('fs'),
       path = require('path'),
       rimraf = require("rimraf"),
       characters = require('../src/data/characters.json'),
-      mods = require('../src/data/mods.json')
+      mods = require('../src/data/mods.json'),
+      modders = require('../src/data/modders.json')
 
 const hash = process.argv[2]
 
@@ -18,3 +19,4 @@ delete mods[hash]
 rimraf.sync(path.join(__dirname, '../docs/characters/' + mod.code + '_' + mod.variant + '/' + hash))
 fs.writeFileSync(path.resolve(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
 fs.writeFileSync(path.resolve(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
+fs.writeFileSync(path.resolve(__dirname, '../src/data/modders.json'), JSON.stringify(modders, null, 2))
