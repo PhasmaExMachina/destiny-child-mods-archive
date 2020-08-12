@@ -40200,7 +40200,6 @@
         "mods": [
           "268bf17755d4495cd9d206b9abd10954",
           "374e86affe84520193f4cdd08d34c5b5",
-          "bdc1a0c6bafda5cfce3fd1ea2f115f97",
           "10fe5a72da68daf3f0fb580e3be0fd1a",
           "4c486d8a5749021c76e4605e3a897689",
           "c5da9850c4417c4b034207db87369d4d"
@@ -40213,7 +40212,7 @@
         ]
       }
     },
-    "numMods": 6,
+    "numMods": 5,
     "code": "sc296",
     "name": "Hildr",
     "regions": [
@@ -40400,7 +40399,6 @@
       "01": {
         "mods": [
           "85540fb801c29c9029c044ce165f7f6e",
-          "dbb11c6aad6fbcb1028aa5fbee6c4e6d",
           "498c5a151daa3b062d919cf0a06fa0f5",
           "cb24d8e74b45775daf683d6a10dd9ce4"
         ],
@@ -40412,7 +40410,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc311",
     "name": "Khepri",
     "regions": [
