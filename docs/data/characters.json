@@ -35269,8 +35269,7 @@
       "01": {
         "mods": [
           "4e4f90405e893b08dd68e3a455e8928c",
-          "847e2d089e54dda83b664872ea85c84d",
-          "4a42f2659c7e57fe7a8cdf38d5e6a9a9"
+          "847e2d089e54dda83b664872ea85c84d"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -35280,7 +35279,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc086",
     "name": "Goga",
     "regions": [
@@ -35294,8 +35293,7 @@
       "01": {
         "mods": [
           "58e7525155e07b125de622edba6a8afc",
-          "138720b051a4b73c4882cc6b1024af05",
-          "aff8b914cd06dffa842bbe5d3302444c"
+          "138720b051a4b73c4882cc6b1024af05"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -35305,7 +35303,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc099",
     "name": "Melpomene",
     "regions": [
