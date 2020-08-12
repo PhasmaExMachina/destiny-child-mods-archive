@@ -22820,7 +22820,7 @@
         ]
       }
     },
-    "name": "Dark Side Liza",
+    "name": "Dark Side Lisa",
     "id": "10200186",
     "kname": "다크사이더 리자",
     "model_id": "c365",
@@ -35479,7 +35479,6 @@
       "01": {
         "mods": [
           "c91b619157af2a5f2b10b69055eab7e8",
-          "2fa10a70c09e8a055542ececb0239112",
           "c81ef550dcb2b13d24a5ebe9526ad2db"
         ],
         "title": "Hot Spring",
@@ -35490,7 +35489,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc158",
     "name": "Naias",
     "regions": [
@@ -35528,8 +35527,7 @@
         "mods": [
           "6cf28305c7fbfc2195680c9ee2cc10c2",
           "4825c426bdbd65c0ae9d934800cb9bbf",
-          "7232c43246724442582bd501cb7a14bf",
-          "a989a62c9ef442630bd682a998bc8dbb"
+          "7232c43246724442582bd501cb7a14bf"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -35539,7 +35537,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 3,
     "code": "sc174",
     "name": "A.I",
     "regions": [
@@ -39054,8 +39052,7 @@
       "01": {
         "mods": [
           "ea3697cc781587753d434ca7d6e577f6",
-          "9b3a13055696bf332a805f630a4dc10b",
-          "10c1c3f3a0749c12601265a0980a274a"
+          "9b3a13055696bf332a805f630a4dc10b"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39065,7 +39062,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc148",
     "name": "Inanna",
     "regions": [
@@ -39079,8 +39076,7 @@
       "01": {
         "mods": [
           "dcd02dcfb5d188263b4f0b78c18da359",
-          "0cff8230876de3fb196127a79e8208d7",
-          "5a13d6d30a46f8d03cf0d008d8e0929a"
+          "0cff8230876de3fb196127a79e8208d7"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39090,7 +39086,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc149",
     "name": "Rusalka",
     "regions": [
@@ -39165,8 +39161,7 @@
           "3071fd77a6f6aa5ee37188a1133c7bb2",
           "97890d2df74f8433e62a9e8ec6cc6163",
           "f4e8cdf38e098feeb0a082d073156fb9",
-          "6a69f4836fe7ed7d100ce3fffe258065",
-          "192746713340d901886d006270f79f29"
+          "6a69f4836fe7ed7d100ce3fffe258065"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39176,7 +39171,7 @@
         ]
       }
     },
-    "numMods": 5,
+    "numMods": 4,
     "code": "sc167",
     "name": "Chang'e",
     "regions": [
@@ -39445,8 +39440,7 @@
       "01": {
         "mods": [
           "ed642438107daa5fae28d5cce27ecbd0",
-          "b59226913ad2b3c7e892545b49639996",
-          "be065ec6473f2dcec47a5b80c2667244"
+          "b59226913ad2b3c7e892545b49639996"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39456,7 +39450,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc195",
     "name": "Cybele",
     "regions": [
@@ -39470,9 +39464,7 @@
       "01": {
         "mods": [
           "213d285562e99b99e8b905b92c63b497",
-          "b3fc7083627df07914343f5bc5f72127",
-          "a5e32bb9bc1acfed98afddc1a2072568",
-          "b2e6c7e2d6ade6a44ec99421296fa959"
+          "b3fc7083627df07914343f5bc5f72127"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39482,7 +39474,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 2,
     "code": "sc196",
     "name": "Idun",
     "regions": [
@@ -39519,8 +39511,7 @@
       "01": {
         "mods": [
           "7bb4569954055a982cf51f1f13339bc9",
-          "6f46cbd3bb0078201817bdb7e95ee1a6",
-          "02da2025e08504e8fc0633e9e968e223"
+          "6f46cbd3bb0078201817bdb7e95ee1a6"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39530,7 +39521,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc199",
     "name": "Aurora",
     "regions": [
@@ -39683,8 +39674,7 @@
       "01": {
         "mods": [
           "2aa9164004603b37e4cc3815ab9af0c2",
-          "b0c595b23053b9e63f66d31ed543a04c",
-          "e57825623bc17e60bb4f0ca935b0be80"
+          "b0c595b23053b9e63f66d31ed543a04c"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -39694,7 +39684,7 @@
         ]
       }
     },
-    "numMods": 3,
+    "numMods": 2,
     "code": "sc220",
     "name": "Atropos",
     "regions": [
