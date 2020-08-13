@@ -8998,10 +8998,7 @@
         "title": "Preacher",
         "mods": [
           "be1356818edfeee2295d64778aedb703",
-          "43f7a92954c6cc95984f83d2de1acad9",
-          "fda49b804f0c18ef9d12c8df94bd7fdc",
           "29cdd966b2bfe6fb4861aa67c08ab5f3",
-          "e59a5a477c3165930944a143cb16897d",
           "2773393a20615e606ef2491b62432e6d",
           "fa1f280e70cff36dc26869ebb9af3e0a"
         ],
@@ -9020,15 +9017,14 @@
         "title": "Declarative",
         "mods": [
           "5c13957d54ad38217f17f1d11313e47b",
-          "de30564b54121895ffd4fead1dd67c8e",
           "462e672b0eb046f8c57a177aee51b2f4",
           "9d35af43421b808577c389a796edc700",
           "b38d8aac886b7133d46c12bd54145d2f",
           "09e240a09d76a20f3c980c396c1d2ec1",
-          "dbe99c76de764250606bdc7c7031cddb",
           "4a548a22f89dc88ad327c835ac8e8699",
           "92c9cc664233249adf6059ad4ccb27bb",
-          "fa51a7ba6f163d971551c1385bc80341"
+          "fa51a7ba6f163d971551c1385bc80341",
+          "be90e0ce18bbb53cc1a7048bd0fcdc89"
         ],
         "regions": [
           "global",
@@ -9074,7 +9070,7 @@
     "image2": "http://i.imgur.com/p48gpZH.png",
     "image3": "http://i.imgur.com/lsSeAFJ.png",
     "imageSkin": null,
-    "numMods": 20,
+    "numMods": 16,
     "regions": [
       "global",
       "kr",
@@ -23295,7 +23291,6 @@
           "afe787bb4dcdae051554735f73703046",
           "4f0d992dad3aad6d92d579d6663e35e7",
           "231cf7446dc0f5fc7a399c7666185309",
-          "1a10651e8dedc78d4dfc1b5eb6058a33",
           "bef6a53b76be03c310a23a50a22fc64a",
           "a2e74d9329775dff5c71b1700442e7d8",
           "6d50604226249931d19657bde5f73709"
@@ -23412,7 +23407,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 19,
+    "numMods": 18,
     "regions": [
       "global",
       "kr",
