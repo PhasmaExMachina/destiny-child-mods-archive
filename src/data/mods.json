@@ -668,7 +668,8 @@
   "182d77156151fe63de88e3889bac7ccb": {
     "code": "c010",
     "variant": "02",
-    "created": 1592520390677
+    "created": 1592520390677,
+    "modder": "csc unit"
   },
   "b1f10cd7d14ed9b5297fba2c1e37e46b": {
     "code": "c010",
@@ -2465,7 +2466,8 @@
   "9105fd470aa316b8c76cd44027906e5b": {
     "code": "c049",
     "variant": "02",
-    "created": 1592520402351
+    "created": 1592520402351,
+    "modder": "csc unit"
   },
   "ecca075478117565ac5f7d74ca7c3b6c": {
     "code": "c049",
@@ -4262,7 +4264,8 @@
   "7863f4d13c685ede128950657abcb368": {
     "code": "c139",
     "variant": "01",
-    "created": 1592520409242
+    "created": 1592520409242,
+    "modder": "csc unit"
   },
   "5bf9c1e2d8f3d1e396aeef33499a215f": {
     "code": "c139",
@@ -7218,7 +7221,8 @@
   "cb1aa6ac4b22b06a77693f46b6317acd": {
     "code": "c178",
     "variant": "01",
-    "created": 1592520414042
+    "created": 1592520414042,
+    "modder": "csc unit"
   },
   "a097969105c09b4f786c27fe6704e694": {
     "code": "c178",
@@ -7244,7 +7248,8 @@
   "f3664ccc80dbda1c95886fa94b5d9812": {
     "code": "c178",
     "variant": "02",
-    "created": 1592520414686
+    "created": 1592520414686,
+    "modder": "csc unit"
   },
   "f5e14dab04c365078277134c9cb64e34": {
     "code": "c178",
@@ -11430,7 +11435,9 @@
   "882568f28fe4f0db5eb48379b5e72639": {
     "code": "c360",
     "variant": "01",
-    "created": 1592520472323
+    "created": 1592520472323,
+    "modder": "csc unit",
+    "usingAssetsBy": "蠟燭炭"
   },
   "4e077ff7b4d914f166d6240e538d02f0": {
     "code": "c360",
