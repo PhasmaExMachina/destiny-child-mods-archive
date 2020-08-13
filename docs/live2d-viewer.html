@@ -22,9 +22,12 @@
   <style type="text/css">
     body {
       background-color: #111;
+      color: #aaa;
+      font-family: Arial, Helvetica, sans-serif;
     }
     a {
       text-decoration: none;
+      color: gold;
     }
     #icons {
       position: absolute;
@@ -42,7 +45,15 @@
 </head>
 
 <body>
-  <div id="icons">
+  <div id="credit" style="position: absolute; bottom: 1em; right: 1em; display: none;">
+    <span id="modderCredit">
+      by <a id="modder" target="_blank" rel="noopener noreferrer"></a>
+      <span id="assetsCredit" style="display: none;">
+        using assets by <a id="usingAssetsBy" target="_blank" rel="noopener noreferrer"></a>
+      </span>
+    </span>
+  </div>
+  <div id="icons" style="display: none;">
     <a id="download">
       <img src="./img/icons/cloud-download.png" />
     </a>
@@ -79,14 +90,48 @@
         console.log('modelScale', urlParams.get('scale'), modelScale)
         const background = urlParams.get('background')
         if(background) document.body.style.background = background
-        if(urlParams.get('hideUI')) {
-          document.getElementById('icons').style.display = 'none'
-        }
-        else {
+        if(!urlParams.get('hideUI')) {
+          document.getElementById('icons').style.display = 'block'
+          document.getElementById('credit').style.display = 'block'
           document.getElementById('download').title = 'Download universal ' + modelName + '.pck'
           document.getElementById('download').href = `./characters/${modelName}/${modHash}/${modelName}.pck`
           document.getElementById('texture').href = `./characters/${modelName}/${modHash}/texture_00.png`
+
+          // credits
+          fetch('./data/mods.json')
+            .then(response => response.json())
+            .then(mods => {
+              const {modder, usingAssetsBy} = mods[modHash],
+                    modderElem = document.getElementById('modder'),
+                    [code, variant] = modelName.split('_'),
+                    modderCreditTicketTemplate = `
+Use this form to sumbmit modder author/creator information for a given mod so they get credit for their work. I'll update the information in the archive as soon as I can and will close this ticket when it's done. ~Phasma
+
+Modder:
+
+If this mod uses assets by any other modders please list them here:
+
+Mod link (do not change this):
+https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?model=${code}_${variant}&modHash=${modHash}&background=%23111
+
+Mod hash (do not change this): ${modHash}`
+              modderElem.innerHTML = modder || '?'
+              modderElem.href = modder
+                ? './modders/' + encodeURIComponent(modder)
+                : 'http://github.com/PhasmaExMachina/destiny-child-mods-archive/issues/new?labels=modder&title=Modder%20credit'+
+                  '&body=' + encodeURIComponent(modderCreditTicketTemplate)
+                  modderElem.title = modder
+                  ? 'See more mods by ' + modder
+                  : 'Unknown modder. Tell us who made this! (requires GitHub account)'
+              if(usingAssetsBy) {
+                document.getElementById('assetsCredit').style.display = 'block'
+                document.getElementById('usingAssetsBy').href = './modders/' + encodeURIComponent(usingAssetsBy)
+                document.getElementById('usingAssetsBy').innerHTML = usingAssetsBy
+              }
+            })
         }
+
+
     </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script>
