@@ -9920,7 +9920,8 @@
   "5eb2db70de81e935990e69daf43ad45f": {
     "code": "c305",
     "variant": "01",
-    "created": 1592520448551
+    "created": 1592520448551,
+    "modder": "csc unit"
   },
   "57401f9a1c41ab370a772ea369183db1": {
     "code": "c305",
@@ -9940,7 +9941,8 @@
   "bb114d50fae3e2514858b8f51a092052": {
     "code": "c305",
     "variant": "02",
-    "created": 1592520450367
+    "created": 1592520450367,
+    "modder": "csc unit"
   },
   "5cb7ba6e8b81f884baa1c8b7f9d99e54": {
     "code": "c305",
