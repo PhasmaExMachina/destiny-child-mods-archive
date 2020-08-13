@@ -377,5 +377,18 @@
       "741d30ddec5149509ccc4628dd4df94a"
     ],
     "profile": ""
+  },
+  "Aeit": {
+    "mods": [
+      "66420c04e34fe8cd64ff67e3d5624563",
+      "f2a6fe43754ab0d2c42f75bbaccbc6d3",
+      "65d11c8d673dff2452a1354526e847a7",
+      "dae655c2b26cdbe33289c5188b82ddaf"
+    ],
+    "profile": "",
+    "modsUsingAssets": [
+      "115fc56d3f78a30751894a2085c3a2c1",
+      "9105fd470aa316b8c76cd44027906e5b"
+    ]
   }
 }
