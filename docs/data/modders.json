@@ -448,7 +448,8 @@
       "b9d85f9bbfcbc6d5c59121feffaa4d9e",
       "b1f10cd7d14ed9b5297fba2c1e37e46b",
       "e0b1e2b6d15f4130cbfae6deccbb720b",
-      "95994cd8138f9450756b3032768c33a3"
+      "95994cd8138f9450756b3032768c33a3",
+      "1a1e48acc9e900e867ce5fc8f5aef136"
     ],
     "profile": ""
   },
@@ -464,12 +465,5 @@
     "modsUsingAssets": [
       "a5eab7556e034437911f76f4519c568b"
     ]
-  },
-  "BugsBunnay": {
-    "mods": [],
-    "modsUsingAssets": [
-      "1a1e48acc9e900e867ce5fc8f5aef136"
-    ],
-    "profile": ""
   }
 }

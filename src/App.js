@@ -40,6 +40,7 @@ function App() {
           </a>
           <p>
             <Link to="/">Mods</Link>{' | '}
+            <Link to="/modders">Modders</Link>{' | '}
             <Link to="/childs">Childs Database</Link>{' | '}
             <a href="https://github.com/PhasmaExMachina/dc-mod-manager/blob/master/README.md" target="_blank" rel="noopener noreferrer">Mod Manager App</a>
           </p>

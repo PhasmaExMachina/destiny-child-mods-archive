@@ -6572,16 +6572,6 @@
     "variant": "01",
     "created": 1592273040444
   },
-  "e995e7d96c292fafe582571265dbba11": {
-    "code": "m077",
-    "variant": "01",
-    "created": 1592536529182
-  },
-  "7ef644797ca610153d479b497bd23bb0": {
-    "code": "m077",
-    "variant": "01",
-    "created": 1592536531413
-  },
   "cace7a0d8cd971b095e6c4e8f65ca4bb": {
     "code": "m077",
     "variant": "01",
@@ -6591,16 +6581,6 @@
     "code": "m077",
     "variant": "02",
     "created": 1592273041007
-  },
-  "c5e7ef6d4f1e2c74f2f703710bb62619": {
-    "code": "m077",
-    "variant": "02",
-    "created": 1592536533551
-  },
-  "d2ff215681c0298f735ec5f84800d236": {
-    "code": "m077",
-    "variant": "02",
-    "created": 1592536535509
   },
   "4ed6bb4d03076baf8b15aac778946ea7": {
     "code": "m077",
@@ -19460,7 +19440,7 @@
     "variant": "10",
     "created": 1594226800499,
     "modder": "Loki",
-    "usingAssetsBy": "BugsBunnay"
+    "usingAssetsBy": "Bugs Bunnay"
   },
   "95994cd8138f9450756b3032768c33a3": {
     "code": "m051",

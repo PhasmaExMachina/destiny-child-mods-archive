@@ -12808,8 +12808,6 @@
         "title": "Cube",
         "mods": [
           "4ca2d3c5c87022b1e8e17950d73a428e",
-          "e995e7d96c292fafe582571265dbba11",
-          "7ef644797ca610153d479b497bd23bb0",
           "cace7a0d8cd971b095e6c4e8f65ca4bb"
         ],
         "regions": [
@@ -12827,8 +12825,6 @@
         "title": "Big Cube",
         "mods": [
           "9b9d72a61fd62ab95883a36ed57df07a",
-          "c5e7ef6d4f1e2c74f2f703710bb62619",
-          "d2ff215681c0298f735ec5f84800d236",
           "4ed6bb4d03076baf8b15aac778946ea7"
         ],
         "regions": [
@@ -12857,7 +12853,7 @@
     "image2": "http://i.imgur.com/C0xrn9A.png",
     "image3": "http://upload2.inven.co.kr/upload/2017/10/11/bbs/i14688231158.png",
     "imageSkin": null,
-    "numMods": 15,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",
