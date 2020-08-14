@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "725218ea7ff340415db85628e1a21f2d",
+    "revision": "d5b327e2edc587a33146b24f4496e383",
     "url": "/destiny-child-mods-archive/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/destiny-child-mods-archive/static/js/2.dd14cb6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b217116eb6e654bc08a",
-    "url": "/destiny-child-mods-archive/static/js/main.ca03fb0e.chunk.js"
+    "revision": "252bf269d83dfe1214bd",
+    "url": "/destiny-child-mods-archive/static/js/main.06c02b14.chunk.js"
   },
   {
     "revision": "261d1dfcb807f5a20be8",

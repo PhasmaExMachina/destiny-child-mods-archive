@@ -127,9 +127,12 @@
       "04beca5d98247409ac53bdaf073a8413",
       "bd66c77da733a11825201fa05020292e",
       "404a59455d8bcc440299094566fcd69a",
+      "b1a4cec6667eb2f47b323e400786b9e5",
+      "2893320c539d0d6321284c0bcb5bdcba",
       "773f7ee0cba0cbbf0929b7d10f3c335b",
       "46a3706a44cc053fb8e0b985623922fc",
-      "d3315463cdfbacb4413de9f78a5467f3"
+      "d3315463cdfbacb4413de9f78a5467f3",
+      "38d5406328ef877a535c69953f7b9a62"
     ],
     "profile": "<p><strong>Seireiko</strong> does not usually make mods for free, instead offering a <strong><a href=\"https://drive.google.com/file/d/1rM36lBakAMh6V3p_UiLYdZpTL7JffyEp/view?usp=sharingyar\" target=\"_blank\">paid mude mod service</a></strong>. He does provide <strong><a href=\"https://drive.google.com/drive/folders/0BwMBdCPOVYu0TXk1MUEyaDFveGc\" target=\"_blank\">previews of his paid mods</a></strong>, and sometime releases previosuly paid mods for free in the #mod_releases channel of the <a href=\"https://discord.gg/pRNNjTF\" target=\"_blank\">Destiny Child International Discord Server</a>. All of the mods on this archive were either released for free or were previously leaked. By listing them here, we can make sure Seireiko gets credit for his work.",
     "modsUsingAssets": [
@@ -465,5 +468,28 @@
     "modsUsingAssets": [
       "a5eab7556e034437911f76f4519c568b"
     ]
+  },
+  "Addest": {
+    "mods": [
+      "9f0b54975e2b62b02f0ed0d09ca74837",
+      "95e4c9824d5deb88de20de508236a2de",
+      "aa2eceefe1286e87cd9c37fdbe5ff795",
+      "28f41d74184af87602e04d8438864a6a",
+      "d707ea503c1121fb98f347fb382320f0",
+      "811b4755085437dc905a66542c6cc156",
+      "b1cd87c189e31168439ebef1f16d70a1",
+      "6082f5531afc1a89ddf285d88e2f3cd8",
+      "9fc655c47604a89b319d88339d87b8b1",
+      "15cd5c08ce49ccd4314fea34c40c53e6",
+      "f6c5fb9f87aca0a925a9654417f913ad",
+      "922fcd805d9f98b367c21e14cbf52f16",
+      "658c67448dfc54b17e16c60292999c4d",
+      "ef56b062a9d091881eb41207fc37b4ca",
+      "4ea60b8f37156fcc0e69e835adc64a51",
+      "5c687472e99eb09f59e73415fef272b4",
+      "bbc03c5ee79d0779d09e9a68e45c5ad6",
+      "dc8c1ea179aaabd924a2ccb263b514b6"
+    ],
+    "profile": ""
   }
 }

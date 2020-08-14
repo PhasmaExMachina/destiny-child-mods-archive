@@ -26240,7 +26240,6 @@
         "title": "Fourth Squadron",
         "mods": [
           "99db6388020beecd7ff77156aab3f524",
-          "3116374c86e7bf52c95b295b768f6275",
           "2462e1e943f55c412c78163fe828d847"
         ],
         "regions": [
@@ -26252,7 +26251,7 @@
     },
     "name": "Noel",
     "id": "10200245",
-    "numMods": 7,
+    "numMods": 6,
     "regions": [
       "global",
       "kr",
@@ -26462,7 +26461,6 @@
         "is_voice": "0",
         "mods": [
           "4bac5a41d0d521ccc36a0ce6b7e9191f",
-          "4243d499cd41fd9e6b3b6599eca19765",
           "33f57e8c92791660861df6ad801eb3ab"
         ],
         "regions": [
@@ -26507,7 +26505,7 @@
       }
     },
     "id": "10200250",
-    "numMods": 9,
+    "numMods": 8,
     "regions": [
       "kr",
       "jp",

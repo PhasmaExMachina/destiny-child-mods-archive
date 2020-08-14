@@ -2268,97 +2268,116 @@
   "9f0b54975e2b62b02f0ed0d09ca74837": {
     "code": "c049",
     "variant": "10",
-    "created": 1592486836398
+    "created": 1592486836398,
+    "modder": "Addest"
   },
   "95e4c9824d5deb88de20de508236a2de": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517771008
+    "created": 1592517771008,
+    "modder": "Addest"
   },
   "839c0cf467a5c540c92250c84e2ab16a": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517772082
+    "created": 1592517772082,
+    "modder": "Addest"
   },
   "aa2eceefe1286e87cd9c37fdbe5ff795": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517773043
+    "created": 1592517773043,
+    "modder": "Addest"
   },
   "28f41d74184af87602e04d8438864a6a": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517774071
+    "created": 1592517774071,
+    "modder": "Addest"
   },
   "d707ea503c1121fb98f347fb382320f0": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517775069
+    "created": 1592517775069,
+    "modder": "Addest"
   },
   "811b4755085437dc905a66542c6cc156": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517776012
+    "created": 1592517776012,
+    "modder": "Addest"
   },
   "b1cd87c189e31168439ebef1f16d70a1": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517776887
+    "created": 1592517776887,
+    "modder": "Addest"
   },
   "6082f5531afc1a89ddf285d88e2f3cd8": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517777798
+    "created": 1592517777798,
+    "modder": "Addest"
   },
   "9fc655c47604a89b319d88339d87b8b1": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517778766
+    "created": 1592517778766,
+    "modder": "Addest"
   },
   "15cd5c08ce49ccd4314fea34c40c53e6": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517779698
+    "created": 1592517779698,
+    "modder": "Addest"
   },
   "f6c5fb9f87aca0a925a9654417f913ad": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517780730
+    "created": 1592517780730,
+    "modder": "Addest"
   },
   "922fcd805d9f98b367c21e14cbf52f16": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517781736
+    "created": 1592517781736,
+    "modder": "Addest"
   },
   "658c67448dfc54b17e16c60292999c4d": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517783113
+    "created": 1592517783113,
+    "modder": "Addest"
   },
   "ef56b062a9d091881eb41207fc37b4ca": {
     "code": "c049",
     "variant": "10",
-    "created": 1592517784144
+    "created": 1592517784144,
+    "modder": "Addest"
   },
   "4ea60b8f37156fcc0e69e835adc64a51": {
     "code": "c049",
     "variant": "10",
-    "created": 1592520402929
+    "created": 1592520402929,
+    "modder": "Addest"
   },
   "5c687472e99eb09f59e73415fef272b4": {
     "code": "c049",
     "variant": "10",
-    "created": 1592520403481
+    "created": 1592520403481,
+    "modder": "Addest"
   },
   "bbc03c5ee79d0779d09e9a68e45c5ad6": {
     "code": "c049",
     "variant": "10",
-    "created": 1592836303391
+    "created": 1592836303391,
+    "modder": "Addest"
   },
   "dc8c1ea179aaabd924a2ccb263b514b6": {
     "code": "c049",
     "variant": "10",
-    "created": 1592836303834
+    "created": 1592836303834,
+    "modder": "Addest"
   },
   "cc080e22f0c44d22f2dd4068da61cf39": {
     "code": "c049",
@@ -12719,7 +12738,8 @@
   "b1a4cec6667eb2f47b323e400786b9e5": {
     "code": "c391",
     "variant": "01",
-    "created": 1592577581524
+    "created": 1592577581524,
+    "modder": "Seireiko"
   },
   "ef0175a0f3363651fbca85ff35369941": {
     "code": "c391",
@@ -12817,7 +12837,8 @@
   "2893320c539d0d6321284c0bcb5bdcba": {
     "code": "c394",
     "variant": "02",
-    "created": 1592577587723
+    "created": 1592577587723,
+    "modder": "Seireiko"
   },
   "7bcae17d6f8e036c7f6c89c8b4f5a8be": {
     "code": "c395",
@@ -18193,7 +18214,8 @@
   "38d5406328ef877a535c69953f7b9a62": {
     "code": "sc378",
     "variant": "01",
-    "created": 1592508579824
+    "created": 1592508579824,
+    "modder": "Seireiko"
   },
   "f05578c535c01c743372d986b78f58b5": {
     "code": "sc381",
