@@ -51,6 +51,9 @@
       <span id="assetsCredit" style="display: none;">
         using assets by <a id="usingAssetsBy" target="_blank" rel="noopener noreferrer"></a>
       </span>
+      <span id="linkCredit" style="display: none;">
+        <a id="link" target="_blank" rel="noopener noreferrer"></a>
+      </span>
     </span>
   </div>
   <div id="icons" style="display: none;">
@@ -101,7 +104,7 @@
           fetch('./data/mods.json')
             .then(response => response.json())
             .then(mods => {
-              const {modder, usingAssetsBy} = mods[modHash],
+              const {modder, usingAssetsBy, link} = mods[modHash],
                     modderElem = document.getElementById('modder'),
                     [code, variant] = modelName.split('_'),
                     modderCreditTicketTemplate = `
@@ -115,6 +118,7 @@ Mod link (do not change this):
 https://phasmaexmachina.github.io/destiny-child-mods-archive/live2d-viewer.html?model=${code}_${variant}&modHash=${modHash}&background=%23111
 
 Mod hash (do not change this): ${modHash}`
+console.log({modder, usingAssetsBy, link})
               modderElem.innerHTML = modder || '?'
               modderElem.href = modder
                 ? './modders/' + encodeURIComponent(modder)
@@ -127,6 +131,11 @@ Mod hash (do not change this): ${modHash}`
                 document.getElementById('assetsCredit').style.display = 'block'
                 document.getElementById('usingAssetsBy').href = './modders/' + encodeURIComponent(usingAssetsBy)
                 document.getElementById('usingAssetsBy').innerHTML = usingAssetsBy
+              }
+              if(link) {
+                document.getElementById('linkCredit').style.display = 'block'
+                document.getElementById('link').href = link.split('|')[1]
+                document.getElementById('link').innerHTML = link.split('|')[0]
               }
             })
         }

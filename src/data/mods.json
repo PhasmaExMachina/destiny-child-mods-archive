@@ -20578,5 +20578,96 @@
     "variant": "02",
     "created": 1597326820157,
     "modder": "csc unit"
+  },
+  "8086c34de182f6d2628ae524ea6efdc6": {
+    "code": "c167",
+    "variant": "01",
+    "created": 1597427728880,
+    "modder": "Seireiko",
+    "link": "Girls' Frontline Type 95|https://en.gfwiki.com/wiki/Type_95",
+    "modelInfo": {
+      "modeltype": "live2d",
+      "home": {
+        "position": {
+          "x": 5,
+          "y": 1400
+        },
+        "scale": 1.8,
+        "flip": false
+      },
+      "talk": {
+        "position": {
+          "x": -5,
+          "y": 1200
+        },
+        "scale": 2.65,
+        "flip": false
+      },
+      "ally": {
+        "position": {
+          "x": 10,
+          "y": 600
+        },
+        "scale": 1.5,
+        "flip": false
+      },
+      "enemy": {
+        "position": {
+          "x": -5,
+          "y": 115
+        },
+        "scale": 1.69,
+        "flip": false
+      },
+      "talk_zoom": {
+        "position": {
+          "x": -10,
+          "y": 400
+        },
+        "scale": 2.34,
+        "flip": false
+      },
+      "drive": {
+        "position": {
+          "x": 10,
+          "y": 1350
+        },
+        "scale": 1.88,
+        "flip": false
+      },
+      "selectRect": [
+        {
+          "top": 0.33125,
+          "right": 0.56875,
+          "left": 0.416666657,
+          "bottom": 0.5275
+        },
+        {
+          "top": 0,
+          "right": 0,
+          "left": 0,
+          "bottom": 0
+        },
+        {
+          "top": 0.24125,
+          "right": 0.545833349,
+          "left": 0.433333337,
+          "bottom": 0.31125
+        },
+        {
+          "top": 0.33125,
+          "right": 0.56875,
+          "left": 0.416666657,
+          "bottom": 0.5275
+        },
+        {
+          "top": 0.24125,
+          "right": 0.545833349,
+          "left": 0.433333337,
+          "bottom": 0.31125
+        }
+      ],
+      "contents": null
+    }
   }
 }

@@ -30,12 +30,22 @@ Mod hash (do not change this): ${hash}`
       <a href={`${basePath}/live2d-viewer.html?model=${code}_${variant}&background=%23111&modHash=${hash}`} target="_blank" rel="noopener noreferrer" >
         <img alt={code + '_' + variant} src={basePath + '/characters/' + code + '_' + variant + '/' + (hash || variants[variant].mods[0]) + '/static.png'} style={{maxWidth: '300px', maxHeight: '300px', height: '300px'}} />
       </a>
-      <div>{variants[variant].title} {name}</div>
+      <div>
+       {mod.modelInfo && <a target="_blank" rel="nofollor noopener" title="This mod requires editing model_info.json. Click for data." onClick={() => {
+         const win = window.open()
+         win.document.body.innerHTML = '<p>Edit assets/characters/model_info.json and set "' + code + '_' + variant + '" to the following:</p>' +
+          JSON.stringify({[code + '_' + variant]: mod.modelInfo}, null, 2).replace(/\n|\r/g, '<br>').replace(/\s/g, '&nbsp;').replace(/^\{/, '').replace(/\}$/, '')
+       }}>
+         ⚠️
+        </a>}
+        {' '}{variants[variant].title} {name}
+      </div>
       <div>
         <Link to={`/characters/${code}/${variant}/`}>
           {code}_{variant}
-        </Link> {(mod && characters[code].variants[variant].mods.indexOf(hash) != 0) &&
-          <span>by {mod.modder
+        </Link>
+        {(mod && characters[code].variants[variant].mods.indexOf(hash) != 0) &&
+          <span> by {mod.modder
             ? <Link to={`/modders/${encodeURIComponent(mod.modder)}`}>{mod.modder}</Link>
             : <a href={'http://github.com/PhasmaExMachina/destiny-child-mods-archive/issues/new?labels=modder&title=' +
                 'Modder credit ' + (name ? 'for ' + variants[variant].title + ' ' + name : '') +
@@ -48,6 +58,13 @@ Mod hash (do not change this): ${hash}`
           {mod.usingAssetsBy &&
             <span> using assets by{' '}
               <Link to={`/modders/${encodeURIComponent(mod.usingAssetsBy)}`}>{mod.usingAssetsBy}</Link>
+            </span>
+          }
+          {mod.link &&
+            <span> -{' '}
+              <a href={mod.link.split('|')[1]} target="_blank" rel="noopener nofollow">
+                {mod.link.split('|')[0]}
+              </a>
             </span>
           }
           </span>

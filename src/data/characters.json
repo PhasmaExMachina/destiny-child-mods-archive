@@ -8344,7 +8344,8 @@
           "8ec110d9ddd1317abaea8235c96f7a01",
           "34bfb04b04b21b467acbe0f3a2d5cc3b",
           "f6d8a918d8de321468123d15f594a131",
-          "7f86bef77119ce40f167c021a71b0593"
+          "7f86bef77119ce40f167c021a71b0593",
+          "8086c34de182f6d2628ae524ea6efdc6"
         ],
         "regions": [
           "global",
@@ -8399,7 +8400,7 @@
         ]
       }
     },
-    "name": "Chang'e / Sang Ah",
+    "name": "Chang'e",
     "id": "10100116",
     "kname": "양지의 상아",
     "model_id": "c167",
@@ -8418,7 +8419,7 @@
     "image2": "http://i.imgur.com/lWcA2IL.png",
     "image3": "http://i.imgur.com/UWZvwwG.png",
     "imageSkin": null,
-    "numMods": 25,
+    "numMods": 26,
     "regions": [
       "global",
       "kr",
