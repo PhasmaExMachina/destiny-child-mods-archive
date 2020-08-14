@@ -302,8 +302,7 @@
         "title": "Student",
         "mods": [
           "35ffb6c7d9ad598f9f9b613a07e8ed9f",
-          "45087801dd229a051d0cd5bbc105b303",
-          "ca673795e1e3c4a0c81d5486d7c0fe6f"
+          "45087801dd229a051d0cd5bbc105b303"
         ],
         "regions": [
           "global",
@@ -402,7 +401,7 @@
     "image2": "http://i.imgur.com/UEywhqp.png",
     "image3": "http://i.imgur.com/fb0RCnk.png",
     "imageSkin": "http://i.imgur.com/6qAuuJG.png",
-    "numMods": 15,
+    "numMods": 14,
     "regions": [
       "global",
       "kr",
@@ -1111,7 +1110,6 @@
           "7d8fb3495097d5f1f12a6a4dc53040e2",
           "b08244d49040260425b4aaf506c1354a",
           "eb53af650528a3fc82bd739096f0a0bd",
-          "0eeb0cefc1178ac964caa10f701fdbc1",
           "5f48d05be0dffa927ebf65c3421f0150"
         ],
         "regions": [
@@ -1157,7 +1155,7 @@
     "image2": "http://i.imgur.com/WEGRRNy.png",
     "image3": "http://i.imgur.com/E9x11Kq.png",
     "imageSkin": null,
-    "numMods": 18,
+    "numMods": 17,
     "regions": [
       "global",
       "kr",
@@ -2670,7 +2668,6 @@
           "a5eab7556e034437911f76f4519c568b",
           "879643d14941821d451acc87795e75f6",
           "b875078e7da350de6d0801a571657a6b",
-          "97d56cc305be0e60412f936cf7b45200",
           "84b56bfbc8d42f24465c95654af7e740"
         ],
         "regions": [
@@ -2699,7 +2696,7 @@
     "image2": "http://i.imgur.com/30s3cnt.png",
     "image3": "http://i.imgur.com/IiUsHXf.png",
     "imageSkin": "http://i.imgur.com/RvzgHvv.png",
-    "numMods": 16,
+    "numMods": 15,
     "regions": [
       "global",
       "kr",
@@ -8343,11 +8340,8 @@
         "title": "Sunny",
         "mods": [
           "d8b0a8631f4d81d9d7acf55e089af9a8",
-          "a43afca3bab428c6c8b701f6cf682ce9",
-          "6ef36ea794123d84f9788b808a6cf4c1",
           "734c863821a04e9d78b2a8c5046806a2",
           "8ec110d9ddd1317abaea8235c96f7a01",
-          "7f20989cbdaff05a31882e8181e6225f",
           "34bfb04b04b21b467acbe0f3a2d5cc3b",
           "f6d8a918d8de321468123d15f594a131",
           "7f86bef77119ce40f167c021a71b0593"
@@ -8367,7 +8361,6 @@
         "title": "Incarnated",
         "mods": [
           "abad3d4ed4e2e9cab67e5db16a0fb337",
-          "e19a41ba6f448d4e6422e13c0b91c505",
           "1cf7f3db7c98f5318974270d65db1124",
           "672311eedeaf051f20880c5a2380a42b",
           "9ce16a846ea2316731bebd876e58fc59",
@@ -8425,7 +8418,7 @@
     "image2": "http://i.imgur.com/lWcA2IL.png",
     "image3": "http://i.imgur.com/UWZvwwG.png",
     "imageSkin": null,
-    "numMods": 29,
+    "numMods": 25,
     "regions": [
       "global",
       "kr",
@@ -8583,7 +8576,7 @@
         ]
       }
     },
-    "name": "Dinashi",
+    "name": "Dione Sidhe",
     "id": "10100119",
     "kname": "작은 디나시",
     "model_id": "c173",
@@ -12770,7 +12763,6 @@
         "mods": [
           "714bb3b3ee215c3bf6411fa744b531da",
           "7e6d860eb53240ba955fac0628411947",
-          "d0efc3aec20431d51948db90c3f94976",
           "95ed0b3e9056e255601197727c34483f",
           "83df9bc5d930856e9596dfa11734aaa9",
           "dece8fa2c1291cbd9c932b24c6d747b0"
@@ -12816,7 +12808,6 @@
         "title": "Cube",
         "mods": [
           "4ca2d3c5c87022b1e8e17950d73a428e",
-          "5eeeac66e02ec6bb1a0a8e45c1063ccc",
           "e995e7d96c292fafe582571265dbba11",
           "7ef644797ca610153d479b497bd23bb0",
           "cace7a0d8cd971b095e6c4e8f65ca4bb"
@@ -12866,7 +12857,7 @@
     "image2": "http://i.imgur.com/C0xrn9A.png",
     "image3": "http://upload2.inven.co.kr/upload/2017/10/11/bbs/i14688231158.png",
     "imageSkin": null,
-    "numMods": 17,
+    "numMods": 15,
     "regions": [
       "global",
       "kr",
@@ -17289,7 +17280,6 @@
         "is_voice": "1",
         "title": "Naughty",
         "mods": [
-          "f04951a997aef876bbe277d1fb40da6b",
           "214545d188075a2779f03d28a4d6dfd6",
           "17e0087b794211ca408b1ac6d731ac61"
         ],
@@ -17405,7 +17395,7 @@
     "image2": "http://i.imgur.com/maAnlMN.png",
     "image3": "http://i.imgur.com/VhtHbUf.png",
     "imageSkin": "http://i.imgur.com/YoDJZxT.png",
-    "numMods": 25,
+    "numMods": 24,
     "regions": [
       "global",
       "kr",
@@ -18412,7 +18402,6 @@
           "43df66fc9358c335cfaf402d9e01519e",
           "c076ed9a5596ff7033be07e3cb5cc277",
           "a51a189febf4734f90299af092af39d7",
-          "5b27551895456f027316bac94ef4a795",
           "690d3c264e16d7f3dd9fef846cb8dd0a"
         ],
         "regions": [
@@ -18497,7 +18486,7 @@
     "image2": "http://i.imgur.com/97F8W3L.png",
     "image3": "http://i.imgur.com/w7iyA93.png",
     "imageSkin": "http://i.imgur.com/Q8n0fuc.png",
-    "numMods": 32,
+    "numMods": 31,
     "regions": [
       "global",
       "kr",
@@ -21404,8 +21393,7 @@
           "eb84fc29f9e2f675f8d1807f8cd490a1",
           "dd570f41e12a371e2fa3df7d811303f2",
           "8918a128cb522b8ca04d601b7cd83f41",
-          "1d742171ea4bd88505a448e4d72b81c0",
-          "2e93654d545bd96cfbe8b5ea4d0c4996"
+          "1d742171ea4bd88505a448e4d72b81c0"
         ],
         "regions": [
           "global",
@@ -21433,7 +21421,7 @@
     "image2": "http://i.imgur.com/KAOsm2c.png",
     "image3": "http://i.imgur.com/LTMdmQN.png",
     "imageSkin": null,
-    "numMods": 17,
+    "numMods": 16,
     "regions": [
       "global",
       "kr",
@@ -22192,8 +22180,7 @@
           "1a0b3edab06dc82fc3db5dbc1b864867",
           "3c34b7dff9160a2bd87865b1cd402412",
           "9717fc3c230d56d68f101a06f035a69c",
-          "43cf9aa3700b538c10b75c558bd1ea6a",
-          "d5a969f5593762ceec55d4ed9f7802f1"
+          "43cf9aa3700b538c10b75c558bd1ea6a"
         ],
         "regions": [
           "global",
@@ -22257,8 +22244,7 @@
           "b702a23f59577a39a5830994dbcbf30f",
           "86708bc6a66a626a4b9946bae9f6a227",
           "6cddca753ca676d66cd48428d6e8e7e5",
-          "60a70aa0fc311d742276627a49cba7c9",
-          "36fabb5d5d968d82e2b53fe55ff3e3de"
+          "60a70aa0fc311d742276627a49cba7c9"
         ],
         "regions": [
           "global",
@@ -22305,7 +22291,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 22,
+    "numMods": 20,
     "regions": [
       "global",
       "kr",
@@ -25558,9 +25544,9 @@
         ]
       }
     },
-    "name": "SNOW MIKU",
+    "name": "Princess Snow Miku",
     "id": "10200232",
-    "kname": "SNOW MIKU",
+    "kname": "Princess Snow Miku",
     "model_id": "c401",
     "starLevel": 5,
     "element": "water",
