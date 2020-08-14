@@ -54,6 +54,9 @@
       <span id="linkCredit" style="display: none;">
         <a id="link" target="_blank" rel="noopener noreferrer"></a>
       </span>
+      <a id="modelInfo" style="display: none; cursor: pointer;" title="Click for data">
+        model_info.json editing required ⚠️
+      </a>
     </span>
   </div>
   <div id="icons" style="display: none;">
@@ -104,7 +107,7 @@
           fetch('./data/mods.json')
             .then(response => response.json())
             .then(mods => {
-              const {modder, usingAssetsBy, link} = mods[modHash],
+              const {modder, usingAssetsBy, link, modelInfo} = mods[modHash],
                     modderElem = document.getElementById('modder'),
                     [code, variant] = modelName.split('_'),
                     modderCreditTicketTemplate = `
@@ -136,6 +139,14 @@ console.log({modder, usingAssetsBy, link})
                 document.getElementById('linkCredit').style.display = 'block'
                 document.getElementById('link').href = link.split('|')[1]
                 document.getElementById('link').innerHTML = link.split('|')[0]
+              }
+              if(modelInfo) {
+                document.getElementById('modelInfo').style.display = 'block'
+                document.onclick = () => {
+                  const win = window.open()
+                  win.document.body.innerHTML = '<p>Edit assets/characters/model_info.json and set "' + code + '_' + variant + '" to the following:</p>' +
+                  JSON.stringify({[code + '_' + variant]: modelInfo}, null, 2).replace(/\n|\r/g, '<br>').replace(/\s/g, '&nbsp;').replace(/^\{/, '').replace(/\}$/, '')
+                }
               }
             })
         }
