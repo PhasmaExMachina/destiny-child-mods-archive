@@ -20608,10 +20608,10 @@
       },
       "talk": {
         "position": {
-          "x": 0,
-          "y": 270
+          "x": 10,
+          "y": 700
         },
-        "scale": 2.59,
+        "scale": 1.8,
         "flip": false
       },
       "ally": {
@@ -20627,23 +20627,23 @@
           "x": -5,
           "y": 90
         },
-        "scale": 1.44,
+        "scale": 1.6,
         "flip": false
       },
       "talk_zoom": {
         "position": {
           "x": 10,
-          "y": 1400
+          "y": 500
         },
-        "scale": 3,
+        "scale": 0.5,
         "flip": false
       },
       "drive": {
         "position": {
           "x": 0,
-          "y": 0
+          "y": 500
         },
-        "scale": 1.8,
+        "scale": 0.5,
         "flip": false
       },
       "selectRect": [
