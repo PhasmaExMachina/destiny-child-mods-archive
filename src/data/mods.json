@@ -20624,26 +20624,26 @@
       },
       "enemy": {
         "position": {
-          "x": 1,
-          "y": 176
+          "x": -5,
+          "y": 90
         },
-        "scale": 1,
+        "scale": 1.44,
         "flip": false
       },
       "talk_zoom": {
         "position": {
           "x": 10,
-          "y": 955
+          "y": 1400
         },
-        "scale": 4.58,
+        "scale": 3,
         "flip": false
       },
       "drive": {
         "position": {
           "x": 0,
-          "y": -50
+          "y": 0
         },
-        "scale": 1.57,
+        "scale": 1.8,
         "flip": false
       },
       "selectRect": [
