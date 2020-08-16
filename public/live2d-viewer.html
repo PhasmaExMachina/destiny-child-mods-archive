@@ -93,6 +93,8 @@
         modHash = urlParams.get('modHash');
         previewMade = true;
         modelScale = urlParams.get('scale') ? parseFloat(urlParams.get('scale')) : 1;
+        modelX = urlParams.get('x') ? parseFloat(urlParams.get('x')) : 0;
+        modelY = urlParams.get('y') ? parseFloat(urlParams.get('y')) : 0.4;
         console.log('modelScale', urlParams.get('scale'), modelScale)
         const background = urlParams.get('background')
         if(background) document.body.style.background = background

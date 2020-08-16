@@ -20600,50 +20600,50 @@
       "modeltype": "live2d",
       "home": {
         "position": {
-          "x": 5,
-          "y": 1400
+          "x": -5,
+          "y": 550
         },
-        "scale": 1.8,
+        "scale": 1.7,
         "flip": false
       },
       "talk": {
         "position": {
-          "x": -5,
-          "y": 1200
+          "x": 0,
+          "y": 270
         },
-        "scale": 2.65,
+        "scale": 2.59,
         "flip": false
       },
       "ally": {
         "position": {
-          "x": 10,
-          "y": 600
+          "x": 18,
+          "y": 620
         },
-        "scale": 1.5,
+        "scale": 1.44,
         "flip": false
       },
       "enemy": {
         "position": {
-          "x": -5,
-          "y": 115
+          "x": 1,
+          "y": 176
         },
-        "scale": 1.69,
+        "scale": 1,
         "flip": false
       },
       "talk_zoom": {
         "position": {
-          "x": -10,
-          "y": 400
+          "x": 10,
+          "y": 955
         },
-        "scale": 2.34,
+        "scale": 4.58,
         "flip": false
       },
       "drive": {
         "position": {
-          "x": 10,
-          "y": 1350
+          "x": 0,
+          "y": -50
         },
-        "scale": 1.88,
+        "scale": 1.57,
         "flip": false
       },
       "selectRect": [
