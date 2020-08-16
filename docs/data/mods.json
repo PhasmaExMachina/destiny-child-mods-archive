@@ -20633,17 +20633,17 @@
       "talk_zoom": {
         "position": {
           "x": 10,
-          "y": 500
+          "y": 1600
         },
-        "scale": 0.5,
+        "scale": 2.8,
         "flip": false
       },
       "drive": {
         "position": {
           "x": 0,
-          "y": 500
+          "y": 600
         },
-        "scale": 0.5,
+        "scale": 1.3,
         "flip": false
       },
       "selectRect": [
