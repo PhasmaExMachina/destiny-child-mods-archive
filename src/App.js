@@ -13,6 +13,7 @@ import Character from './Character'
 import Childs from './Childs'
 import Modder from './Modder'
 import Modders from './Modders'
+import Transitions from './Transitions'
 
 const theme = createMuiTheme({
   palette: {
@@ -42,6 +43,7 @@ function App() {
             <Link to="/">Mods</Link>{' | '}
             <Link to="/modders">Modders</Link>{' | '}
             <Link to="/childs">Childs Database</Link>{' | '}
+            <Link to="/transitions">Transitions</Link>{' | '}
             <a href="https://github.com/PhasmaExMachina/dc-mod-manager/blob/master/README.md" target="_blank" rel="noopener noreferrer">Mod Manager App</a>
           </p>
           <Switch>
@@ -50,6 +52,7 @@ function App() {
             <Route path="/childs"><Childs /></Route>
             <Route path="/modders/:modder/"><Modder /></Route>
             <Route path="/modders"><Modders /></Route>
+            <Route path="/transitions"><Transitions /></Route>
             <Route path="/"><Home /></Route>
           </Switch>
         </Router>

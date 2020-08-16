@@ -3,6 +3,7 @@ const fs = require('fs'),
       md5File = require('md5-file').sync,
       characters = require('../src/data/characters.json'),
       mods = require('../src/data/mods.json'),
+      transitions = require('../src/data/transitions.json'),
       modders = require('../src/data/modders.json'),
       modelInfoGlobal = require('../docs/data/model_info.global.json'),
       modelInfoKr = require('../docs/data/model_info.kr.json'),
@@ -14,6 +15,11 @@ const fs = require('fs'),
 //   // characters[code].variants[variant] = characters[code].variants[variant] || {}
 //   // characters[code].variants[variant].mods = characters[code].variants[variant].mods || []
 // })
+
+// update transition screens
+fs.readdirSync(path.join(__dirname, '../docs/transitions')).forEach(dir => {
+  transitions[dir] = transitions[dir] || {name: dir}
+})
 
 // update mod hashes seen
 const charactersPath = path.join(__dirname, '../docs/characters')
@@ -146,3 +152,4 @@ const regions = ['global', 'kr', 'jp']
 fs.writeFileSync(path.join(__dirname, '../docs/data/model_info.merged.json'), JSON.stringify(modelInfo, null, 2))
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 fs.writeFileSync(path.join(__dirname, '../src/data/modders.json'), JSON.stringify(modders, null, 2))
+fs.writeFileSync(path.join(__dirname, '../src/data/transitions.json'), JSON.stringify(transitions, null, 2))

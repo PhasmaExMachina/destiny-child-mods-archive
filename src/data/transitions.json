@@ -1,0 +1,122 @@
+{
+  "trans_01": {
+    "name": "trans_01"
+  },
+  "trans_02": {
+    "name": "trans_02"
+  },
+  "trans_03": {
+    "name": "trans_03"
+  },
+  "trans_04": {
+    "name": "trans_04"
+  },
+  "trans_05": {
+    "name": "trans_05"
+  },
+  "trans_06": {
+    "name": "trans_06"
+  },
+  "trans_07": {
+    "name": "trans_07"
+  },
+  "trans_08": {
+    "name": "trans_08"
+  },
+  "trans_09": {
+    "name": "trans_09"
+  },
+  "trans_10": {
+    "name": "trans_10"
+  },
+  "trans_11": {
+    "name": "trans_11"
+  },
+  "trans_12": {
+    "name": "trans_12"
+  },
+  "trans_13": {
+    "name": "trans_13"
+  },
+  "trans_14": {
+    "name": "trans_14"
+  },
+  "trans_char_01": {
+    "name": "trans_char_01"
+  },
+  "trans_char_02": {
+    "name": "trans_char_02"
+  },
+  "abaddon-beach": {
+    "name": "abaddon-beach",
+    "modder": "Abaddon"
+  },
+  "abaddon-collection": {
+    "name": "abaddon-collection",
+    "modder": "Abaddon"
+  },
+  "abaddon-collection2": {
+    "name": "abaddon-collection2",
+    "modder": "Abaddon"
+  },
+  "abaddon-demeter2": {
+    "name": "abaddon-demeter2",
+    "modder": "Abaddon"
+  },
+  "abaddon-monas": {
+    "name": "abaddon-monas",
+    "modder": "Abaddon"
+  },
+  "abaddon-monas2": {
+    "name": "abaddon-monas2",
+    "modder": "Abaddon"
+  },
+  "abaddon-monas3": {
+    "name": "abaddon-monas3",
+    "modder": "Abaddon"
+  },
+  "abaddon-succubi": {
+    "name": "abaddon-succubi",
+    "modder": "Abaddon"
+  },
+  "eljoseto-trans_01": {
+    "name": "eljoseto-trans_01",
+    "modder": "Eljoseto"
+  },
+  "eljoseto-trans_02": {
+    "name": "eljoseto-trans_02",
+    "modder": "Eljoseto"
+  },
+  "eljoseto-trans_03": {
+    "name": "eljoseto-trans_03",
+    "modder": "Eljoseto"
+  },
+  "eljoseto-trans_04": {
+    "name": "eljoseto-trans_04",
+    "modder": "Eljoseto"
+  },
+  "eljoseto-trans_05": {
+    "name": "eljoseto-trans_05",
+    "modder": "Eljoseto"
+  },
+  "eljoseto-trans_06": {
+    "name": "eljoseto-trans_06",
+    "modder": "Eljoseto"
+  },
+  "hongchina-trans_03": {
+    "name": "hongchina-trans_03",
+    "modder": "HongChina"
+  },
+  "hongchina-trans_06": {
+    "name": "hongchina-trans_06",
+    "modder": "HongChina"
+  },
+  "whocares-CleoRaid": {
+    "name": "whocares-CleoRaid",
+    "modder": "WhoCares"
+  },
+  "whocares-MonaWallpaper": {
+    "name": "whocares-MonaWallpaper",
+    "modder": "WhoCares"
+  }
+}
