@@ -21390,7 +21390,8 @@
           "eb84fc29f9e2f675f8d1807f8cd490a1",
           "dd570f41e12a371e2fa3df7d811303f2",
           "8918a128cb522b8ca04d601b7cd83f41",
-          "1d742171ea4bd88505a448e4d72b81c0"
+          "1d742171ea4bd88505a448e4d72b81c0",
+          "0d23aa2f3150c928354295be5cab6279"
         ],
         "regions": [
           "global",
@@ -21418,7 +21419,7 @@
     "image2": "http://i.imgur.com/KAOsm2c.png",
     "image3": "http://i.imgur.com/LTMdmQN.png",
     "imageSkin": null,
-    "numMods": 16,
+    "numMods": 17,
     "regions": [
       "global",
       "kr",
@@ -38328,7 +38329,8 @@
           "3cb48a633234ea8ca7c549057f585c1d",
           "06f808a92ceff45e7735f69ccde80d7b",
           "685fe26bc7a0747265b7b3cc8c24bbcf",
-          "d56aa71594203041cc70ed5bd1a4717b"
+          "d56aa71594203041cc70ed5bd1a4717b",
+          "0735b580256a73988dd32341769aec45"
         ],
         "title": "Hot Spring",
         "regions": [
@@ -38338,7 +38340,7 @@
         ]
       }
     },
-    "numMods": 4,
+    "numMods": 5,
     "code": "sc057",
     "name": "Lan Fei",
     "regions": [
@@ -41498,7 +41500,8 @@
     "variants": {
       "01": {
         "mods": [
-          "2fd1884e95b4acd1d2edfe07b2b9754f"
+          "2fd1884e95b4acd1d2edfe07b2b9754f",
+          "71395cbaff5b0b31732f9aea97e8ad58"
         ],
         "regions": [
           "kr",
@@ -41507,7 +41510,7 @@
         ]
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "code": "sc415",
     "regions": [
       "kr",

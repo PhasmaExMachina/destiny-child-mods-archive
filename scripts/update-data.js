@@ -18,7 +18,9 @@ const fs = require('fs'),
 
 // update transition screens
 fs.readdirSync(path.join(__dirname, '../docs/transitions')).forEach(dir => {
-  transitions[dir] = transitions[dir] || {name: dir}
+  if(!dir.match(/\.html$/)) {
+    transitions[dir] = transitions[dir] || {name: dir}
+  }
 })
 
 // update mod hashes seen

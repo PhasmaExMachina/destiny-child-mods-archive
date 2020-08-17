@@ -20680,5 +20680,23 @@
       ],
       "contents": null
     }
+  },
+  "0d23aa2f3150c928354295be5cab6279": {
+    "code": "c324",
+    "variant": "02",
+    "created": 1597669970141,
+    "modder": "csc unit"
+  },
+  "0735b580256a73988dd32341769aec45": {
+    "code": "sc057",
+    "variant": "01",
+    "created": 1597669970666,
+    "modder": "csc unit"
+  },
+  "71395cbaff5b0b31732f9aea97e8ad58": {
+    "code": "sc415",
+    "variant": "01",
+    "created": 1597669971794,
+    "modder": "csc unit"
   }
 }
