@@ -42,13 +42,6 @@ fs.readdirSync(charactersPath).forEach(charDir => {
     if(code.match(/^s(c|m)/) && fs.existsSync(path.join(modPath, '00000002'))) {
       fs.renameSync(path.join(modPath, '00000002'), path.join(modPath, 'physics.json'))
     }
-    // const textureHash = code + '_' + variant + '-' + fs.readdirSync(modPath).reduce((acc, file) => {
-    //   if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
-    //   return acc
-    // }, '')
-    // if(fs.existsSync(path.join(modPath, 'static.png')))
-    //   fs.unlinkSync(path.join(modPath, 'static.png'))
-    // modHashes.texture[textureHash] = true
   })
 })
 
@@ -151,6 +144,25 @@ const regions = ['global', 'kr', 'jp']
     }
   })
 })
+
+// update mod texture hashes
+Object.keys(mods).forEach(hash => {
+  const mod = mods[hash],
+        {code, variant} = mod,
+        modPath = path.join(charactersPath, code + '_' + variant, hash)
+  if(fs.existsSync(modPath)) {
+    mod.textureHash = fs.readdirSync(modPath).reduce((acc, file) => {
+      if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
+      return acc
+    }, '')
+  }
+  // if(fs.existsSync(path.join(modPath, 'static.png')))
+  //   fs.unlinkSync(path.join(modPath, 'static.png'))
+  // modHashes.texture[textureHash] = true
+})
+
+
+fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(mods, null, 2))
 fs.writeFileSync(path.join(__dirname, '../docs/data/model_info.merged.json'), JSON.stringify(modelInfo, null, 2))
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 fs.writeFileSync(path.join(__dirname, '../src/data/modders.json'), JSON.stringify(modders, null, 2))
