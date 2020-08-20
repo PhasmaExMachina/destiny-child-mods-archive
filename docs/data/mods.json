@@ -24831,5 +24831,26 @@
     "variant": "01",
     "created": 1597942168752,
     "textureHash": "a94f6d71a788e1b75e93b420d45a558b"
+  },
+  "5604d6f269dec32ad77545af62221dc7": {
+    "code": "c456",
+    "variant": "01",
+    "created": 1597944972554,
+    "textureHash": "f8a4fb102b5d81a26a4fef2cdfbf5dcdc5320af22ccf8f0266b46fce9bdb6a38",
+    "modder": "Kalaratri"
+  },
+  "7dbb3ca768070560c6257a4d3270c00c": {
+    "code": "c456",
+    "variant": "02",
+    "created": 1597944973256,
+    "textureHash": "b897cc9f66823b9713704090be43fe2e9a53bbec540fa7bfa393195c5f3c8cdb",
+    "modder": "Kalaratri"
+  },
+  "4fb3aa4fff46dd6f1f98b47f97da18bd": {
+    "code": "c458",
+    "variant": "02",
+    "created": 1597944973748,
+    "textureHash": "3cbb70baec16ce684ed341d7cf6eec784b6586b79a884ca2b0080e37c8900e26",
+    "modder": "Kalaratri"
   }
 }
