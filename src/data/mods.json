@@ -24735,5 +24735,17 @@
     "created": 1597669971794,
     "modder": "csc unit",
     "textureHash": "d1c1141744fa7fd43ca82f238620f390"
+  },
+  "ad66f66bd14a477f2a607809fd569cf9": {
+    "code": "c117",
+    "variant": "00",
+    "created": 1597924899677,
+    "textureHash": "4e437a9ef8bb7e6553bcb967338999e2"
+  },
+  "3cd333dcf7b15a837faacb374759c875": {
+    "code": "c130",
+    "variant": "00",
+    "created": 1597924901637,
+    "textureHash": "646197515f9e984b899e29365416f813"
   }
 }

@@ -3,59 +3,59 @@
     "modeltype": "live2d",
     "home": {
       "position": {
-        "x": 1,
-        "y": 3
+        "x": -15,
+        "y": -10
       },
-      "scale": 1.04,
+      "scale": 0.95,
       "flip": false
     },
     "talk": {
       "position": {
-        "x": -20,
+        "x": -10,
         "y": 335
       },
-      "scale": 1.65,
+      "scale": 1.5,
       "flip": false
     },
     "ally": {
       "position": {
-        "x": 0,
-        "y": 275
+        "x": -14,
+        "y": 200
       },
-      "scale": 1.19,
+      "scale": 0.97,
       "flip": false
     },
     "enemy": {
       "position": {
-        "x": -5,
+        "x": 0,
         "y": 7
       },
-      "scale": 1,
+      "scale": 0.9,
       "flip": false,
       "not_fov_scale": true
     },
     "talk_zoom": {
       "position": {
-        "x": 10,
-        "y": 1165
+        "x": 5,
+        "y": 1028
       },
-      "scale": 3,
+      "scale": 2.56,
       "flip": false
     },
     "drive": {
       "position": {
         "x": 0,
-        "y": 40
+        "y": 135
       },
       "scale": 1,
       "flip": false
     },
     "selectRect": [
       {
-        "top": 0.325,
-        "right": 0.70625,
-        "left": 0.458333343,
-        "bottom": 0.36125
+        "top": 0.3125,
+        "right": 0.55625,
+        "left": 0.3875,
+        "bottom": 0.53875
       },
       {
         "top": 0.9075,
@@ -64,33 +64,25 @@
         "bottom": 0.96125
       },
       {
-        "top": 0.2,
-        "right": 0.5729167,
-        "left": 0.466666669,
-        "bottom": 0.2825
+        "top": 0.21125,
+        "right": 0.504166663,
+        "left": 0.397916675,
+        "bottom": 0.29125
       },
       {
-        "top": 0.325,
-        "right": 0.70625,
-        "left": 0.458333343,
-        "bottom": 0.36125
+        "top": 0.3125,
+        "right": 0.55625,
+        "left": 0.3875,
+        "bottom": 0.53875
       },
       {
-        "top": 0.2,
-        "right": 0.5729167,
-        "left": 0.466666669,
-        "bottom": 0.2825
+        "top": 0.21125,
+        "right": 0.504166663,
+        "left": 0.397916675,
+        "bottom": 0.29125
       }
     ],
     "contents": {
-      "talk_face": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 4.125,
-        "flip": false
-      },
       "none": {
         "position": {
           "x": 0,
@@ -20130,6 +20122,14 @@
       }
     ],
     "contents": {
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 4.25,
+        "flip": false
+      },
       "none": {
         "position": {
           "x": 0,
@@ -20210,9 +20210,38 @@
         "right": 0.5416667,
         "left": 0.425,
         "bottom": 0.445
+      },
+      {
+        "top": 0.46375,
+        "right": 0.691666663,
+        "left": 0.366666675,
+        "bottom": 0.6525
+      },
+      {
+        "top": 0.3775,
+        "right": 0.5416667,
+        "left": 0.425,
+        "bottom": 0.445
       }
     ],
-    "contents": null
+    "contents": {
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 2.5,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
   },
   "c112_02": {
     "modeltype": "live2d",
@@ -52342,6 +52371,14 @@
         "scale": 1,
         "flip": false
       },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 6.25,
+        "flip": false
+      },
       "mission_pass": {
         "position": {
           "x": 17,
@@ -52372,10 +52409,10 @@
     },
     "ally": {
       "position": {
-        "x": 5,
-        "y": 20
+        "x": 1,
+        "y": 26
       },
-      "scale": 0.62,
+      "scale": 0.65,
       "flip": false
     },
     "enemy": {
@@ -52383,23 +52420,27 @@
         "x": 0,
         "y": 0
       },
-      "scale": 0.67,
+      "skillBubble": {
+        "x": 38,
+        "y": -52
+      },
+      "scale": 0.7,
       "flip": false,
-      "bossCamY": -65,
-      "bossCamDist": 30
+      "bossCamY": -15,
+      "bossCamDist": 5
     },
     "talk_zoom": {
       "position": {
         "x": 0,
         "y": 965
       },
-      "scale": 2.38,
+      "scale": 2.33,
       "flip": false
     },
     "drive": {
       "position": {
-        "x": 0,
-        "y": -70
+        "x": 7,
+        "y": -54
       },
       "scale": 0.85,
       "flip": false
@@ -52418,10 +52459,10 @@
         "bottom": 0
       },
       {
-        "top": 0.26625,
-        "right": 0.558333337,
-        "left": 0.447916657,
-        "bottom": 0.33
+        "top": 0.25375,
+        "right": 0.516666651,
+        "left": 0.40625,
+        "bottom": 0.3175
       },
       {
         "top": 0.465,
@@ -52436,7 +52477,80 @@
         "bottom": 0.33
       }
     ],
-    "contents": null
+    "contents": {
+      "special_raid": {
+        "position": {
+          "x": 34,
+          "y": 81
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 24,
+          "y": 31
+        },
+        "scale": 0.94,
+        "flip": false
+      },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": 12,
+          "y": 35
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 17,
+          "y": 1485
+        },
+        "scale": 3.105,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 38,
+          "y": 55
+        },
+        "scale": 0.95,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": 7,
+          "y": 67
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "area_left": {
+        "position": {
+          "x": 0,
+          "y": 23
+        },
+        "scale": 0.94,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": 6,
+          "y": 49
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
   },
   "c348_01": {
     "modeltype": "live2d",
@@ -52450,16 +52564,16 @@
     },
     "talk": {
       "position": {
-        "x": 9,
-        "y": 211
+        "x": 73,
+        "y": 348
       },
-      "scale": 1.38,
+      "scale": 1.71,
       "flip": false
     },
     "ally": {
       "position": {
-        "x": 6,
-        "y": 22
+        "x": 13,
+        "y": 21
       },
       "scale": 0.76,
       "flip": false
@@ -52469,24 +52583,29 @@
         "x": 0,
         "y": 0
       },
-      "scale": 0.79,
+      "skillBubble": {
+        "x": 316,
+        "y": -135
+      },
+      "scale": 0.81,
       "flip": false,
-      "bossCamY": -20
+      "bossCamY": 10,
+      "bossCamDist": -10
     },
     "talk_zoom": {
       "position": {
-        "x": 83,
-        "y": 962
+        "x": 85,
+        "y": 837
       },
-      "scale": 2.86,
+      "scale": 2.53,
       "flip": false
     },
     "drive": {
       "position": {
-        "x": 0,
-        "y": -45
+        "x": -2,
+        "y": -40
       },
-      "scale": 1,
+      "scale": 1.01,
       "flip": false
     },
     "selectRect": [
@@ -52521,7 +52640,48 @@
         "bottom": 0.3375
       }
     ],
-    "contents": null
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 30,
+          "y": -36
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 14,
+          "y": -14
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 122,
+          "y": 1140
+        },
+        "scale": 3.15,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 39,
+          "y": -32
+        },
+        "scale": 0.98,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
   },
   "c348_02": {
     "modeltype": "live2d",
@@ -52535,16 +52695,16 @@
     },
     "talk": {
       "position": {
-        "x": 9,
-        "y": 211
+        "x": 73,
+        "y": 348
       },
-      "scale": 1.38,
+      "scale": 1.71,
       "flip": false
     },
     "ally": {
       "position": {
-        "x": 6,
-        "y": 22
+        "x": 13,
+        "y": 21
       },
       "scale": 0.76,
       "flip": false
@@ -52554,24 +52714,29 @@
         "x": 0,
         "y": 0
       },
-      "scale": 0.79,
+      "skillBubble": {
+        "x": 316,
+        "y": -135
+      },
+      "scale": 0.81,
       "flip": false,
-      "bossCamY": -20
+      "bossCamY": 10,
+      "bossCamDist": -10
     },
     "talk_zoom": {
       "position": {
-        "x": 83,
-        "y": 962
+        "x": 85,
+        "y": 837
       },
-      "scale": 2.86,
+      "scale": 2.53,
       "flip": false
     },
     "drive": {
       "position": {
-        "x": 0,
-        "y": -45
+        "x": -2,
+        "y": -40
       },
-      "scale": 1,
+      "scale": 1.01,
       "flip": false
     },
     "selectRect": [
@@ -52606,7 +52771,48 @@
         "bottom": 0.3375
       }
     ],
-    "contents": null
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 30,
+          "y": -36
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 14,
+          "y": -14
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 122,
+          "y": 1140
+        },
+        "scale": 3.15,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 39,
+          "y": -32
+        },
+        "scale": 0.98,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
   },
   "c348_10": {
     "modeltype": "live2d",
@@ -52620,16 +52826,16 @@
     },
     "talk": {
       "position": {
-        "x": 9,
-        "y": 211
+        "x": 73,
+        "y": 348
       },
-      "scale": 1.38,
+      "scale": 1.71,
       "flip": false
     },
     "ally": {
       "position": {
-        "x": 6,
-        "y": 22
+        "x": 13,
+        "y": 21
       },
       "scale": 0.76,
       "flip": false
@@ -52639,24 +52845,29 @@
         "x": 0,
         "y": 0
       },
-      "scale": 0.79,
+      "skillBubble": {
+        "x": 316,
+        "y": -135
+      },
+      "scale": 0.81,
       "flip": false,
-      "bossCamY": -20
+      "bossCamY": 10,
+      "bossCamDist": -10
     },
     "talk_zoom": {
       "position": {
-        "x": 83,
-        "y": 962
+        "x": 85,
+        "y": 837
       },
-      "scale": 2.86,
+      "scale": 2.53,
       "flip": false
     },
     "drive": {
       "position": {
-        "x": 0,
-        "y": -45
+        "x": -2,
+        "y": -40
       },
-      "scale": 1,
+      "scale": 1.01,
       "flip": false
     },
     "selectRect": [
@@ -52691,7 +52902,48 @@
         "bottom": 0.3375
       }
     ],
-    "contents": null
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 30,
+          "y": -36
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 14,
+          "y": -14
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 122,
+          "y": 1140
+        },
+        "scale": 3.15,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 39,
+          "y": -32
+        },
+        "scale": 0.98,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
   },
   "c349_00": {
     "modeltype": "live2d",
@@ -65322,6 +65574,498 @@
           "y": 0
         },
         "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c417_02": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 16,
+        "y": -190
+      },
+      "scale": 0.83,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 137,
+        "y": 8
+      },
+      "scale": 1.71,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 73,
+        "y": -97
+      },
+      "scale": 0.77,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 6,
+        "y": -20
+      },
+      "skillBubble": {
+        "x": 98,
+        "y": -303
+      },
+      "scale": 0.84,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 315,
+        "y": 582
+      },
+      "scale": 3.42,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 158,
+        "y": -436
+      },
+      "scale": 1.02,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.72,
+        "right": 0.310416669,
+        "left": 0.225,
+        "bottom": 0.79375
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.415,
+        "right": 0.364583343,
+        "left": 0.279166669,
+        "bottom": 0.4825
+      },
+      {
+        "top": 0.79125,
+        "right": -0.14375,
+        "left": -0.229166672,
+        "bottom": 0.87
+      },
+      {
+        "top": 0.375,
+        "right": 0.4375,
+        "left": 0.339583337,
+        "bottom": 0.445
+      }
+    ],
+    "contents": {
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c417_89": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 16,
+        "y": -190
+      },
+      "scale": 0.83,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 137,
+        "y": 8
+      },
+      "scale": 1.71,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 73,
+        "y": -97
+      },
+      "scale": 0.77,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 12,
+        "y": -3
+      },
+      "skillBubble": {
+        "x": 53,
+        "y": -203
+      },
+      "scale": 1.35,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 315,
+        "y": 582
+      },
+      "scale": 3.42,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 158,
+        "y": -436
+      },
+      "scale": 1.02,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.72,
+        "right": 0.310416669,
+        "left": 0.225,
+        "bottom": 0.79375
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.415,
+        "right": 0.364583343,
+        "left": 0.279166669,
+        "bottom": 0.4825
+      },
+      {
+        "top": 0.79125,
+        "right": -0.14375,
+        "left": -0.229166672,
+        "bottom": 0.87
+      },
+      {
+        "top": 0.375,
+        "right": 0.4375,
+        "left": 0.339583337,
+        "bottom": 0.445
+      }
+    ],
+    "contents": {
+      "special_raid": {
+        "position": {
+          "x": 78,
+          "y": -404
+        },
+        "scale": 0.78,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 4.275,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": 75,
+          "y": -528
+        },
+        "scale": 0.63,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": 82,
+          "y": -417
+        },
+        "scale": 0.8,
+        "flip": false
+      },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": 64,
+          "y": -461
+        },
+        "scale": 0.69,
+        "flip": false
+      }
+    }
+  },
+  "c418_01": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 0,
+        "y": 9
+      },
+      "scale": 1.04,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": -11,
+        "y": 1030
+      },
+      "scale": 2.85,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 4,
+        "y": 191
+      },
+      "scale": 0.97,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 0,
+        "y": 13
+      },
+      "scale": 1.09,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": -18,
+        "y": 2385
+      },
+      "scale": 5.17,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 6,
+        "y": 224
+      },
+      "scale": 1.24,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.33375,
+        "right": 0.545833349,
+        "left": 0.458333343,
+        "bottom": 0.38625
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.19875,
+        "right": 0.533333361,
+        "left": 0.458333343,
+        "bottom": 0.24
+      },
+      {
+        "top": 0.3275,
+        "right": 0.489583343,
+        "left": 0.389583319,
+        "bottom": 0.3875
+      },
+      {
+        "top": 0.215,
+        "right": 0.5395833,
+        "left": 0.445833325,
+        "bottom": 0.26
+      }
+    ],
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": -4,
+          "y": 112
+        },
+        "scale": 1.24,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 49,
+          "y": 126
+        },
+        "scale": 1.24,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 7.125,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 29,
+          "y": 79
+        },
+        "scale": 1.16,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c418_02": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 0,
+        "y": 9
+      },
+      "scale": 1.04,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": -11,
+        "y": 1030
+      },
+      "scale": 2.85,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 4,
+        "y": 191
+      },
+      "scale": 0.97,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 0,
+        "y": 13
+      },
+      "scale": 1.09,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": -18,
+        "y": 2385
+      },
+      "scale": 5.17,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 6,
+        "y": 224
+      },
+      "scale": 1.24,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.33375,
+        "right": 0.545833349,
+        "left": 0.458333343,
+        "bottom": 0.38625
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.19875,
+        "right": 0.533333361,
+        "left": 0.458333343,
+        "bottom": 0.24
+      },
+      {
+        "top": 0.3275,
+        "right": 0.489583343,
+        "left": 0.389583319,
+        "bottom": 0.3875
+      },
+      {
+        "top": 0.215,
+        "right": 0.5395833,
+        "left": 0.445833325,
+        "bottom": 0.26
+      }
+    ],
+    "contents": {
+      "special_raid": {
+        "position": {
+          "x": -13,
+          "y": -73
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 7.125,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": -12,
+          "y": -108
+        },
+        "scale": 0.97,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": -6,
+          "y": -57
+        },
+        "scale": 1.02,
+        "flip": false
+      },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": -6,
+          "y": -92
+        },
+        "scale": 0.97,
         "flip": false
       }
     }
@@ -103284,6 +104028,44 @@
       "bottom": 100.43457
     }
   },
+  "sc417_01": {
+    "modeltype": "live2d",
+    "position": {
+      "x": 15,
+      "y": 114
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.79,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 41.3303223,
+      "right": 147,
+      "left": 83,
+      "bottom": 98.33032
+    }
+  },
+  "sc418_01": {
+    "modeltype": "live2d",
+    "position": {
+      "x": 18,
+      "y": 126
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.76,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 45.61725,
+      "right": 146,
+      "left": 90,
+      "bottom": 98.61725
+    }
+  },
   "sc419_01": {
     "modeltype": "live2d",
     "position": {
@@ -105373,6 +106155,534 @@
       "left": 85,
       "bottom": 87.017334
     }
+  },
+  "sc320_01": {
+    "modeltype": "live2d",
+    "position": {
+      "x": -23,
+      "y": 116
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.64,
+    "waveScale": 0.9,
+    "faceRect": {
+      "top": 47.53778,
+      "right": 137,
+      "left": 66,
+      "bottom": 117.537781
+    }
+  },
+  "sc160_01": {
+    "modeltype": "live2d",
+    "position": {
+      "x": 20,
+      "y": 99
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.63,
+    "waveScale": 0.9,
+    "faceRect": {
+      "top": 64.547,
+      "right": 145,
+      "left": 74,
+      "bottom": 130.547
+    }
+  },
+  "c343_01": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 3,
+        "y": -3
+      },
+      "scale": 1.01,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": -11,
+        "y": 356
+      },
+      "scale": 1.59,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": -2,
+        "y": 198
+      },
+      "scale": 1.01,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 1,
+        "y": 9
+      },
+      "skillBubble": {
+        "x": -12,
+        "y": -8
+      },
+      "scale": 0.98,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": -12,
+        "y": 1094
+      },
+      "scale": 2.9,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": -1,
+        "y": 200
+      },
+      "scale": 1.2,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.3525,
+        "right": 0.589583337,
+        "left": 0.472916663,
+        "bottom": 0.4375
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.18375,
+        "right": 0.55,
+        "left": 0.458333343,
+        "bottom": 0.25375
+      },
+      {
+        "top": 0.35625,
+        "right": 0.5833333,
+        "left": 0.5083333,
+        "bottom": 0.42625
+      },
+      {
+        "top": 0.21125,
+        "right": 0.597916663,
+        "left": 0.50625,
+        "bottom": 0.285
+      }
+    ],
+    "contents": null
+  },
+  "c193_01": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 0,
+        "y": -25
+      },
+      "scale": 0.9,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 15,
+        "y": 315
+      },
+      "scale": 1.47,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 10,
+        "y": 89
+      },
+      "scale": 0.78,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 3,
+        "y": -1
+      },
+      "skillBubble": {
+        "x": 2,
+        "y": -50
+      },
+      "scale": 0.78,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 25,
+        "y": 1210
+      },
+      "scale": 2.94,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "scale": 1,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.46,
+        "right": 0.466666669,
+        "left": 0.46875,
+        "bottom": 0.46375
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.2575,
+        "right": 0.504166663,
+        "left": 0.439583331,
+        "bottom": 0.29
+      },
+      {
+        "top": 0.47,
+        "right": 0.05625,
+        "left": 0.05625,
+        "bottom": 0.47625
+      },
+      {
+        "top": 0.25,
+        "right": 0.545833349,
+        "left": 0.4375,
+        "bottom": 0.325
+      }
+    ],
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 16,
+          "y": -13
+        },
+        "scale": 0.95,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 53,
+          "y": -3
+        },
+        "scale": 0.95,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 3.675,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 35,
+          "y": -5
+        },
+        "scale": 0.96,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "sc435_01": {
+    "modeltype": "live2d",
+    "position": {
+      "x": -24,
+      "y": 113
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.66,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 38.3813477,
+      "right": 127,
+      "left": 68,
+      "bottom": 82.38135
+    }
+  },
+  "c343_02": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 3,
+        "y": -3
+      },
+      "scale": 1.01,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": -11,
+        "y": 356
+      },
+      "scale": 1.59,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": -2,
+        "y": 198
+      },
+      "scale": 1.01,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 1,
+        "y": 9
+      },
+      "skillBubble": {
+        "x": -12,
+        "y": -8
+      },
+      "scale": 0.98,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": -12,
+        "y": 1094
+      },
+      "scale": 2.9,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": -1,
+        "y": 200
+      },
+      "scale": 1.2,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.3525,
+        "right": 0.589583337,
+        "left": 0.472916663,
+        "bottom": 0.4375
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.18375,
+        "right": 0.55,
+        "left": 0.458333343,
+        "bottom": 0.25375
+      },
+      {
+        "top": 0.35625,
+        "right": 0.5833333,
+        "left": 0.5083333,
+        "bottom": 0.42625
+      },
+      {
+        "top": 0.21125,
+        "right": 0.597916663,
+        "left": 0.50625,
+        "bottom": 0.285
+      }
+    ],
+    "contents": null
+  },
+  "c122_01": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 0,
+        "y": -25
+      },
+      "scale": 1.1,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 0,
+        "y": 35
+      },
+      "scale": 1.4,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 5,
+        "y": 25
+      },
+      "scale": 0.8375,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 0,
+        "y": -5
+      },
+      "scale": 0.93,
+      "flip": false
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "scale": 2.8,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 15,
+        "y": -225
+      },
+      "scale": 1,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.58875,
+        "right": 0.5854167,
+        "left": 0.410416663,
+        "bottom": 0.66875
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.39875,
+        "right": 0.5520833,
+        "left": 0.416666657,
+        "bottom": 0.48625
+      },
+      {
+        "top": 0.58875,
+        "right": 0.5854167,
+        "left": 0.410416663,
+        "bottom": 0.66875
+      },
+      {
+        "top": 0.39875,
+        "right": 0.5520833,
+        "left": 0.416666657,
+        "bottom": 0.48625
+      }
+    ],
+    "contents": {
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c297_02": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": -5,
+        "y": -46
+      },
+      "scale": 1.36,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 25,
+        "y": 405
+      },
+      "scale": 2.51,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 7,
+        "y": 65
+      },
+      "scale": 1.14,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "scale": 1.29,
+      "flip": false,
+      "bossCamY": -30
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 25,
+        "y": 1020
+      },
+      "scale": 4,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 10,
+        "y": -125
+      },
+      "scale": 1.25,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.365,
+        "right": 0.50625,
+        "left": 0.435416669,
+        "bottom": 0.3975
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.25,
+        "right": 0.49375,
+        "left": 0.40625,
+        "bottom": 0.2975
+      }
+    ],
+    "contents": null
   },
   "c000_15": {
     "modeltype": "live2d",
@@ -107946,32 +109256,32 @@
     },
     "talk": {
       "position": {
-        "x": -6,
-        "y": 644
+        "x": -17,
+        "y": 645
       },
       "scale": 1.75,
       "flip": false
     },
     "ally": {
       "position": {
-        "x": -6,
-        "y": 176
+        "x": -22,
+        "y": 205
       },
-      "scale": 0.82,
+      "scale": 0.84,
       "flip": false
     },
     "enemy": {
       "position": {
-        "x": 2,
-        "y": 6
+        "x": 0,
+        "y": 8
       },
       "skillBubble": {
-        "x": -8,
-        "y": 0
+        "x": 261,
+        "y": -87
       },
-      "scale": 0.63,
+      "scale": 0.89,
       "flip": false,
-      "bossCamY": 5,
+      "bossCamY": 40,
       "bossCamDist": 10
     },
     "talk_zoom": {
@@ -107984,18 +109294,18 @@
     },
     "drive": {
       "position": {
-        "x": -8,
-        "y": 552
+        "x": 40,
+        "y": 229
       },
-      "scale": 1.32,
+      "scale": 1.02,
       "flip": false
     },
     "selectRect": [
       {
-        "top": 0.30375,
-        "right": 0.56875,
-        "left": 0.5541667,
-        "bottom": 0.33875
+        "top": 0.3125,
+        "right": 0.6354167,
+        "left": 0.485416681,
+        "bottom": 0.41375
       },
       {
         "top": 0,
@@ -108004,39 +109314,55 @@
         "bottom": 0
       },
       {
-        "top": 0.125,
-        "right": 0.5395833,
-        "left": 0.439583331,
-        "bottom": 0.1875
+        "top": 0.1525,
+        "right": 0.577083349,
+        "left": 0.445833325,
+        "bottom": 0.24625
       },
       {
-        "top": 0.375,
-        "right": 0.325,
-        "left": 0.4,
-        "bottom": 0.335
+        "top": 0.31625,
+        "right": 0.591666639,
+        "left": 0.45,
+        "bottom": 0.40125
       },
       {
-        "top": 0.53375,
-        "right": 0.460416675,
-        "left": 0.535416663,
-        "bottom": 0.505
+        "top": 0.18625,
+        "right": 0.59375,
+        "left": 0.45625,
+        "bottom": 0.26875
       }
     ],
     "contents": {
       "area_left": {
         "position": {
-          "x": 5,
-          "y": 121
+          "x": 29,
+          "y": 162
         },
-        "scale": 1,
+        "scale": 1.1,
         "flip": false
       },
       "area_right": {
         "position": {
-          "x": 74,
-          "y": 143
+          "x": 77,
+          "y": 180
         },
-        "scale": 1,
+        "scale": 1.1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": -42,
+          "y": 2555
+        },
+        "scale": 4.525,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 70,
+          "y": 142
+        },
+        "scale": 1.05,
         "flip": false
       },
       "none": {
@@ -108153,6 +109479,14 @@
         "scale": 1,
         "flip": false
       },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 5.025,
+        "flip": false
+      },
       "none": {
         "position": {
           "x": 0,
@@ -108265,6 +109599,14 @@
           "y": 26
         },
         "scale": 1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 5.025,
         "flip": false
       },
       "none": {
@@ -108381,6 +109723,14 @@
         "scale": 1,
         "flip": false
       },
+      "talk_face": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 5.025,
+        "flip": false
+      },
       "none": {
         "position": {
           "x": 0,
@@ -108469,99 +109819,6 @@
       }
     ],
     "contents": null
-  },
-  "c122_01": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 0,
-        "y": -25
-      },
-      "scale": 1.1,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": 0,
-        "y": 35
-      },
-      "scale": 1.4,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": 5,
-        "y": 25
-      },
-      "scale": 0.8375,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 0,
-        "y": -5
-      },
-      "scale": 0.93,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "scale": 2.8,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": 15,
-        "y": -225
-      },
-      "scale": 1,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.58875,
-        "right": 0.5854167,
-        "left": 0.410416663,
-        "bottom": 0.66875
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.39875,
-        "right": 0.5520833,
-        "left": 0.416666657,
-        "bottom": 0.48625
-      },
-      {
-        "top": 0.58875,
-        "right": 0.5854167,
-        "left": 0.410416663,
-        "bottom": 0.66875
-      },
-      {
-        "top": 0.39875,
-        "right": 0.5520833,
-        "left": 0.416666657,
-        "bottom": 0.48625
-      }
-    ],
-    "contents": {
-      "none": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 1,
-        "flip": false
-      }
-    }
   },
   "c124_11": {
     "modeltype": "live2d",
@@ -111923,135 +113180,6 @@
           "y": 79
         },
         "scale": 1,
-        "flip": false
-      },
-      "none": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 1,
-        "flip": false
-      }
-    }
-  },
-  "c193_01": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 0,
-        "y": -25
-      },
-      "scale": 0.9,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": 15,
-        "y": 315
-      },
-      "scale": 1.47,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": 10,
-        "y": 89
-      },
-      "scale": 0.78,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 3,
-        "y": -1
-      },
-      "skillBubble": {
-        "x": 2,
-        "y": -50
-      },
-      "scale": 0.78,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": 25,
-        "y": 1210
-      },
-      "scale": 2.94,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "scale": 1,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.46,
-        "right": 0.466666669,
-        "left": 0.46875,
-        "bottom": 0.46375
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.2575,
-        "right": 0.504166663,
-        "left": 0.439583331,
-        "bottom": 0.29
-      },
-      {
-        "top": 0.47,
-        "right": 0.05625,
-        "left": 0.05625,
-        "bottom": 0.47625
-      },
-      {
-        "top": 0.25,
-        "right": 0.545833349,
-        "left": 0.4375,
-        "bottom": 0.325
-      }
-    ],
-    "contents": {
-      "area_left": {
-        "position": {
-          "x": 16,
-          "y": -13
-        },
-        "scale": 0.95,
-        "flip": false
-      },
-      "area_right": {
-        "position": {
-          "x": 53,
-          "y": -3
-        },
-        "scale": 0.95,
-        "flip": false
-      },
-      "talk_face": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 3.675,
-        "flip": false
-      },
-      "mission_pass": {
-        "position": {
-          "x": 35,
-          "y": -5
-        },
-        "scale": 0.96,
         "flip": false
       },
       "none": {
@@ -117923,79 +119051,6 @@
     ],
     "contents": null
   },
-  "c297_02": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": -5,
-        "y": -46
-      },
-      "scale": 1.36,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": 25,
-        "y": 405
-      },
-      "scale": 2.51,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": 7,
-        "y": 65
-      },
-      "scale": 1.14,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "scale": 1.29,
-      "flip": false,
-      "bossCamY": -30
-    },
-    "talk_zoom": {
-      "position": {
-        "x": 25,
-        "y": 1020
-      },
-      "scale": 4,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": 10,
-        "y": -125
-      },
-      "scale": 1.25,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.365,
-        "right": 0.50625,
-        "left": 0.435416669,
-        "bottom": 0.3975
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.25,
-        "right": 0.49375,
-        "left": 0.40625,
-        "bottom": 0.2975
-      }
-    ],
-    "contents": null
-  },
   "c302_00": {
     "modeltype": "live2d",
     "home": {
@@ -119818,6 +120873,268 @@
       }
     }
   },
+  "c329_01": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 18,
+        "y": -250
+      },
+      "scale": 0.77,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 17,
+        "y": -239
+      },
+      "scale": 0.95,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 10,
+        "y": -187
+      },
+      "scale": 0.63,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 0,
+        "y": -7
+      },
+      "skillBubble": {
+        "x": 30,
+        "y": -263
+      },
+      "scale": 0.68,
+      "flip": false,
+      "bossCamY": -80,
+      "bossCamDist": -25
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 54,
+        "y": 114
+      },
+      "scale": 2,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 29,
+        "y": -478
+      },
+      "scale": 0.91,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.71,
+        "right": 0.58125,
+        "left": 0.391666681,
+        "bottom": 0.81625
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.5625,
+        "right": 0.472916663,
+        "left": 0.304166675,
+        "bottom": 0.65625
+      },
+      {
+        "top": 0.77625,
+        "right": 0.485416681,
+        "left": 0.327083319,
+        "bottom": 0.88125
+      },
+      {
+        "top": 0.30375,
+        "right": 0.566666663,
+        "left": 0.38125,
+        "bottom": 0.41
+      }
+    ],
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 28,
+          "y": -298
+        },
+        "scale": 0.92,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 41,
+          "y": -287
+        },
+        "scale": 0.92,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 96,
+          "y": 314
+        },
+        "scale": 2.7,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 40,
+          "y": -327
+        },
+        "scale": 0.8,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c329_02": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 18,
+        "y": -250
+      },
+      "scale": 0.77,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 17,
+        "y": -239
+      },
+      "scale": 0.95,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 10,
+        "y": -187
+      },
+      "scale": 0.63,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 0,
+        "y": -7
+      },
+      "skillBubble": {
+        "x": 30,
+        "y": -263
+      },
+      "scale": 0.68,
+      "flip": false,
+      "bossCamY": -80,
+      "bossCamDist": -25
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 54,
+        "y": 114
+      },
+      "scale": 2,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": 29,
+        "y": -478
+      },
+      "scale": 0.91,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.71,
+        "right": 0.58125,
+        "left": 0.391666681,
+        "bottom": 0.81625
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.5625,
+        "right": 0.472916663,
+        "left": 0.304166675,
+        "bottom": 0.65625
+      },
+      {
+        "top": 0.77625,
+        "right": 0.485416681,
+        "left": 0.327083319,
+        "bottom": 0.88125
+      },
+      {
+        "top": 0.30375,
+        "right": 0.566666663,
+        "left": 0.38125,
+        "bottom": 0.41
+      }
+    ],
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 28,
+          "y": -298
+        },
+        "scale": 0.92,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 41,
+          "y": -287
+        },
+        "scale": 0.92,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 96,
+          "y": 314
+        },
+        "scale": 2.7,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 40,
+          "y": -327
+        },
+        "scale": 0.8,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
   "c330_01": {
     "modeltype": "live2d",
     "home": {
@@ -120489,182 +121806,6 @@
         "flip": false
       }
     }
-  },
-  "c343_01": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 3,
-        "y": -3
-      },
-      "scale": 1.01,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": -11,
-        "y": 356
-      },
-      "scale": 1.59,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": -2,
-        "y": 198
-      },
-      "scale": 1.01,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 1,
-        "y": 9
-      },
-      "skillBubble": {
-        "x": -12,
-        "y": -8
-      },
-      "scale": 0.98,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": -12,
-        "y": 1094
-      },
-      "scale": 2.9,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": -1,
-        "y": 200
-      },
-      "scale": 1.2,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.3525,
-        "right": 0.589583337,
-        "left": 0.472916663,
-        "bottom": 0.4375
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.18375,
-        "right": 0.55,
-        "left": 0.458333343,
-        "bottom": 0.25375
-      },
-      {
-        "top": 0.35625,
-        "right": 0.5833333,
-        "left": 0.5083333,
-        "bottom": 0.42625
-      },
-      {
-        "top": 0.21125,
-        "right": 0.597916663,
-        "left": 0.50625,
-        "bottom": 0.285
-      }
-    ],
-    "contents": null
-  },
-  "c343_02": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 3,
-        "y": -3
-      },
-      "scale": 1.01,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": -11,
-        "y": 356
-      },
-      "scale": 1.59,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": -2,
-        "y": 198
-      },
-      "scale": 1.01,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 1,
-        "y": 9
-      },
-      "skillBubble": {
-        "x": -12,
-        "y": -8
-      },
-      "scale": 0.98,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": -12,
-        "y": 1094
-      },
-      "scale": 2.9,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": -1,
-        "y": 200
-      },
-      "scale": 1.2,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.3525,
-        "right": 0.589583337,
-        "left": 0.472916663,
-        "bottom": 0.4375
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.18375,
-        "right": 0.55,
-        "left": 0.458333343,
-        "bottom": 0.25375
-      },
-      {
-        "top": 0.35625,
-        "right": 0.5833333,
-        "left": 0.5083333,
-        "bottom": 0.42625
-      },
-      {
-        "top": 0.21125,
-        "right": 0.597916663,
-        "left": 0.50625,
-        "bottom": 0.285
-      }
-    ],
-    "contents": null
   },
   "c344_88": {
     "modeltype": "live2d",
@@ -124218,386 +125359,6 @@
         "right": 0.5520833,
         "left": 0.472916663,
         "bottom": 0.265
-      }
-    ],
-    "contents": {
-      "none": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 1,
-        "flip": false
-      }
-    }
-  },
-  "c417_02": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 16,
-        "y": -190
-      },
-      "scale": 0.83,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": 137,
-        "y": 8
-      },
-      "scale": 1.71,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": 73,
-        "y": -97
-      },
-      "scale": 0.77,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 6,
-        "y": -20
-      },
-      "skillBubble": {
-        "x": 98,
-        "y": -303
-      },
-      "scale": 0.84,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": 315,
-        "y": 582
-      },
-      "scale": 3.42,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": 158,
-        "y": -436
-      },
-      "scale": 1.02,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.72,
-        "right": 0.310416669,
-        "left": 0.225,
-        "bottom": 0.79375
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.415,
-        "right": 0.364583343,
-        "left": 0.279166669,
-        "bottom": 0.4825
-      },
-      {
-        "top": 0.79125,
-        "right": -0.14375,
-        "left": -0.229166672,
-        "bottom": 0.87
-      },
-      {
-        "top": 0.375,
-        "right": 0.4375,
-        "left": 0.339583337,
-        "bottom": 0.445
-      }
-    ],
-    "contents": {
-      "none": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 1,
-        "flip": false
-      }
-    }
-  },
-  "c417_89": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 16,
-        "y": -190
-      },
-      "scale": 0.83,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": 137,
-        "y": 8
-      },
-      "scale": 1.71,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": 73,
-        "y": -97
-      },
-      "scale": 0.77,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 12,
-        "y": -3
-      },
-      "skillBubble": {
-        "x": 53,
-        "y": -203
-      },
-      "scale": 1.35,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": 315,
-        "y": 582
-      },
-      "scale": 3.42,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": 158,
-        "y": -436
-      },
-      "scale": 1.02,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.72,
-        "right": 0.310416669,
-        "left": 0.225,
-        "bottom": 0.79375
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.415,
-        "right": 0.364583343,
-        "left": 0.279166669,
-        "bottom": 0.4825
-      },
-      {
-        "top": 0.79125,
-        "right": -0.14375,
-        "left": -0.229166672,
-        "bottom": 0.87
-      },
-      {
-        "top": 0.375,
-        "right": 0.4375,
-        "left": 0.339583337,
-        "bottom": 0.445
-      }
-    ],
-    "contents": {
-      "none": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 1,
-        "flip": false
-      }
-    }
-  },
-  "c418_01": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 0,
-        "y": 9
-      },
-      "scale": 1.04,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": -11,
-        "y": 1030
-      },
-      "scale": 2.85,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": 4,
-        "y": 191
-      },
-      "scale": 0.97,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 0,
-        "y": 13
-      },
-      "scale": 1.09,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": -18,
-        "y": 2385
-      },
-      "scale": 5.17,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": 6,
-        "y": 224
-      },
-      "scale": 1.24,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.33375,
-        "right": 0.545833349,
-        "left": 0.458333343,
-        "bottom": 0.38625
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.19875,
-        "right": 0.533333361,
-        "left": 0.458333343,
-        "bottom": 0.24
-      },
-      {
-        "top": 0.3275,
-        "right": 0.489583343,
-        "left": 0.389583319,
-        "bottom": 0.3875
-      },
-      {
-        "top": 0.215,
-        "right": 0.5395833,
-        "left": 0.445833325,
-        "bottom": 0.26
-      }
-    ],
-    "contents": {
-      "none": {
-        "position": {
-          "x": 0,
-          "y": 0
-        },
-        "scale": 1,
-        "flip": false
-      }
-    }
-  },
-  "c418_02": {
-    "modeltype": "live2d",
-    "home": {
-      "position": {
-        "x": 0,
-        "y": 9
-      },
-      "scale": 1.04,
-      "flip": false
-    },
-    "talk": {
-      "position": {
-        "x": -11,
-        "y": 1030
-      },
-      "scale": 2.85,
-      "flip": false
-    },
-    "ally": {
-      "position": {
-        "x": 4,
-        "y": 191
-      },
-      "scale": 0.97,
-      "flip": false
-    },
-    "enemy": {
-      "position": {
-        "x": 0,
-        "y": 13
-      },
-      "scale": 1.09,
-      "flip": false
-    },
-    "talk_zoom": {
-      "position": {
-        "x": -18,
-        "y": 2385
-      },
-      "scale": 5.17,
-      "flip": false
-    },
-    "drive": {
-      "position": {
-        "x": 6,
-        "y": 224
-      },
-      "scale": 1.24,
-      "flip": false
-    },
-    "selectRect": [
-      {
-        "top": 0.33375,
-        "right": 0.545833349,
-        "left": 0.458333343,
-        "bottom": 0.38625
-      },
-      {
-        "top": 0,
-        "right": 0,
-        "left": 0,
-        "bottom": 0
-      },
-      {
-        "top": 0.19875,
-        "right": 0.533333361,
-        "left": 0.458333343,
-        "bottom": 0.24
-      },
-      {
-        "top": 0.3275,
-        "right": 0.489583343,
-        "left": 0.389583319,
-        "bottom": 0.3875
-      },
-      {
-        "top": 0.215,
-        "right": 0.5395833,
-        "left": 0.445833325,
-        "bottom": 0.26
       }
     ],
     "contents": {
@@ -130572,6 +131333,10 @@
         "x": 1,
         "y": 4
       },
+      "skillBubble": {
+        "x": 28,
+        "y": -2
+      },
       "scale": 0.85,
       "flip": false,
       "bossCamY": 15
@@ -130641,12 +131406,12 @@
         "scale": 1.17,
         "flip": false
       },
-      "none": {
+      "talk_face": {
         "position": {
-          "x": 0,
-          "y": 0
+          "x": 31,
+          "y": 1957
         },
-        "scale": 1,
+        "scale": 3.915,
         "flip": false
       },
       "mission_pass": {
@@ -130655,6 +131420,14 @@
           "y": 184
         },
         "scale": 1.2,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
         "flip": false
       }
     }
@@ -133338,6 +134111,14 @@
         "scale": 1.33,
         "flip": false
       },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": -30,
+          "y": -379
+        },
+        "scale": 0.99,
+        "flip": false
+      },
       "talk_face": {
         "position": {
           "x": -158,
@@ -133352,6 +134133,30 @@
           "y": -190
         },
         "scale": 1.3,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": -42,
+          "y": -374
+        },
+        "scale": 1.03,
+        "flip": false
+      },
+      "special_raid": {
+        "position": {
+          "x": -76,
+          "y": -330
+        },
+        "scale": 1.06,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": -38,
+          "y": -412
+        },
+        "scale": 1,
         "flip": false
       },
       "none": {
@@ -133730,6 +134535,14 @@
         "scale": 0.96,
         "flip": false
       },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": 17,
+          "y": -385
+        },
+        "scale": 0.64,
+        "flip": false
+      },
       "talk_face": {
         "position": {
           "x": 45,
@@ -133744,6 +134557,30 @@
           "y": -203
         },
         "scale": 0.85,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": 23,
+          "y": -454
+        },
+        "scale": 0.6,
+        "flip": false
+      },
+      "special_raid": {
+        "position": {
+          "x": -20,
+          "y": -313
+        },
+        "scale": 0.72,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": 18,
+          "y": -353
+        },
+        "scale": 0.7,
         "flip": false
       },
       "none": {
@@ -133861,6 +134698,14 @@
         "scale": 1.22,
         "flip": false
       },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": 26,
+          "y": -245
+        },
+        "scale": 0.9,
+        "flip": false
+      },
       "talk_face": {
         "position": {
           "x": 136,
@@ -133875,6 +134720,30 @@
           "y": -88
         },
         "scale": 1.13,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": 20,
+          "y": -263
+        },
+        "scale": 0.92,
+        "flip": false
+      },
+      "special_raid": {
+        "position": {
+          "x": -1,
+          "y": -219
+        },
+        "scale": 0.93,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": 32,
+          "y": -227
+        },
+        "scale": 0.93,
         "flip": false
       },
       "none": {
@@ -134005,6 +134874,330 @@
           "y": -203
         },
         "scale": 0.85,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c456_01": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 29,
+        "y": 15
+      },
+      "scale": 1.27,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 92,
+        "y": 572
+      },
+      "scale": 2.45,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 39,
+        "y": 149
+      },
+      "scale": 1.19,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 4,
+        "y": 5
+      },
+      "skillBubble": {
+        "x": 61,
+        "y": -165
+      },
+      "scale": 1.17,
+      "flip": false,
+      "bossCamY": 25
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 130,
+        "y": 1145
+      },
+      "scale": 3.71,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": -36,
+        "y": -55
+      },
+      "scale": 1.13,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.30125,
+        "right": 0.491666675,
+        "left": 0.335416675,
+        "bottom": 0.41625
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.1975,
+        "right": 0.5125,
+        "left": 0.372916669,
+        "bottom": 0.28625
+      },
+      {
+        "top": 0.3225,
+        "right": 0.391666681,
+        "left": 0.220833331,
+        "bottom": 0.4375
+      },
+      {
+        "top": 0.1975,
+        "right": 0.5541667,
+        "left": 0.397916675,
+        "bottom": 0.3025
+      }
+    ],
+    "contents": {
+      "special_raid": {
+        "position": {
+          "x": 36,
+          "y": -58
+        },
+        "scale": 1.21,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 87,
+          "y": 94
+        },
+        "scale": 1.38,
+        "flip": false
+      },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": 34,
+          "y": -112
+        },
+        "scale": 1.1,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 170,
+          "y": 1597
+        },
+        "scale": 4.65,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 66,
+          "y": 58
+        },
+        "scale": 1.3,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": 43,
+          "y": -113
+        },
+        "scale": 1.11,
+        "flip": false
+      },
+      "area_left": {
+        "position": {
+          "x": 51,
+          "y": 80
+        },
+        "scale": 1.38,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": 34,
+          "y": -87
+        },
+        "scale": 1.13,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c456_02": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": 29,
+        "y": 15
+      },
+      "scale": 1.27,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": 92,
+        "y": 572
+      },
+      "scale": 2.45,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": 39,
+        "y": 149
+      },
+      "scale": 1.19,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": 4,
+        "y": 5
+      },
+      "skillBubble": {
+        "x": 61,
+        "y": -165
+      },
+      "scale": 1.17,
+      "flip": false,
+      "bossCamY": 25
+    },
+    "talk_zoom": {
+      "position": {
+        "x": 130,
+        "y": 1145
+      },
+      "scale": 3.71,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": -36,
+        "y": -55
+      },
+      "scale": 1.13,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.30125,
+        "right": 0.491666675,
+        "left": 0.335416675,
+        "bottom": 0.41625
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.1975,
+        "right": 0.5125,
+        "left": 0.372916669,
+        "bottom": 0.28625
+      },
+      {
+        "top": 0.3225,
+        "right": 0.391666681,
+        "left": 0.220833331,
+        "bottom": 0.4375
+      },
+      {
+        "top": 0.1975,
+        "right": 0.5541667,
+        "left": 0.397916675,
+        "bottom": 0.3025
+      }
+    ],
+    "contents": {
+      "special_raid": {
+        "position": {
+          "x": 41,
+          "y": 42
+        },
+        "scale": 1.4,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 87,
+          "y": 94
+        },
+        "scale": 1.38,
+        "flip": false
+      },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": 35,
+          "y": -57
+        },
+        "scale": 1.21,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": 170,
+          "y": 1597
+        },
+        "scale": 4.65,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 66,
+          "y": 58
+        },
+        "scale": 1.3,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": 39,
+          "y": -82
+        },
+        "scale": 1.15,
+        "flip": false
+      },
+      "area_left": {
+        "position": {
+          "x": 51,
+          "y": 80
+        },
+        "scale": 1.38,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": 42,
+          "y": -20
+        },
+        "scale": 1.25,
         "flip": false
       },
       "none": {
@@ -134263,6 +135456,431 @@
         "position": {
           "x": 107,
           "y": 84
+        },
+        "scale": 1.15,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c458_01": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": -19,
+        "y": 1
+      },
+      "scale": 0.93,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": -13,
+        "y": 910
+      },
+      "scale": 2.38,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": -17,
+        "y": 265
+      },
+      "scale": 1.06,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": -1,
+        "y": 6
+      },
+      "skillBubble": {
+        "x": 31,
+        "y": -67
+      },
+      "scale": 0.95,
+      "flip": false,
+      "bossCamY": 40,
+      "bossCamDist": 5
+    },
+    "talk_zoom": {
+      "position": {
+        "x": -23,
+        "y": 1519
+      },
+      "scale": 3.35,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": -35,
+        "y": 134
+      },
+      "scale": 1.05,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.355,
+        "right": 0.591666639,
+        "left": 0.445833325,
+        "bottom": 0.43875
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.19,
+        "right": 0.55,
+        "left": 0.404166669,
+        "bottom": 0.28875
+      },
+      {
+        "top": 0.34375,
+        "right": 0.6145833,
+        "left": 0.458333343,
+        "bottom": 0.43
+      },
+      {
+        "top": 0.195,
+        "right": 0.55,
+        "left": 0.4,
+        "bottom": 0.295
+      }
+    ],
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 0,
+          "y": 132
+        },
+        "scale": 1.17,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 39,
+          "y": 147
+        },
+        "scale": 1.17,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": -47,
+          "y": 2133
+        },
+        "scale": 4.35,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 33,
+          "y": 137
+        },
+        "scale": 1.15,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c458_02": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": -19,
+        "y": 1
+      },
+      "scale": 0.93,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": -13,
+        "y": 910
+      },
+      "scale": 2.38,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": -17,
+        "y": 265
+      },
+      "scale": 1.06,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": -1,
+        "y": 6
+      },
+      "skillBubble": {
+        "x": 31,
+        "y": -67
+      },
+      "scale": 0.95,
+      "flip": false,
+      "bossCamY": 40,
+      "bossCamDist": 5
+    },
+    "talk_zoom": {
+      "position": {
+        "x": -23,
+        "y": 1519
+      },
+      "scale": 3.35,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": -35,
+        "y": 134
+      },
+      "scale": 1.05,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.355,
+        "right": 0.591666639,
+        "left": 0.445833325,
+        "bottom": 0.43875
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.19,
+        "right": 0.55,
+        "left": 0.404166669,
+        "bottom": 0.28875
+      },
+      {
+        "top": 0.34375,
+        "right": 0.6145833,
+        "left": 0.458333343,
+        "bottom": 0.43
+      },
+      {
+        "top": 0.195,
+        "right": 0.55,
+        "left": 0.4,
+        "bottom": 0.295
+      }
+    ],
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 0,
+          "y": 132
+        },
+        "scale": 1.17,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 39,
+          "y": 147
+        },
+        "scale": 1.17,
+        "flip": false
+      },
+      "world_boss_serial_rank": {
+        "position": {
+          "x": -28,
+          "y": -90
+        },
+        "scale": 0.85,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": -47,
+          "y": 2133
+        },
+        "scale": 4.35,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 33,
+          "y": 137
+        },
+        "scale": 1.15,
+        "flip": false
+      },
+      "world_boss_serial": {
+        "position": {
+          "x": -27,
+          "y": -95
+        },
+        "scale": 0.86,
+        "flip": false
+      },
+      "special_raid": {
+        "position": {
+          "x": -36,
+          "y": -21
+        },
+        "scale": 0.94,
+        "flip": false
+      },
+      "character_dungeon": {
+        "position": {
+          "x": -14,
+          "y": -38
+        },
+        "scale": 0.93,
+        "flip": false
+      },
+      "none": {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "scale": 1,
+        "flip": false
+      }
+    }
+  },
+  "c458_10": {
+    "modeltype": "live2d",
+    "home": {
+      "position": {
+        "x": -19,
+        "y": 1
+      },
+      "scale": 0.93,
+      "flip": false
+    },
+    "talk": {
+      "position": {
+        "x": -13,
+        "y": 910
+      },
+      "scale": 2.38,
+      "flip": false
+    },
+    "ally": {
+      "position": {
+        "x": -17,
+        "y": 265
+      },
+      "scale": 1.06,
+      "flip": false
+    },
+    "enemy": {
+      "position": {
+        "x": -1,
+        "y": 6
+      },
+      "skillBubble": {
+        "x": 31,
+        "y": -67
+      },
+      "scale": 0.95,
+      "flip": false,
+      "bossCamY": 40,
+      "bossCamDist": 5
+    },
+    "talk_zoom": {
+      "position": {
+        "x": -23,
+        "y": 1519
+      },
+      "scale": 3.35,
+      "flip": false
+    },
+    "drive": {
+      "position": {
+        "x": -35,
+        "y": 134
+      },
+      "scale": 1.05,
+      "flip": false
+    },
+    "selectRect": [
+      {
+        "top": 0.355,
+        "right": 0.591666639,
+        "left": 0.445833325,
+        "bottom": 0.43875
+      },
+      {
+        "top": 0,
+        "right": 0,
+        "left": 0,
+        "bottom": 0
+      },
+      {
+        "top": 0.19,
+        "right": 0.55,
+        "left": 0.404166669,
+        "bottom": 0.28875
+      },
+      {
+        "top": 0.34375,
+        "right": 0.6145833,
+        "left": 0.458333343,
+        "bottom": 0.43
+      },
+      {
+        "top": 0.195,
+        "right": 0.55,
+        "left": 0.4,
+        "bottom": 0.295
+      }
+    ],
+    "contents": {
+      "area_left": {
+        "position": {
+          "x": 0,
+          "y": 132
+        },
+        "scale": 1.17,
+        "flip": false
+      },
+      "area_right": {
+        "position": {
+          "x": 39,
+          "y": 147
+        },
+        "scale": 1.17,
+        "flip": false
+      },
+      "talk_face": {
+        "position": {
+          "x": -47,
+          "y": 2133
+        },
+        "scale": 4.35,
+        "flip": false
+      },
+      "mission_pass": {
+        "position": {
+          "x": 33,
+          "y": 137
         },
         "scale": 1.15,
         "flip": false
@@ -136296,60 +137914,22 @@
     }
   },
   "sc125_01": {
-    "modeltype": "png",
+    "modeltype": "live2d",
     "position": {
-      "x": -7,
-      "y": 114
+      "x": 8,
+      "y": 97
     },
     "wavePosition": {
       "x": 0,
       "y": 0
     },
-    "scale": 0.35,
-    "waveScale": 1,
+    "scale": 0.43,
+    "waveScale": 1.35,
     "faceRect": {
-      "top": 88.77759,
-      "right": 112,
-      "left": 66,
-      "bottom": 125.777588
-    }
-  },
-  "sc125_02": {
-    "modeltype": "png",
-    "position": {
-      "x": -7,
-      "y": 114
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.35,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 88.77759,
-      "right": 112,
-      "left": 66,
-      "bottom": 125.777588
-    }
-  },
-  "sc125_03": {
-    "modeltype": "png",
-    "position": {
-      "x": -7,
-      "y": 114
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.35,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 88.77759,
-      "right": 112,
-      "left": 66,
-      "bottom": 125.777588
+      "top": 55.0091553,
+      "right": 147,
+      "left": 63,
+      "bottom": 124.009155
     }
   },
   "sc144_01": {
@@ -136429,60 +138009,22 @@
     }
   },
   "sc155_01": {
-    "modeltype": "png",
+    "modeltype": "live2d",
     "position": {
-      "x": -24,
-      "y": 116
+      "x": -16,
+      "y": 121
     },
     "wavePosition": {
       "x": 0,
       "y": 0
     },
-    "scale": 0.35,
+    "scale": 0.45,
     "waveScale": 1.06,
     "faceRect": {
-      "top": 62.1960449,
-      "right": 144,
-      "left": 75,
-      "bottom": 133.196045
-    }
-  },
-  "sc155_02": {
-    "modeltype": "png",
-    "position": {
-      "x": -24,
-      "y": 116
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.35,
-    "waveScale": 1.06,
-    "faceRect": {
-      "top": 62.1960449,
-      "right": 144,
-      "left": 75,
-      "bottom": 133.196045
-    }
-  },
-  "sc155_03": {
-    "modeltype": "png",
-    "position": {
-      "x": -24,
-      "y": 116
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.35,
-    "waveScale": 1.06,
-    "faceRect": {
-      "top": 62.1960449,
-      "right": 144,
-      "left": 75,
-      "bottom": 133.196045
+      "top": 48.8599854,
+      "right": 153,
+      "left": 72,
+      "bottom": 123.859985
     }
   },
   "sc159_01": {
@@ -136502,25 +138044,6 @@
       "right": 121,
       "left": 59,
       "bottom": 121.192261
-    }
-  },
-  "sc160_01": {
-    "modeltype": "live2d",
-    "position": {
-      "x": 20,
-      "y": 99
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.63,
-    "waveScale": 0.9,
-    "faceRect": {
-      "top": 64.547,
-      "right": 145,
-      "left": 74,
-      "bottom": 130.547
     }
   },
   "sc168_01": {
@@ -136752,54 +138275,16 @@
     }
   },
   "sc275_01": {
-    "modeltype": "png",
+    "modeltype": "live2d",
     "position": {
-      "x": -7,
-      "y": 92
+      "x": -5,
+      "y": 101
     },
     "wavePosition": {
       "x": 0,
       "y": 0
     },
-    "scale": 0.28,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 81.86487,
-      "right": 149,
-      "left": 84,
-      "bottom": 149.864868
-    }
-  },
-  "sc275_02": {
-    "modeltype": "png",
-    "position": {
-      "x": -7,
-      "y": 92
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.28,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 81.86487,
-      "right": 149,
-      "left": 84,
-      "bottom": 149.864868
-    }
-  },
-  "sc275_03": {
-    "modeltype": "png",
-    "position": {
-      "x": -7,
-      "y": 92
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.28,
+    "scale": 0.43,
     "waveScale": 1,
     "faceRect": {
       "top": 81.86487,
@@ -137093,25 +138578,6 @@
       "bottom": 103.978027
     }
   },
-  "sc320_01": {
-    "modeltype": "live2d",
-    "position": {
-      "x": -23,
-      "y": 116
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.64,
-    "waveScale": 0.9,
-    "faceRect": {
-      "top": 47.53778,
-      "right": 137,
-      "left": 66,
-      "bottom": 117.537781
-    }
-  },
   "sc321_01": {
     "modeltype": "live2d",
     "position": {
@@ -137186,6 +138652,63 @@
       "right": 126,
       "left": 60,
       "bottom": 85.09619
+    }
+  },
+  "sc329_01": {
+    "modeltype": "png",
+    "position": {
+      "x": 24,
+      "y": 131
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.45,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 39.671814,
+      "right": 166,
+      "left": 92,
+      "bottom": 119.671814
+    }
+  },
+  "sc329_02": {
+    "modeltype": "png",
+    "position": {
+      "x": 24,
+      "y": 131
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.45,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 39.671814,
+      "right": 166,
+      "left": 92,
+      "bottom": 119.671814
+    }
+  },
+  "sc329_03": {
+    "modeltype": "png",
+    "position": {
+      "x": 24,
+      "y": 131
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.45,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 39.671814,
+      "right": 166,
+      "left": 92,
+      "bottom": 119.671814
     }
   },
   "sc333_01": {
@@ -137435,44 +138958,6 @@
       "bottom": 79.92102
     }
   },
-  "sc417_01": {
-    "modeltype": "live2d",
-    "position": {
-      "x": 15,
-      "y": 114
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.79,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 41.3303223,
-      "right": 147,
-      "left": 83,
-      "bottom": 98.33032
-    }
-  },
-  "sc418_01": {
-    "modeltype": "live2d",
-    "position": {
-      "x": 18,
-      "y": 126
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.76,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 45.61725,
-      "right": 146,
-      "left": 90,
-      "bottom": 98.61725
-    }
-  },
   "sc422_01": {
     "modeltype": "live2d",
     "position": {
@@ -137663,25 +139148,6 @@
       "bottom": 83.664
     }
   },
-  "sc435_01": {
-    "modeltype": "live2d",
-    "position": {
-      "x": -24,
-      "y": 113
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.66,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 38.3813477,
-      "right": 127,
-      "left": 68,
-      "bottom": 82.38135
-    }
-  },
   "sc436_01": {
     "modeltype": "live2d",
     "position": {
@@ -137740,60 +139206,22 @@
     }
   },
   "sc439_01": {
-    "modeltype": "png",
+    "modeltype": "live2d",
     "position": {
-      "x": 9,
-      "y": 155
+      "x": 17,
+      "y": 117
     },
     "wavePosition": {
       "x": 0,
       "y": 0
     },
-    "scale": 0.39,
+    "scale": 0.57,
     "waveScale": 1,
     "faceRect": {
-      "top": 63.6170654,
-      "right": 142,
-      "left": 86,
-      "bottom": 125.617065
-    }
-  },
-  "sc439_02": {
-    "modeltype": "png",
-    "position": {
-      "x": 9,
-      "y": 155
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.39,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 63.6170654,
-      "right": 142,
-      "left": 86,
-      "bottom": 125.617065
-    }
-  },
-  "sc439_03": {
-    "modeltype": "png",
-    "position": {
-      "x": 9,
-      "y": 155
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.39,
-    "waveScale": 1,
-    "faceRect": {
-      "top": 63.6170654,
-      "right": 142,
-      "left": 86,
-      "bottom": 125.617065
+      "top": 42.8642578,
+      "right": 156,
+      "left": 84,
+      "bottom": 116.864258
     }
   },
   "sc441_01": {
@@ -138044,54 +139472,16 @@
     }
   },
   "sc450_01": {
-    "modeltype": "png",
+    "modeltype": "live2d",
     "position": {
-      "x": 18,
-      "y": 139
+      "x": -7,
+      "y": 74
     },
     "wavePosition": {
       "x": 0,
       "y": 0
     },
-    "scale": 0.46,
-    "waveScale": 1.2,
-    "faceRect": {
-      "top": 53.70935,
-      "right": 135,
-      "left": 75,
-      "bottom": 109.709351
-    }
-  },
-  "sc450_02": {
-    "modeltype": "png",
-    "position": {
-      "x": 18,
-      "y": 139
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.46,
-    "waveScale": 1.2,
-    "faceRect": {
-      "top": 53.70935,
-      "right": 135,
-      "left": 75,
-      "bottom": 109.709351
-    }
-  },
-  "sc450_03": {
-    "modeltype": "png",
-    "position": {
-      "x": 18,
-      "y": 139
-    },
-    "wavePosition": {
-      "x": 0,
-      "y": 0
-    },
-    "scale": 0.46,
+    "scale": 0.65,
     "waveScale": 1.2,
     "faceRect": {
       "top": 53.70935,
@@ -138271,6 +139661,63 @@
       "bottom": 112.719971
     }
   },
+  "sc456_01": {
+    "modeltype": "png",
+    "position": {
+      "x": 9,
+      "y": 97
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.4,
+    "waveScale": 1.15,
+    "faceRect": {
+      "top": 49.7957764,
+      "right": 156,
+      "left": 83,
+      "bottom": 130.795776
+    }
+  },
+  "sc456_02": {
+    "modeltype": "png",
+    "position": {
+      "x": 9,
+      "y": 97
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.4,
+    "waveScale": 1.15,
+    "faceRect": {
+      "top": 49.7957764,
+      "right": 156,
+      "left": 83,
+      "bottom": 130.795776
+    }
+  },
+  "sc456_03": {
+    "modeltype": "png",
+    "position": {
+      "x": 9,
+      "y": 97
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.4,
+    "waveScale": 1.15,
+    "faceRect": {
+      "top": 49.7957764,
+      "right": 156,
+      "left": 83,
+      "bottom": 130.795776
+    }
+  },
   "sc457_01": {
     "modeltype": "png",
     "position": {
@@ -138326,6 +139773,63 @@
       "right": 152,
       "left": 70,
       "bottom": 106.674561
+    }
+  },
+  "sc458_01": {
+    "modeltype": "png",
+    "position": {
+      "x": 19,
+      "y": 113
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.38,
+    "waveScale": 1.15,
+    "faceRect": {
+      "top": 19.5089722,
+      "right": 150,
+      "left": 84,
+      "bottom": 100.508972
+    }
+  },
+  "sc458_02": {
+    "modeltype": "png",
+    "position": {
+      "x": 19,
+      "y": 113
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.38,
+    "waveScale": 1.15,
+    "faceRect": {
+      "top": 19.5089722,
+      "right": 150,
+      "left": 84,
+      "bottom": 100.508972
+    }
+  },
+  "sc458_03": {
+    "modeltype": "png",
+    "position": {
+      "x": 19,
+      "y": 113
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.38,
+    "waveScale": 1.15,
+    "faceRect": {
+      "top": 19.5089722,
+      "right": 150,
+      "left": 84,
+      "bottom": 100.508972
     }
   },
   "sm205_01": {
@@ -142312,6 +143816,196 @@
         "scale": 1,
         "flip": false
       }
+    }
+  },
+  "sc125_02": {
+    "modeltype": "png",
+    "position": {
+      "x": -7,
+      "y": 114
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.35,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 88.77759,
+      "right": 112,
+      "left": 66,
+      "bottom": 125.777588
+    }
+  },
+  "sc125_03": {
+    "modeltype": "png",
+    "position": {
+      "x": -7,
+      "y": 114
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.35,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 88.77759,
+      "right": 112,
+      "left": 66,
+      "bottom": 125.777588
+    }
+  },
+  "sc155_02": {
+    "modeltype": "png",
+    "position": {
+      "x": -24,
+      "y": 116
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.35,
+    "waveScale": 1.06,
+    "faceRect": {
+      "top": 62.1960449,
+      "right": 144,
+      "left": 75,
+      "bottom": 133.196045
+    }
+  },
+  "sc155_03": {
+    "modeltype": "png",
+    "position": {
+      "x": -24,
+      "y": 116
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.35,
+    "waveScale": 1.06,
+    "faceRect": {
+      "top": 62.1960449,
+      "right": 144,
+      "left": 75,
+      "bottom": 133.196045
+    }
+  },
+  "sc275_02": {
+    "modeltype": "png",
+    "position": {
+      "x": -7,
+      "y": 92
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.28,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 81.86487,
+      "right": 149,
+      "left": 84,
+      "bottom": 149.864868
+    }
+  },
+  "sc275_03": {
+    "modeltype": "png",
+    "position": {
+      "x": -7,
+      "y": 92
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.28,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 81.86487,
+      "right": 149,
+      "left": 84,
+      "bottom": 149.864868
+    }
+  },
+  "sc439_02": {
+    "modeltype": "png",
+    "position": {
+      "x": 9,
+      "y": 155
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.39,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 63.6170654,
+      "right": 142,
+      "left": 86,
+      "bottom": 125.617065
+    }
+  },
+  "sc439_03": {
+    "modeltype": "png",
+    "position": {
+      "x": 9,
+      "y": 155
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.39,
+    "waveScale": 1,
+    "faceRect": {
+      "top": 63.6170654,
+      "right": 142,
+      "left": 86,
+      "bottom": 125.617065
+    }
+  },
+  "sc450_02": {
+    "modeltype": "png",
+    "position": {
+      "x": 18,
+      "y": 139
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.46,
+    "waveScale": 1.2,
+    "faceRect": {
+      "top": 53.70935,
+      "right": 135,
+      "left": 75,
+      "bottom": 109.709351
+    }
+  },
+  "sc450_03": {
+    "modeltype": "png",
+    "position": {
+      "x": 18,
+      "y": 139
+    },
+    "wavePosition": {
+      "x": 0,
+      "y": 0
+    },
+    "scale": 0.46,
+    "waveScale": 1.2,
+    "faceRect": {
+      "top": 53.70935,
+      "right": 135,
+      "left": 75,
+      "bottom": 109.709351
     }
   }
 }

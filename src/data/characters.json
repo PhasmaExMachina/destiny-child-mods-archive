@@ -6497,7 +6497,8 @@
         "mods": [
           "40a468b32bc6adc75d65319703a04dc5",
           "1abf5a13897013f5f7ab5f6c7d5d9ed8",
-          "94ebdcde6f8ccca136561811465933a1"
+          "94ebdcde6f8ccca136561811465933a1",
+          "ad66f66bd14a477f2a607809fd569cf9"
         ],
         "regions": [
           "global",
@@ -6559,7 +6560,7 @@
     "image2": "http://i.imgur.com/a7K7spv.png",
     "image3": "http://i.imgur.com/7l9V9Qq.png",
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 8,
     "regions": [
       "global",
       "kr",
@@ -7149,7 +7150,8 @@
         "mods": [
           "d25c9e8f51fe7773b50df5e317fa4a0d",
           "dbad14e71de1389d42073fe623c3f85a",
-          "ef5ebc0f6b0cf4fea030c892f61bad5f"
+          "ef5ebc0f6b0cf4fea030c892f61bad5f",
+          "3cd333dcf7b15a837faacb374759c875"
         ],
         "regions": [
           "global",
@@ -7212,7 +7214,7 @@
     "image2": "http://i.imgur.com/ZDL6lDf.png",
     "image3": "http://i.imgur.com/BtYnDdd.png",
     "imageSkin": null,
-    "numMods": 8,
+    "numMods": 9,
     "regions": [
       "global",
       "kr",
@@ -9350,7 +9352,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "02": {
@@ -19862,7 +19865,8 @@
           "9a0a130612db4595e1f45640c2c69cde"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "global"
         ]
       }
     },
@@ -19887,7 +19891,8 @@
     "imageSkin": null,
     "numMods": 8,
     "regions": [
-      "kr"
+      "kr",
+      "global"
     ]
   },
   "c299": {
@@ -26067,7 +26072,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "02": {
@@ -26086,7 +26092,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -26094,7 +26101,8 @@
     "numMods": 9,
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "c412": {
@@ -26597,7 +26605,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "01": {
@@ -26634,7 +26643,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "00": {
@@ -26682,7 +26692,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "02": {
@@ -26700,7 +26711,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -26708,7 +26720,8 @@
     "numMods": 9,
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "c419": {
@@ -34170,14 +34183,16 @@
           "04adf32fb18d6b3aa98702cdfc5ee9cd"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "global"
         ]
       }
     },
     "numMods": 4,
     "code": "c122",
     "regions": [
-      "kr"
+      "kr",
+      "global"
     ]
   },
   "c125": {
@@ -35903,14 +35918,16 @@
           "d95492c75ba39dcfcdce793945a51e6f"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "global"
         ]
       }
     },
     "numMods": 4,
     "code": "sc320",
     "regions": [
-      "kr"
+      "kr",
+      "global"
     ]
   },
   "sc336": {
@@ -39095,14 +39112,16 @@
           "84068ca114df8c6ecabad02a524aefd6"
         ],
         "regions": [
-          "kr"
+          "kr",
+          "global"
         ]
       }
     },
     "numMods": 2,
     "code": "sc160",
     "regions": [
-      "kr"
+      "kr",
+      "global"
     ]
   },
   "sc167": {
@@ -41549,7 +41568,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -41557,7 +41577,8 @@
     "code": "sc417",
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "sc418": {
@@ -41568,7 +41589,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -41576,7 +41598,8 @@
     "code": "sc418",
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "sc419": {
@@ -41751,7 +41774,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -41759,7 +41783,8 @@
     "code": "sc435",
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "sc437": {
@@ -45602,6 +45627,162 @@
         "regions": [
           "kr",
           "jp"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "c329": {
+    "code": "c329",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "c456": {
+    "code": "c456",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "c458": {
+    "code": "c458",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "10": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "sc329": {
+    "code": "sc329",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "sc456": {
+    "code": "sc456",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      }
+    },
+    "numMods": 0
+  },
+  "sc458": {
+    "code": "sc458",
+    "mods": [],
+    "regions": [
+      "kr"
+    ],
+    "variants": {
+      "01": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "02": {
+        "regions": [
+          "kr"
+        ],
+        "mods": []
+      },
+      "03": {
+        "regions": [
+          "kr"
         ],
         "mods": []
       }
