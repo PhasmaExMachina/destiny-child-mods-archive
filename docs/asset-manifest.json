@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/destiny-child-mods-archive/static/js/main.07511685.chunk.js",
-    "main.js.map": "/destiny-child-mods-archive/static/js/main.07511685.chunk.js.map",
+    "main.js": "/destiny-child-mods-archive/static/js/main.706323ce.chunk.js",
+    "main.js.map": "/destiny-child-mods-archive/static/js/main.706323ce.chunk.js.map",
     "runtime-main.js": "/destiny-child-mods-archive/static/js/runtime-main.1587692e.js",
     "runtime-main.js.map": "/destiny-child-mods-archive/static/js/runtime-main.1587692e.js.map",
     "static/js/2.09584fed.chunk.js": "/destiny-child-mods-archive/static/js/2.09584fed.chunk.js",
     "static/js/2.09584fed.chunk.js.map": "/destiny-child-mods-archive/static/js/2.09584fed.chunk.js.map",
     "index.html": "/destiny-child-mods-archive/index.html",
-    "precache-manifest.7b2ddbd7aea0f1926a6cb94073f45dce.js": "/destiny-child-mods-archive/precache-manifest.7b2ddbd7aea0f1926a6cb94073f45dce.js",
+    "precache-manifest.de71001fc7477cceb1894af8ba8f29e1.js": "/destiny-child-mods-archive/precache-manifest.de71001fc7477cceb1894af8ba8f29e1.js",
     "service-worker.js": "/destiny-child-mods-archive/service-worker.js",
     "static/js/2.09584fed.chunk.js.LICENSE.txt": "/destiny-child-mods-archive/static/js/2.09584fed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1587692e.js",
     "static/js/2.09584fed.chunk.js",
-    "static/js/main.07511685.chunk.js"
+    "static/js/main.706323ce.chunk.js"
   ]
 }
