@@ -6087,10 +6087,7 @@
         "title": "Naive",
         "mods": [
           "2e0cd944ff6d923f532a3566b110c188",
-          "110abfd48232ce4ec28edf254dcb3364",
-          "71a1a15a1d22e47aae50a4122755d343",
           "f900c21560f761af0d13d9bf93d3bb5a",
-          "4839eca002960ce3220035d326b9259f",
           "fa838541b8df1e43a47de6cb6808d7e3"
         ],
         "regions": [
@@ -6134,8 +6131,7 @@
         "title": "Nanami",
         "mods": [
           "8ea0cc429846307cd1420b8b406afc9b",
-          "befdd628322144133d8c8e334e54e203",
-          "376612333236bb6647d26caa32040e1d"
+          "befdd628322144133d8c8e334e54e203"
         ],
         "regions": [
           "global",
@@ -6163,7 +6159,7 @@
     "image2": "http://i.imgur.com/jN3mjht.png",
     "image3": "http://i.imgur.com/brxbQs9.png",
     "imageSkin": null,
-    "numMods": 20,
+    "numMods": 16,
     "regions": [
       "global",
       "kr",
