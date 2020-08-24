@@ -2326,7 +2326,8 @@
     "code": "c043",
     "variant": "02",
     "created": 1592832155712,
-    "textureHash": "3c2f1c41a584eb87231490de06a4d0c0"
+    "textureHash": "3c2f1c41a584eb87231490de06a4d0c0",
+    "modder": "Nakirin"
   },
   "c5a6c35b0b03b4e2e627a26f9e948101": {
     "code": "c044",
@@ -3428,7 +3429,8 @@
     "code": "c058",
     "variant": "02",
     "created": 1592832156800,
-    "textureHash": "94a9b05751f6848acecf0a51da1dbd46"
+    "textureHash": "94a9b05751f6848acecf0a51da1dbd46",
+    "modder": "Nakirin"
   },
   "d07759b824f005eba993fbc21de3a136": {
     "code": "c058",
