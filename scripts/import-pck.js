@@ -66,8 +66,7 @@ fs.readdirSync(importPckPath).forEach(file => {
           mods[hash] = Object.assign({}, mods[hash], {
             code: code,
             variant,
-            created: Date.now(),
-            modder: "429_Alcatraz"
+            created: Date.now()
           })
 
            // check for required files
