@@ -118,5 +118,23 @@
   "whocares-MonaWallpaper": {
     "name": "whocares-MonaWallpaper",
     "modder": "WhoCares"
+  },
+  "aura-bari": {
+    "name": "aura-bari"
+  },
+  "aura-change": {
+    "name": "aura-change"
+  },
+  "aura-dana-by-baba-baraba": {
+    "name": "aura-dana-by-baba-baraba"
+  },
+  "aura-dana-nsfw": {
+    "name": "aura-dana-nsfw"
+  },
+  "aura-eve-by-hyulla": {
+    "name": "aura-eve-by-hyulla"
+  },
+  "aura-maat-nsfw": {
+    "name": "aura-maat-nsfw"
   }
 }

@@ -485,6 +485,7 @@
   },
   "Addest": {
     "mods": [
+      "4acc85386df77a57d3115cf624358c23",
       "9f0b54975e2b62b02f0ed0d09ca74837",
       "95e4c9824d5deb88de20de508236a2de",
       "aa2eceefe1286e87cd9c37fdbe5ff795",
@@ -502,7 +503,8 @@
       "4ea60b8f37156fcc0e69e835adc64a51",
       "5c687472e99eb09f59e73415fef272b4",
       "bbc03c5ee79d0779d09e9a68e45c5ad6",
-      "dc8c1ea179aaabd924a2ccb263b514b6"
+      "dc8c1ea179aaabd924a2ccb263b514b6",
+      "542c5cab5b858e83d8a246c8e043a9ae"
     ],
     "profile": ""
   },
@@ -519,6 +521,13 @@
       "17f41599e75db39c8b450e526da219f4",
       "e8659f748a781f69f48e2a60931b8db3",
       "a48ce7ba728bbfa17f4c57dfe9064a59"
+    ],
+    "profile": ""
+  },
+  "Aura": {
+    "mods": [
+      "cc789df3f8df3db480d0e1418abea482",
+      "234087aae0460994753e2ac70f29d12d"
     ],
     "profile": ""
   }
