@@ -11437,7 +11437,8 @@
     "code": "c294",
     "variant": "01",
     "created": 1592513067419,
-    "textureHash": "994304c8559a08cad14bb1158bb4ae24"
+    "textureHash": "994304c8559a08cad14bb1158bb4ae24",
+    "usingAssetsBy": "Nakirin"
   },
   "7cc468f81600153d1c83b5b7c52a27bf": {
     "code": "c294",
@@ -11467,7 +11468,8 @@
     "code": "c294",
     "variant": "02",
     "created": 1592513072614,
-    "textureHash": "50e849bedb1ab0d7b7ea6db4320fee32"
+    "textureHash": "50e849bedb1ab0d7b7ea6db4320fee32",
+    "modder": "Nakirin"
   },
   "755a3c1c1c0a61f20a35f54357cff2f1": {
     "code": "c294",
@@ -12589,7 +12591,8 @@
     "code": "c318",
     "variant": "02",
     "created": 1592832400288,
-    "textureHash": "c11debfa8c7e2684abbdb14aecf1be87"
+    "textureHash": "c11debfa8c7e2684abbdb14aecf1be87",
+    "modder": "Nakirin"
   },
   "166adaaa2885aa3cf4462b21acda71db": {
     "code": "c318",
@@ -13050,7 +13053,8 @@
     "code": "c345",
     "variant": "02",
     "created": 1592832403431,
-    "textureHash": "7202ae2d275d091118f6acb48fe3c2bf"
+    "textureHash": "7202ae2d275d091118f6acb48fe3c2bf",
+    "modder": "Nakirin"
   },
   "bdc5cc90b8c88c157ca469ad7d067675": {
     "code": "c345",

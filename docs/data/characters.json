@@ -15157,7 +15157,8 @@
         "mods": [
           "0b11c38d3031606277769912a705fc0d",
           "4983e3e5c519432d9559340db5e11b92",
-          "0549195b94591abdabaac68f10436257"
+          "0549195b94591abdabaac68f10436257",
+          "5678c2fd3ada8a1ee665e196abc3e557"
         ],
         "regions": [
           "global",
@@ -15185,7 +15186,7 @@
     "image2": "http://i.imgur.com/NACVrBw.png",
     "image3": "http://i.imgur.com/ikKAS0X.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 13,
     "regions": [
       "global",
       "kr",
