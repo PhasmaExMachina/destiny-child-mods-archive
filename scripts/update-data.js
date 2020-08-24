@@ -155,7 +155,15 @@ Object.keys(mods).forEach(hash => {
       if(file.match(/^texture.+\.png/)) acc += md5File(path.join(modPath, file))
       return acc
     }, '')
+    // move PCK to mods folder for page build limit
+    if(!fs.existsSync(path.join(__dirname, '../mods', hash))) {
+      fs.mkdirSync(path.join(__dirname, '../mods', hash))
+    }
+    if(fs.existsSync(path.join(modPath, code + '_' + variant + '.pck'))) {
+      fs.renameSync(path.join(modPath, code + '_' + variant + '.pck'), path.join(__dirname, '../mods', hash, code + '_' + variant + '.pck'))
+    }
   }
+
   // if(fs.existsSync(path.join(modPath, 'static.png')))
   //   fs.unlinkSync(path.join(modPath, 'static.png'))
   // modHashes.texture[textureHash] = true
