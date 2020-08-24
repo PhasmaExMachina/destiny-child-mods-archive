@@ -23425,13 +23425,17 @@
     "code": "c287",
     "variant": "02",
     "created": 1594426158618,
-    "textureHash": "d6d55d800b430bb3c8a1a5ad4c39551473cff335261dd615cb9037420de345e6"
+    "textureHash": "d6d55d800b430bb3c8a1a5ad4c39551473cff335261dd615cb9037420de345e6",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "95393155dd7d4436a170f0060d77ff94": {
     "code": "c287",
     "variant": "02",
     "created": 1594427773829,
-    "textureHash": "37a4c16c13570043d0246ff5337b8cb473cff335261dd615cb9037420de345e6"
+    "textureHash": "37a4c16c13570043d0246ff5337b8cb473cff335261dd615cb9037420de345e6",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "99060d3d96713724aeef7fbe2b6208f0": {
     "code": "c063",
@@ -24248,7 +24252,9 @@
     "code": "c287",
     "variant": "88",
     "created": 1595540190175,
-    "textureHash": "37a4c16c13570043d0246ff5337b8cb473cff335261dd615cb9037420de345e6"
+    "textureHash": "37a4c16c13570043d0246ff5337b8cb473cff335261dd615cb9037420de345e6",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "bdee703aab3bb1b2c450328a64035456": {
     "code": "c364",
