@@ -3604,13 +3604,15 @@
     "code": "c062",
     "variant": "02",
     "created": 1592577297684,
-    "textureHash": "5a0c8cc290dafd927f00981e2eea7de6"
+    "textureHash": "5a0c8cc290dafd927f00981e2eea7de6",
+    "usingAssetsBy": "Nakirin"
   },
   "446de72d3a4a81ba649e5b2f9d7fec10": {
     "code": "c062",
     "variant": "02",
     "created": 1592832157223,
-    "textureHash": "960c654278bc371017ec9b7fc8ed84f9"
+    "textureHash": "960c654278bc371017ec9b7fc8ed84f9",
+    "modder": "Nakirin"
   },
   "fa4ee6942630d3907cdf7d11310a28dd": {
     "code": "c062",
@@ -3760,7 +3762,8 @@
     "code": "c064",
     "variant": "02",
     "created": 1592832157662,
-    "textureHash": "060b603f528c2101b84dc9d31a304814"
+    "textureHash": "060b603f528c2101b84dc9d31a304814",
+    "modder": "Nakirin"
   },
   "4a5e2017bedb64fa4d4f17032960baa7": {
     "code": "c064",
@@ -3820,7 +3823,8 @@
     "code": "c065",
     "variant": "02",
     "created": 1592832158110,
-    "textureHash": "d3c1fa57dc72ae1f66733ffa48bd6839"
+    "textureHash": "d3c1fa57dc72ae1f66733ffa48bd6839",
+    "modder": "Nakirin"
   },
   "88df74a63c4ca1477693f4084854c08a": {
     "code": "c067",
@@ -13412,7 +13416,8 @@
     "code": "c253",
     "variant": "01",
     "created": 1592511830270,
-    "textureHash": "e7f0a4c093a71f7d8aab43a77b271b40"
+    "textureHash": "e7f0a4c093a71f7d8aab43a77b271b40",
+    "modder": "Nakirin"
   },
   "60a70aa0fc311d742276627a49cba7c9": {
     "code": "c253",
@@ -13437,7 +13442,8 @@
     "code": "c253",
     "variant": "02",
     "created": 1592511831515,
-    "textureHash": "97b6cfdf2766719f4ff347e5271daa56"
+    "textureHash": "97b6cfdf2766719f4ff347e5271daa56",
+    "usingAssetsBy": "Nakirin"
   },
   "2e3dfa819acfdb93252aec147c3abedd": {
     "code": "c253",
@@ -25725,5 +25731,11 @@
     "created": 1598297290544,
     "modder": "429_Alcatraz",
     "textureHash": "8171fb9a5b191cd53b6c8b751e82c242"
+  },
+  "5678c2fd3ada8a1ee665e196abc3e557": {
+    "code": "c198",
+    "variant": "00",
+    "created": 1598298839222,
+    "textureHash": "c074dd083ae8d9fdb6e49f4184a833fb"
   }
 }

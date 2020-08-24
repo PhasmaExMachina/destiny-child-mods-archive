@@ -534,9 +534,17 @@
   "Nakirin": {
     "mods": [
       "2b846c7364275b59abf709eaf88750f8",
-      "2ca3ce56dcc328dfa3b365b2da153812"
+      "2ca3ce56dcc328dfa3b365b2da153812",
+      "446de72d3a4a81ba649e5b2f9d7fec10",
+      "c87358de72617dc26bf586df5c51b707",
+      "ff2ec663a91a1c797822a15a87eb9e46",
+      "6cddca753ca676d66cd48428d6e8e7e5"
     ],
-    "profile": ""
+    "profile": "",
+    "modsUsingAssets": [
+      "d9ef607b57903b16170c85ecefdea807",
+      "f5d75576df82164f7c07675c71b66b6d"
+    ]
   },
   "429_Alcatraz": {
     "mods": [
