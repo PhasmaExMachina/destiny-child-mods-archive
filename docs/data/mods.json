@@ -4745,7 +4745,8 @@
     "code": "c120",
     "variant": "02",
     "created": 1592577327274,
-    "textureHash": "7a95c0d7f2b0a2b8190d3d5b083b31fb"
+    "textureHash": "7a95c0d7f2b0a2b8190d3d5b083b31fb",
+    "modder": "Day 1"
   },
   "ee50924ce9e6f483f0353bfe64f686fa": {
     "code": "c121",
@@ -8256,7 +8257,8 @@
     "code": "c132",
     "variant": "01",
     "created": 1592834954913,
-    "textureHash": "4451cd326527ca3e15d43073a928172e"
+    "textureHash": "4451cd326527ca3e15d43073a928172e",
+    "modder": "Day 1"
   },
   "5c45b4dda1878548f37cb0afa70c52ec": {
     "code": "c132",
@@ -8298,7 +8300,8 @@
     "code": "c132",
     "variant": "00",
     "created": 1592834954475,
-    "textureHash": "de9efb711a384e3f4a85907691c6c0af"
+    "textureHash": "de9efb711a384e3f4a85907691c6c0af",
+    "modder": "Day 1"
   },
   "e57c8539d09985a3ff87e6a2159bf666": {
     "code": "c133",
@@ -8736,7 +8739,8 @@
     "code": "c188",
     "variant": "02",
     "created": 1592834955984,
-    "textureHash": "0f7146753083ca670e85aa65dd08dfaf"
+    "textureHash": "0f7146753083ca670e85aa65dd08dfaf",
+    "modder": "Day 1"
   },
   "fcc3a7e9adc756245df60958b7f6810f": {
     "code": "c188",
@@ -8778,7 +8782,8 @@
     "code": "c190",
     "variant": "01",
     "created": 1592834956422,
-    "textureHash": "f9be7f511319660409617e9f7b46e85d"
+    "textureHash": "f9be7f511319660409617e9f7b46e85d",
+    "modder": "Day 1"
   },
   "95ce48c390f305126e5d4eb2f9483adc": {
     "code": "c190",
@@ -8803,7 +8808,8 @@
     "code": "c190",
     "variant": "02",
     "created": 1592834956983,
-    "textureHash": "be33990d9f53f24a737ee0e0601df2fe"
+    "textureHash": "be33990d9f53f24a737ee0e0601df2fe",
+    "modder": "Day 1"
   },
   "9db756be4c7ced74707f80aba7c14244": {
     "code": "c194",
@@ -10928,7 +10934,8 @@
     "code": "c277",
     "variant": "01",
     "created": 1592834957868,
-    "textureHash": "c338e1839234b12650ffa13c746d502f"
+    "textureHash": "c338e1839234b12650ffa13c746d502f",
+    "modder": "Day 1"
   },
   "42b95f3af9dc70c7024c1c3d56e995a3": {
     "code": "c277",
