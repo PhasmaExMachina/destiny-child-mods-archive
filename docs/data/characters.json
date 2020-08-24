@@ -3609,7 +3609,6 @@
           "eb482596d1f44bd06bb24def95827a3d",
           "6f9f31f3f949bea4dd5e8f42160ba06d",
           "c935aa98ee7e0ebb799881c8c743277d",
-          "75606f54a075d9c7aa554ae55a935e50",
           "08c7f11c58130c022bdcfb0e4cb8a18c",
           "5d2b7a35d4545a2f3bbed826f9d8f52c",
           "d13913d8f8504805047f098fde254eae",
@@ -3663,7 +3662,7 @@
     "image2": "http://i.imgur.com/zykgjwm.png",
     "image3": "http://i.imgur.com/FnxXUk4.png",
     "imageSkin": "http://i.imgur.com/jocBD1I.png",
-    "numMods": 47,
+    "numMods": 46,
     "regions": [
       "global",
       "kr",
@@ -4433,7 +4432,6 @@
         "mods": [
           "abde585db30aee1ef766cc502abf827d",
           "cfc6f7b77fdb7ed74be267c74d2dddb4",
-          "f4abc63a03920ede5ef572da3d80d9a8",
           "22f310cdad5322437fca3ea970e09366",
           "221e0d4e2c6add3c4ea7c6da7e1ccbf6"
         ],
@@ -4500,7 +4498,7 @@
     "image2": "http://i.imgur.com/gq4Nyye.png",
     "image3": "http://i.imgur.com/HoxdCbM.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",
@@ -18026,8 +18024,7 @@
           "b78d0fa015a6dc035b9094634f99db78",
           "313c74673358efef76c96406a8b5dc07",
           "d1b652216f8606f3337dc39c1defe5af",
-          "e5d59b8766aa7b3cc44c9d7e1f43ec99",
-          "05f8fb6cc45434cc37319e351eecf62d"
+          "e5d59b8766aa7b3cc44c9d7e1f43ec99"
         ],
         "regions": [
           "global",
@@ -18055,7 +18052,7 @@
     "image2": "http://i.imgur.com/2348KY8.png",
     "image3": "http://i.imgur.com/L5UbFrS.png",
     "imageSkin": null,
-    "numMods": 13,
+    "numMods": 12,
     "regions": [
       "global",
       "kr",
