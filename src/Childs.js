@@ -192,7 +192,7 @@ function Childs() {
               )}
             </Link>
           </h3>
-          <p>Variants: {Object.keys(child.variants).length} {' '} Mods: <Link to={'/characters/' + child.code}>{child.numMods}</Link></p>
+          <p>Variants: {Object.keys(child.variants).length} {' '} Mods: <Link to={'/characters/' + child.code}>{child.numMods - Object.keys(child.variants).length}</Link></p>
           {child.starLevel &&
             <>
               <p>Rarity: {child.starLevel} star</p>
