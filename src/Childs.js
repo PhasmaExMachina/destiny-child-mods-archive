@@ -18,7 +18,8 @@ function Childs() {
           element = '',
           type = '',
           region = '',
-          starLevel = ''
+          starLevel = '',
+          charType = ''
         } = query,
         setQueryParam = params => {
           const newParams = Object.assign({}, query, params)
@@ -69,6 +70,17 @@ function Childs() {
           setQueryParam({page: 0})
           setFilter(value)
         }}/>
+        {' '}
+        Show
+        {' '}
+        <select onChange={(({target: {value}}) => setQueryParam({charType: value !== 'all' && value}))} defaultValue={charType}>
+          <option value="all">All Characters</option>
+          <option value="c">Childs</option>
+          <option value="m">Monsters</option>
+          <option value="sp">Spa Childs</option>
+          <option value="sm">Spa Monsters</option>
+          <option value="v">Other</option>
+        </select>
         {' '}
         Sort by
         {' '}
