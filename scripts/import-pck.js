@@ -132,7 +132,7 @@ fs.writeFileSync(path.join(__dirname, '../src/data/mods.json'), JSON.stringify(m
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 fs.writeFileSync(path.join(__dirname, '../seen/pck.json'), JSON.stringify(pckSeen, null, 2))
 fs.writeFileSync(path.join(__dirname, '../seen/textures.json'), JSON.stringify(texturesSeen, null, 2))
-if(Object.keys(fixed)) {
+if(Object.keys(fixed).length > 0) {
   fs.writeFileSync(path.join(__dirname, '../import-pck/fixed.json'), JSON.stringify(fixed, null, 2))
-  console.warn('\nSOME FILES HAD TO BE FIXED! See import-pck/fixed.json')
+  console.warn('\nSOME FILES HAD TO BE FIXED! See import-pck/fixed.json\n')
 }
