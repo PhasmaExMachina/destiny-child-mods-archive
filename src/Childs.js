@@ -34,7 +34,7 @@ function Childs() {
   page = parseInt(page, 0)
   perPage = parseInt(perPage, 10)
   const childs = Object.keys(characters).reduce((acc, code) => {
-    if(code.match(/^(c|m)\d\d\d/)) {
+    if(code.match(/^s?(c|m|v)\d\d\d/)) {
       acc.push(characters[code])
     }
     return acc
@@ -45,6 +45,9 @@ function Childs() {
   if(starLevel) filtered = filtered.filter(child => child.starLevel == starLevel)
   if(element) filtered = filtered.filter(child => child.element === element)
   if(type) filtered = filtered.filter(child => child.type === type)
+  if(charType !== '') {
+    filtered = filtered.filter(({code}) => code.match(new RegExp('^' + charType)))
+  }
   if(region) {
     const [r, exclusive] = region.split('-')
     console.log('region', r, exclusive)
@@ -73,11 +76,11 @@ function Childs() {
         {' '}
         Show
         {' '}
-        <select onChange={(({target: {value}}) => setQueryParam({charType: value !== 'all' && value}))} defaultValue={charType}>
+        <select onChange={(({target: {value}}) => setQueryParam({page: 0, charType: value !== 'all' && value}))} defaultValue={charType}>
           <option value="all">All Characters</option>
           <option value="c">Childs</option>
           <option value="m">Monsters</option>
-          <option value="sp">Spa Childs</option>
+          <option value="sc">Spa Childs</option>
           <option value="sm">Spa Monsters</option>
           <option value="v">Other</option>
         </select>
