@@ -22,7 +22,14 @@ const List = () => {
           history.push(location.pathname + '?' + queryString.stringify(newParams))
           document.body.scrollTop = 0; // For Safari
           document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-        }
+        },
+        modders = Object.keys(list.mods).reduce((acc, target) => {
+          const mod = mods[list.mods[target].hash] || {}
+          acc[mod.modder || '?'] = acc[mod.modder || '?'] || 0
+          acc[mod.modder || '?']++
+          return acc
+        }, {}),
+        {modder} = query
   let {page = 0, perPage = 10} = query
   page = parseInt(page, 0)
   perPage = parseInt(perPage, 10)
@@ -36,6 +43,15 @@ const List = () => {
         : false
     })
   }
+  if(modder) {
+    filteredTargets = filteredTargets.filter(target => {
+      const hash = list.mods[target].hash,
+            mod = mods[hash] || {}
+      return modder == '?'
+        ? !mod.modder
+        : mod.modder == modder
+    })
+  }
   return (
     <>
       <p>
@@ -47,6 +63,26 @@ const List = () => {
       </p>
       <h1>{list.name}</h1>
       <p>{list.description}</p>
+      <p>
+        Filter:{' '}
+        <input onKeyUp={({target: {value}}) => {
+          setQueryParam({page: 0})
+          setFilter(value)
+        }}/>
+        {' '}by{' '}
+        <select defaultValue={modder} onChange={({target: {value}}) => {
+          setQueryParam({modder: value})
+        }}>
+          <option value="">All modders</option>
+          {Object.keys(modders).sort().map(modder =>
+            <option
+              key={modder}
+              value={modder}>
+              {modder == '?' ? 'unknown' : modder} - {modders[modder]} mod{modders[modder] > 1 ? 's' : ''}
+            </option>
+          )}
+        </select>
+      </p>
       <TablePagination
         component="div"
         count={filteredTargets.length}
@@ -55,13 +91,6 @@ const List = () => {
         rowsPerPage={perPage}
         onChangeRowsPerPage={({target: {value}}) => setQueryParam({perPage: value != '10' && parseInt(value, 10)})}
       />
-      <p style={{position: 'relative', top: '-3em', display: 'inline-block'}}>
-        Filter:{' '}
-        <input onKeyUp={({target: {value}}) => {
-          setQueryParam({page: 0})
-          setFilter(value)
-        }}/>
-      </p>
       {filteredTargets.slice(page * perPage, page * perPage + perPage).map(target => {
         const [targetCode, targetVariant] = target.split('_'),
               {hash} = list.mods[target],
