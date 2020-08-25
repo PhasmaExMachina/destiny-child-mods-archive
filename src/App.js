@@ -11,6 +11,8 @@ import basePath from './base-path'
 import CharacterVariant from './CharacterVariant'
 import Character from './Character'
 import Childs from './Childs'
+import Lists from './Lists'
+import List from './List'
 import Modder from './Modder'
 import Modders from './Modders'
 import Transitions from './Transitions'
@@ -42,6 +44,7 @@ function App() {
           <p>
             <Link to="/">Mods</Link>{' | '}
             <Link to="/modders">Modders</Link>{' | '}
+            <Link to="/lists">Mod Lists</Link>{' | '}
             <Link to="/childs">Childs Database</Link>{' | '}
             <Link to="/transitions">Transitions</Link>{' | '}
             <a href="https://github.com/PhasmaExMachina/dc-mod-manager/blob/master/README.md" target="_blank" rel="noopener noreferrer">Mod Manager App</a>
@@ -52,6 +55,8 @@ function App() {
             <Route path="/childs"><Childs /></Route>
             <Route path="/modders/:modder/"><Modder /></Route>
             <Route path="/modders"><Modders /></Route>
+            <Route path="/lists/:list"><List /></Route>
+            <Route path="/lists"><Lists /></Route>
             <Route path="/transitions"><Transitions /></Route>
             <Route path="/"><Home /></Route>
           </Switch>

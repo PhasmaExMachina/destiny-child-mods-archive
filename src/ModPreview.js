@@ -8,6 +8,7 @@ function CharacterImage({character: {name, variants, code, regions}, variant, ha
   variant = variant || ['01', '00'].reduce((acc, vId) => {
     return acc || (variants[vId] ? vId : false)
   }, false)
+  hash = hash || variants[variant].mods[0]
   const mod = mods[hash],
   modderCreditTicketTemplate = `
   Use this form to sumbmit modder author/creator information for a given mod so they get credit for their work. I'll update the information in the archive as soon as I can and will close this ticket when it's done. ~Phasma
