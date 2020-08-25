@@ -50,3 +50,9 @@ Object.keys(modders).forEach(modder => {
     copyIndexHtmlToDocs('modders/' + modder)
   }
 })
+
+
+// update lists
+fs.readdirSync(path.join(__dirname, '../src/lists')).forEach(listFilename => {
+  fs.copyFileSync(path.join(__dirname, '../src/lists', listFilename), path.join(docsPath, 'data/lists', listFilename))
+})

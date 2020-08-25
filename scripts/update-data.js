@@ -175,3 +175,11 @@ fs.writeFileSync(path.join(__dirname, '../docs/data/model_info.merged.json'), JS
 fs.writeFileSync(path.join(__dirname, '../src/data/characters.json'), JSON.stringify(characters, null, 2))
 fs.writeFileSync(path.join(__dirname, '../src/data/modders.json'), JSON.stringify(modders, null, 2))
 fs.writeFileSync(path.join(__dirname, '../src/data/transitions.json'), JSON.stringify(transitions, null, 2))
+
+// update lists
+const lists = require('../docs/data/lists.json')
+fs.readdirSync(path.join(__dirname, '../src/lists')).forEach(listFilename => {
+  const listBaseName = listFilename.replace(/\.json$/, '')
+  if(lists.indexOf(listBaseName) < 0) lists.push(listBaseName)
+})
+fs.writeFileSync(path.join(__dirname, '../docs/data/lists.json'), JSON.stringify(lists, null, 2))
