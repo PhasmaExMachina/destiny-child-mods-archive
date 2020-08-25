@@ -45,7 +45,8 @@
     "code": "c000",
     "variant": "14",
     "created": 1592577215842,
-    "textureHash": "87b7d6584ee6507b4abb641266c2918a"
+    "textureHash": "87b7d6584ee6507b4abb641266c2918a",
+    "modder": "Seireiko"
   },
   "a62c40af0819ee010a807e666b5f3c13": {
     "code": "c000",
@@ -5374,7 +5375,8 @@
     "code": "c153",
     "variant": "00",
     "created": 1592517797039,
-    "textureHash": "e9e38a92456f6d239a4b2385ae40b50f"
+    "textureHash": "e9e38a92456f6d239a4b2385ae40b50f",
+    "modder": "Seireiko"
   },
   "f75cf483278ec2adf25092b4eddda0f0": {
     "code": "c153",
@@ -6817,7 +6819,8 @@
     "code": "c214",
     "variant": "10",
     "created": 1592577408670,
-    "textureHash": "ca74cb09a20b01606158c75229559822"
+    "textureHash": "ca74cb09a20b01606158c75229559822",
+    "modder": "Seireiko"
   },
   "6ced5667aedd0f3d75801c76c07ca956": {
     "code": "c214",
@@ -7749,23 +7752,11 @@
     "created": 1592273015649,
     "textureHash": "248b6e7bf98ddedb3dc32d16558b1489"
   },
-  "4ee5c6c2a6b4f0903a3fec3501fb0aba": {
-    "code": "m057",
-    "variant": "01",
-    "created": 1592446426977,
-    "textureHash": "29b3d8897f45c6ad5614bd3c485a396f"
-  },
   "138d31f7ae2e56ad1f2336e9687a7498": {
     "code": "m057",
     "variant": "01",
     "created": 1592446427493,
     "textureHash": "2f36161f97a8b8fbb51262bd1e28bf2d"
-  },
-  "0d82d28da142f53f8690c92baabb1eb6": {
-    "code": "m057",
-    "variant": "01",
-    "created": 1592536524682,
-    "textureHash": "bd746cc84dc1e38fca52da09f2e6feed"
   },
   "51d8be505d98cd9a44c60aeaf19dd38c": {
     "code": "m057",
@@ -7783,25 +7774,14 @@
     "code": "m057",
     "variant": "02",
     "created": 1592511875830,
-    "textureHash": "8890de553eb662a9b81ef8f81cce55c3"
-  },
-  "c1d6fba71e917d3d76a10557b971f057": {
-    "code": "m057",
-    "variant": "02",
-    "created": 1592520549311,
-    "textureHash": "bde4c2c98c679b856df797b85ec3209b"
+    "textureHash": "8890de553eb662a9b81ef8f81cce55c3",
+    "modder": "Loki"
   },
   "27ecbf3971687eccee05cedcf64f0d0b": {
     "code": "m057",
     "variant": "02",
     "created": 1592536526054,
     "textureHash": "227a9bb6239cca8775e683c381bc31f6"
-  },
-  "44e0b8006a7f3a7030f48309d10364b7": {
-    "code": "m057",
-    "variant": "02",
-    "created": 1592536527141,
-    "textureHash": "bd746cc84dc1e38fca52da09f2e6feed"
   },
   "39b3e1f961e36fd0ef2607ce075cf1a9": {
     "code": "m059",
@@ -13487,7 +13467,8 @@
     "code": "c355",
     "variant": "01",
     "created": 1592517889512,
-    "textureHash": "77e5730228a605bf2b75d85f6e3153a2f372788de2cdba4da3467655c67de0e0"
+    "textureHash": "77e5730228a605bf2b75d85f6e3153a2f372788de2cdba4da3467655c67de0e0",
+    "modder": "Seireiko"
   },
   "f403a7fa5ffcdf704ffa6b3ff3a4f888": {
     "code": "c355",
@@ -13523,7 +13504,8 @@
     "code": "c355",
     "variant": "02",
     "created": 1592517892501,
-    "textureHash": "77e5730228a605bf2b75d85f6e3153a2d1145aeb3abf55407a5f8beda41e003d"
+    "textureHash": "77e5730228a605bf2b75d85f6e3153a2d1145aeb3abf55407a5f8beda41e003d",
+    "modder": "Seireiko"
   },
   "cc789df3f8df3db480d0e1418abea482": {
     "code": "c355",
@@ -18133,7 +18115,9 @@
     "code": "m173",
     "variant": "01",
     "created": 1592511877455,
-    "textureHash": "8a26ae0ed6e9139e9bf99a2839ee03a4"
+    "textureHash": "8a26ae0ed6e9139e9bf99a2839ee03a4",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "96320b17b45cf2ac0226710d19671ec4": {
     "code": "m173",
@@ -18151,7 +18135,9 @@
     "code": "m173",
     "variant": "02",
     "created": 1592511878442,
-    "textureHash": "8a26ae0ed6e9139e9bf99a2839ee03a4"
+    "textureHash": "8a26ae0ed6e9139e9bf99a2839ee03a4",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "2a37176f9f05df57f031e66ef1ef5d32": {
     "code": "m175",
@@ -18241,7 +18227,9 @@
     "code": "m174",
     "variant": "01",
     "created": 1592511879272,
-    "textureHash": "a76e792cb2b5c4a1ab6d04ab6b52681c"
+    "textureHash": "a76e792cb2b5c4a1ab6d04ab6b52681c",
+    "modder": "Loki",
+    "link": "Art by CrayonKat|https://www.deviantart.com/crayonkat/art/Monster-Girl-Lemon-Slime-376398059"
   },
   "025ac3084a5784f18a8c5862834c27e5": {
     "code": "m174",
@@ -18259,7 +18247,9 @@
     "code": "m174",
     "variant": "02",
     "created": 1592511880131,
-    "textureHash": "a76e792cb2b5c4a1ab6d04ab6b52681c"
+    "textureHash": "a76e792cb2b5c4a1ab6d04ab6b52681c",
+    "modder": "Loki",
+    "link": "Art by CrayonKat|https://www.deviantart.com/crayonkat/art/Monster-Girl-Lemon-Slime-376398059"
   },
   "fa59cf007eefef3f97fcf024b8bb3b5b": {
     "code": "m160",

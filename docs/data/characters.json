@@ -12546,9 +12546,7 @@
         "title": "Blue Shadow",
         "mods": [
           "ead9637ec8880933d263729b106a995f",
-          "4ee5c6c2a6b4f0903a3fec3501fb0aba",
-          "138d31f7ae2e56ad1f2336e9687a7498",
-          "0d82d28da142f53f8690c92baabb1eb6"
+          "138d31f7ae2e56ad1f2336e9687a7498"
         ],
         "regions": [
           "global",
@@ -12567,9 +12565,7 @@
           "51d8be505d98cd9a44c60aeaf19dd38c",
           "a8cc3f3ac137285add2fae97e09a3d57",
           "f1a2b354e07d275ed20c766a2c9186c5",
-          "c1d6fba71e917d3d76a10557b971f057",
-          "27ecbf3971687eccee05cedcf64f0d0b",
-          "44e0b8006a7f3a7030f48309d10364b7"
+          "27ecbf3971687eccee05cedcf64f0d0b"
         ],
         "regions": [
           "global",
@@ -12597,7 +12593,7 @@
     "image2": "http://i.imgur.com/yBw2JjD.png",
     "image3": "http://i.imgur.com/0sXWo2z.png",
     "imageSkin": null,
-    "numMods": 13,
+    "numMods": 9,
     "regions": [
       "global",
       "kr",
