@@ -8207,18 +8207,6 @@
     "created": 1592272118591,
     "textureHash": "e8c1aab5cd9971b1f192e3d3fa7e8bb5"
   },
-  "d5bb25f5c708fe23f5ecca450f86b867": {
-    "code": "c132",
-    "variant": "01",
-    "created": 1592450170087,
-    "textureHash": "8a063e78ac861cabede63e3a1dc38a16"
-  },
-  "503b1eac6dc826510c78c371290f7fea": {
-    "code": "c132",
-    "variant": "01",
-    "created": 1592450170575,
-    "textureHash": "b505518d9b00a6b5b3de3fce4453b840"
-  },
   "fe477147cef9b31298179b56b34e13b7": {
     "code": "c132",
     "variant": "01",
@@ -8229,7 +8217,8 @@
     "code": "c132",
     "variant": "01",
     "created": 1592536448793,
-    "textureHash": "3f414d7dd04abfe239297fad5478d20e"
+    "textureHash": "3f414d7dd04abfe239297fad5478d20e",
+    "modder": "luculluslanguish"
   },
   "5c68ba0857a6c28881f4461bc47d1823": {
     "code": "c132",
@@ -8243,18 +8232,6 @@
     "variant": "02",
     "created": 1592272119777,
     "textureHash": "09d33ce0d58889cb4a92efc8ff0be511"
-  },
-  "550e5cf11d924d694a2fa94ca15ecf90": {
-    "code": "c132",
-    "variant": "02",
-    "created": 1592450171049,
-    "textureHash": "a63bd8406a35f3fa0180b772c7b0c9a2"
-  },
-  "7ddbdc7b2615574237fd84df230a9090": {
-    "code": "c132",
-    "variant": "02",
-    "created": 1592450171549,
-    "textureHash": "b423b59685f173456c9911c2c13291bf"
   },
   "6bdcab4caaf49b3aeb26e6e6bd7eedc5": {
     "code": "c132",
@@ -14396,7 +14373,8 @@
     "code": "c372",
     "variant": "02",
     "created": 1592536505954,
-    "textureHash": "3db46c2ed9de6cb476c9887ab8b42edb"
+    "textureHash": "3db46c2ed9de6cb476c9887ab8b42edb",
+    "modder": "Zipxim"
   },
   "66ec6f1dce689181a06bd84e5e94f009": {
     "code": "c372",

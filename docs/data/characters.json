@@ -13887,8 +13887,6 @@
         "title": "Composed",
         "mods": [
           "301a9d642b1038aea86ea9b4f77e5854",
-          "d5bb25f5c708fe23f5ecca450f86b867",
-          "503b1eac6dc826510c78c371290f7fea",
           "fe477147cef9b31298179b56b34e13b7",
           "37cc05650b81dd521c78b8a9688ab5f9",
           "5c68ba0857a6c28881f4461bc47d1823"
@@ -13908,8 +13906,6 @@
         "title": "Aesthetic",
         "mods": [
           "5c45b4dda1878548f37cb0afa70c52ec",
-          "550e5cf11d924d694a2fa94ca15ecf90",
-          "7ddbdc7b2615574237fd84df230a9090",
           "6bdcab4caaf49b3aeb26e6e6bd7eedc5",
           "ea263a21221d1f8452a871426e4db304"
         ],
@@ -13956,7 +13952,7 @@
     "image2": "http://i.imgur.com/X3Opb7t.png",
     "image3": "http://i.imgur.com/x1xRasm.png",
     "imageSkin": null,
-    "numMods": 15,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",
