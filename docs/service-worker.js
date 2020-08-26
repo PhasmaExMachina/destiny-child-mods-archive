@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/destiny-child-mods-archive/precache-manifest.6e28ff8392339e4e7c738d7a8e08b5f9.js"
+  "/destiny-child-mods-archive/precache-manifest.5d641e5be1e20914f812ca43e9f4db64.js"
 );
 
 self.addEventListener('message', (event) => {
