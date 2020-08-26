@@ -2485,8 +2485,7 @@
         "title": "Tomomi",
         "mods": [
           "9d9da953ba7587a02c0eef62b99463ea",
-          "4b461ab4a5d86ff0faf936bbc92c59bb",
-          "59ffab4d1e6d5e8ac8bcef390753976a"
+          "4b461ab4a5d86ff0faf936bbc92c59bb"
         ],
         "regions": [
           "global",
@@ -2514,7 +2513,7 @@
     "image2": "http://i.imgur.com/oVFDhcA.png",
     "image3": "http://i.imgur.com/pcengq4.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",

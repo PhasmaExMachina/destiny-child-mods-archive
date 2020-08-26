@@ -1804,7 +1804,8 @@
     "code": "c034",
     "variant": "01",
     "created": 1592517765813,
-    "textureHash": "7a0e7623cf82c0237e0d82dc71da0946"
+    "textureHash": "7a0e7623cf82c0237e0d82dc71da0946",
+    "usingAssetsBy": "Seireiko"
   },
   "c0bf0fa7cb9be153da30a15ba6793d85": {
     "code": "c034",
@@ -8779,7 +8780,8 @@
     "code": "c190",
     "variant": "02",
     "created": 1592577388611,
-    "textureHash": "1334fdf529cae57b644dd44460e08aea3e1e6a3d80b2d782a6e2e4460475ca00"
+    "textureHash": "1334fdf529cae57b644dd44460e08aea3e1e6a3d80b2d782a6e2e4460475ca00",
+    "usingAssetsBy": "Seireiko"
   },
   "b39ef4ed53c0885c7e3ca38cc84b005d": {
     "code": "c190",
@@ -9347,7 +9349,8 @@
     "code": "c222",
     "variant": "02",
     "created": 1592577414120,
-    "textureHash": "cfe4dfd1a7dd514a96f42f8c1661ac68"
+    "textureHash": "cfe4dfd1a7dd514a96f42f8c1661ac68",
+    "usingAssetsBy": "Seireiko"
   },
   "f0eb73665dec7e526d786a38a6f10ace": {
     "code": "c222",
@@ -18345,7 +18348,8 @@
     "code": "c271",
     "variant": "02",
     "created": 1592577456749,
-    "textureHash": "06fb281293eb841191a0bbdcc546dc61"
+    "textureHash": "06fb281293eb841191a0bbdcc546dc61",
+    "usingAssetsBy": "Seireiko"
   },
   "ade39d5b7de8b883a4b0615e09750996": {
     "code": "c258",
@@ -18369,7 +18373,8 @@
     "code": "c258",
     "variant": "02",
     "created": 1592577445718,
-    "textureHash": "c98398406e69a0a033b9c549915dd1b7"
+    "textureHash": "c98398406e69a0a033b9c549915dd1b7",
+    "usingAssetsBy": "Seireiko"
   },
   "97883edcf1831b52844b83e20d2fdc5e": {
     "code": "c272",
@@ -18393,7 +18398,8 @@
     "code": "c272",
     "variant": "02",
     "created": 1592577458107,
-    "textureHash": "5850e2f4cb22cdcf59e7a845d3a76de1"
+    "textureHash": "5850e2f4cb22cdcf59e7a845d3a76de1",
+    "usingAssetsBy": "Seireiko"
   },
   "23b0469a8bc869f456c7ba239696bb0f": {
     "code": "c270",
@@ -18424,7 +18430,8 @@
     "code": "c270",
     "variant": "02",
     "created": 1592577455440,
-    "textureHash": "6d4e86811ecdc9b9ce3a08c18eccf524"
+    "textureHash": "6d4e86811ecdc9b9ce3a08c18eccf524",
+    "usingAssetsBy": "Seireiko"
   },
   "1a3d92142969c29968443d403a5adfbe": {
     "code": "c269",
@@ -18448,7 +18455,8 @@
     "code": "c269",
     "variant": "02",
     "created": 1592577453715,
-    "textureHash": "dbc6c47d9d76cfd03747c3ea8910d0c5"
+    "textureHash": "dbc6c47d9d76cfd03747c3ea8910d0c5",
+    "usingAssetsBy": "Seireiko"
   },
   "3d9bf23c72c0402e23e1b49f037f3ba3": {
     "code": "m197",
@@ -22797,12 +22805,6 @@
     "variant": "14",
     "created": 1593227243739,
     "textureHash": "4cd650eb17abd24dfa2dc79d7200781d85bc95b456a391f3c3542761863f02b3"
-  },
-  "59ffab4d1e6d5e8ac8bcef390753976a": {
-    "code": "c034",
-    "variant": "00",
-    "created": 1593227245454,
-    "textureHash": "7a0e7623cf82c0237e0d82dc71da0946"
   },
   "bd4c67d2e059fa8a48fa87c62c079b53": {
     "code": "c348",

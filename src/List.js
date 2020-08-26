@@ -49,7 +49,7 @@ const List = () => {
             mod = mods[hash] || {}
       return modder == '?'
         ? !mod.modder
-        : mod.modder == modder
+        : mod.modder == modder || mod.usingAssetsBy == modder
     })
   }
   return (
