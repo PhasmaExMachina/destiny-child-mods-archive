@@ -420,7 +420,9 @@
       "0e489f97a4520e7d7fee87d4ac623435",
       "51674c55f1930d3a1305dd9271f13215",
       "002e02e1e073221c049b4d20073c193d",
-      "566c9966aa99efb30917c2f0d03048d0"
+      "566c9966aa99efb30917c2f0d03048d0",
+      "bad8a561f28d6db4ea8809e16401c048",
+      "e29cb6b2dfa9899bad18ec9c26293783"
     ],
     "profile": ""
   },
@@ -771,7 +773,8 @@
       "e5d59b8766aa7b3cc44c9d7e1f43ec99",
       "15c66dd1fd48b7e1764217223508afb2",
       "546251452a12a697093cbcaf1ecd2b81",
-      "e4b3d50f9a8a425655fcdb07b9355c50"
+      "e4b3d50f9a8a425655fcdb07b9355c50",
+      "4decde684c1d7888373b4064129bcdc6"
     ]
   },
   "luculluslanguish": {
@@ -789,9 +792,21 @@
   "Maou": {
     "mods": [
       "b220695af064ecdf9fc138d805035c1c",
+      "4e1b2c13395ecb83259cb1cf9c7dc1f8",
+      "34bfb04b04b21b467acbe0f3a2d5cc3b",
+      "9dc2f166fcee297bcfcf2f389ad9ba65",
+      "611af2a0a152b1f768000a32454320b9",
+      "e9e1d0d7e762de67f0c55cd648696c22",
       "f5255c5e8913d528164b94151605f4b2",
+      "ada4dc754a72b43b56be883eb695e5eb",
+      "1d5625acf7198da58a088a8739e133cb",
+      "f9cc224086e248c42d0b607cd81008c7",
       "1c6edffe8fb8c7926000da2dcd4f8a27",
       "561c441dbad6460036aa7bc9c05bd5b3",
+      "967f791cca3eef673ed54e1896cef592",
+      "781435836057a25857c9d27f7b6087ad",
+      "432b0165392f5e28c26c280b216cbd78",
+      "bad8a561f28d6db4ea8809e16401c048",
       "27effd72c3a1c07437cdf6a539dc4960"
     ],
     "profile": ""
@@ -815,6 +830,36 @@
   "TheShade": {
     "mods": [
       "2c285628d3704d385dc6501ce9c1eae7"
+    ],
+    "profile": ""
+  },
+  "Kishin": {
+    "mods": [
+      "3f9bb4a90994990b851e47d39cb0134e",
+      "ea041ac4161c4d3bc0b87f51d59e190e"
+    ],
+    "profile": ""
+  },
+  "VeNus": {
+    "mods": [
+      "b85ac75da0b030685ef8996889b21c6c",
+      "1592b776426b654076258f32f5a06517",
+      "423ab607bd98c55fb2dd4a4e45529152",
+      "c644f4cb318004882886a105ae2037b9",
+      "ab1ba79e1ea338a14032d3d4d92a5653",
+      "df812ce4e17e6cf439ffb6e8fcf02e7f",
+      "801f9868e2fb57fbbd020e000a70d887"
+    ],
+    "profile": ""
+  },
+  "Anubis": {
+    "mods": [
+      "4decde684c1d7888373b4064129bcdc6",
+      "e5d59b8766aa7b3cc44c9d7e1f43ec99",
+      "cbf373f27e2d9fbbdc1b74a04b3cd212",
+      "e63c9f5848f8bf4e5530e1c6ecb83cf4",
+      "bff554d617b6a5f0181efc8fae1a8a1e",
+      "e29cb6b2dfa9899bad18ec9c26293783"
     ],
     "profile": ""
   }

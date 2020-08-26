@@ -3330,7 +3330,8 @@
     "code": "c057",
     "variant": "02",
     "created": 1592520404135,
-    "textureHash": "301edab363a8f78438f9d80bea3a3e8e"
+    "textureHash": "301edab363a8f78438f9d80bea3a3e8e",
+    "modder": "Maou"
   },
   "978d59348ef35a6f60836ef3af5499c2": {
     "code": "c057",
@@ -5743,7 +5744,8 @@
     "code": "c167",
     "variant": "01",
     "created": 1592520410659,
-    "textureHash": "98ca06aba14e5ce4fcec8076cbcb96fc"
+    "textureHash": "98ca06aba14e5ce4fcec8076cbcb96fc",
+    "modder": "Maou"
   },
   "f6d8a918d8de321468123d15f594a131": {
     "code": "c167",
@@ -5794,7 +5796,8 @@
     "code": "c167",
     "variant": "02",
     "created": 1592520411608,
-    "textureHash": "2ad2789d2ef04602a2f379f7a5215d1d"
+    "textureHash": "2ad2789d2ef04602a2f379f7a5215d1d",
+    "modder": "Maou"
   },
   "41f9766b403a0788103740aa911ce02f": {
     "code": "c167",
@@ -6197,23 +6200,11 @@
     "created": 1592272224538,
     "textureHash": "a1b7cb9cba4b0fe236bc3ff727368281"
   },
-  "fd2bc46068fc5d194e97a1639c0b948a": {
-    "code": "c180",
-    "variant": "01",
-    "created": 1592446396056,
-    "textureHash": "41dddabdc8c0b242a41d8207bc4d2dd2"
-  },
   "6d7644fe8befc9b783ab8534564b50ce": {
     "code": "c180",
     "variant": "01",
     "created": 1592486861943,
     "textureHash": "b8e5f1c5578039689400e41ef5a3a200"
-  },
-  "306b4338fd07ca9901b86137cc57e5e0": {
-    "code": "c180",
-    "variant": "01",
-    "created": 1592517808153,
-    "textureHash": "7248203b72072f6afa4bc0a96439e636"
   },
   "0937a89cb026c826a1080535a20f0333": {
     "code": "c180",
@@ -6227,12 +6218,6 @@
     "created": 1592577374455,
     "textureHash": "0326e288f803061256098566cce098df"
   },
-  "8c7ec9fefd5f3c9e1e01fdd2f505cd23": {
-    "code": "c180",
-    "variant": "01",
-    "created": 1592578831890,
-    "textureHash": "2ec93b78e028e113d691bbe8e90ea2d2"
-  },
   "225a1b26c960267a839d30102a7a19f3": {
     "code": "c180",
     "variant": "02",
@@ -6245,41 +6230,25 @@
     "created": 1592425513432,
     "textureHash": "06daee8c77a62f489075093a88a87978"
   },
-  "806818d1f5acfa1a7776e9ac6c2a2d72": {
-    "code": "c180",
-    "variant": "02",
-    "created": 1592446396631,
-    "textureHash": "41dddabdc8c0b242a41d8207bc4d2dd2"
-  },
   "8a4ff3be29df43d405a1ab89c0122b4c": {
     "code": "c180",
     "variant": "02",
     "created": 1592486862716,
     "textureHash": "8248f1a0376b3297261e67c346204473"
   },
-  "1e06cfc3855998d6fa0d1368a56876c2": {
-    "code": "c180",
-    "variant": "02",
-    "created": 1592517811326,
-    "textureHash": "7248203b72072f6afa4bc0a96439e636"
-  },
   "611af2a0a152b1f768000a32454320b9": {
     "code": "c180",
     "variant": "02",
     "created": 1592520415517,
-    "textureHash": "1ff25bd0c9af78c2d5ed56f11a2e6562"
+    "textureHash": "1ff25bd0c9af78c2d5ed56f11a2e6562",
+    "modder": "Maou"
   },
   "e9e1d0d7e762de67f0c55cd648696c22": {
     "code": "c180",
     "variant": "02",
     "created": 1592520416489,
-    "textureHash": "be8540970d778589436264f7cd3a517a"
-  },
-  "b205da3dc193c3226f0daa0778bcc35d": {
-    "code": "c180",
-    "variant": "02",
-    "created": 1592578832375,
-    "textureHash": "2ec93b78e028e113d691bbe8e90ea2d2"
+    "textureHash": "be8540970d778589436264f7cd3a517a",
+    "modder": "Maou"
   },
   "cfbb493a37485833170af010f09590cb": {
     "code": "c180",
@@ -9811,7 +9780,8 @@
     "code": "c233",
     "variant": "02",
     "created": 1592520424754,
-    "textureHash": "e698267e95f11b1835ea8dca24aa2287"
+    "textureHash": "e698267e95f11b1835ea8dca24aa2287",
+    "modder": "Kishin"
   },
   "bebe625b0dd1cea6ca09d382068d25ac": {
     "code": "c233",
@@ -10017,7 +9987,8 @@
     "code": "c242",
     "variant": "02",
     "created": 1592520432998,
-    "textureHash": "617036a655c1e2cc35c036fd942aaf72"
+    "textureHash": "617036a655c1e2cc35c036fd942aaf72",
+    "modder": "Maou"
   },
   "fbc22f8528da27260daa70e1b3eda822": {
     "code": "c242",
@@ -10335,7 +10306,8 @@
     "code": "c252",
     "variant": "01",
     "created": 1592520440520,
-    "textureHash": "fd874087623eab27117a541a0640c356"
+    "textureHash": "fd874087623eab27117a541a0640c356",
+    "modder": "VeNus"
   },
   "9e87630dc43aab25fe43419e6ba171b7": {
     "code": "c252",
@@ -10353,7 +10325,8 @@
     "code": "c252",
     "variant": "02",
     "created": 1592520441375,
-    "textureHash": "1d413d5f12c44469739dd1b3186f3060"
+    "textureHash": "1d413d5f12c44469739dd1b3186f3060",
+    "modder": "VeNus"
   },
   "8405d00772188acb3be5f08d60e846da": {
     "code": "c252",
@@ -10485,13 +10458,9 @@
     "code": "c262",
     "variant": "88",
     "created": 1592520445302,
-    "textureHash": "64afd8666cb7ac8bfb1654eae1d66e98"
-  },
-  "54d703aa5276faae2660f4cc69762ef4": {
-    "code": "c262",
-    "variant": "88",
-    "created": 1592577448087,
-    "textureHash": "bd5bea28911381d5ecf71beb32814616"
+    "textureHash": "64afd8666cb7ac8bfb1654eae1d66e98",
+    "modder": "Anubis",
+    "usingAssetsBy": "fapfapfap"
   },
   "b37d2e678499f0542420dd7554e3403e": {
     "code": "c262",
@@ -10542,6 +10511,7 @@
     "variant": "02",
     "created": 1592520444216,
     "textureHash": "64afd8666cb7ac8bfb1654eae1d66e98",
+    "modder": "Anubis",
     "usingAssetsBy": "fapfapfap"
   },
   "f9ca5855ad99fccc5b24c0547c340532": {
@@ -11337,7 +11307,8 @@
     "code": "c290",
     "variant": "01",
     "created": 1592520446295,
-    "textureHash": "08f872d1fc2571cf9555fa9db04ab1d1"
+    "textureHash": "08f872d1fc2571cf9555fa9db04ab1d1",
+    "modder": "VeNus"
   },
   "65d3723543d7ca5e63b6b1e4b1ee7bea": {
     "code": "c290",
@@ -11531,7 +11502,8 @@
     "code": "c296",
     "variant": "01",
     "created": 1592520447204,
-    "textureHash": "eaff86531ac88cd09247f875f6fc30e8"
+    "textureHash": "eaff86531ac88cd09247f875f6fc30e8",
+    "modder": "Maou"
   },
   "dcbb4b95e99b5bf7051c1cf5c84c5208": {
     "code": "c296",
@@ -12074,7 +12046,8 @@
     "code": "c311",
     "variant": "02",
     "created": 1592520455952,
-    "textureHash": "4fda6531f398a1cd5a479355d65f6940814107ae940942d45b70b3aae1cd54dd"
+    "textureHash": "4fda6531f398a1cd5a479355d65f6940814107ae940942d45b70b3aae1cd54dd",
+    "modder": "Maou"
   },
   "9883a8fc5d828d61e21aed74c9f55895": {
     "code": "c311",
@@ -14377,7 +14350,8 @@
     "code": "c372",
     "variant": "02",
     "created": 1592520476210,
-    "textureHash": "7352e996b3cf0ca46fcb030a6078a3e7"
+    "textureHash": "7352e996b3cf0ca46fcb030a6078a3e7",
+    "modder": "VeNus"
   },
   "e63e1176a26fd1cbd3b6f213aea1fbf7": {
     "code": "c372",
@@ -14510,7 +14484,8 @@
     "code": "c378",
     "variant": "01",
     "created": 1592520487576,
-    "textureHash": "fe314d6fe4fb78bd410705e6f53cbd3f"
+    "textureHash": "fe314d6fe4fb78bd410705e6f53cbd3f",
+    "modder": "Anubis"
   },
   "b309ce02ce2978a73fa4b3da72ce3f5c": {
     "code": "c378",
@@ -14522,7 +14497,8 @@
     "code": "c378",
     "variant": "02",
     "created": 1592520488716,
-    "textureHash": "0a6d8bfa9a6fb4632ebc891bffeab58c"
+    "textureHash": "0a6d8bfa9a6fb4632ebc891bffeab58c",
+    "modder": "Anubis"
   },
   "ee9bb321ed6ce9d9d501e04a56020f9a": {
     "code": "c378",
@@ -14540,7 +14516,8 @@
     "code": "c379",
     "variant": "01",
     "created": 1592520489689,
-    "textureHash": "1f32f95107227c8fafcf7a5c2ed7ba72"
+    "textureHash": "1f32f95107227c8fafcf7a5c2ed7ba72",
+    "modder": "Anubis"
   },
   "568484615e59d2b0fb00f84f288de243": {
     "code": "c379",
@@ -14552,7 +14529,9 @@
     "code": "c379",
     "variant": "02",
     "created": 1592520490553,
-    "textureHash": "6f83a1aeac9076362f6d1513e6eea158"
+    "textureHash": "6f83a1aeac9076362f6d1513e6eea158",
+    "modder": "Anubis",
+    "usingAssetsBy": "?"
   },
   "b846a5ffdbb09e0351724764d39ffa41": {
     "code": "c379",
@@ -15340,7 +15319,8 @@
     "code": "c394",
     "variant": "01",
     "created": 1592520520360,
-    "textureHash": "d8cce53954cd2f7e2ccf356889b2ba82b820e21a401815d84034cd87f18a969b"
+    "textureHash": "d8cce53954cd2f7e2ccf356889b2ba82b820e21a401815d84034cd87f18a969b",
+    "modder": "Maou"
   },
   "2796077444c8ee9b927e9116cc7c67f9": {
     "code": "c394",
@@ -15358,7 +15338,8 @@
     "code": "c394",
     "variant": "02",
     "created": 1592520523282,
-    "textureHash": "cfd5f7451a9e43b3b10571526e78c9fbf7ebb439f9a88dc0c8d8840297c11ecc"
+    "textureHash": "cfd5f7451a9e43b3b10571526e78c9fbf7ebb439f9a88dc0c8d8840297c11ecc",
+    "modder": "Maou"
   },
   "2893320c539d0d6321284c0bcb5bdcba": {
     "code": "c394",
@@ -15603,7 +15584,8 @@
     "code": "c347",
     "variant": "02",
     "created": 1592520464562,
-    "textureHash": "580d50aca8a3e32acb345365c30ede2a2e4942863dd1ffe71794a5404fdf5410"
+    "textureHash": "580d50aca8a3e32acb345365c30ede2a2e4942863dd1ffe71794a5404fdf5410",
+    "modder": "Maou"
   },
   "accd2179a23c08b1c332fcb6b2ed6ec6": {
     "code": "c410",
@@ -16743,7 +16725,8 @@
     "code": "c438",
     "variant": "10",
     "created": 1592520547182,
-    "textureHash": "ba46ef248cfa8051d26a419b62b85d28"
+    "textureHash": "ba46ef248cfa8051d26a419b62b85d28",
+    "modder": "VeNus"
   },
   "f765dc9a94c5c6ecc1955b844cfbe10d": {
     "code": "c438",
@@ -16761,13 +16744,15 @@
     "code": "c438",
     "variant": "02",
     "created": 1592520544849,
-    "textureHash": "1a40f931f4ea160dbcd674a32d232549"
+    "textureHash": "1a40f931f4ea160dbcd674a32d232549",
+    "modder": "VeNus"
   },
   "801f9868e2fb57fbbd020e000a70d887": {
     "code": "c438",
     "variant": "02",
     "created": 1592520546015,
-    "textureHash": "65f8890fe929d5eb561fcd3aaf653a13"
+    "textureHash": "65f8890fe929d5eb561fcd3aaf653a13",
+    "modder": "VeNus"
   },
   "159e8928f679d044c511b669a037f624": {
     "code": "c443",
@@ -16797,7 +16782,8 @@
     "code": "c443",
     "variant": "02",
     "created": 1592520548164,
-    "textureHash": "f4274f234338bf93b146f2d4134778eb"
+    "textureHash": "f4274f234338bf93b146f2d4134778eb",
+    "modder": "Kishin"
   },
   "d1a0b1ba8327072813ee48e0a6b57868": {
     "code": "c441",
@@ -20132,7 +20118,9 @@
     "code": "c255",
     "variant": "01",
     "created": 1592520443230,
-    "textureHash": "78a7029a9f905aa2ade10802e79835fe"
+    "textureHash": "78a7029a9f905aa2ade10802e79835fe",
+    "modder": "Maou",
+    "usingAssetsBy": "?"
   },
   "06f337feb97d0b029b6037b91ed652e0": {
     "code": "c255",

@@ -8916,12 +8916,9 @@
         "title": "Ambitious",
         "mods": [
           "c69b613820621b5f23ae196b2431fafc",
-          "fd2bc46068fc5d194e97a1639c0b948a",
           "6d7644fe8befc9b783ab8534564b50ce",
-          "306b4338fd07ca9901b86137cc57e5e0",
           "0937a89cb026c826a1080535a20f0333",
-          "3f23e750ade0e56efa14f4dc2f15d2c7",
-          "8c7ec9fefd5f3c9e1e01fdd2f505cd23"
+          "3f23e750ade0e56efa14f4dc2f15d2c7"
         ],
         "regions": [
           "global",
@@ -8939,12 +8936,9 @@
         "mods": [
           "225a1b26c960267a839d30102a7a19f3",
           "fcc710c3f9d55629d8bdb9310590cd95",
-          "806818d1f5acfa1a7776e9ac6c2a2d72",
           "8a4ff3be29df43d405a1ab89c0122b4c",
-          "1e06cfc3855998d6fa0d1368a56876c2",
           "611af2a0a152b1f768000a32454320b9",
           "e9e1d0d7e762de67f0c55cd648696c22",
-          "b205da3dc193c3226f0daa0778bcc35d",
           "cfbb493a37485833170af010f09590cb",
           "0b8d5e9fcd9e57b7cc82db0b9f7138d8"
         ],
@@ -8974,7 +8968,7 @@
     "image2": "http://i.imgur.com/jLF5bxo.png",
     "image3": "http://i.imgur.com/kaqZ9nF.png",
     "imageSkin": null,
-    "numMods": 18,
+    "numMods": 12,
     "regions": [
       "global",
       "kr",
@@ -17949,8 +17943,7 @@
       "88": {
         "mods": [
           "6b326686ee653f5d8eea1a6c3bd49e75",
-          "4decde684c1d7888373b4064129bcdc6",
-          "54d703aa5276faae2660f4cc69762ef4"
+          "4decde684c1d7888373b4064129bcdc6"
         ],
         "title": "Brave",
         "regions": [
@@ -18039,7 +18032,7 @@
     "image2": "http://i.imgur.com/2348KY8.png",
     "image3": "http://i.imgur.com/L5UbFrS.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",
