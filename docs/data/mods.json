@@ -1073,7 +1073,8 @@
     "code": "c017",
     "variant": "02",
     "created": 1592520391773,
-    "textureHash": "658a169b870e32be0d69471e33289939"
+    "textureHash": "658a169b870e32be0d69471e33289939",
+    "modder": "Maou"
   },
   "8d367441856152dbc04626b8db79a46d": {
     "code": "c017",
@@ -4316,7 +4317,8 @@
     "code": "c091",
     "variant": "02",
     "created": 1592520406555,
-    "textureHash": "6cf1c0a45f7c4eb345dd43155110a10e"
+    "textureHash": "6cf1c0a45f7c4eb345dd43155110a10e",
+    "modder": "fahsang02"
   },
   "459557930098fc72abfe27c133506161": {
     "code": "c095",
@@ -4340,7 +4342,9 @@
     "code": "c095",
     "variant": "01",
     "created": 1592520407167,
-    "textureHash": "d9bf0f1c3538ed403b41eabd72f353b8"
+    "textureHash": "d9bf0f1c3538ed403b41eabd72f353b8",
+    "modder": "fahsang02",
+    "usingAssetsBy": "?"
   },
   "0a5231ed0f6946404041be3896798db5": {
     "code": "c095",
@@ -6541,13 +6545,15 @@
     "code": "c193",
     "variant": "01",
     "created": 1592520418060,
-    "textureHash": "28917ffb964a27013a48b453f5b231fab16409c55a101890c63783e310ed6007"
+    "textureHash": "28917ffb964a27013a48b453f5b231fab16409c55a101890c63783e310ed6007",
+    "modder": "anxiouscore"
   },
   "9a3b760b7e843d2d6981fac0474bdaac": {
     "code": "c193",
     "variant": "01",
     "created": 1592520418797,
-    "textureHash": "67f4639bf0719ef42ba9c50faf97400fb16409c55a101890c63783e310ed6007"
+    "textureHash": "67f4639bf0719ef42ba9c50faf97400fb16409c55a101890c63783e310ed6007",
+    "modder": "anxiouscore"
   },
   "1a99423e8a9e1fdf35f685606d4d04da": {
     "code": "c193",
@@ -6680,7 +6686,8 @@
     "code": "c202",
     "variant": "02",
     "created": 1592520419552,
-    "textureHash": "23c21f511055d6352b173fb05e6237d8"
+    "textureHash": "23c21f511055d6352b173fb05e6237d8",
+    "modder": "Maou"
   },
   "ba3017edc981764cc91b3b49372c2983": {
     "code": "c202",
@@ -10029,7 +10036,8 @@
     "code": "c242",
     "variant": "00",
     "created": 1592520426178,
-    "textureHash": "a84d7ce1dfd5d642029bd9850556c6a5"
+    "textureHash": "a84d7ce1dfd5d642029bd9850556c6a5",
+    "modder": "TheShade"
   },
   "aafd07c95ef71ce5aec35b3fb167efa7": {
     "code": "c242",
@@ -14066,7 +14074,8 @@
     "code": "c338",
     "variant": "01",
     "created": 1592520460478,
-    "textureHash": "ed18e9c555b9715205f987ab8a838f0d2dd0b5c6ba541dc9912c29a3bec5ada6"
+    "textureHash": "ed18e9c555b9715205f987ab8a838f0d2dd0b5c6ba541dc9912c29a3bec5ada6",
+    "modder": "Maou"
   },
   "3527b6b84a453621e1aa9fdeeba2cac3": {
     "code": "c338",
@@ -14196,7 +14205,8 @@
     "code": "c377",
     "variant": "02",
     "created": 1592520482468,
-    "textureHash": "0c2e8533bfdd3ae2d2a5ad5872daa017a7f1b41ced7c5852df093609667a4e5b"
+    "textureHash": "0c2e8533bfdd3ae2d2a5ad5872daa017a7f1b41ced7c5852df093609667a4e5b",
+    "modder": "Maou"
   },
   "5794725d109845e0a81534833c98c006": {
     "code": "c370",
@@ -15254,7 +15264,8 @@
     "code": "c391",
     "variant": "02",
     "created": 1592520502184,
-    "textureHash": "0a3dc1001f0450f2d3a8250a156fe1b20a5edec1e0f07ba36e347a16282cba2c"
+    "textureHash": "0a3dc1001f0450f2d3a8250a156fe1b20a5edec1e0f07ba36e347a16282cba2c",
+    "modder": "anxiouscore"
   },
   "6f71764fa31865fd51a920f8980f8400": {
     "code": "c391",
@@ -18060,7 +18071,9 @@
     "code": "m176",
     "variant": "01",
     "created": 1592511882083,
-    "textureHash": "c8faee424c11da73b8052827b3a1638f"
+    "textureHash": "c8faee424c11da73b8052827b3a1638f",
+    "modder": "Loki",
+    "link": "Monster Girl Encyclopedia|https://monstergirlencyclopedia.fandom.com/wiki/Slime"
   },
   "185931508568f1da089c2eabbfc955fb": {
     "code": "m176",
@@ -18078,7 +18091,9 @@
     "code": "m176",
     "variant": "02",
     "created": 1592511882802,
-    "textureHash": "c8faee424c11da73b8052827b3a1638f"
+    "textureHash": "c8faee424c11da73b8052827b3a1638f",
+    "modder": "Loki",
+    "link": "Monster Girl Encyclopedia|https://monstergirlencyclopedia.fandom.com/wiki/Slime"
   },
   "fec9ce24ea2a46319c2e0ea6fd81740b": {
     "code": "m173",
@@ -18136,7 +18151,9 @@
     "code": "m175",
     "variant": "01",
     "created": 1592511880828,
-    "textureHash": "c60a291a8d105435ec551b324f0903c9"
+    "textureHash": "c60a291a8d105435ec551b324f0903c9",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "c84d107628451cf59ae2a97b84cf666a": {
     "code": "m175",
@@ -18154,7 +18171,9 @@
     "code": "m175",
     "variant": "02",
     "created": 1592511881452,
-    "textureHash": "c60a291a8d105435ec551b324f0903c9"
+    "textureHash": "c60a291a8d105435ec551b324f0903c9",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "dbbc44047eb62b520466c5c568a21879": {
     "code": "m177",
@@ -18172,7 +18191,9 @@
     "code": "m177",
     "variant": "01",
     "created": 1592511883503,
-    "textureHash": "e9653686c0d9f354316ba0dadf08c9f9"
+    "textureHash": "e9653686c0d9f354316ba0dadf08c9f9",
+    "modder": "Loki",
+    "link": "Art by LovelessKia|https://www.deviantart.com/lovelesskia/art/Monster-Girls-Dark-Slime-306560901"
   },
   "6c9f065e058dec7ec5d704e0ee8f05f2": {
     "code": "m177",
@@ -18190,7 +18211,9 @@
     "code": "m177",
     "variant": "02",
     "created": 1592511884146,
-    "textureHash": "e9653686c0d9f354316ba0dadf08c9f9"
+    "textureHash": "e9653686c0d9f354316ba0dadf08c9f9",
+    "modder": "Loki",
+    "link": "Art by LovelessKia|https://www.deviantart.com/lovelesskia/art/Monster-Girls-Dark-Slime-306560901"
   },
   "0198ba0c37d248d320fa4b696e2071e0": {
     "code": "m174",
@@ -20199,7 +20222,8 @@
     "code": "c375",
     "variant": "01",
     "created": 1592520481543,
-    "textureHash": "fedd7f45c31e0f542bcafde413c1c9ea"
+    "textureHash": "fedd7f45c31e0f542bcafde413c1c9ea",
+    "modder": "Maou"
   },
   "332ba2a68bc6714faf689b204945379f": {
     "code": "c376",
@@ -23599,7 +23623,8 @@
     "code": "c445",
     "variant": "02",
     "created": 1594477794994,
-    "textureHash": "f482890cf5b0d12091c3a14a47ad9398e51857f50a1e75966e5534db2a71c923"
+    "textureHash": "f482890cf5b0d12091c3a14a47ad9398e51857f50a1e75966e5534db2a71c923",
+    "modder": "anxiouscore"
   },
   "d52a9f32b451e615bd3db7602afcd4e0": {
     "code": "c063",
