@@ -5521,9 +5521,7 @@
         "is_voice": "0",
         "title": "Artisanal",
         "mods": [
-          "5b903aedd87ea5f9f8053fef59caebb7",
-          "40dd0ab2d9cf9a02660a4db09e792e46",
-          "9f75c8f342105cb4b64fc4da7c2cdc3d"
+          "5b903aedd87ea5f9f8053fef59caebb7"
         ],
         "regions": [
           "global",
@@ -5539,9 +5537,7 @@
         "is_voice": "0",
         "title": "Prophetic",
         "mods": [
-          "2732ffeeec28b6e71faa75ae22ca845e",
-          "3bfeee017b7984480c07c21bc0a53d1e",
-          "e542cdf04b2c537479b60cc9589c7e19"
+          "2732ffeeec28b6e71faa75ae22ca845e"
         ],
         "regions": [
           "global",
@@ -5569,7 +5565,7 @@
     "image2": "http://i.imgur.com/zx3CEF8.png",
     "image3": "http://i.imgur.com/agG0188.png",
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 3,
     "regions": [
       "global",
       "kr",
@@ -6111,8 +6107,7 @@
           "715d6ffa900b7b8ba82104b959116d51",
           "19dee48be3b978be413c063ae1aa7d1f",
           "54c04218e5524448b03f1bb6c4fd9cfe",
-          "39472e0ac7ce12bf69ef195130b6ca23",
-          "1646f87bb018a89bbdb83cdb90209d98"
+          "39472e0ac7ce12bf69ef195130b6ca23"
         ],
         "regions": [
           "global",
@@ -6157,7 +6152,7 @@
     "image2": "http://i.imgur.com/jN3mjht.png",
     "image3": "http://i.imgur.com/brxbQs9.png",
     "imageSkin": null,
-    "numMods": 16,
+    "numMods": 15,
     "regions": [
       "global",
       "kr",
