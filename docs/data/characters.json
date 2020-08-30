@@ -9884,8 +9884,7 @@
         "title": "Dominating",
         "mods": [
           "3424e7ff2e176c5c20f7bcad6349dd8b",
-          "95d09885508f4644f536e852b5fecb3b",
-          "eb5db09ed2c6db6f9a91e30fff0de99b"
+          "95d09885508f4644f536e852b5fecb3b"
         ],
         "regions": [
           "global",
@@ -9913,7 +9912,7 @@
     "image2": "http://i.imgur.com/vQzO4tH.png",
     "image3": "http://i.imgur.com/G6Z3Kax.png",
     "imageSkin": "http://i.imgur.com/k5sDgtH.png",
-    "numMods": 14,
+    "numMods": 13,
     "regions": [
       "global",
       "kr",
