@@ -72,7 +72,6 @@
       "88d6be3111ca82872e37d9ebed3c6026",
       "bce60e40bb733705c0bd0b2411e91595",
       "c924e6f2808cc013b6207461dc0b1b14",
-      "9924d0d521403e002285168f00cf4d21",
       "f111844d5c3d47c3c069651e1ed7ed2b",
       "ecca075478117565ac5f7d74ca7c3b6c",
       "a7a748e871d8fa893482bc9994092b3a",
@@ -353,6 +352,7 @@
   "Loki": {
     "mods": [
       "b137bf1b203ccbfb3ea12bde7daa8297",
+      "5288b0fa040f7de8380dbeeb7e10ae55",
       "08c7f11c58130c022bdcfb0e4cb8a18c",
       "99060d3d96713724aeef7fbe2b6208f0",
       "382639e0b4ffe93782a49ae32c23a758",
@@ -548,6 +548,12 @@
       "6ec1a073da610a37df82715c02f5c280",
       "85e22074421757c559cbe313b42a94a9",
       "d6e826efd78296e44dd06813641f2b44",
+      "1f62026cf48d620b3f9840de965bd28f",
+      "6bc8a389b5593704ba471cea429d0559",
+      "0fbcc757d88647ad66451fd48151f114",
+      "b270adce45bb27ccbdf91988f01c674b",
+      "807dfce1d93806f4741240ca135c1dd6",
+      "fa524b53fb7647759e88fea3fb658cb0",
       "548c661e93d871478d73bbf06e35340c",
       "17f41599e75db39c8b450e526da219f4",
       "e8659f748a781f69f48e2a60931b8db3",
@@ -780,7 +786,13 @@
   },
   "luculluslanguish": {
     "mods": [
-      "37cc05650b81dd521c78b8a9688ab5f9"
+      "3267eeef7bbfee32f2eefdaa8ea633a2",
+      "a151969a1cf4398bf0172fa9d3faf3eb",
+      "b9d8b5049c71e8fb45bd49d68b0c571c",
+      "117ebd32cc2bad6c9688ffe07f324054",
+      "37cc05650b81dd521c78b8a9688ab5f9",
+      "949996388f4f606ddc842802b912cfd6",
+      "965101b8c6421f332ca10d53aeb089ce"
     ],
     "profile": ""
   },
@@ -868,6 +880,7 @@
       "1592b776426b654076258f32f5a06517",
       "423ab607bd98c55fb2dd4a4e45529152",
       "c644f4cb318004882886a105ae2037b9",
+      "f6c0ec49b677f7c3d2dbaa7b02fad3c2",
       "ab1ba79e1ea338a14032d3d4d92a5653",
       "df812ce4e17e6cf439ffb6e8fcf02e7f",
       "801f9868e2fb57fbbd020e000a70d887"
@@ -876,12 +889,80 @@
   },
   "Anubis": {
     "mods": [
+      "007e3846d25138c8dd21b52ce80b868a",
+      "31c3a57d6d6681567d0fc61e7491e53b",
+      "a2d8a4d3f56ec0beda1291de6cfc9661",
+      "dce4e8f17e53d1ee4e7eaf3578351f91",
+      "a407f42cebce12f9b9222cdc7704db6f",
+      "69b54313d58d8fa92a69ad7258699535",
+      "6d77dc7aec28711c4cfabb210ea5ffc4",
+      "4983e3e5c519432d9559340db5e11b92",
+      "fe3e73536142ccc18de76ca6d281f64d",
       "4decde684c1d7888373b4064129bcdc6",
       "e5d59b8766aa7b3cc44c9d7e1f43ec99",
+      "95f430a6b66915ca333e742ec9487868",
+      "6cc7e5b58bc4e0af54d0496c3a684528",
       "cbf373f27e2d9fbbdc1b74a04b3cd212",
       "e63c9f5848f8bf4e5530e1c6ecb83cf4",
       "bff554d617b6a5f0181efc8fae1a8a1e",
-      "e29cb6b2dfa9899bad18ec9c26293783"
+      "e29cb6b2dfa9899bad18ec9c26293783",
+      "b6de32984db98861cd555b3835e39c95",
+      "dd2573e83b59792a13f229b36b107c3e",
+      "f80ebe747abc37c747414dd9f652b72a",
+      "3d76209930e8af4e25a9b9b00e193019",
+      "b51ed9a4d6b499990dec99bf3307197d",
+      "7b9b21f6a8e1c9d2dd77f2f05b32dff9",
+      "27365001c24352e715d0c70ed71142b0"
+    ],
+    "profile": ""
+  },
+  "KDG": {
+    "mods": [
+      "0154d442d677cffaa1a889a90fea8ccd"
+    ],
+    "profile": ""
+  },
+  "Charlotte": {
+    "mods": [
+      "821da5866c729868d60a2c4250bf0788",
+      "0534bf9052a278b83941af248a216aa3",
+      "d2741be142416b45b7752d8a208abcc9",
+      "5f5547c44c01de0b85d9304d3686ba56"
+    ],
+    "profile": ""
+  },
+  "Midori": {
+    "mods": [
+      "7fff8afb56b7a48b44b5a6973695d63a"
+    ],
+    "profile": ""
+  },
+  "Requiem": {
+    "mods": [
+      "50aafe45e9b1a4524e4f26c9f94c691d",
+      "f2fb45ad29538d4b131bb775391798e8",
+      "0a61d7f23f0532ede3394344aad34d42",
+      "9924d0d521403e002285168f00cf4d21",
+      "96a06a690fab4f1f3dbe362a2de34b71",
+      "9d35af43421b808577c389a796edc700"
+    ],
+    "profile": "",
+    "modsUsingAssets": [
+      "4a548a22f89dc88ad327c835ac8e8699"
+    ]
+  },
+  "ghis13": {
+    "mods": [
+      "9cda12077b14a37f01685084ed9269bd",
+      "19323cbe41f4b980036267bae22af152"
+    ],
+    "profile": ""
+  },
+  "DaMonk": {
+    "mods": [
+      "cf02e643b0539ad31ae342247d7caf70",
+      "a0368dc56da423ef8ec0c2f4b0e5bfa4",
+      "7001b30a6de31b32539d4049d4c98d13"
     ],
     "profile": ""
   }

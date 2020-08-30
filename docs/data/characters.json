@@ -3377,8 +3377,7 @@
           "76e06015542ac1532e9d9fd38f207a58",
           "a2717b4cbe7ea8b7a087c778c2f4edfa",
           "0a61d7f23f0532ede3394344aad34d42",
-          "9924d0d521403e002285168f00cf4d21",
-          "dfa3509a0725e9a1e83cd5a72b070a6a"
+          "9924d0d521403e002285168f00cf4d21"
         ],
         "regions": [
           "global",
@@ -3424,7 +3423,7 @@
     "image2": "http://i.imgur.com/bf5WnNG.png",
     "image3": "http://i.imgur.com/OQGOz7S.png",
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 11,
     "regions": [
       "global",
       "kr",
@@ -8706,8 +8705,7 @@
           "700e9c9e0fbcf9a83333ff3934ae6b21",
           "9c4a42cc581896e2459f071430d6e787",
           "866aa43e544b71c7253c061cd414f9dd",
-          "4f532028f1e56bedc696688ba5f0ed53",
-          "278f3ac276a4a6b016f7f1c9550d49b4"
+          "4f532028f1e56bedc696688ba5f0ed53"
         ],
         "regions": [
           "global",
@@ -8735,7 +8733,7 @@
     "image2": "http://i.imgur.com/jkj9ixR.png",
     "image3": "http://i.imgur.com/LQYY38r.png",
     "imageSkin": null,
-    "numMods": 23,
+    "numMods": 22,
     "regions": [
       "global",
       "kr",
@@ -24625,7 +24623,6 @@
           "365d1e78d280fdd549e1d9863c1c8922",
           "c12fc9013f35d47a3c43b4aef01cf72d",
           "60a05954be6da1f631fff8ab97bcb730",
-          "a44199dd77dd763e2556ce6805a4a787",
           "56a2499c83af023f8297c05e0324204d",
           "965101b8c6421f332ca10d53aeb089ce"
         ],
@@ -24655,7 +24652,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 32,
+    "numMods": 31,
     "regions": [
       "global",
       "kr",
@@ -25003,10 +25000,7 @@
         "mods": [
           "d1320099c290ce41c4338ed75cb0ec55",
           "7fff8afb56b7a48b44b5a6973695d63a",
-          "0aa42e3ae5072af7b9671ef470656e5e",
-          "d403e4842461ad12008ddd2e72e225b8",
           "967f791cca3eef673ed54e1896cef592",
-          "2796077444c8ee9b927e9116cc7c67f9",
           "4f665556f6850173c3684f20f5fe681f"
         ],
         "regions": [
@@ -25053,7 +25047,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 10,
+    "numMods": 7,
     "regions": [
       "global",
       "kr",
@@ -37075,13 +37069,13 @@
         "mods": [
           "02e9b7b5f7519b0d680018249c7fe2f8",
           "c1f565d049139c620411fd1cb54a2e92",
-          "27365001c24352e715d0c70ed71142b0",
           "bad8a561f28d6db4ea8809e16401c048",
           "06f337feb97d0b029b6037b91ed652e0",
           "e380cec4cd7fa6aa9e041b57b8b8fe20",
           "cf4b5a56c7ffd1f612d9285837adc079",
           "14799474ccaf03eb2db5d21a5b599dba",
-          "c2e9614f22aa4f0e26181002111f3d04"
+          "c2e9614f22aa4f0e26181002111f3d04",
+          "27365001c24352e715d0c70ed71142b0"
         ],
         "title": "Prologue",
         "regions": [

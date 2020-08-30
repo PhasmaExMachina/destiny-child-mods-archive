@@ -123,7 +123,11 @@ fs.readdirSync(importPckPath).forEach(file => {
       }
 
     }
-    else fs.unlinkSync(inputFilePath)
+    else {
+      fs.unlinkSync(inputFilePath)
+      if(pckSeen[hash]) console.log('PCK ' + hash + ' already seen')
+      else if(characters[code].variants[variant].mods.indexOf(hash)) console.log('mod ' + hash + ' already seen')
+    }
   }
   fs.rmdirSync(tmpPath, {recursive: true})
 })
