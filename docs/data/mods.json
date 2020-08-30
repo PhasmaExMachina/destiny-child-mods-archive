@@ -399,7 +399,8 @@
     "code": "c003",
     "variant": "14",
     "created": 1592511815870,
-    "textureHash": "4cd650eb17abd24dfa2dc79d7200781df0710adc43ad6cd3d483ad2d49cc5781"
+    "textureHash": "4cd650eb17abd24dfa2dc79d7200781df0710adc43ad6cd3d483ad2d49cc5781",
+    "modder": "Zipxim"
   },
   "3f1ec82ef0b729be814c7fdb60922d62": {
     "code": "c003",
@@ -4163,7 +4164,8 @@
     "code": "c083",
     "variant": "01",
     "created": 1592536436607,
-    "textureHash": "bc1f8a0d26b878fd6c5e1af53ca0b069"
+    "textureHash": "bc1f8a0d26b878fd6c5e1af53ca0b069",
+    "modder": "Zipxim"
   },
   "2869cb4bd2b0f4ed4644b4077c38f8e0": {
     "code": "c083",
@@ -4188,7 +4190,8 @@
     "code": "c083",
     "variant": "02",
     "created": 1592536437204,
-    "textureHash": "64e8ec9cc6961d2ba8a9da1da87ff7f9"
+    "textureHash": "64e8ec9cc6961d2ba8a9da1da87ff7f9",
+    "modder": "Zipxim"
   },
   "dbc090bc7c4e845a0d53ee34d56505c9": {
     "code": "c083",
@@ -4819,7 +4822,8 @@
     "code": "c124",
     "variant": "10",
     "created": 1592536447011,
-    "textureHash": "6d18e2151bd89c55b51877a146e2c2cf"
+    "textureHash": "6d18e2151bd89c55b51877a146e2c2cf",
+    "modder": "Zipxim"
   },
   "ae492deed9b3b2f509a5fc2c76713d80": {
     "code": "c124",
@@ -8473,7 +8477,8 @@
     "code": "c169",
     "variant": "02",
     "created": 1592536455626,
-    "textureHash": "053bb901f26e75bb9d6afb34a2b08bde"
+    "textureHash": "053bb901f26e75bb9d6afb34a2b08bde",
+    "modder": "Zipxim"
   },
   "7f4fd978b635e83241327e9ae81f1a85": {
     "code": "c169",
@@ -8527,7 +8532,8 @@
     "code": "c172",
     "variant": "02",
     "created": 1592536456888,
-    "textureHash": "578211ad297e1b71f2e29d007354c940"
+    "textureHash": "578211ad297e1b71f2e29d007354c940",
+    "modder": "Zipxim"
   },
   "f5ccfc86aaa56bac77b5690108bf3c68": {
     "code": "c172",
@@ -10117,7 +10123,8 @@
     "code": "c246",
     "variant": "11",
     "created": 1592536468908,
-    "textureHash": "a7fe80abcd459921f0284c91a830137ace6d0527b6dda38ffc13260fabe569c6"
+    "textureHash": "a7fe80abcd459921f0284c91a830137ace6d0527b6dda38ffc13260fabe569c6",
+    "modder": "Zipxim"
   },
   "8d035d5f2d76c540f396eb3ab254f538": {
     "code": "c246",
@@ -11399,7 +11406,8 @@
     "code": "c294",
     "variant": "01",
     "created": 1592536474331,
-    "textureHash": "e5e2447657ea403dcc9dfe658bef635a"
+    "textureHash": "e5e2447657ea403dcc9dfe658bef635a",
+    "modder": "Zipxim"
   },
   "85409b1c6316548343bea1d4c3ed55b7": {
     "code": "c294",
@@ -11424,7 +11432,8 @@
     "code": "c294",
     "variant": "02",
     "created": 1592536475282,
-    "textureHash": "f4df4e3cf7344d6f9c29eb2da8df9592"
+    "textureHash": "f4df4e3cf7344d6f9c29eb2da8df9592",
+    "modder": "Zipxim"
   },
   "8e839255863efc5254359638057aa5cf": {
     "code": "c294",
@@ -12090,7 +12099,8 @@
     "code": "c311",
     "variant": "00",
     "created": 1592536476550,
-    "textureHash": "db7ee34acd45b227c333ae41b5dbbbec"
+    "textureHash": "db7ee34acd45b227c333ae41b5dbbbec",
+    "modder": "Zipxim"
   },
   "a44a44cda08a3bdcb60544f73d71850d": {
     "code": "c312",
@@ -12862,13 +12872,15 @@
     "code": "c344",
     "variant": "01",
     "created": 1592536492981,
-    "textureHash": "de303ca3290e60afa28df139bba970f1"
+    "textureHash": "de303ca3290e60afa28df139bba970f1",
+    "modder": "Zipxim"
   },
   "2da26bd39e97fb6cf2d2b7b6f481c462": {
     "code": "c344",
     "variant": "01",
     "created": 1592536493918,
-    "textureHash": "bd32ca6a0be751860f2d4c4169094b5a"
+    "textureHash": "bd32ca6a0be751860f2d4c4169094b5a",
+    "modder": "Zipxim"
   },
   "db5ebc849c382a451e65a8d5dae41390": {
     "code": "c344",
@@ -12886,13 +12898,15 @@
     "code": "c344",
     "variant": "02",
     "created": 1592536494896,
-    "textureHash": "c52e07b37a868293815290a510c5264f"
+    "textureHash": "c52e07b37a868293815290a510c5264f",
+    "modder": "Zipxim"
   },
   "4cd8e24dd4af1bd3ba40b2909a046083": {
     "code": "c344",
     "variant": "02",
     "created": 1592536495899,
-    "textureHash": "485ff169760e1437855b7e7df316674d"
+    "textureHash": "485ff169760e1437855b7e7df316674d",
+    "modder": "Zipxim"
   },
   "a84d0a9d7473a45778956e4792226acf": {
     "code": "c345",
@@ -13217,7 +13231,8 @@
     "code": "c348",
     "variant": "01",
     "created": 1592511848812,
-    "textureHash": "709b931d42544f125176c29c5650188ccfb82101f1f94cb81b9c621b3ef625af"
+    "textureHash": "709b931d42544f125176c29c5650188ccfb82101f1f94cb81b9c621b3ef625af",
+    "modder": "Zipxim"
   },
   "2984d6ca727ff0199b1e8a8953a7eac4": {
     "code": "c348",
@@ -14301,7 +14316,8 @@
     "code": "c372",
     "variant": "10",
     "created": 1592536507726,
-    "textureHash": "014211ef0406ac6ef51564ef02825527"
+    "textureHash": "014211ef0406ac6ef51564ef02825527",
+    "modder": "Zipxim"
   },
   "e72e472d4fa32c5068f0c47b855ab312": {
     "code": "c372",
@@ -14332,7 +14348,8 @@
     "code": "c372",
     "variant": "01",
     "created": 1592536504146,
-    "textureHash": "a79e4840952f0921b6a3e77cade17caa"
+    "textureHash": "a79e4840952f0921b6a3e77cade17caa",
+    "modder": "Zipxim"
   },
   "b7a882c4e545439784b2abd2fb5791ad": {
     "code": "c372",
@@ -14442,7 +14459,8 @@
     "code": "c382",
     "variant": "01",
     "created": 1592536509535,
-    "textureHash": "23ebdb4009c3bf451965c2ee8d4f793591fea54ae45770265c90b3f47d86fc56"
+    "textureHash": "23ebdb4009c3bf451965c2ee8d4f793591fea54ae45770265c90b3f47d86fc56",
+    "modder": "Zipxim"
   },
   "42ed77513ba0af47eef3d073f1842eb8": {
     "code": "c382",
@@ -14460,7 +14478,8 @@
     "code": "c382",
     "variant": "02",
     "created": 1592536511641,
-    "textureHash": "16372d3ecf3e6f6257d5cde5513ad77b91fea54ae45770265c90b3f47d86fc56"
+    "textureHash": "16372d3ecf3e6f6257d5cde5513ad77b91fea54ae45770265c90b3f47d86fc56",
+    "modder": "Zipxim"
   },
   "69d831e89fd7ac29d38406548e532cd8": {
     "code": "c378",
@@ -22374,7 +22393,8 @@
     "code": "c367",
     "variant": "01",
     "created": 1592511851405,
-    "textureHash": "4cd650eb17abd24dfa2dc79d7200781da8b0121d902cb0b9173c2fab5fdbc6f5"
+    "textureHash": "4cd650eb17abd24dfa2dc79d7200781da8b0121d902cb0b9173c2fab5fdbc6f5",
+    "modder": "Zipxim"
   },
   "48d4f4210ec632a92b7c6931deed2080": {
     "code": "c367",
@@ -22398,7 +22418,8 @@
     "code": "c367",
     "variant": "02",
     "created": 1592511852328,
-    "textureHash": "4d299bfa3babd95f6358b77d11cda6276bf9b532df7cbfd6fedd2d78d8370043"
+    "textureHash": "4d299bfa3babd95f6358b77d11cda6276bf9b532df7cbfd6fedd2d78d8370043",
+    "modder": "Zipxim"
   },
   "df2b709eafe6603eb6a6978fd5d9c3b6": {
     "code": "c367",
