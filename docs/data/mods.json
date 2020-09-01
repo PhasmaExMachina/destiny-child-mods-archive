@@ -16580,7 +16580,8 @@
     "code": "c433",
     "variant": "01",
     "created": 1592511872896,
-    "textureHash": "ff5391e7ea00e4443c1079d999df8a6b"
+    "textureHash": "ff5391e7ea00e4443c1079d999df8a6b",
+    "modder": "KDG"
   },
   "2e0ae2d525538e75d7d3769df2a930c4": {
     "code": "c433",
@@ -16604,7 +16605,8 @@
     "code": "c433",
     "variant": "02",
     "created": 1592511874084,
-    "textureHash": "2667d675d96977ada5c640f0499df323"
+    "textureHash": "2667d675d96977ada5c640f0499df323",
+    "modder": "KDG"
   },
   "7ffa7325d3751378cc4f8ab61c3b844f": {
     "code": "c433",
@@ -16628,7 +16630,8 @@
     "code": "c434",
     "variant": "01",
     "created": 1592508572198,
-    "textureHash": "2a7d794f91e2eb4af849a8872c641625"
+    "textureHash": "2a7d794f91e2eb4af849a8872c641625",
+    "modder": "KDG"
   },
   "e839ce48b87027d363f308456011eca5": {
     "code": "c434",
@@ -18977,7 +18980,8 @@
     "code": "c125",
     "variant": "10",
     "created": 1592782881494,
-    "textureHash": "80d7fac677322cefcc65ade895cd695803cd873ad6b577f6232894b9dd5e6170"
+    "textureHash": "80d7fac677322cefcc65ade895cd695803cd873ad6b577f6232894b9dd5e6170",
+    "modder": "蠟燭炭"
   },
   "313dac3c5502bc97fca88afa6e821dad": {
     "code": "c125",
@@ -18995,7 +18999,8 @@
     "code": "c125",
     "variant": "89",
     "created": 1592782884525,
-    "textureHash": "80d7fac677322cefcc65ade895cd695803cd873ad6b577f6232894b9dd5e6170"
+    "textureHash": "80d7fac677322cefcc65ade895cd695803cd873ad6b577f6232894b9dd5e6170",
+    "modder": "蠟燭炭"
   },
   "557ab09a5f0ae49b7b6ffcb6a6048c99": {
     "code": "c125",
@@ -20201,7 +20206,8 @@
     "code": "c255",
     "variant": "01",
     "created": 1592839027435,
-    "textureHash": "c46f6cbd0e1582eeeea8a2900d1de46b"
+    "textureHash": "c46f6cbd0e1582eeeea8a2900d1de46b",
+    "modder": "蠟燭炭"
   },
   "a0beade1bd4ef8d4f6c1c3e289786127": {
     "code": "c256",
