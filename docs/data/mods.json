@@ -25828,5 +25828,19 @@
     "created": 1598815570875,
     "textureHash": "18a1d03ac8e2d3bf3d064e6c6241e813",
     "modder": "Anubis"
+  },
+  "81492e303ad7ea497a6df57bebee96b7": {
+    "code": "c296",
+    "variant": "01",
+    "created": 1598955716575,
+    "textureHash": "2897f104197361e3bef3708d66b94805",
+    "modder": "Seireiko"
+  },
+  "dd9f55f416b2ca7b17dd4b86b63fbf6b": {
+    "code": "c296",
+    "variant": "02",
+    "created": 1598955717430,
+    "textureHash": "2897f104197361e3bef3708d66b94805",
+    "modder": "Seireiko"
   }
 }
