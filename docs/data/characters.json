@@ -34289,9 +34289,8 @@
     "variants": {
       "10": {
         "mods": [
-          "f98e35ebaaebf3ef06e5eb2595d75100",
-          "8f2c908cbbe223a339a03c3bc6fc4445",
-          "313dac3c5502bc97fca88afa6e821dad"
+          "313dac3c5502bc97fca88afa6e821dad",
+          "8f2c908cbbe223a339a03c3bc6fc4445"
         ],
         "regions": [
           "kr",
@@ -34305,9 +34304,8 @@
       },
       "89": {
         "mods": [
-          "471a0a717d9a6d7913f71bf527341e46",
-          "932accfd8248f37d9e2916e392fd2488",
-          "557ab09a5f0ae49b7b6ffcb6a6048c99"
+          "557ab09a5f0ae49b7b6ffcb6a6048c99",
+          "932accfd8248f37d9e2916e392fd2488"
         ],
         "regions": [
           "kr",
@@ -34363,7 +34361,7 @@
         "is_voice": "0"
       }
     },
-    "numMods": 11,
+    "numMods": 9,
     "code": "c125",
     "name": "Sengoku",
     "regions": [
