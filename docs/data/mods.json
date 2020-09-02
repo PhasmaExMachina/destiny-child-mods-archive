@@ -3421,7 +3421,8 @@
     "code": "c058",
     "variant": "01",
     "created": 1592839002812,
-    "textureHash": "69880dfc4ac7f9391c4dc2ecf5080bf8"
+    "textureHash": "69880dfc4ac7f9391c4dc2ecf5080bf8",
+    "modder": "蠟燭炭"
   },
   "6574bf1f1e94ca572e5847aaeb155c76": {
     "code": "c058",
@@ -3466,7 +3467,8 @@
     "code": "c058",
     "variant": "02",
     "created": 1592839003395,
-    "textureHash": "6a7362f08da762c735500f0ca41f4ab0"
+    "textureHash": "6a7362f08da762c735500f0ca41f4ab0",
+    "modder": "蠟燭炭"
   },
   "0e630d6b500012d558fe2849014c2321": {
     "code": "c060",
@@ -6262,7 +6264,8 @@
     "code": "c180",
     "variant": "02",
     "created": 1592839016239,
-    "textureHash": "f3e1d4f601260a33b6a67fee3f31c5a6"
+    "textureHash": "f3e1d4f601260a33b6a67fee3f31c5a6",
+    "modder": "蠟燭炭"
   },
   "be1356818edfeee2295d64778aedb703": {
     "code": "c183",
@@ -8838,7 +8841,8 @@
     "code": "c195",
     "variant": "02",
     "created": 1592577392370,
-    "textureHash": "7aa4f12f5a884ca19bb9ec710453cc98"
+    "textureHash": "7aa4f12f5a884ca19bb9ec710453cc98",
+    "modder": "蠟燭炭"
   },
   "cb514b7c7f62d230b05964f43643041a": {
     "code": "c195",
@@ -12109,7 +12113,8 @@
     "code": "c311",
     "variant": "00",
     "created": 1592513086174,
-    "textureHash": "414caffb1e330212ac81314dbf0c0f32"
+    "textureHash": "414caffb1e330212ac81314dbf0c0f32",
+    "modder": "KDG"
   },
   "0bcca04c9597f1a9cf98a7cc38c30400": {
     "code": "c311",
