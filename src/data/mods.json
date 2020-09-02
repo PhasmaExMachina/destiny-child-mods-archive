@@ -15761,7 +15761,8 @@
     "code": "c405",
     "variant": "01",
     "created": 1592513168738,
-    "textureHash": "30d419ee7729001388bcd03de81badea"
+    "textureHash": "30d419ee7729001388bcd03de81badea",
+    "modder": "KDG"
   },
   "3b0b3d0424a88afcd8cf22fd5f479997": {
     "code": "c405",
@@ -15967,7 +15968,8 @@
     "code": "c403",
     "variant": "02",
     "created": 1592517934202,
-    "textureHash": "39f3eb22bdc30ae9653c291f56fd58b8"
+    "textureHash": "39f3eb22bdc30ae9653c291f56fd58b8",
+    "modder": "KDG"
   },
   "8e238ce2d19abf09e8164383b7c1559f": {
     "code": "c404",
