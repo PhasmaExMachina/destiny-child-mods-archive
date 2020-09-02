@@ -25856,5 +25856,11 @@
     "textureHash": "c7effb01d6c02ba5f536b1fba87ea1fc7a2f1d21e728e07b98243b9eaae1e27a",
     "modder": "Loki",
     "usingAssetsBy": "?"
+  },
+  "4d2171da45a2edfda1bcd5cd848caac9": {
+    "code": "c418",
+    "variant": "02",
+    "created": 1599064323219,
+    "textureHash": "a59762784c78992917f213ec5d4b22e67a2f1d21e728e07b98243b9eaae1e27a"
   }
 }
