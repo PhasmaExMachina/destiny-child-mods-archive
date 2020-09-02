@@ -25848,5 +25848,13 @@
     "created": 1598955717430,
     "textureHash": "2897f104197361e3bef3708d66b94805",
     "modder": "Seireiko"
+  },
+  "cc92e2502a2c62db2685e3a632de8bb1": {
+    "code": "c418",
+    "variant": "01",
+    "created": 1599062256612,
+    "textureHash": "c7effb01d6c02ba5f536b1fba87ea1fc7a2f1d21e728e07b98243b9eaae1e27a",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   }
 }
