@@ -181,6 +181,7 @@
       "98c7c84923f0bff49524220b6527992c",
       "e01cbe6e525a079052a473fadc33857e",
       "4b461ab4a5d86ff0faf936bbc92c59bb",
+      "3c29e695f78d58d5f46663e7823384e0",
       "7fe3c32e412445fb24a0af285c78394c",
       "a6ca1a6816d2704c6b64683f2eefd41a",
       "a999483fb69a5ab18ad1a3c1564a7670",
@@ -1098,6 +1099,15 @@
       "b6e2d59a0c0c4789798bff917565bbb9",
       "9da9fb0c543a6e44779c320c76581ab7",
       "a5eab7556e034437911f76f4519c568b"
+    ],
+    "profile": ""
+  },
+  "Seraphita": {
+    "mods": [
+      "879643d14941821d451acc87795e75f6"
+    ],
+    "modsUsingAssets": [
+      "3c29e695f78d58d5f46663e7823384e0"
     ],
     "profile": ""
   }
