@@ -1832,7 +1832,8 @@
     "code": "c034",
     "variant": "01",
     "created": 1592577261931,
-    "textureHash": "4c1eb430d1d7bf71ff8fc43eaee58f1c"
+    "textureHash": "4c1eb430d1d7bf71ff8fc43eaee58f1c",
+    "modder": "蠟燭炭"
   },
   "fe1eb889c20fe87a6f2f6776bc392749": {
     "code": "c034",
@@ -1946,13 +1947,8 @@
     "variant": "01",
     "created": 1592450145834,
     "textureHash": "b8556f73b58e6c0fd93755f9feee9a94",
-    "modder": "Spooky"
-  },
-  "336ee03f33229e57b901616f39be3909": {
-    "code": "c036",
-    "variant": "01",
-    "created": 1592446381731,
-    "textureHash": "135ac81396eb61a066844672780b603a"
+    "modder": "Spooky",
+    "usingAssetsBy": "Cratil,Seraphita"
   },
   "440c0ef07b48c99005735c55ff479021": {
     "code": "c036",
@@ -7831,7 +7827,7 @@
     "code": "m077",
     "variant": "10",
     "created": 1592839039462,
-    "modder": "Cratil",
+    "modder": "Seraphita",
     "textureHash": "18c7a9243fc516f350a7289d1bf5305d"
   },
   "df2980bfb103b341e8d58722b55c8436": {
@@ -9431,7 +9427,8 @@
     "code": "c227",
     "variant": "02",
     "created": 1592486873545,
-    "textureHash": "c189c3f24ac3e9240f92892244955c48"
+    "textureHash": "c189c3f24ac3e9240f92892244955c48",
+    "modder": "Seraphita"
   },
   "cde18db0e2984cfcd5bc74ae987625c7": {
     "code": "c227",
@@ -9452,7 +9449,8 @@
     "code": "c227",
     "variant": "02",
     "created": 1592839022148,
-    "textureHash": "163b14ddcd09ccdfee95af0faa62a3c0"
+    "textureHash": "163b14ddcd09ccdfee95af0faa62a3c0",
+    "modder": "Seraphita"
   },
   "9300b085449457eb1562c0109866775c": {
     "code": "m117",
