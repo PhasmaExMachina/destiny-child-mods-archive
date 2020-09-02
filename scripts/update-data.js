@@ -178,8 +178,10 @@ fs.writeFileSync(path.join(__dirname, '../src/data/transitions.json'), JSON.stri
 
 // update lists
 const lists = require('../docs/data/lists.json')
-fs.readdirSync(path.join(__dirname, '../src/lists')).forEach(listFilename => {
-  const listBaseName = listFilename.replace(/\.json$/, '')
-  if(lists.indexOf(listBaseName) < 0) lists.push(listBaseName)
-})
+fs.readdirSync(path.join(__dirname, '../src/lists'))
+  .filter(l => l.match(/\.json$/))
+  .forEach(listFilename => {
+    const listBaseName = listFilename.replace(/\.json$/, '')
+    if(lists.indexOf(listBaseName) < 0) lists.push(listBaseName)
+  })
 fs.writeFileSync(path.join(__dirname, '../docs/data/lists.json'), JSON.stringify(lists, null, 2))
