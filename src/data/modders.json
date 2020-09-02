@@ -177,9 +177,14 @@
   },
   "蠟燭炭": {
     "mods": [
+      "c4e848fdfb0b9fb29022b9d9b5c9714c",
+      "a02d26603dac22d7f1adb5c3d82238ca",
       "3f1ec82ef0b729be814c7fdb60922d62",
+      "3c502e787e1f0d4bbe727f52f128ec45",
       "98c7c84923f0bff49524220b6527992c",
       "e01cbe6e525a079052a473fadc33857e",
+      "c9fc446e87a47535d36f30ce07d5bc56",
+      "ff7d5b9a0b2e696f8712104a5ea69dc4",
       "4b461ab4a5d86ff0faf936bbc92c59bb",
       "3c29e695f78d58d5f46663e7823384e0",
       "7fe3c32e412445fb24a0af285c78394c",
@@ -523,12 +528,12 @@
       "1acc93ef6f7cfc3b99363f44e3543548",
       "a49e7d42de99aa82541b6d283de993d8",
       "b875078e7da350de6d0801a571657a6b",
-      "95ed0b3e9056e255601197727c34483f",
-      "dece8fa2c1291cbd9c932b24c6d747b0"
+      "95ed0b3e9056e255601197727c34483f"
     ],
     "profile": "",
     "modsUsingAssets": [
-      "a5eab7556e034437911f76f4519c568b"
+      "a5eab7556e034437911f76f4519c568b",
+      "9da9fb0c543a6e44779c320c76581ab7"
     ]
   },
   "Addest": {
@@ -1097,17 +1102,21 @@
   "Spooky": {
     "mods": [
       "b6e2d59a0c0c4789798bff917565bbb9",
-      "9da9fb0c543a6e44779c320c76581ab7",
-      "a5eab7556e034437911f76f4519c568b"
+      "9da9fb0c543a6e44779c320c76581ab7"
     ],
     "profile": ""
   },
   "Seraphita": {
     "mods": [
-      "879643d14941821d451acc87795e75f6"
+      "879643d14941821d451acc87795e75f6",
+      "dece8fa2c1291cbd9c932b24c6d747b0",
+      "3a093e48a6a599bf749a009ef4310f00",
+      "1bfcb327893df37f20dbd4016f86ead4"
     ],
     "modsUsingAssets": [
-      "3c29e695f78d58d5f46663e7823384e0"
+      "3c29e695f78d58d5f46663e7823384e0",
+      "9da9fb0c543a6e44779c320c76581ab7",
+      "a5eab7556e034437911f76f4519c568b"
     ],
     "profile": ""
   }
