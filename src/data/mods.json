@@ -1965,7 +1965,9 @@
     "code": "c036",
     "variant": "01",
     "created": 1592838997955,
-    "textureHash": "ac63555a900d64a4d76a7646ff827042"
+    "textureHash": "ac63555a900d64a4d76a7646ff827042",
+    "modder": "蠟燭炭",
+    "usingAssetsBy": "Seraphita"
   },
   "254a0b6740722396fd81c8927e59cf4b": {
     "code": "c036",
@@ -1985,7 +1987,8 @@
     "code": "c036",
     "variant": "02",
     "created": 1592486825813,
-    "textureHash": "441ef30bfa383946968c687b0dd1a98e"
+    "textureHash": "441ef30bfa383946968c687b0dd1a98e",
+    "modder": "Seraphita"
   },
   "b875078e7da350de6d0801a571657a6b": {
     "code": "c036",
