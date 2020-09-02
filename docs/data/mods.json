@@ -13489,7 +13489,8 @@
     "code": "c355",
     "variant": "01",
     "created": 1592517890956,
-    "textureHash": "d9a2cc9617f0b9ecd5f73da93164b778f372788de2cdba4da3467655c67de0e0"
+    "textureHash": "d9a2cc9617f0b9ecd5f73da93164b778f372788de2cdba4da3467655c67de0e0",
+    "modder": "KDG"
   },
   "8fab97214fd21172ff1099ad5284fb55": {
     "code": "c355",
@@ -13861,7 +13862,8 @@
     "code": "c366",
     "variant": "01",
     "created": 1592517899646,
-    "textureHash": "fc268e79abe9f092a44da205e27558f7f2c6ab3f22bd4576cdc241a7564de6f7"
+    "textureHash": "fc268e79abe9f092a44da205e27558f7f2c6ab3f22bd4576cdc241a7564de6f7",
+    "modder": "KDG"
   },
   "01d4aa0b8cd4bba4355340209eac62ce": {
     "code": "c366",
@@ -13943,7 +13945,8 @@
     "code": "c354",
     "variant": "01",
     "created": 1592517888416,
-    "textureHash": "b4b4c61838083ecb428e67e832a62ab4759aacaab155deb17929d8c0677d0794"
+    "textureHash": "b4b4c61838083ecb428e67e832a62ab4759aacaab155deb17929d8c0677d0794",
+    "modder": "KDG"
   },
   "b367e5bf9b1812f79a7f025ecf0a403f": {
     "code": "c354",
@@ -15630,7 +15633,8 @@
     "code": "c347",
     "variant": "01",
     "created": 1592513118522,
-    "textureHash": "16fab71ee4c3ec90e112ff11a2c9cc13fa0fc48e4e13b38d7ca4b5325dededf6"
+    "textureHash": "16fab71ee4c3ec90e112ff11a2c9cc13fa0fc48e4e13b38d7ca4b5325dededf6",
+    "modder": "KDG"
   },
   "3ee1a418b2af2707859780bee56f024b": {
     "code": "c347",
@@ -22464,7 +22468,8 @@
     "code": "c367",
     "variant": "01",
     "created": 1592517900668,
-    "textureHash": "a9d2ca01bafdec80e959f0c33564f54fda3073980c7e28838a91efc883f580e8"
+    "textureHash": "a9d2ca01bafdec80e959f0c33564f54fda3073980c7e28838a91efc883f580e8",
+    "modder": "蠟燭炭"
   },
   "9cda12077b14a37f01685084ed9269bd": {
     "code": "c367",
@@ -22490,7 +22495,8 @@
     "code": "c367",
     "variant": "02",
     "created": 1592517901738,
-    "textureHash": "ee59e5328cce5240c4e01242b0e889eeadee7156307a35c57cdcfa477614167b"
+    "textureHash": "ee59e5328cce5240c4e01242b0e889eeadee7156307a35c57cdcfa477614167b",
+    "modder": "蠟燭炭"
   },
   "19323cbe41f4b980036267bae22af152": {
     "code": "c367",
