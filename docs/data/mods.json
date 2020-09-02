@@ -14742,13 +14742,15 @@
     "code": "c390",
     "variant": "02",
     "created": 1592513140309,
-    "textureHash": "6564fec147ed57f785a838407727532ffb02915c6d638c108b663a6ff46212d9"
+    "textureHash": "6564fec147ed57f785a838407727532ffb02915c6d638c108b663a6ff46212d9",
+    "modder": "KDG"
   },
   "6a0fefba12db16dcb9c7015a244577b1": {
     "code": "c390",
     "variant": "02",
     "created": 1592513142121,
-    "textureHash": "6564fec147ed57f785a838407727532ffb02915c6d638c108b663a6ff46212d9"
+    "textureHash": "6564fec147ed57f785a838407727532ffb02915c6d638c108b663a6ff46212d9",
+    "modder": "KDG"
   },
   "5f5547c44c01de0b85d9304d3686ba56": {
     "code": "c390",
@@ -15562,7 +15564,8 @@
     "code": "c397",
     "variant": "02",
     "created": 1592517930118,
-    "textureHash": "48e35832013ab28c09beb19f5c557f858a4c1410905622324b9324ef0f55970f"
+    "textureHash": "48e35832013ab28c09beb19f5c557f858a4c1410905622324b9324ef0f55970f",
+    "modder": "KDG"
   },
   "7af9b1a46adcdcdbc3be757de72bab14": {
     "code": "c398",
@@ -15580,7 +15583,8 @@
     "code": "c398",
     "variant": "01",
     "created": 1592517931953,
-    "textureHash": "10e6889fb7c19ab370eda4781a8d62ceabeef84a4c8f31b045fcc5dddcdc0a3f"
+    "textureHash": "10e6889fb7c19ab370eda4781a8d62ceabeef84a4c8f31b045fcc5dddcdc0a3f",
+    "modder": "KDG"
   },
   "dec484de04e6c40e98e02e5b13275f04": {
     "code": "c398",
@@ -15663,7 +15667,8 @@
     "code": "c410",
     "variant": "01",
     "created": 1592517938750,
-    "textureHash": "84a7e6f60f9636dc2516df97ed3a5b40e17e5765ad7de96529ffb6085df02e2d"
+    "textureHash": "84a7e6f60f9636dc2516df97ed3a5b40e17e5765ad7de96529ffb6085df02e2d",
+    "modder": "KDG"
   },
   "12c36fd3b9da29b9d59f8398866f70ea": {
     "code": "c410",
@@ -15675,7 +15680,8 @@
     "code": "c410",
     "variant": "02",
     "created": 1592517939603,
-    "textureHash": "e5121b26155cf223a35036f53234c889e17e5765ad7de96529ffb6085df02e2d"
+    "textureHash": "e5121b26155cf223a35036f53234c889e17e5765ad7de96529ffb6085df02e2d",
+    "modder": "KDG"
   },
   "6f261bda3decc73ce6bff4b3eaa48dc2": {
     "code": "c410",
@@ -15757,7 +15763,8 @@
     "code": "c405",
     "variant": "01",
     "created": 1592513168738,
-    "textureHash": "30d419ee7729001388bcd03de81badea"
+    "textureHash": "30d419ee7729001388bcd03de81badea",
+    "modder": "KDG"
   },
   "3b0b3d0424a88afcd8cf22fd5f479997": {
     "code": "c405",
@@ -15793,7 +15800,8 @@
     "code": "c409",
     "variant": "01",
     "created": 1592517936038,
-    "textureHash": "7983e4a1fddb378b797646900124214c"
+    "textureHash": "7983e4a1fddb378b797646900124214c",
+    "modder": "蠟燭炭"
   },
   "813d96ba98382da83352a2849ada14a1": {
     "code": "c409",
@@ -15811,19 +15819,22 @@
     "code": "c409",
     "variant": "02",
     "created": 1592517936706,
-    "textureHash": "2c2e72f97126f653731cb69c4de1e3c7"
+    "textureHash": "2c2e72f97126f653731cb69c4de1e3c7",
+    "modder": "KDG"
   },
   "aa6cb93d6cee8ba904bdb8df881125c8": {
     "code": "c409",
     "variant": "02",
     "created": 1592517937369,
-    "textureHash": "c9916f7ed4d61472014230ecd46ac30e"
+    "textureHash": "c9916f7ed4d61472014230ecd46ac30e",
+    "modder": "蠟燭炭"
   },
   "6e1950c1ab1d5d0755751b32365afba7": {
     "code": "c409",
     "variant": "02",
     "created": 1592517938022,
-    "textureHash": "9c1d321089a510ca15db275b2f757671"
+    "textureHash": "9c1d321089a510ca15db275b2f757671",
+    "modder": "244"
   },
   "72395a132e7021600d2655f4775c08d5": {
     "code": "c409",
@@ -15944,7 +15955,8 @@
     "code": "c402",
     "variant": "02",
     "created": 1592517932968,
-    "textureHash": "c8db7198f1f206325e18ff48b4ae120b"
+    "textureHash": "c8db7198f1f206325e18ff48b4ae120b",
+    "modder": "KDG"
   },
   "fb1cdf60f526aee8a8c93c306aab7f29": {
     "code": "c403",
@@ -15962,7 +15974,8 @@
     "code": "c403",
     "variant": "02",
     "created": 1592517934202,
-    "textureHash": "39f3eb22bdc30ae9653c291f56fd58b8"
+    "textureHash": "39f3eb22bdc30ae9653c291f56fd58b8",
+    "modder": "KDG"
   },
   "8e238ce2d19abf09e8164383b7c1559f": {
     "code": "c404",
@@ -16012,7 +16025,8 @@
     "code": "c414",
     "variant": "10",
     "created": 1592513170241,
-    "textureHash": "f22ef6d4221d40387c9e8df915ebddf5dac8fc6302d04abc39b3989959cd9749"
+    "textureHash": "f22ef6d4221d40387c9e8df915ebddf5dac8fc6302d04abc39b3989959cd9749",
+    "modder": "KDG"
   },
   "7e9ca41fe1456324ed402a0d61376c27": {
     "code": "c414",
@@ -16042,7 +16056,8 @@
     "code": "c414",
     "variant": "02",
     "created": 1592517941648,
-    "textureHash": "bcfbeb54603b680e30ec80ac134ad7f1d81fa245cde555d4ab5f90c2bce56807"
+    "textureHash": "bcfbeb54603b680e30ec80ac134ad7f1d81fa245cde555d4ab5f90c2bce56807",
+    "modder": "KDG"
   },
   "bbb502c5ccfa6b6f1a414a7cc929908a": {
     "code": "c414",
@@ -16072,7 +16087,8 @@
     "code": "c415",
     "variant": "02",
     "created": 1592513174939,
-    "textureHash": "f6c322b7a715a65a92a1f49187148574"
+    "textureHash": "f6c322b7a715a65a92a1f49187148574",
+    "modder": "KDG"
   },
   "8308b64beb8ab701fa588167e4e76a0f": {
     "code": "c415",
@@ -16084,7 +16100,8 @@
     "code": "c415",
     "variant": "00",
     "created": 1592513173357,
-    "textureHash": "cf4e8b68d43d8f2a6d4890a3b6735ef5"
+    "textureHash": "cf4e8b68d43d8f2a6d4890a3b6735ef5",
+    "modder": "KDG"
   },
   "d28276e4f194c764127ab6871331cde9": {
     "code": "c416",
@@ -16096,7 +16113,8 @@
     "code": "c416",
     "variant": "01",
     "created": 1592513176521,
-    "textureHash": "4093d3b0642c90a6aca442318b78b0cac36fdffaf726b0f00550d141c6db0c85"
+    "textureHash": "4093d3b0642c90a6aca442318b78b0cac36fdffaf726b0f00550d141c6db0c85",
+    "modder": "KDG"
   },
   "e6f5c1eb22d83ed4443e03bce9d79caf": {
     "code": "c416",
@@ -16150,13 +16168,15 @@
     "code": "c417",
     "variant": "01",
     "created": 1592513181751,
-    "textureHash": "4fe41295d5ed4d99e98bb1d11dce8aae"
+    "textureHash": "4fe41295d5ed4d99e98bb1d11dce8aae",
+    "modder": "Heather"
   },
   "4c0beef883ff1ecbf1ccf8f0b3b2e46f": {
     "code": "c417",
     "variant": "01",
     "created": 1592513183530,
-    "textureHash": "48a1e31b9d3b4f8384ed517aee2e7635"
+    "textureHash": "48a1e31b9d3b4f8384ed517aee2e7635",
+    "modder": "KDG"
   },
   "e04ae7f7aee7d8ff7f3b035f7f2f1131": {
     "code": "c417",
@@ -16198,19 +16218,22 @@
     "code": "c417",
     "variant": "00",
     "created": 1592450229799,
-    "textureHash": "be1fa2a89d5b3048037caaa15e7b1053"
+    "textureHash": "be1fa2a89d5b3048037caaa15e7b1053",
+    "modder": "Heather"
   },
   "ace80863c35e6a3f1f4340f80ee92d9c": {
     "code": "c417",
     "variant": "00",
     "created": 1592513178563,
-    "textureHash": "eeca1b709b5d7e042361ef0e85bff74f"
+    "textureHash": "eeca1b709b5d7e042361ef0e85bff74f",
+    "modder": "Heather"
   },
   "4152f908bb8a40c2923de76c67b4e189": {
     "code": "c417",
     "variant": "00",
     "created": 1592513179823,
-    "textureHash": "edb16fe5e98cb41998cfd36280ea9997"
+    "textureHash": "edb16fe5e98cb41998cfd36280ea9997",
+    "modder": "Heather"
   },
   "af7e14b46af265a505de983aca409785": {
     "code": "c418",
@@ -16252,7 +16275,8 @@
     "code": "c419",
     "variant": "01",
     "created": 1592513194639,
-    "textureHash": "8c1e3a568a693ac63dcbbe841d2065c5"
+    "textureHash": "8c1e3a568a693ac63dcbbe841d2065c5",
+    "modder": "KDG"
   },
   "908a445150fb60e13d73ab2275880056": {
     "code": "c419",
@@ -16276,7 +16300,8 @@
     "code": "c420",
     "variant": "10",
     "created": 1592513196847,
-    "textureHash": "75c8bc4009b011837c3fc31e186fff5ec3dbf40b6e610afa1fc6d13be6a47ca0"
+    "textureHash": "75c8bc4009b011837c3fc31e186fff5ec3dbf40b6e610afa1fc6d13be6a47ca0",
+    "modder": "KDG"
   },
   "e1010758d4cb58b62186b5013d661f1f": {
     "code": "c420",
@@ -16288,7 +16313,8 @@
     "code": "c420",
     "variant": "89",
     "created": 1592513198382,
-    "textureHash": "75c8bc4009b011837c3fc31e186fff5ec3dbf40b6e610afa1fc6d13be6a47ca0"
+    "textureHash": "75c8bc4009b011837c3fc31e186fff5ec3dbf40b6e610afa1fc6d13be6a47ca0",
+    "modder": "KDG"
   },
   "3e95a15b7df1da070f05f6895998e3ba": {
     "code": "c420",
@@ -16300,13 +16326,15 @@
     "code": "c420",
     "variant": "01",
     "created": 1592513195847,
-    "textureHash": "a6ee1d0bc63108035683513d07f0f518"
+    "textureHash": "a6ee1d0bc63108035683513d07f0f518",
+    "modder": "KDG"
   },
   "7501cc60c2806424c4137c6c6417d9e9": {
     "code": "c420",
     "variant": "01",
     "created": 1592577601333,
-    "textureHash": "955ff12197ff7052434df7c2b6df925b"
+    "textureHash": "955ff12197ff7052434df7c2b6df925b",
+    "modder": "KDG"
   },
   "a75c0f58d65e3315f7f6c1f82e6854de": {
     "code": "c420",
@@ -16324,7 +16352,8 @@
     "code": "c421",
     "variant": "01",
     "created": 1592513199343,
-    "textureHash": "90823ffcfc395e85d8f5143d15ced1e5"
+    "textureHash": "90823ffcfc395e85d8f5143d15ced1e5",
+    "modder": "KDG"
   },
   "4b81f39ecfd41df7083ccc33cac43bfe": {
     "code": "c421",
@@ -16342,7 +16371,8 @@
     "code": "c421",
     "variant": "02",
     "created": 1592513201182,
-    "textureHash": "ca45776583aa41165aa16b80558a111c05a5cfa429f667f2a17cc0c17577f1f5"
+    "textureHash": "ca45776583aa41165aa16b80558a111c05a5cfa429f667f2a17cc0c17577f1f5",
+    "modder": "KDG"
   },
   "48e4bf14026370eef3760bf421c9b37d": {
     "code": "c423",
@@ -16354,7 +16384,8 @@
     "code": "c423",
     "variant": "01",
     "created": 1592513202143,
-    "textureHash": "d25c70b9b00f36d040a236cb0d0b38fd"
+    "textureHash": "d25c70b9b00f36d040a236cb0d0b38fd",
+    "modder": "KDG"
   },
   "0a4c1eefef5f122b14addb821e4a8a32": {
     "code": "c423",
@@ -24430,7 +24461,8 @@
     "code": "c417",
     "variant": "02",
     "created": 1595596594218,
-    "textureHash": "745a01286402828487e3e2ab04af7b712566aff4f6ba3e6e39979a9bb42521f0"
+    "textureHash": "745a01286402828487e3e2ab04af7b712566aff4f6ba3e6e39979a9bb42521f0",
+    "modder": "Kalaratri"
   },
   "351e52fd0c996f70be9332072c0188f2": {
     "code": "c424",
@@ -24499,13 +24531,15 @@
     "code": "c418",
     "variant": "01",
     "created": 1595675947123,
-    "textureHash": "a448b92ddfb165a83ee890a8137875e17a2f1d21e728e07b98243b9eaae1e27a"
+    "textureHash": "a448b92ddfb165a83ee890a8137875e17a2f1d21e728e07b98243b9eaae1e27a",
+    "modder": "Kalaratri"
   },
   "393d3e9d35e82affd9c36a77751030fd": {
     "code": "c418",
     "variant": "02",
     "created": 1595675948157,
-    "textureHash": "e7828bf263b38fdf280a8c15f8ab1e147a2f1d21e728e07b98243b9eaae1e27a"
+    "textureHash": "e7828bf263b38fdf280a8c15f8ab1e147a2f1d21e728e07b98243b9eaae1e27a",
+    "modder": "Kalaratri"
   },
   "ece34368f60a4412702d02b4d8d9b5b4": {
     "code": "c448",
@@ -24568,7 +24602,8 @@
     "code": "c414",
     "variant": "10",
     "created": 1595879782962,
-    "textureHash": "f22ef6d4221d40387c9e8df915ebddf5fd95397ac06e5453f50415a952f5e092"
+    "textureHash": "f22ef6d4221d40387c9e8df915ebddf5fd95397ac06e5453f50415a952f5e092",
+    "modder": "KDG"
   },
   "7c57ada02ac12048455d1eeb99769ee5": {
     "code": "c414",
