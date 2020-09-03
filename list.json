@@ -1,24 +1,5 @@
 {
   "name": "imported pcks",
   "description": "",
-  "mods": {
-    "c417_00": {
-      "hash": "22f310cdad5322437fca3ea970e09366"
-    },
-    "c417_01": {
-      "hash": "84c9f7c4f76329a51067557d3bc17b6d"
-    },
-    "c417_02": {
-      "hash": "ada0436f742f12f03234599c71acb230"
-    },
-    "c417_89": {
-      "hash": "fecbc6b43b2557a1930dd1700adddeb6"
-    },
-    "c418_01": {
-      "hash": "663373f17b4a7057e55a752105483198"
-    },
-    "c418_02": {
-      "hash": "fc099bf8a7bb1d0f16ecb1644085ff6b"
-    }
-  }
+  "mods": {}
 }
