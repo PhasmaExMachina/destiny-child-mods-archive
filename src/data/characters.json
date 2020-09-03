@@ -26764,7 +26764,8 @@
           "1d2dec8be177e5ff3aae07bd4bf2eefd",
           "fc099bf8a7bb1d0f16ecb1644085ff6b",
           "393d3e9d35e82affd9c36a77751030fd",
-          "4d2171da45a2edfda1bcd5cd848caac9"
+          "4d2171da45a2edfda1bcd5cd848caac9",
+          "edb8a20ecc03efceed5a28d952d1fe12"
         ],
         "regions": [
           "kr",
@@ -26774,7 +26775,7 @@
       }
     },
     "id": "10200253",
-    "numMods": 12,
+    "numMods": 13,
     "regions": [
       "kr",
       "jp",
@@ -41676,7 +41677,8 @@
     "variants": {
       "01": {
         "mods": [
-          "7af52e8f9bae7ee0e03b822ede2da9e4"
+          "7af52e8f9bae7ee0e03b822ede2da9e4",
+          "57b1af77fcb5ebc3d34d52eb8baad2c1"
         ],
         "regions": [
           "kr",
@@ -41685,7 +41687,7 @@
         ]
       }
     },
-    "numMods": 1,
+    "numMods": 2,
     "code": "sc418",
     "regions": [
       "kr",

@@ -25931,5 +25931,19 @@
     "textureHash": "a59762784c78992917f213ec5d4b22e67a2f1d21e728e07b98243b9eaae1e27a",
     "modder": "Loki",
     "usingAssetsBy": "?"
+  },
+  "edb8a20ecc03efceed5a28d952d1fe12": {
+    "code": "c418",
+    "variant": "02",
+    "created": 1599096559779,
+    "textureHash": "7796b27926ac45dcf96ccff0d53b00597a2f1d21e728e07b98243b9eaae1e27a",
+    "modder": "csc unit"
+  },
+  "57b1af77fcb5ebc3d34d52eb8baad2c1": {
+    "code": "sc418",
+    "variant": "01",
+    "created": 1599096561388,
+    "textureHash": "a0abc8b902e4925de54aba25407ddcbd",
+    "modder": "csc unit"
   }
 }
