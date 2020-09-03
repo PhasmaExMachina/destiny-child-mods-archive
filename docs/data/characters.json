@@ -18838,7 +18838,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "02": {
@@ -18852,7 +18853,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "00": {
@@ -18862,7 +18864,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -18871,7 +18874,8 @@
     "numMods": 4,
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "c283": {
@@ -37124,7 +37128,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       },
       "01": {
@@ -37133,7 +37138,8 @@
         ],
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ]
       }
     },
@@ -37141,7 +37147,8 @@
     "code": "c302",
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ]
   },
   "c314": {
@@ -44869,27 +44876,31 @@
     "code": "sc281",
     "regions": [
       "kr",
-      "jp"
+      "jp",
+      "global"
     ],
     "variants": {
       "01": {
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ],
         "mods": []
       },
       "02": {
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ],
         "mods": []
       },
       "03": {
         "regions": [
           "kr",
-          "jp"
+          "jp",
+          "global"
         ],
         "mods": []
       }
