@@ -25995,5 +25995,27 @@
     "created": 1599150988047,
     "textureHash": "5951c522aff6697fc21d67e7f47f18def23f64b664c1907c2274bdc32ba0b291",
     "modder": "Kalaratri"
+  },
+  "a4e10ec3c1bf0caf9f6ab6afdbfa73c5": {
+    "code": "c460",
+    "variant": "02",
+    "created": 1599238858139,
+    "textureHash": "1c32bf87dcbd73dd10975e954aaa97c0f23f64b664c1907c2274bdc32ba0b291",
+    "modder": "AyasArt",
+    "usingAssetsBy": "Kalaratri"
+  },
+  "48c6411fa5600635e51136d9297afc37": {
+    "code": "c460",
+    "variant": "02",
+    "created": 1599239386804,
+    "textureHash": "c68c7684f0ceeca988358cbb169bfd31f23f64b664c1907c2274bdc32ba0b291",
+    "modder": "Kalaratri"
+  },
+  "efca1948034d0b4106375082fae5a9a1": {
+    "code": "c460",
+    "variant": "88",
+    "created": 1599239387362,
+    "textureHash": "c68c7684f0ceeca988358cbb169bfd31f23f64b664c1907c2274bdc32ba0b291",
+    "modder": "Kalaratri"
   }
 }

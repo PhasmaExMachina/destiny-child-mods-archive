@@ -348,9 +348,14 @@
       "7dbb3ca768070560c6257a4d3270c00c",
       "4fb3aa4fff46dd6f1f98b47f97da18bd",
       "ed65e889f8b37e7bcb18c8510ba8a774",
-      "dfc94198fef44b5e4e8a34cbe1a881e7"
+      "efca1948034d0b4106375082fae5a9a1",
+      "dfc94198fef44b5e4e8a34cbe1a881e7",
+      "48c6411fa5600635e51136d9297afc37"
     ],
-    "profile": ""
+    "profile": "",
+    "modsUsingAssets": [
+      "a4e10ec3c1bf0caf9f6ab6afdbfa73c5"
+    ]
   },
   "Enn": {
     "mods": [
@@ -1195,6 +1200,12 @@
       "3c29e695f78d58d5f46663e7823384e0",
       "9da9fb0c543a6e44779c320c76581ab7",
       "a5eab7556e034437911f76f4519c568b"
+    ],
+    "profile": ""
+  },
+  "AyasArt": {
+    "mods": [
+      "a4e10ec3c1bf0caf9f6ab6afdbfa73c5"
     ],
     "profile": ""
   }
