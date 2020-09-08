@@ -403,6 +403,7 @@
   },
   "Loki": {
     "mods": [
+      "8336376a4a69e0eaeeb2546818808382",
       "b137bf1b203ccbfb3ea12bde7daa8297",
       "5288b0fa040f7de8380dbeeb7e10ae55",
       "08c7f11c58130c022bdcfb0e4cb8a18c",
@@ -479,7 +480,8 @@
       "bad8a561f28d6db4ea8809e16401c048",
       "e29cb6b2dfa9899bad18ec9c26293783",
       "cc92e2502a2c62db2685e3a632de8bb1",
-      "4d2171da45a2edfda1bcd5cd848caac9"
+      "4d2171da45a2edfda1bcd5cd848caac9",
+      "8336376a4a69e0eaeeb2546818808382"
     ],
     "profile": ""
   },

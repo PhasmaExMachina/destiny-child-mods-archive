@@ -23183,7 +23183,9 @@
     "code": "c001",
     "variant": "14",
     "created": 1593385867745,
-    "textureHash": "c3d0ef76614c3da92d6623c314472b02bfb6349ebde257920a02d2650b9813d1"
+    "textureHash": "c3d0ef76614c3da92d6623c314472b02bfb6349ebde257920a02d2650b9813d1",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   },
   "ea1b9f7220e55c5851801247a0787680": {
     "code": "c005",
