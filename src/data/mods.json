@@ -26027,5 +26027,20 @@
     "textureHash": "3227adf54434499291bc0541d9b27bd6",
     "modder": "Loki",
     "usingAssetsBy": "Bugs Bunnay"
+  },
+  "45307154a9995e9fb6ee2a830b95e211": {
+    "code": "c011",
+    "variant": "00",
+    "created": 1599594012164,
+    "textureHash": "1570ce5af84b3aff98ab6f00c6e2a9c1",
+    "modder": "Loki"
+  },
+  "ea7c48366403f295126d32badc3ad3ca": {
+    "code": "c011",
+    "variant": "00",
+    "created": 1599594807189,
+    "textureHash": "0e2060dc1f8ffdad3726495d7a8b5854",
+    "modder": "Loki",
+    "usingAssetsBy": "?"
   }
 }

@@ -1037,7 +1037,9 @@
           "2f5a655ac0ca83ada6e3e927487544a9",
           "1a34c2c799bce5688457370b7dc4d5a4",
           "de7f9bf612a289bb3946b682e229252c",
-          "f6efe32293ef576db162650e355568f1"
+          "f6efe32293ef576db162650e355568f1",
+          "45307154a9995e9fb6ee2a830b95e211",
+          "ea7c48366403f295126d32badc3ad3ca"
         ],
         "regions": [
           "global",
@@ -1065,7 +1067,7 @@
     "image2": "http://i.imgur.com/8tJNvjq.png",
     "image3": "http://i.imgur.com/qgzhNit.png",
     "imageSkin": null,
-    "numMods": 8,
+    "numMods": 10,
     "regions": [
       "global",
       "kr",
