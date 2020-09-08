@@ -26019,5 +26019,13 @@
     "created": 1599239387362,
     "textureHash": "c68c7684f0ceeca988358cbb169bfd31f23f64b664c1907c2274bdc32ba0b291",
     "modder": "Kalaratri"
+  },
+  "e0a558e8b8f8fe599cdcb0092700d587": {
+    "code": "c010",
+    "variant": "02",
+    "created": 1599591695949,
+    "textureHash": "3227adf54434499291bc0541d9b27bd6",
+    "modder": "Loki",
+    "usingAssetsBy": "Bugs Bunnay"
   }
 }
