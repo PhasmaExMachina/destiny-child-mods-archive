@@ -4728,7 +4728,8 @@
         "mods": [
           "dc5492eb4420769564db152dba861493",
           "3780cdcdb5f441ac428139ae7de5c559",
-          "0cb389f407de16511d480207ca234652"
+          "0cb389f407de16511d480207ca234652",
+          "e2a8369bae20d85abb2487cfe30dbd3c"
         ],
         "regions": [
           "kr",
@@ -4774,7 +4775,7 @@
     "image2": "http://i.imgur.com/Jo40oEZ.png",
     "image3": "http://i.imgur.com/rDnqrA7.png",
     "imageSkin": null,
-    "numMods": 14,
+    "numMods": 15,
     "regions": [
       "kr",
       "jp"
