@@ -26042,5 +26042,26 @@
     "textureHash": "0e2060dc1f8ffdad3726495d7a8b5854",
     "modder": "Loki",
     "usingAssetsBy": "?"
+  },
+  "650bac66ea6cc816b0e7920238b523e6": {
+    "code": "c238",
+    "variant": "02",
+    "created": 1600707390098,
+    "textureHash": "eff6296038999b94a847f9d15852d0d9",
+    "modder": "csc unit"
+  },
+  "7a179bd98936c21d365d367c9ae7e86c": {
+    "code": "c287",
+    "variant": "02",
+    "created": 1600707390797,
+    "textureHash": "4a4be72159d2abc6e489c3dc0be8344c73cff335261dd615cb9037420de345e6",
+    "modder": "csc unit"
+  },
+  "e2a8369bae20d85abb2487cfe30dbd3c": {
+    "code": "c064",
+    "variant": "01",
+    "created": 1600707585523,
+    "textureHash": "6e28b2ac54a67c859a7617aee2cd0986",
+    "modder": "Duck"
   }
 }

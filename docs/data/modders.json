@@ -25,8 +25,10 @@
       "f555218b97d405e0ad38bde0c13f5cf0",
       "b5e4862e171740a109e59f9ef2bd5141",
       "bebe625b0dd1cea6ca09d382068d25ac",
+      "650bac66ea6cc816b0e7920238b523e6",
       "d515151879fdd6db4af1a5d3e8b2da5f",
       "fbc22f8528da27260daa70e1b3eda822",
+      "7a179bd98936c21d365d367c9ae7e86c",
       "5eb2db70de81e935990e69daf43ad45f",
       "bb114d50fae3e2514858b8f51a092052",
       "5c92276df709b7a773191e5c3d8d7d99",
@@ -1213,6 +1215,12 @@
   "AyasArt": {
     "mods": [
       "a4e10ec3c1bf0caf9f6ab6afdbfa73c5"
+    ],
+    "profile": ""
+  },
+  "Duck": {
+    "mods": [
+      "e2a8369bae20d85abb2487cfe30dbd3c"
     ],
     "profile": ""
   }
