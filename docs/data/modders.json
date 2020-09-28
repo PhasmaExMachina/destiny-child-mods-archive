@@ -36,6 +36,7 @@
       "0d23aa2f3150c928354295be5cab6279",
       "2d4b1d35674f876a9ebac53f239a2da6",
       "20d2eb5b5b6eab2c4950979fb97e7b64",
+      "2d780aa08396abe96667d377592b5d46",
       "e8e18476fc8eec51cd60c1795632f5f9",
       "882568f28fe4f0db5eb48379b5e72639",
       "5731b4779ccd9ed28ee46d6ebeddce6c",
@@ -1220,7 +1221,11 @@
   },
   "Duck": {
     "mods": [
-      "e2a8369bae20d85abb2487cfe30dbd3c"
+      "e2a8369bae20d85abb2487cfe30dbd3c",
+      "7f540a3fc0b926d83ad057064b46adb0",
+      "d12ca9209f2bf5a17fab36364046afb5",
+      "abde10aaf85b7576cc90aa3db7e2f3b9",
+      "3a688d3e0ea9115fce99ac9e1f3883e8"
     ],
     "profile": ""
   }

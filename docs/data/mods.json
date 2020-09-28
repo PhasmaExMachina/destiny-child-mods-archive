@@ -26063,5 +26063,40 @@
     "created": 1600707585523,
     "textureHash": "6e28b2ac54a67c859a7617aee2cd0986",
     "modder": "Duck"
+  },
+  "2d780aa08396abe96667d377592b5d46": {
+    "code": "c350",
+    "variant": "02",
+    "created": 1601298938981,
+    "textureHash": "db1f52255de7ea4c6feb4d78241be08b",
+    "modder": "csc unit"
+  },
+  "7f540a3fc0b926d83ad057064b46adb0": {
+    "code": "c196",
+    "variant": "01",
+    "created": 1601299554820,
+    "textureHash": "ced3b4b2d3bb84b47ccd7cf519470984",
+    "modder": "Duck"
+  },
+  "d12ca9209f2bf5a17fab36364046afb5": {
+    "code": "c196",
+    "variant": "01",
+    "created": 1601299555201,
+    "textureHash": "310755bb81d7eff60bf244423a41148f",
+    "modder": "Duck"
+  },
+  "abde10aaf85b7576cc90aa3db7e2f3b9": {
+    "code": "c262",
+    "variant": "01",
+    "created": 1601299555579,
+    "textureHash": "a1dbbd06aa85e4a2abc27fa54f8c4439",
+    "modder": "Duck"
+  },
+  "3a688d3e0ea9115fce99ac9e1f3883e8": {
+    "code": "c354",
+    "variant": "01",
+    "created": 1601299555992,
+    "textureHash": "c2d65457822c7e39552f78ac147a68192eddbb17ca5f218d4d49bc4ed0f53e27",
+    "modder": "Duck"
   }
 }

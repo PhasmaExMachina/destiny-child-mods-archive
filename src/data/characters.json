@@ -14995,7 +14995,9 @@
         "mods": [
           "5f30a223a76c967ec52f3dd963a6787d",
           "bc9b278a7930bac5c06e699e04b2a483",
-          "95678773750033853a5897dd9e48a57d"
+          "95678773750033853a5897dd9e48a57d",
+          "7f540a3fc0b926d83ad057064b46adb0",
+          "d12ca9209f2bf5a17fab36364046afb5"
         ],
         "regions": [
           "global",
@@ -15061,7 +15063,7 @@
     "image2": "http://i.imgur.com/0j1tEJy.png",
     "image3": "http://i.imgur.com/YhuZI2P.png",
     "imageSkin": null,
-    "numMods": 11,
+    "numMods": 13,
     "regions": [
       "global",
       "kr",
@@ -17982,7 +17984,8 @@
         "title": "Knight",
         "mods": [
           "6653d6e1b1a9408d74f66eada1baf738",
-          "88a5793e1adeb29ae173302b99be4732"
+          "88a5793e1adeb29ae173302b99be4732",
+          "abde10aaf85b7576cc90aa3db7e2f3b9"
         ],
         "regions": [
           "global",
@@ -18029,7 +18032,7 @@
     "image2": "http://i.imgur.com/2348KY8.png",
     "image3": "http://i.imgur.com/L5UbFrS.png",
     "imageSkin": null,
-    "numMods": 11,
+    "numMods": 12,
     "regions": [
       "global",
       "kr",
@@ -21944,7 +21947,8 @@
         "title": "Pure Smile",
         "mods": [
           "4063dc9e0e7b88c0889262f551c63769",
-          "1b85731d2c3714f188cb6624ec4287ee"
+          "1b85731d2c3714f188cb6624ec4287ee",
+          "2d780aa08396abe96667d377592b5d46"
         ],
         "regions": [
           "global",
@@ -21972,7 +21976,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 7,
+    "numMods": 8,
     "regions": [
       "global",
       "kr",
@@ -22981,7 +22985,8 @@
         "title": "Needfire",
         "mods": [
           "4dd10be18f601028609d294749155b81",
-          "01f66957b85bce67c42e4ae746196794"
+          "01f66957b85bce67c42e4ae746196794",
+          "3a688d3e0ea9115fce99ac9e1f3883e8"
         ],
         "regions": [
           "global",
@@ -23026,7 +23031,7 @@
     "image2": null,
     "image3": null,
     "imageSkin": null,
-    "numMods": 12,
+    "numMods": 13,
     "regions": [
       "global",
       "kr",
