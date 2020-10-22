@@ -24331,13 +24331,15 @@
     "code": "c378",
     "variant": "00",
     "created": 1595473182308,
-    "textureHash": "90512183f41e9f95e82d2cfc61e45334"
+    "textureHash": "90512183f41e9f95e82d2cfc61e45334",
+    "modder": "fondly"
   },
   "99813f7208340de8295caed9fef27c39": {
     "code": "c410",
     "variant": "00",
     "created": 1595473182881,
-    "textureHash": "c91a79ee26199bf578cc430f1b9085c6"
+    "textureHash": "c91a79ee26199bf578cc430f1b9085c6",
+    "modder": "fondly"
   },
   "cfc6bb8e178a1e17704bf6ba6d56929c": {
     "code": "c414",
