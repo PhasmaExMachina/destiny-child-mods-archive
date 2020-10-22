@@ -24275,115 +24275,134 @@
     "code": "c316",
     "variant": "00",
     "created": 1595473177015,
-    "textureHash": "c342619fa6df504a36484b5fa5afb319"
+    "textureHash": "c342619fa6df504a36484b5fa5afb319",
+    "modder": "fondly"
   },
   "36c6c4f67f4fe715825d612baef81e8b": {
     "code": "c320",
     "variant": "00",
     "created": 1595473177623,
-    "textureHash": "489dc1dc5b38a51ab9323fd827b7244f"
+    "textureHash": "489dc1dc5b38a51ab9323fd827b7244f",
+    "modder": "fondly"
   },
   "48898809e403c249def864b9e303a8b1": {
     "code": "c333",
     "variant": "00",
     "created": 1595473178197,
-    "textureHash": "1939f370b8ca73c79849910d23a642f8"
+    "textureHash": "1939f370b8ca73c79849910d23a642f8",
+    "modder": "fondly"
   },
   "9b31f89933e8eaf56e116913f8e3c1cd": {
     "code": "c348",
     "variant": "00",
     "created": 1595473178987,
-    "textureHash": "b1b8fb76924699a43f91ce53227ba384"
+    "textureHash": "b1b8fb76924699a43f91ce53227ba384",
+    "modder": "fondly"
   },
   "9513a5d10c0cb70dacbddfd56454987d": {
     "code": "c349",
     "variant": "00",
     "created": 1595473179890,
-    "textureHash": "da211174a358e56427a57082f117bcfd"
+    "textureHash": "da211174a358e56427a57082f117bcfd",
+    "modder": "fondly"
   },
   "059e57873d3379a24057ff471cfd17bf": {
     "code": "c351",
     "variant": "00",
     "created": 1595473180507,
-    "textureHash": "c7c584f5936030f3ce9bc8de79002968"
+    "textureHash": "c7c584f5936030f3ce9bc8de79002968",
+    "modder": "fondly"
   },
   "35e4203aba32cb4f3e8999309b6da726": {
     "code": "c353",
     "variant": "00",
     "created": 1595473181110,
-    "textureHash": "f9f4aaa35a3a24074165b3bc27972392"
+    "textureHash": "f9f4aaa35a3a24074165b3bc27972392",
+    "modder": "fondly"
   },
   "435e106d54faace3f905c8f78221c381": {
     "code": "c377",
     "variant": "00",
     "created": 1595473181655,
-    "textureHash": "ad187d8924235772b2e5bef2f08ac039"
+    "textureHash": "ad187d8924235772b2e5bef2f08ac039",
+    "modder": "fondly"
   },
   "229428ccd6c7731103d77c30f3fbf9ca": {
     "code": "c378",
     "variant": "00",
     "created": 1595473182308,
-    "textureHash": "90512183f41e9f95e82d2cfc61e45334"
+    "textureHash": "90512183f41e9f95e82d2cfc61e45334",
+    "modder": "fondly"
   },
   "99813f7208340de8295caed9fef27c39": {
     "code": "c410",
     "variant": "00",
     "created": 1595473182881,
-    "textureHash": "c91a79ee26199bf578cc430f1b9085c6"
+    "textureHash": "c91a79ee26199bf578cc430f1b9085c6",
+    "modder": "fondly"
   },
   "cfc6bb8e178a1e17704bf6ba6d56929c": {
     "code": "c414",
     "variant": "00",
     "created": 1595473183522,
-    "textureHash": "81b5d206a5b32748214dcc17455f92f4"
+    "textureHash": "81b5d206a5b32748214dcc17455f92f4",
+    "modder": "fondly"
   },
   "b5e7b6181c201d97c697498bbb9957e4": {
     "code": "c415",
     "variant": "00",
     "created": 1595473184107,
-    "textureHash": "cd4f176ae0df98d556f4a08948da6a3e"
+    "textureHash": "cd4f176ae0df98d556f4a08948da6a3e",
+    "modder": "fondly"
   },
   "c9e93345848b42bcd21a108ab59e8d07": {
     "code": "c416",
     "variant": "00",
     "created": 1595473184717,
-    "textureHash": "56df4e8f5ca056a75cc395f8326bbac9"
+    "textureHash": "56df4e8f5ca056a75cc395f8326bbac9",
+    "modder": "fondly"
   },
   "183e55c8f94846f6f6e12a2285783bc5": {
     "code": "c426",
     "variant": "00",
     "created": 1595473185443,
-    "textureHash": "d5eef64513bbd6cb4b92e9b8f584d470"
+    "textureHash": "d5eef64513bbd6cb4b92e9b8f584d470",
+    "modder": "fondly"
   },
   "58942f685db915aa3f77ad0ef3d781ce": {
     "code": "c429",
     "variant": "00",
     "created": 1595473186241,
-    "textureHash": "4d4680418a472aeccd9523b0b2db40f1"
+    "textureHash": "4d4680418a472aeccd9523b0b2db40f1",
+    "modder": "fondly"
   },
   "0ef024f49832636b948fd3e312c845c8": {
     "code": "c430",
     "variant": "00",
     "created": 1595473186933,
-    "textureHash": "b274d6821886c6a8872047b2a8647b2f"
+    "textureHash": "b274d6821886c6a8872047b2a8647b2f",
+    "modder": "fondly"
   },
   "cf0bc086b520335a130cb60b956144cd": {
     "code": "c442",
     "variant": "00",
     "created": 1595473187611,
-    "textureHash": "389d06502959a995c969a353ff9ab3d1"
+    "textureHash": "389d06502959a995c969a353ff9ab3d1",
+    "modder": "fondly"
   },
   "04cbed8b175a2d2dcee9d35e61a478e4": {
     "code": "c447",
     "variant": "01",
     "created": 1595473188415,
-    "textureHash": "fbc40d379d803a416516a47eced9ae0b3d18321ae67560b39a8610c386cee878"
+    "textureHash": "fbc40d379d803a416516a47eced9ae0b3d18321ae67560b39a8610c386cee878",
+    "modder": "fondly"
   },
   "8cb06a83db4ac588a4e22544bb78f802": {
     "code": "c448",
     "variant": "00",
     "created": 1595473189034,
-    "textureHash": "1f3c358322886aeea9c0511fbdef5826"
+    "textureHash": "1f3c358322886aeea9c0511fbdef5826",
+    "modder": "fondly"
   },
   "e52277b29aeecc66f7a64ab7b5f57982": {
     "code": "c139",
